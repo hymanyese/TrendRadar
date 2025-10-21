@@ -1,11 +1,254 @@
 {
-  "generated_at": "2025-10-22T00:57:20.359964+08:00",
-  "total_titles_processed": 340,
+  "generated_at": "2025-10-22T01:21:18.142442+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普 马斯克",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "特朗普称将于明年初访华，外交部回应",
+          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "特朗普：很快将访问日本",
+          "url": "https://news.ifeng.com/c/8ndC4A073jf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于明年访华",
+          "url": "https://www.toutiao.com/trending/7563338600507768851/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "美国总统特朗普：（在本轮政府关门期间）被关闭的那些民主党物业永远都不会重新开放。 可能会与民主党讨论纽约市的那些基建项目。",
+          "url": "https://wallstreetcn.com/livenews/2991361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "特朗普暗示将承诺反对台独",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E5%B0%86%E6%89%BF%E8%AF%BA%E5%8F%8D%E5%AF%B9%E5%8F%B0%E7%8B%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D10%26stream_entry_id%3D31%26flag%3D0%26realpos%3D10%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D10%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%259A%2597%25E7%25A4%25BA%25E5%25B0%2586%25E6%2589%25BF%25E8%25AF%25BA%25E5%258F%258D%25E5%25AF%25B9%25E5%258F%25B0%25E7%258B%25AC%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1761064178%26pre_seqid%3D17610641783920146795239",
+          "source": "微博",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "马斯克转发浏阳无人机烟花秀新闻",
+          "url": "https://www.toutiao.com/trending/7563531261148168255/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "特朗普开飞机泼粪,美国再次味大",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "美国总统特朗普：我希望（只有）一家公司竞标联邦航空管理局（FAA）的现代化。 （目前）有三家公司竞标空中交通管控系统。",
+          "url": "https://wallstreetcn.com/livenews/2991360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以开始用关税来偿还债务。",
+          "url": "https://flash.jin10.com/detail/20251022003806338800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时21分]"
+        },
+        {
+          "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
+          "url": "https://wallstreetcn.com/articles/3757574",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "Cargill Inc.（嘉吉）利润在第一财季增长86%，美国总统特朗普的税收法案带来支持。",
+          "url": "https://wallstreetcn.com/livenews/2991340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "哥伦比亚美元债券价格上涨，至少创一个月新高。 哥伦比亚比索兑美元跌向3885比索下方的平盘，北京时间22:05还曾涨至3858.49比索。 此前，哥伦比亚政府召见驻该国Bogota的大使，讨论特朗普政府与其之间发生的外交危机。",
+          "url": "https://wallstreetcn.com/livenews/2991337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "评论员：泽连斯基再度被特朗普侮辱",
+          "url": "https://www.toutiao.com/trending/7563610173114158601/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 00时57分]"
+        },
+        {
+          "title": "美国总统特朗普：舒默和激进左翼分子挟持政府。",
+          "url": "https://flash.jin10.com/detail/20251022005531621800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国总统特朗普：到年底前，美国将迎来20万亿美元的投资。",
+          "url": "https://flash.jin10.com/detail/20251022005125520800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "特朗普政府将回填战略石油储备，美国油价昨日创五个月新低",
+          "url": "https://wallstreetcn.com/livenews/2991351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "美国总统特朗普：已经扑灭八场战争，正在处理第九个。",
+          "url": "https://wallstreetcn.com/livenews/2991348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "特朗普政府拟利用油价低位时机回补100万桶战略石油储备",
+          "url": "https://flash.jin10.com/detail/20251022004643324800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "富国银行首席执行官：与特朗普政府的对话重点是经济增长，而非放松监管。",
+          "url": "https://flash.jin10.com/detail/20251022004311706800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中国 军事",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -15,8 +258,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
         },
         {
           "title": "从前三季度成绩单看中国经济发力点",
@@ -26,8 +269,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
         },
         {
           "title": "美国针对中国合作方出台签证限制 外交部回应",
@@ -37,8 +280,77 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "杜克一哥14天中国行结束",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%8B%E4%B8%80%E5%93%A514%E5%A4%A9%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%BB%93%E6%9D%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            18,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "【社论】“全球最快高铁”见证中国速度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31818738",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "NASA局长：就你这进度，怎么抢在中国前面",
+          "url": "https://news.ifeng.com/c/8ndFXmlqTVV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "“韩国十年前还第一，已被中国反超两倍多”",
+          "url": "https://news.ifeng.com/c/8ndMNxDqEcO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "郑丽文“我是中国人”打脸绿营洗脑",
+          "url": "https://news.ifeng.com/c/8ndRB3VMPVR",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "韩国大火中国妈妈隔窗送出孩子后坠亡",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E5%A4%A7%E7%81%AB%E4%B8%AD%E5%9B%BD%E5%A6%88%E5%A6%88%E9%9A%94%E7%AA%97%E9%80%81%E5%87%BA%E5%AD%A9%E5%AD%90%E5%90%8E%E5%9D%A0%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D16%26stream_entry_id%3D31%26flag%3D0%26realpos%3D16%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D16%26cate%3D5001%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E5%25A4%25A7%25E7%2581%25AB%25E4%25B8%25AD%25E5%259B%25BD%25E5%25A6%2588%25E5%25A6%2588%25E9%259A%2594%25E7%25AA%2597%25E9%2580%2581%25E5%2587%25BA%25E5%25AD%25A9%25E5%25AD%2590%25E5%2590%258E%25E5%259D%25A0%25E4%25BA%25A1%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1761064178%26pre_seqid%3D17610641783920146795239",
+          "source": "微博",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
         },
         {
           "title": "欧莱雅：第三季度营收103.3亿欧元，按固定汇率计算增长4.2%（市场普遍预期4.9%）。前9个月在中国大陆实现个位数低速增长。",
@@ -53,72 +365,15 @@
           "time_info": "[00时30分 ~ 00时57分]"
         },
         {
-          "title": "【社论】“全球最快高铁”见证中国速度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818738",
-          "source": "澎湃新闻",
+          "title": "四季度买银行股？大摩：首次无大规模刺激的“自然周期性触底”，中国银行业进入新时代",
+          "url": "https://wallstreetcn.com/articles/3757529",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "NASA局长：就你这进度，怎么抢在中国前面",
-          "url": "https://news.ifeng.com/c/8ndFXmlqTVV",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "“韩国十年前还第一，已被中国反超两倍多”",
-          "url": "https://news.ifeng.com/c/8ndMNxDqEcO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "郑丽文“我是中国人”打脸绿营洗脑",
-          "url": "https://news.ifeng.com/c/8ndRB3VMPVR",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "杜克一哥14天中国行结束",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%8B%E4%B8%80%E5%93%A514%E5%A4%A9%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%BB%93%E6%9D%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "韩国大火中国妈妈隔窗送出孩子后坠亡",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E5%A4%A7%E7%81%AB%E4%B8%AD%E5%9B%BD%E5%A6%88%E5%A6%88%E9%9A%94%E7%AA%97%E9%80%81%E5%87%BA%E5%AD%A9%E5%AD%90%E5%90%8E%E5%9D%A0%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D16%26stream_entry_id%3D31%26flag%3D0%26realpos%3D16%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D16%26cate%3D5001%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E5%25A4%25A7%25E7%2581%25AB%25E4%25B8%25AD%25E5%259B%25BD%25E5%25A6%2588%25E5%25A6%2588%25E9%259A%2594%25E7%25AA%2597%25E9%2580%2581%25E5%2587%25BA%25E5%25AD%25A9%25E5%25AD%2590%25E5%2590%258E%25E5%259D%25A0%25E4%25BA%25A1%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1761064178%26pre_seqid%3D17610641783920146795239",
-          "source": "微博",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "time_info": "[00时30分 ~ 01时21分]"
         },
         {
           "title": "临聘人员偷拍军事装备发家庭群泄密",
@@ -132,181 +387,33 @@
           "time_info": "[00时30分 ~ 00时57分]"
         },
         {
-          "title": "四季度买银行股？大摩：首次无大规模刺激的“自然周期性触底”，中国银行业进入新时代",
-          "url": "https://wallstreetcn.com/articles/3757529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
           "title": "欧莱雅北亚销售重回增长 中国高端产品需求回暖",
           "url": "https://flash.jin10.com/detail/20251022003154858800",
           "source": "金十数据",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普 马斯克",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "特朗普称将于明年初访华，外交部回应",
-          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "特朗普：很快将访问日本",
-          "url": "https://news.ifeng.com/c/8ndC4A073jf",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
-          "url": "https://wallstreetcn.com/articles/3757552",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
+            10,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "time_info": "[00时45分 ~ 01时21分]"
         },
         {
-          "title": "美国总统特朗普：我们可以开始用关税来偿还债务。",
-          "url": "https://flash.jin10.com/detail/20251022003806338800",
+          "title": "欧莱雅CEO：预计第三季度中国美妆市场增长约3%。中国消费者信心回升。",
+          "url": "https://flash.jin10.com/detail/20251022004154589800",
           "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时57分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于明年访华",
-          "url": "https://www.toutiao.com/trending/7563338600507768851/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "特朗普暗示将承诺反对台独",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E5%B0%86%E6%89%BF%E8%AF%BA%E5%8F%8D%E5%AF%B9%E5%8F%B0%E7%8B%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D10%26stream_entry_id%3D31%26flag%3D0%26realpos%3D10%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D10%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%259A%2597%25E7%25A4%25BA%25E5%25B0%2586%25E6%2589%25BF%25E8%25AF%25BA%25E5%258F%258D%25E5%25AF%25B9%25E5%258F%25B0%25E7%258B%25AC%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1761064178%26pre_seqid%3D17610641783920146795239",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "马斯克转发浏阳无人机烟花秀新闻",
-          "url": "https://www.toutiao.com/trending/7563531261148168255/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
-          "source": "澎湃新闻",
           "ranks": [
             17
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "特朗普开飞机泼粪,美国再次味大",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "评论员：泽连斯基再度被特朗普侮辱",
-          "url": "https://www.toutiao.com/trending/7563610173114158601/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "Cargill Inc.（嘉吉）利润在第一财季增长86%，美国总统特朗普的税收法案带来支持。",
-          "url": "https://wallstreetcn.com/livenews/2991340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
-          "url": "https://wallstreetcn.com/articles/3757574",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 00时57分]"
-        },
-        {
-          "title": "哥伦比亚美元债券价格上涨，至少创一个月新高。 哥伦比亚比索兑美元跌向3885比索下方的平盘，北京时间22:05还曾涨至3858.49比索。 此前，哥伦比亚政府召见驻该国Bogota的大使，讨论特朗普政府与其之间发生的外交危机。",
-          "url": "https://wallstreetcn.com/livenews/2991337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -316,19 +423,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
         },
         {
           "title": "欧洲和乌克兰据悉已准备好一份包含12个要点的计划，以结束俄乌冲突。",
           "url": "https://wallstreetcn.com/livenews/2991342",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时21分]"
         },
         {
           "title": "市场消息：欧洲和乌克兰据悉已准备好一份包含12个要点的计划，以结束俄乌冲突。",
@@ -374,6 +482,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 00时57分]"
+        },
+        {
+          "title": "消息人士：俄罗斯周末通过致美外交公报，重申了此前向乌克兰提出的和平条件。",
+          "url": "https://flash.jin10.com/detail/20251022005030801800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         },
         {
           "title": "乌克兰称每日部署约9000架无人机对抗俄罗斯",
@@ -461,8 +580,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时21分]"
         },
         {
           "title": "恒天然：10月21日全球乳品贸易（GDT）拍卖价格指数上涨21.9%，奶粉各合同期FAS拍卖均价3.881美元/吨。 批发奶粉价格指数下降4.6%，报3,610美元/吨。",
@@ -489,8 +608,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时21分]"
         }
       ]
     }
