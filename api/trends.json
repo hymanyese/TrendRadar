@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T01:21:18.142442+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2025-10-22T02:32:21.487033+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 马斯克",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "特朗普：很快将访问日本",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "外交部回应特朗普称将于明年访华",
@@ -46,22 +46,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
-        },
-        {
-          "title": "美国总统特朗普：（在本轮政府关门期间）被关闭的那些民主党物业永远都不会重新开放。 可能会与民主党讨论纽约市的那些基建项目。",
-          "url": "https://wallstreetcn.com/livenews/2991361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "特朗普暗示将承诺反对台独",
@@ -69,11 +59,34 @@
           "source": "微博",
           "ranks": [
             10,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
+        },
+        {
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
+        },
+        {
+          "title": "特朗普开飞机泼粪,美国再次味大",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "马斯克转发浏阳无人机烟花秀新闻",
@@ -88,37 +101,16 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
-          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
-          "source": "澎湃新闻",
+          "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
+          "url": "https://wallstreetcn.com/articles/3757574",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
-        },
-        {
-          "title": "特朗普开飞机泼粪,美国再次味大",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
-        },
-        {
-          "title": "美国总统特朗普：我希望（只有）一家公司竞标联邦航空管理局（FAA）的现代化。 （目前）有三家公司竞标空中交通管控系统。",
-          "url": "https://wallstreetcn.com/livenews/2991360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "美国总统特朗普：我们可以开始用关税来偿还债务。",
@@ -133,15 +125,28 @@
           "time_info": "[00时45分 ~ 01时21分]"
         },
         {
-          "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
-          "url": "https://wallstreetcn.com/articles/3757574",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：（在本轮政府关门期间）被关闭的那些民主党物业永远都不会重新开放。 可能会与民主党讨论纽约市的那些基建项目。",
+          "url": "https://wallstreetcn.com/livenews/2991361",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时32分]"
+        },
+        {
+          "title": "美国总统特朗普：我希望（只有）一家公司竞标联邦航空管理局（FAA）的现代化。 （目前）有三家公司竞标空中交通管控系统。",
+          "url": "https://wallstreetcn.com/livenews/2991360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时32分]"
         },
         {
           "title": "Cargill Inc.（嘉吉）利润在第一财季增长86%，美国总统特朗普的税收法案带来支持。",
@@ -185,9 +190,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "沃尔玛暂时停止聘用那些要求公司提供H-1B签证的求职人员。 此前，美国总统特朗普将该签证涨价至10万美元。",
+          "url": "https://wallstreetcn.com/livenews/2991377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国政府停摆进入第21天，特朗普要求共和党参议员保持坚定",
+          "url": "https://wallstreetcn.com/livenews/2991376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "美国总统特朗普：到年底前，美国将迎来20万亿美元的投资。",
@@ -196,9 +223,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "特朗普政府支持美国公司与哈萨克斯坦钨矿资源谈判",
+          "url": "https://flash.jin10.com/detail/20251022015900344800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "特朗普政府将回填战略石油储备，美国油价昨日创五个月新低",
@@ -207,7 +245,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -218,7 +256,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -229,7 +267,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -240,15 +278,37 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "MP材料跌超10%，特朗普团队支持美国与哈萨克斯坦谈判Tungsten矿场协议。",
+          "url": "https://wallstreetcn.com/livenews/2991368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "市场消息：特朗普政府支持美国与哈萨克斯坦达成钨矿协议。美国可能为获取哈萨克斯坦钨资源提供债务融资。",
+          "url": "https://flash.jin10.com/detail/20251022013341918800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         }
       ]
     },
     {
       "keyword_group": "中国 军事",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -258,8 +318,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "从前三季度成绩单看中国经济发力点",
@@ -269,8 +329,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "美国针对中国合作方出台签证限制 外交部回应",
@@ -280,8 +340,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "杜克一哥14天中国行结束",
@@ -293,8 +353,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "【社论】“全球最快高铁”见证中国速度",
@@ -304,8 +364,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "NASA局长：就你这进度，怎么抢在中国前面",
@@ -315,8 +375,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "“韩国十年前还第一，已被中国反超两倍多”",
@@ -326,8 +386,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "郑丽文“我是中国人”打脸绿营洗脑",
@@ -337,8 +397,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "韩国大火中国妈妈隔窗送出孩子后坠亡",
@@ -346,11 +406,12 @@
           "source": "微博",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "欧莱雅：第三季度营收103.3亿欧元，按固定汇率计算增长4.2%（市场普遍预期4.9%）。前9个月在中国大陆实现个位数低速增长。",
@@ -372,8 +433,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "临聘人员偷拍军事装备发家庭群泄密",
@@ -405,15 +466,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "中国找矿有新发现！大型锶矿床+1",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%BE%E7%9F%BF%E6%9C%89%E6%96%B0%E5%8F%91%E7%8E%B0%EF%BC%81%E5%A4%A7%E5%9E%8B%E9%94%B6%E7%9F%BF%E5%BA%8A%2B1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -423,8 +495,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "欧洲和乌克兰据悉已准备好一份包含12个要点的计划，以结束俄乌冲突。",
@@ -484,15 +556,37 @@
           "time_info": "[00时45分 ~ 00时57分]"
         },
         {
+          "title": "乌克兰总统与西班牙首相通话 讨论能源援助与防务合作",
+          "url": "https://flash.jin10.com/detail/20251022020423319800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
           "title": "消息人士：俄罗斯周末通过致美外交公报，重申了此前向乌克兰提出的和平条件。",
           "url": "https://flash.jin10.com/detail/20251022005030801800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "WTI原油期货维持0.4%的涨幅。 一位白宫官员表示，美国总统特朗普近期没有与俄罗斯总统普京会晤的计划，相比前不久两国暗示第二次峰会即将举行的说法，这一最新表态明显更为谨慎。",
+          "url": "https://wallstreetcn.com/livenews/2991373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "乌克兰称每日部署约9000架无人机对抗俄罗斯",
@@ -504,12 +598,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "油价走高，特朗普政府将回填战略石油储备，报道称俄罗斯实际已拒绝特朗普关于俄乌战争的和平提案",
+          "url": "https://wallstreetcn.com/livenews/2991351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 以色列 巴勒斯坦",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "加拿大总理称“若内塔尼亚胡入境，将对其进行逮捕”，以色列政府回应",
@@ -534,6 +639,17 @@
           "time_info": "[00时45分 ~ 00时57分]"
         },
         {
+          "title": "据报道，哈马斯向红十字会移交两名以色列人质遗体。",
+          "url": "https://flash.jin10.com/detail/20251022020103986800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
           "title": "美国副总统万斯：伊朗不能拥有核武器。",
           "url": "https://flash.jin10.com/detail/20251021233445371800",
           "source": "金十数据",
@@ -543,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "据以色列媒体：部长Ron Dermer将于11月初辞去政府职务。",
+          "url": "https://flash.jin10.com/detail/20251022013851831800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "美国副总统万斯：美国总统特朗普希望与伊朗人保持良好关系。",
@@ -556,6 +683,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "据AXIOS网站援引美以官员：美国国务卿鲁比奥计划于本周晚些时候或万圣节期间前往以色列。",
+          "url": "https://flash.jin10.com/detail/20251022011518530800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
           "title": "美国副总统万斯：我们的许多海湾阿拉伯朋友都希望与以色列实现关系正常化。",
           "url": "https://flash.jin10.com/detail/20251021232917834800",
           "source": "金十数据",
@@ -565,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "反对以军占领加沙 以色列国家安全顾问遭解雇",
+          "url": "https://flash.jin10.com/detail/20251022011039965800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         }
       ]
     },
@@ -580,8 +729,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "恒天然：10月21日全球乳品贸易（GDT）拍卖价格指数上涨21.9%，奶粉各合同期FAS拍卖均价3.881美元/吨。 批发奶粉价格指数下降4.6%，报3,610美元/吨。",
@@ -608,8 +757,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 02时32分]"
         }
       ]
     }
