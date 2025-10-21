@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T04:26:13.790010+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-10-22T05:20:32.393981+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 马斯克",
-      "match_count": 37,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "特朗普：很快将访问日本",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "外交部回应特朗普称将于明年访华",
@@ -48,11 +48,12 @@
             7,
             8,
             10,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "特朗普暗示将承诺反对台独",
@@ -63,11 +64,12 @@
             27,
             24,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
@@ -78,8 +80,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "特朗普开飞机泼粪,美国再次味大",
@@ -89,8 +91,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
@@ -101,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "马斯克转发浏阳无人机烟花秀新闻",
@@ -115,6 +117,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "特朗普政府将发放在美国政府关门期间被冻结的农业救济。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2991427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "美国总统特朗普：我们可以开始用关税来偿还债务。",
@@ -238,6 +251,29 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
+          "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
+          "url": "https://wallstreetcn.com/livenews/2991400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时20分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏IBM，称其CEO已经完成一个不错的工作。",
+          "url": "https://wallstreetcn.com/livenews/2991424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：众议院民主党领袖杰弗里斯和我周二已与特朗普取得联系，希望双方坐下来进行谈判。",
           "url": "https://flash.jin10.com/detail/20251022025236255800",
           "source": "金十数据",
@@ -247,6 +283,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "美国总统特朗普：印度做的非常好。",
+          "url": "https://flash.jin10.com/detail/20251022045824079800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国总统特朗普：卫生部长致力于解决自闭症Autism问题。 美国医药价格将下降。 某些（医药）公司接近与美国政府达成关于降低药品价格的协议。",
+          "url": "https://wallstreetcn.com/livenews/2991423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "美国总统特朗普：舒默和激进左翼分子挟持政府。",
@@ -260,6 +318,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "特朗普指示农业部拨款30亿美元 解决农户资金需求",
+          "url": "https://flash.jin10.com/detail/20251022045820804800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "沃尔玛暂时停止聘用那些要求公司提供H-1B签证的求职人员。 此前，美国总统特朗普将该签证涨价至10万美元。",
           "url": "https://wallstreetcn.com/livenews/2991377",
           "source": "华尔街见闻-快讯",
@@ -271,15 +340,15 @@
           "time_info": "02时32分"
         },
         {
-          "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
-          "url": "https://wallstreetcn.com/livenews/2991400",
+          "title": "美国总统特朗普：（美联储政策）利率太高。",
+          "url": "https://wallstreetcn.com/livenews/2991422",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "05时20分"
         },
         {
           "title": "美国总统特朗普：到年底前，美国将迎来20万亿美元的投资。",
@@ -337,6 +406,28 @@
           "time_info": "01时21分"
         },
         {
+          "title": "美国总统特朗普：一些公司即将就降低药品价格达成一致。",
+          "url": "https://flash.jin10.com/detail/20251022044715336800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国总统特朗普：刚接到来自中东的电话，只要我们愿意，我们可以在两分钟内解决哈马斯问题，如果哈马斯不遵守协议，他们将很快被解决。",
+          "url": "https://flash.jin10.com/detail/20251022044317156800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "富国银行首席执行官：与特朗普政府的对话重点是经济增长，而非放松监管。",
           "url": "https://flash.jin10.com/detail/20251022004311706800",
           "source": "金十数据",
@@ -346,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席鲍威尔即将离任，美联储里有个死硬派，利率太高了。",
+          "url": "https://flash.jin10.com/detail/20251022044252344800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "MP材料跌超10%，特朗普团队支持美国与哈萨克斯坦谈判Tungsten矿场协议。",
@@ -359,13 +461,24 @@
           "time_info": "02时32分"
         },
         {
+          "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
+          "url": "https://wallstreetcn.com/livenews/2991414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "反对马斯克万亿美元薪酬方案 工会与机构发起“夺回特斯拉”行动",
           "url": "https://flash.jin10.com/detail/20251022034124189800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -376,9 +489,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "美国总统特朗普：与莫迪谈到了贸易问题。",
+          "url": "https://flash.jin10.com/detail/20251022043743953800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "美国参议院民主党领导人Schumer：10月21日与总统特朗普取得联系。 提议在特朗普亚洲行前会面，讨论政府停摆问题。 和另一位民主党领袖Hakeem Jeffries希望在，特朗普预计于本周晚些时候启程前往亚洲之前与之会晤。 民主党寻求就医疗补贴进行谈判，以结束联邦政府停摆。",
@@ -387,9 +511,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "美国总统特朗普：今天与印度总理莫迪通了话。",
+          "url": "https://flash.jin10.com/detail/20251022043713277800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "巴西财长Haddad：巴西总统卢拉与美国总统特朗普通话中未提及博索纳罗的名字。如果卢拉与特朗普之间的通话升级为同级别面对面的会谈，我认为我们可以期待好消息。",
@@ -409,7 +544,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -439,7 +574,7 @@
     },
     {
       "keyword_group": "中国 军事",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "从前三季度成绩单看中国经济发力点",
@@ -449,8 +584,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "美国针对中国合作方出台签证限制 外交部回应",
@@ -461,8 +596,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -484,11 +619,12 @@
             18,
             4,
             15,
-            16
+            16,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "【社论】“全球最快高铁”见证中国速度",
@@ -499,8 +635,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "NASA局长：就你这进度，怎么抢在中国前面",
@@ -510,8 +646,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "“韩国十年前还第一，已被中国反超两倍多”",
@@ -521,8 +657,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "郑丽文“我是中国人”打脸绿营洗脑",
@@ -532,8 +668,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "韩国大火中国妈妈隔窗送出孩子后坠亡",
@@ -542,11 +678,12 @@
           "ranks": [
             16,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "四季度买银行股？大摩：首次无大规模刺激的“自然周期性触底”，中国银行业进入新时代",
@@ -556,8 +693,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，KWEB跌1%，CQQQ涨0.1%。",
@@ -566,7 +703,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -589,11 +726,12 @@
           "ranks": [
             25,
             16,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 05时20分]"
         },
         {
           "title": "临聘人员偷拍军事装备发家庭群泄密",
@@ -619,6 +757,17 @@
           "time_info": "[00时45分 ~ 01时21分]"
         },
         {
+          "title": "中国氢氧火箭发动机试车成功",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B0%A2%E6%B0%A7%E7%81%AB%E7%AE%AD%E5%8F%91%E5%8A%A8%E6%9C%BA%E8%AF%95%E8%BD%A6%E6%88%90%E5%8A%9F",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 05时20分]"
+        },
+        {
           "title": "欧莱雅CEO：预计第三季度中国美妆市场增长约3%。中国消费者信心回升。",
           "url": "https://flash.jin10.com/detail/20251022004154589800",
           "source": "金十数据",
@@ -630,21 +779,21 @@
           "time_info": "01时21分"
         },
         {
-          "title": "中国氢氧火箭发动机试车成功",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B0%A2%E6%B0%A7%E7%81%AB%E7%AE%AD%E5%8F%91%E5%8A%A8%E6%9C%BA%E8%AF%95%E8%BD%A6%E6%88%90%E5%8A%9F",
-          "source": "百度热搜",
+          "title": "纳斯达克金龙中国指数收跌0.97%，报8279.61点。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，追踪富时25中国股指数ETF-iShares（FXI）收跌1.36%，中概互联网指数ETF（KWEB）收跌1.02%，中国科技指数ETF（CQQQ）收跌0.02%。 XtrackersHarvest中证50（ASHS）收涨0.72%，德银嘉实沪深300指数ETF（ASHR）收涨0.56%。 富时中国3倍做多ETF（YINN）收跌4.13%，富时中国3倍做空ETF（YANG）收涨3.97%。",
+          "url": "https://wallstreetcn.com/livenews/2991405",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "05时20分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -654,8 +803,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "欧洲和乌克兰据悉已准备好一份包含12个要点的计划，以结束俄乌冲突。",
@@ -668,6 +817,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "美国总统特朗普：仍认为乌克兰有机会与俄罗斯实现停火。未来两天内，我们将就俄乌局势发布通知。",
+          "url": "https://flash.jin10.com/detail/20251022050509311800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国总统特朗普：印度将不会大量购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20251022050255539800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国总统特朗普：不想与俄罗斯进行一场无意义的会晤。",
+          "url": "https://flash.jin10.com/detail/20251022045908339800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "市场消息：欧洲和乌克兰据悉已准备好一份包含12个要点的计划，以结束俄乌冲突。",
@@ -738,6 +920,28 @@
           "time_info": "02时32分"
         },
         {
+          "title": "美国总统特朗普：尚未就俄罗斯和乌克兰问题做出决定，我们尚未决定是否与普京会面。",
+          "url": "https://flash.jin10.com/detail/20251022045847997800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "在美上市印度ETF盘后跌0.18%。 美国总统特朗普称，刚刚与印度总理莫迪通电话，讨论了贸易问题。 印度做得非常不错。 莫迪未来不会从俄罗斯购买太多的石油。",
+          "url": "https://wallstreetcn.com/livenews/2991421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "消息人士：俄罗斯周末通过致美外交公报，重申了此前向乌克兰提出的和平条件。",
           "url": "https://flash.jin10.com/detail/20251022005030801800",
           "source": "金十数据",
@@ -747,6 +951,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "俄罗斯直接投资基金负责人：俄罗斯与美国峰会的准备工作仍在继续。",
+          "url": "https://flash.jin10.com/detail/20251022044732094800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "乌克兰称每日部署约9000架无人机对抗俄罗斯",
@@ -860,7 +1075,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -911,8 +1126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "周二（10月21日）纽约尾盘，彭博谷物分类指数跌0.58%，报28.8166点。 CBOT玉米期货跌0.83%，CBOT小麦期货跌0.84%。 CBOT大豆期货跌0.11%，报10.4850美元/蒲式耳，豆粕期货涨0.49%，豆油期货跌1.34%。",
@@ -938,24 +1153,25 @@
           "time_info": "[00时30分 ~ 00时57分]"
         },
         {
+          "title": "周二（10月21日）纽约尾盘，ICE美元指数上涨0.34%，报98.922点，日内交投区间为98.507-98.979点，北京时间08:54微跌并刷新日低，之后持续走高，18:00以来持续高位震荡。 彭博美元指数涨0.29%，报1212.52点，日内交投区间为1207.99-1213.08点。",
+          "url": "https://wallstreetcn.com/livenews/2991396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时20分]"
+        },
+        {
           "title": "美元指数21日上涨",
           "url": "https://flash.jin10.com/detail/20251022035716416800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "周二（10月21日）纽约尾盘，ICE美元指数上涨0.34%，报98.922点，日内交投区间为98.507-98.979点，北京时间08:54微跌并刷新日低，之后持续走高，18:00以来持续高位震荡。 彭博美元指数涨0.29%，报1212.52点，日内交投区间为1207.99-1213.08点。",
-          "url": "https://wallstreetcn.com/livenews/2991396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
@@ -973,8 +1189,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 05时20分]"
         }
       ]
     }
