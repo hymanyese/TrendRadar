@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T11:15:06.953624+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-10-22T12:27:12.934731+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 马斯克",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -19,6 +19,17 @@
           "time_info": "[00时30分 ~ 07时20分]"
         },
         {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时27分]"
+        },
+        {
           "title": "特朗普：很快将访问日本",
           "url": "https://news.ifeng.com/c/8ndC4A073jf",
           "source": "凤凰网",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 07时20分]"
-        },
-        {
-          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
-          "url": "https://wallstreetcn.com/articles/3757552",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 11时15分]"
         },
         {
           "title": "外交部回应特朗普称将于明年访华",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时27分]"
         },
         {
           "title": "特朗普暗示将承诺反对台独",
@@ -86,6 +86,30 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时30分 ~ 09时43分]"
+        },
+        {
+          "title": "特朗普：特普会待定，不想白费功夫",
+          "url": "https://news.ifeng.com/c/8neQdT5qs63",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时27分]"
+        },
+        {
+          "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819515",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时27分]"
         },
         {
           "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
@@ -114,38 +138,27 @@
           "time_info": "[00时30分 ~ 09时43分]"
         },
         {
-          "title": "特朗普：特普会待定，不想白费功夫",
-          "url": "https://news.ifeng.com/c/8neQdT5qs63",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时15分]"
-        },
-        {
-          "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31819515",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时15分]"
-        },
-        {
           "title": "美媒：乌欧拟推12点和平方案，特朗普任和平委员会主席",
           "url": "https://news.ifeng.com/c/8neYiL38LQB",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 12时27分]"
+        },
+        {
+          "title": "特朗普称大陆不想对台湾发动进攻，国台办回应",
+          "url": "https://news.ifeng.com/c/8neiMKW5b9G",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "美学者：特朗普对华贸易政策反复变化让人厌倦",
@@ -171,6 +184,19 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
+          "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时27分]"
+        },
+        {
           "title": "美国总统特朗普：我们可以开始用关税来偿还债务。",
           "url": "https://flash.jin10.com/detail/20251022003806338800",
           "source": "金十数据",
@@ -181,6 +207,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时45分 ~ 01时21分]"
+        },
+        {
+          "title": "特朗普政府正就药品定价问题加大对美国贸易伙伴的攻击力度，准备展开一项新的调查，为新一轮关税攻势奠定基础。",
+          "url": "https://flash.jin10.com/detail/20251022120338163800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "美国参议院民主党领导人Schumer：10月21日与总统特朗普取得联系。",
@@ -268,16 +305,16 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
-          "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
-          "source": "澎湃新闻",
+          "title": "特朗普对俄乌和谈态度再变",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88%E6%80%81%E5%BA%A6%E5%86%8D%E5%8F%98",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            19
+            22,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时15分]"
+          "time_info": "[11时14分 ~ 12时27分]"
         },
         {
           "title": "评论员：泽连斯基再度被特朗普侮辱",
@@ -302,6 +339,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时26分]"
+        },
+        {
+          "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
+          "url": "https://wallstreetcn.com/articles/3757603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时27分]"
         },
         {
           "title": "美国总统特朗普向司法部（DOJ）索要2.3亿美元，因为后者调查他。（纽约时报）",
@@ -376,6 +424,17 @@
           "time_info": "[04时26分 ~ 05时20分]"
         },
         {
+          "title": "特朗普吹嘘从各国拿到巨额关税资金",
+          "url": "https://www.toutiao.com/trending/7563600041760555071/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
           "title": "美国总统特朗普：一些公司即将就降低药品价格达成一致。",
           "url": "https://flash.jin10.com/detail/20251022044715336800",
           "source": "金十数据",
@@ -448,28 +507,6 @@
           "time_info": "[05时20分 ~ 06时20分]"
         },
         {
-          "title": "特朗普对俄乌和谈态度再变",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88%E6%80%81%E5%BA%A6%E5%86%8D%E5%8F%98",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
-        },
-        {
-          "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
-          "url": "https://wallstreetcn.com/articles/3757603",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
           "title": "美国参议院少数党领袖舒默：众议院民主党领袖杰弗里斯和我周二已与特朗普取得联系，希望双方坐下来进行谈判。",
           "url": "https://flash.jin10.com/detail/20251022025236255800",
           "source": "金十数据",
@@ -509,7 +546,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -663,7 +700,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -762,7 +799,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         }
@@ -770,7 +807,7 @@
     },
     {
       "keyword_group": "中国 军事",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "从前三季度成绩单看中国经济发力点",
@@ -808,6 +845,29 @@
           "time_info": "[00时30分 ~ 02时32分]"
         },
         {
+          "title": "【早报】深夜急跌！黄金一度创12年来最大单日跌幅；特朗普称将于明年初访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2176371",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时27分]"
+        },
+        {
+          "title": "台湾人就是中国人无可置疑",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%97%A0%E5%8F%AF%E7%BD%AE%E7%96%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%258F%25B0%25E6%25B9%25BE%25E4%25BA%25BA%25E5%25B0%25B1%25E6%2598%25AF%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E6%2597%25A0%25E5%258F%25AF%25E7%25BD%25AE%25E7%2596%2591%2523%26realpos%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D1%26cate%3D5001%26dgr%3D0%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26pos%3D0%26display_time%3D1761097268%26pre_seqid%3D176109726893901470353121",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时27分]"
+        },
+        {
           "title": "杜克一哥14天中国行结束",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%8B%E4%B8%80%E5%93%A514%E5%A4%A9%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%BB%93%E6%9D%9F",
           "source": "bilibili 热搜",
@@ -820,11 +880,13 @@
             3,
             8,
             21,
-            27
+            27,
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 12时27分]"
         },
         {
           "title": "四季度买银行股？大摩：首次无大规模刺激的“自然周期性触底”，中国银行业进入新时代",
@@ -845,11 +907,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 12时27分]"
         },
         {
           "title": "NASA局长：就你这进度，怎么抢在中国前面",
@@ -899,26 +962,17 @@
           "time_info": "[00时30分 ~ 07时20分]"
         },
         {
-          "title": "【早报】深夜急跌！黄金一度创12年来最大单日跌幅；特朗普称将于明年初访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2176371",
-          "source": "财联社热门",
+          "title": "为何近几年出圈的独立游戏多半来自欧美、中国，但很少听到日本有很火的独立游戏？",
+          "url": "https://www.zhihu.com/question/1961723161348379743",
+          "source": "知乎",
           "ranks": [
-            1
+            8,
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时15分]"
-        },
-        {
-          "title": "台湾人就是中国人无可置疑",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%97%A0%E5%8F%AF%E7%BD%AE%E7%96%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%258F%25B0%25E6%25B9%25BE%25E4%25BA%25BA%25E5%25B0%25B1%25E6%2598%25AF%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E6%2597%25A0%25E5%258F%25AF%25E7%25BD%25AE%25E7%2596%2591%2523%26realpos%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D1%26cate%3D5001%26dgr%3D0%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26pos%3D0%26display_time%3D1761097268%26pre_seqid%3D176109726893901470353121",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时15分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 12时27分]"
         },
         {
           "title": "中国找矿有新发现！大型锶矿床+1",
@@ -937,6 +991,17 @@
           "time_info": "[02时32分 ~ 07时20分]"
         },
         {
+          "title": "从“十四五”看中国力量",
+          "url": "https://www.toutiao.com/trending/7563893083935378995/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，KWEB跌1%，CQQQ涨0.1%。",
           "url": "https://wallstreetcn.com/livenews/2991405",
           "source": "华尔街见闻-快讯",
@@ -946,18 +1011,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "为何近几年出圈的独立游戏多半来自欧美、中国，但很少听到日本有很火的独立游戏？",
-          "url": "https://www.zhihu.com/question/1961723161348379743",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 11时15分]"
         },
         {
           "title": "欧莱雅：第三季度营收103.3亿欧元，按固定汇率计算增长4.2%（市场普遍预期4.9%）。前9个月在中国大陆实现个位数低速增长。",
@@ -1030,6 +1083,50 @@
           "time_info": "[00时45分 ~ 01时21分]"
         },
         {
+          "title": "三个维度看三季度中国经济",
+          "url": "https://www.toutiao.com/trending/7563141597026598922/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "国台办谈中国国民党主席选举结果",
+          "url": "https://news.ifeng.com/c/8nefnY6DyDB",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "“中国股票慢牛正在形成”！高盛：未来两年有望涨30% 应转变思维“逢低买入”",
+          "url": "https://www.cls.cn/detail/2176701",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "中国女子盗窃法国博物馆12斤金块",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%9B%97%E7%AA%83%E6%B3%95%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%8612%E6%96%A4%E9%87%91%E5%9D%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D13%26lcate%3D5001%26realpos%3D13%26dgr%3D0%26c_type%3D31%26flag%3D1%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E5%25A5%25B3%25E5%25AD%2590%25E7%259B%2597%25E7%25AA%2583%25E6%25B3%2595%25E5%259B%25BD%25E5%258D%259A%25E7%2589%25A9%25E9%25A6%258612%25E6%2596%25A4%25E9%2587%2591%25E5%259D%2597%2523%26pos%3D13%26filter_type%3Drealtimehot%26display_time%3D1761107109%26pre_seqid%3D17611071089840316543423",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
           "title": "中国氢氧火箭发动机试车成功",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B0%A2%E6%B0%A7%E7%81%AB%E7%AE%AD%E5%8F%91%E5%8A%A8%E6%9C%BA%E8%AF%95%E8%BD%A6%E6%88%90%E5%8A%9F",
           "source": "百度热搜",
@@ -1058,7 +1155,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -1069,9 +1166,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "中国财政部发行91天期债券，规模550亿元，发行利率1.2594%，边际利率1.3038%，预期1.3100%，投标倍数2.48倍，边际倍数1.84倍； 中国财政部发行182天期债券，规模550亿元，发行利率1.3527%，边际利率1.3934%，预期1.4000%，投标倍数2.42倍，边际倍数1.28倍。",
+          "url": "https://wallstreetcn.com/livenews/2991631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "中国央行公开市场开展1382亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日435亿元逆回购到期。",
@@ -1094,6 +1202,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "中国商务部发放相关模拟芯片反倾销案调查问卷。",
+          "url": "https://wallstreetcn.com/livenews/2991617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "金十图示：2025年10月22日（周三）富时中国A50指数成分股午盘收盘行情一览：多数成分股走弱，紫金矿业跌逾3%，工业富联跌超4%，石油、电力板块小幅走高",
+          "url": "https://flash.jin10.com/detail/20251022113402949800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "富时中国A50指数期货盘初跌0.32%，上一个交易日夜盘收跌0.25%。",
@@ -1135,7 +1265,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         }
@@ -1143,7 +1273,7 @@
     },
     {
       "keyword_group": "俄罗斯 乌克兰",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -1161,11 +1291,12 @@
           "url": "https://news.ifeng.com/c/8neAUPhzsu6",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时15分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时27分]"
         },
         {
           "title": "泽连斯基：乌克兰已准备好结束俄乌冲突",
@@ -1176,8 +1307,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时15分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时27分]"
         },
         {
           "title": "欧洲和乌克兰据悉已准备好一份包含12个要点的计划，以结束俄乌冲突。",
@@ -1192,26 +1323,26 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
-          "title": "俄罗斯导弹夜袭基辅 乌克兰大规模打击俄化工厂",
-          "url": "https://wallstreetcn.com/livenews/2991616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
           "title": "乌克兰军方：俄罗斯夜间对基辅的空袭造成至少一人死亡，并引发高层住宅楼起火。",
           "url": "https://flash.jin10.com/detail/20251022110131303800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "瑞典政府：乌克兰总统泽连斯基将于周三抵达瑞典。",
+          "url": "https://flash.jin10.com/detail/20251022120403528800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "市场消息：由于弹道导弹威胁，乌克兰基辅等多个地区进入防空警戒状态。",
@@ -1220,7 +1351,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -1261,6 +1392,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时20分]"
+        },
+        {
+          "title": "俄罗斯导弹夜袭基辅 乌克兰大规模打击俄化工厂",
+          "url": "https://wallstreetcn.com/livenews/2991616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时27分]"
         },
         {
           "title": "美国总统特朗普：不想与俄罗斯进行一场无意义的会晤。",
@@ -1333,6 +1476,17 @@
           "time_info": "[00时45分 ~ 00时57分]"
         },
         {
+          "title": "泽连斯基：乌克兰已准备好结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31821164",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
           "title": "欧洲与乌克兰据悉拟定12点和平计划 特朗普将领导监督",
           "url": "https://flash.jin10.com/detail/20251022001111600800",
           "source": "金十数据",
@@ -1372,7 +1526,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -1421,6 +1575,28 @@
           "time_info": "00时30分"
         },
         {
+          "title": "俄罗斯对乌克兰波尔塔瓦地区的夜间袭击导致油气行业设施受损。",
+          "url": "https://flash.jin10.com/detail/20251022114930017800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "乌克兰使用英国“风暴阴影”导弹袭击俄罗斯化工厂",
+          "url": "https://flash.jin10.com/detail/20251022114617350800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "在美上市印度ETF盘后跌0.18%。 美国总统特朗普称，刚刚与印度总理莫迪通电话，讨论了贸易问题。 印度做得非常不错。 莫迪未来不会从俄罗斯购买太多的石油。 不想与俄罗斯总统普京进行没有意义的会晤。",
           "url": "https://wallstreetcn.com/livenews/2991421",
           "source": "华尔街见闻-快讯",
@@ -1456,8 +1632,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时15分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时27分]"
         },
         {
           "title": "加拿大总理称“若内塔尼亚胡入境，将对其进行逮捕”，以色列政府回应",
