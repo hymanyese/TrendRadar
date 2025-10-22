@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T20:45:45.414512+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2025-10-22T21:35:15.558070+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 商业人物 ===== 特朗普 马斯克",
-      "match_count": 113,
+      "match_count": 117,
       "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -17,6 +17,55 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普称中美元首未必会见面，外交部回应",
+          "url": "https://news.ifeng.com/c/8nezfC6pmYF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时24分 ~ 21时35分]"
+        },
+        {
+          "title": "中方回应特朗普称中美将达成贸易协议",
+          "url": "https://www.toutiao.com/trending/7563496326190022665/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时24分 ~ 21时35分]"
+        },
+        {
+          "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
+          "url": "https://www.cls.cn/detail/2176974",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时24分 ~ 21时35分]"
+        },
+        {
+          "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819515",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[09时42分 ~ 21时35分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -41,18 +90,6 @@
           "time_info": "[00时30分 ~ 07时20分]"
         },
         {
-          "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31819515",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时42分 ~ 20时45分]"
-        },
-        {
           "title": "特朗普又改口：从未说过乌克兰会赢",
           "url": "https://news.ifeng.com/c/8ndHuKciB2U",
           "source": "凤凰网",
@@ -62,6 +99,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 07时20分]"
+        },
+        {
+          "title": "中方回应特朗普称中美将达成协议",
+          "url": "https://www.douyin.com/hot/2278821",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时24分 ~ 21时35分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -75,8 +123,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时36分 ~ 20时45分]"
+          "appearance_count": 12,
+          "time_info": "[14时36分 ~ 21时35分]"
         },
         {
           "title": "特朗普：特普会待定，不想白费功夫",
@@ -106,41 +154,6 @@
           "time_info": "[11时14分 ~ 18时24分]"
         },
         {
-          "title": "中方回应特朗普称中美将达成贸易协议",
-          "url": "https://www.toutiao.com/trending/7563496326190022665/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 20时45分]"
-        },
-        {
-          "title": "特朗普称中美元首未必会见面，外交部回应",
-          "url": "https://news.ifeng.com/c/8nezfC6pmYF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 20时45分]"
-        },
-        {
-          "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
-          "url": "https://www.cls.cn/detail/2176974",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 20时45分]"
-        },
-        {
           "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
           "url": "https://wallstreetcn.com/articles/3757603",
           "source": "华尔街见闻",
@@ -151,19 +164,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 20时45分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 21时35分]"
         },
         {
-          "title": "中方回应特朗普称中美将达成协议",
-          "url": "https://www.douyin.com/hot/2278821",
-          "source": "抖音",
+          "title": "爆粗口！马斯克炮轰美高官",
+          "url": "https://news.ifeng.com/c/8nf4SgpH7t6",
+          "source": "凤凰网",
           "ranks": [
+            3,
+            4,
             5
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时24分 ~ 20时45分]"
+          "time_info": "[17时24分 ~ 21时35分]"
         },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -248,16 +263,31 @@
           "time_info": "[00时30分 ~ 09时43分]"
         },
         {
-          "title": "爆粗口！马斯克炮轰美高官",
-          "url": "https://news.ifeng.com/c/8nf4SgpH7t6",
-          "source": "凤凰网",
+          "title": "中方回应特朗普称中美将达成协议",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E7%BE%8E%E5%B0%86%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            4
+            5,
+            6,
+            8,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时24分 ~ 21时35分]"
+        },
+        {
+          "title": "特朗普向特朗普政府索赔",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时24分 ~ 20时45分]"
+          "time_info": "[18时23分 ~ 21时35分]"
         },
         {
           "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
@@ -270,11 +300,12 @@
             14,
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时42分 ~ 20时45分]"
+          "appearance_count": 19,
+          "time_info": "[09时42分 ~ 21时35分]"
         },
         {
           "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
@@ -303,30 +334,15 @@
           "time_info": "[00时30分 ~ 09时43分]"
         },
         {
-          "title": "中方回应特朗普称中美将达成协议",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E7%BE%8E%E5%B0%86%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
-          "source": "百度热搜",
+          "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
+          "url": "https://news.ifeng.com/c/8nfCFTiNYVe",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            6,
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 20时45分]"
-        },
-        {
-          "title": "特朗普向特朗普政府索赔",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
             3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时45分]"
+          "time_info": "[19时19分 ~ 21时35分]"
         },
         {
           "title": "特朗普向特朗普政府索赔2.3亿美元",
@@ -339,17 +355,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时23分 ~ 19时19分]"
-        },
-        {
-          "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
-          "url": "https://news.ifeng.com/c/8nfCFTiNYVe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时45分]"
         },
         {
           "title": "美学者：特朗普对华贸易政策反复变化让人厌倦",
@@ -373,6 +378,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普有意与巴西总统卢拉会面，可能会在访问马来西亚期间实现。",
+          "url": "https://flash.jin10.com/detail/20251022213217643800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "美国总统特朗普：我们可以开始用关税来偿还债务。",
@@ -499,6 +515,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "2.3亿美元，特朗普向特朗普政府索赔",
+          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时35分]"
         },
         {
           "title": "Cargill Inc.（嘉吉）利润在第一财季增长86%，美国总统特朗普的税收法案带来支持。",
@@ -669,17 +696,6 @@
           "time_info": "[05时20分 ~ 06时20分]"
         },
         {
-          "title": "2.3亿美元，特朗普向特朗普政府索赔",
-          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时45分]"
-        },
-        {
           "title": "美国总统特朗普：印度做的非常好。",
           "url": "https://flash.jin10.com/detail/20251022045824079800",
           "source": "金十数据",
@@ -776,6 +792,17 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31822497",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        },
+        {
           "title": "美国总统特朗普：美联储主席鲍威尔即将离任，美联储里有个死硬派，利率太高了。",
           "url": "https://flash.jin10.com/detail/20251022044252344800",
           "source": "金十数据",
@@ -823,6 +850,17 @@
           "time_info": "[00时45分 ~ 00时57分]"
         },
         {
+          "title": "特朗普为何急推俄乌停火",
+          "url": "https://www.toutiao.com/trending/7564016399010500138/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        },
+        {
           "title": "特朗普：暂时不想见普京",
           "url": "https://www.toutiao.com/trending/7563151518086463530/",
           "source": "今日头条",
@@ -844,6 +882,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 11时15分]"
+        },
+        {
+          "title": "特朗普向特朗普政府索赔2.3亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%942.3%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "据英国金融时报：美国财政部的一项分析发现，特朗普政府的经济政策使美国走上了通过削减支出和提高关税收入来改善财政前景的道路，从而缩小其不断扩大的赤字。",
@@ -1171,7 +1220,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1325,7 +1374,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1344,7 +1393,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "身边故事里的“十四五”民生答卷",
@@ -1354,8 +1403,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 21时35分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -1379,6 +1428,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时22分 ~ 16时33分]"
+        },
+        {
+          "title": "“数”看金融高水平开放历史跨越",
+          "url": "https://www.toutiao.com/trending/7563825063189348394/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 21时35分]"
         },
         {
           "title": "大豆博弈的历史溯源",
@@ -1405,17 +1465,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时42分 ~ 13时22分]"
-        },
-        {
-          "title": "“数”看金融高水平开放历史跨越",
-          "url": "https://www.toutiao.com/trending/7563825063189348394/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 20时45分]"
         },
         {
           "title": "美股涨跌互现，道指历史新高，黄金跳水，白银重挫，比特币一度受捧",
@@ -1477,6 +1526,18 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
+          "title": "创业板跌0.8%，农业银行再创历史新高，恒科指跌超1%，老铺黄金跌超8%，国债反弹，沪金逆势跌4%",
+          "url": "https://wallstreetcn.com/articles/3757615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时35分]"
+        },
+        {
           "title": "法国CAC 40指数涨幅扩大，创盘中历史新高。",
           "url": "https://wallstreetcn.com/livenews/2991327",
           "source": "华尔街见闻-快讯",
@@ -1487,17 +1548,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 01时21分]"
-        },
-        {
-          "title": "创业板跌0.8%，农业银行再创历史新高，恒科指跌超1%，老铺黄金跌超8%，国债反弹，沪金逆势跌4%",
-          "url": "https://wallstreetcn.com/articles/3757615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时45分]"
         },
         {
           "title": "阿根廷债券上涨，比索创历史新低，贝森特称签署“稳定”协议",
@@ -1523,6 +1573,17 @@
           "time_info": "[05时20分 ~ 06时20分]"
         },
         {
+          "title": "相见时难别亦难故事感转场",
+          "url": "https://www.douyin.com/hot/2279157",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        },
+        {
           "title": "前三季度我国涉外收支总规模创历史同期新高",
           "url": "https://wallstreetcn.com/livenews/2991819",
           "source": "华尔街见闻-快讯",
@@ -1544,6 +1605,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时42分 ~ 09时43分]"
+        },
+        {
+          "title": "陈宝仓与青岛的历史交集",
+          "url": "https://www.toutiao.com/trending/7563396963396468755/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "中际旭创盘中涨3.6%，最高报457.50元/股，创历史新高，年内飙升约2.7倍。",
