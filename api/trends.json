@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T00:29:14.866398+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-24T01:19:55.087743+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
-        },
-        {
-          "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/2992695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时19分]"
         },
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -36,9 +25,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时19分]"
         },
         {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
@@ -47,9 +36,43 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时19分]"
+        },
+        {
+          "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
+          "url": "https://wallstreetcn.com/livenews/2992710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时19分"
+        },
+        {
+          "title": "美国旧金山市长：特朗普取消联邦部队的部署。",
+          "url": "https://flash.jin10.com/detail/20251024003153717800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2992695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时19分]"
         },
         {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
@@ -59,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时19分]"
         },
         {
           "title": "特朗普访日行程公布",
@@ -70,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时19分]"
         },
         {
           "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -81,8 +104,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时19分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -92,30 +115,54 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时19分]"
         },
         {
           "title": "报道：特朗普政府可能暂未考虑入股量子计算公司",
           "url": "https://wallstreetcn.com/livenews/2992698",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时19分]"
         },
         {
           "title": "特朗普团队警告：政府停摆持续将加剧航班延误",
           "url": "https://flash.jin10.com/detail/20251023235736734800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时19分]"
+        },
+        {
+          "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
+          "url": "https://wallstreetcn.com/livenews/2992702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时19分"
+        },
+        {
+          "title": "美国商务部官员：特朗普政府并没有与量子公司洽谈政府入股问题。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2992701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
           "title": "报道：特朗普赦免被定罪的币安创始人赵长鹏。",
@@ -124,7 +171,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
         },
@@ -135,7 +182,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
         }
@@ -143,8 +190,43 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "孩之宝首席执行官：今年的假日购物季将成为“两类消费者的故事”。",
+          "url": "https://flash.jin10.com/detail/20251024003104843800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "相见时难别亦难故事感转场",
+          "url": "https://www.douyin.com/hot/2279157",
+          "source": "抖音",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时19分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：以色列已获得美国坚定承诺其安全的确认，并与合作伙伴沟通以落实历史性和平计划。",
+          "url": "https://flash.jin10.com/detail/20251024000548988800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时19分]"
+        },
         {
           "title": "文班亚马冲击历史",
           "url": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E5%86%B2%E5%87%BB%E5%8E%86%E5%8F%B2",
@@ -157,37 +239,16 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "相见时难别亦难故事感转场",
-          "url": "https://www.douyin.com/hot/2279157",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：以色列已获得美国坚定承诺其安全的确认，并与合作伙伴沟通以落实历史性和平计划。",
-          "url": "https://flash.jin10.com/detail/20251024000548988800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
           "title": "英国股市创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/2992681",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时19分]"
         }
       ]
     }
