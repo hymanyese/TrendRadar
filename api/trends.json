@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T21:34:07.715675+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2025-10-23T22:24:34.783423+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "释新闻｜“不想浪费时间”，特朗普为何又不想见普京了？",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时21分 ~ 21时34分]"
+          "appearance_count": 10,
+          "time_info": "[13时21分 ~ 22时24分]"
         },
         {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时21分 ~ 21时34分]"
+          "appearance_count": 10,
+          "time_info": "[13时21分 ~ 22时24分]"
         },
         {
           "title": "特朗普访日行程公布",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时32分 ~ 21时34分]"
+          "appearance_count": 11,
+          "time_info": "[16时32分 ~ 22时24分]"
         },
         {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时21分 ~ 21时34分]"
+          "appearance_count": 15,
+          "time_info": "[13时21分 ~ 22时24分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -92,8 +92,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时21分 ~ 21时34分]"
+          "appearance_count": 15,
+          "time_info": "[13时21分 ~ 22时24分]"
         },
         {
           "title": "特朗普开始创造性破坏白宫",
@@ -141,8 +141,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 21时34分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 22时24分]"
         },
         {
           "title": "美媒称美国允许乌对俄使用远程导弹，特朗普：假新闻",
@@ -312,7 +312,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -405,6 +405,17 @@
           "time_info": "13时21分"
         },
         {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.1%，纳指平开。特斯拉跌超4%，马斯克下调机器人和Robotaxi目标。能源股普遍上涨，埃克森美孚石油涨超1.8%，康菲石油涨近3%。美国航空涨超4%，此前该公司上调了2025年盈利预期。IBM股价开盘下跌8.3%，为7月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "扎哈罗娃回应特朗普证实取消“普特会” ：注意到该言论，俄愿意继续接触",
           "url": "https://wallstreetcn.com/livenews/2992573",
           "source": "华尔街见闻-快讯",
@@ -422,7 +433,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -464,11 +475,12 @@
             18,
             19,
             21,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时21分 ~ 20时46分]"
+          "appearance_count": 13,
+          "time_info": "[13时21分 ~ 22时24分]"
         },
         {
           "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
@@ -489,11 +501,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E5%86%B2%E5%87%BB%E5%8E%86%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 22时24分]"
         },
         {
           "title": "沃尔沃汽车股价涨幅扩大，目前上涨37.1%，有望创下历史最佳单日表现，此前发布的三季度盈利超出预期。",
@@ -508,6 +521,17 @@
           "time_info": "[16时32分 ~ 17时24分]"
         },
         {
+          "title": "累子人物故事：丝瓜汤与爱",
+          "url": "https://www.douyin.com/hot/2280180",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 22时24分]"
+        },
+        {
           "title": "黄金9周连涨后历史复盘：未来一年通常回调20%-40%，仅1970年例外",
           "url": "https://wallstreetcn.com/articles/3757651",
           "source": "华尔街见闻",
@@ -517,17 +541,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时23分 ~ 17时24分]"
-        },
-        {
-          "title": "累子人物故事：丝瓜汤与爱",
-          "url": "https://www.douyin.com/hot/2280180",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 21时34分]"
         },
         {
           "title": "如何看待原神「月之二」剧情中猎月人雷利尔的人物塑造?",
