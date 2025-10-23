@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T19:19:06.106447+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2025-10-23T20:46:43.242357+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "释新闻｜“不想浪费时间”，特朗普为何又不想见普京了？",
@@ -30,19 +30,6 @@
           "time_info": "[13时21分 ~ 19时19分]"
         },
         {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时21分 ~ 19时19分]"
-        },
-        {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
           "url": "https://wallstreetcn.com/articles/3757692",
           "source": "华尔街见闻",
@@ -52,8 +39,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[13时21分 ~ 20时46分]"
+        },
+        {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时21分 ~ 20时46分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -63,11 +63,12 @@
             14,
             13,
             11,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时21分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[13时21分 ~ 20时46分]"
         },
         {
           "title": "特朗普开始创造性破坏白宫",
@@ -77,11 +78,25 @@
             20,
             22,
             13,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时21分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[13时21分 ~ 20时46分]"
+        },
+        {
+          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
+          "url": "https://wallstreetcn.com/articles/3757694",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时21分 ~ 20时46分]"
         },
         {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
@@ -106,17 +121,15 @@
           "time_info": "[13时21分 ~ 15时23分]"
         },
         {
-          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
-          "url": "https://wallstreetcn.com/articles/3757694",
-          "source": "华尔街见闻",
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 20时46分]"
         },
         {
           "title": "美媒称美国允许乌对俄使用远程导弹，特朗普：假新闻",
@@ -128,17 +141,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时21分 ~ 14时34分]"
-        },
-        {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 19时19分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普对俄罗斯的决定就像是对俄罗斯的战争行为。特朗普与“疯狂的”欧洲结盟。",
@@ -163,6 +165,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时23分 ~ 19时19分]"
+        },
+        {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：美国是我们的对手，而这位自称“维和者”的特朗普正与俄罗斯走向冲突。",
@@ -324,6 +337,17 @@
           "time_info": "13时21分"
         },
         {
+          "title": "美国纽约州审计长Dinapoli：我会对马斯克薪酬方案中的衡量标准提出质疑。",
+          "url": "https://flash.jin10.com/detail/20251023195832566800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "韩国总统淡化美国贸易裂痕，欢迎特朗普成为“和平缔造者”",
           "url": "https://flash.jin10.com/detail/20251023125009975800",
           "source": "金十数据",
@@ -357,6 +381,39 @@
           "time_info": "13时21分"
         },
         {
+          "title": "扎哈罗娃回应特朗普证实取消“普特会” ：注意到该言论，俄愿意继续接触",
+          "url": "https://wallstreetcn.com/livenews/2992573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "评论员：特朗普准备大降印度关税",
+          "url": "https://www.toutiao.com/trending/7564356052515294746/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国总统特朗普将于当地时间下午3点（北京时间次日凌晨3点）在华盛顿发表声明。",
+          "url": "https://wallstreetcn.com/livenews/2992566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "特朗普所谓停火是为给乌争取时间吗",
           "url": "https://www.toutiao.com/trending/7564280236871781942/",
           "source": "今日头条",
@@ -371,7 +428,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "相见时难别亦难故事感转场",
@@ -382,11 +439,12 @@
             11,
             18,
             19,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时21分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[13时21分 ~ 20时46分]"
         },
         {
           "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
@@ -424,6 +482,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时23分 ~ 17时24分]"
+        },
+        {
+          "title": "累子人物故事：丝瓜汤与爱",
+          "url": "https://www.douyin.com/hot/2280180",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "如何看待原神「月之二」剧情中猎月人雷利尔的人物塑造?",
