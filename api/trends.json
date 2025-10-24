@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T21:35:17.670217+08:00",
-  "total_titles_processed": 1928,
+  "generated_at": "2025-10-24T22:22:00.130459+08:00",
+  "total_titles_processed": 2020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 94,
+      "match_count": 96,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 07时20分]"
+        },
+        {
+          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
+          "url": "https://news.ifeng.com/c/8niGt31YVZS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时29分 ~ 22时22分]"
         },
         {
           "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -46,17 +57,6 @@
           "time_info": "[00时29分 ~ 09时27分]"
         },
         {
-          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
-          "url": "https://news.ifeng.com/c/8niGt31YVZS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时29分 ~ 21时35分]"
-        },
-        {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
           "url": "https://wallstreetcn.com/articles/3757694",
           "source": "华尔街见闻",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时27分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普警告以色列：不准吞并约旦河西岸",
+          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 22时22分]"
         },
         {
           "title": "特朗普：美国终止与加拿大的所有贸易谈判",
@@ -117,6 +128,20 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
+          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
+          "url": "https://wallstreetcn.com/articles/3757776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 22时22分]"
+        },
+        {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
           "url": "https://www.zhihu.com/question/1964624412641833840",
           "source": "知乎",
@@ -146,8 +171,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时33分 ~ 21时35分]"
+          "appearance_count": 12,
+          "time_info": "[14时33分 ~ 22时22分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -161,31 +186,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普警告以色列：不准吞并约旦河西岸",
-          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 21时35分]"
-        },
-        {
-          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
-          "url": "https://wallstreetcn.com/articles/3757776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 21时35分]"
         },
         {
           "title": "特朗普特赦赵长鹏，后者承诺帮助美国成为全球加密货币之都，对此你怎么看，其会对市场产生何影响？",
@@ -321,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：特朗普对加拿大非常失望",
+          "url": "https://wallstreetcn.com/livenews/2993515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美国旧金山市长：特朗普取消联邦部队的部署。",
@@ -847,7 +858,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -982,6 +993,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：我认为美国总统特朗普对加拿大非常失望。",
+          "url": "https://flash.jin10.com/detail/20251024215535003800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美国白宫：特朗普认为俄罗斯在推动和平方面行动不足。",
@@ -1130,7 +1152,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "文班亚马冲击历史",
@@ -1154,6 +1176,21 @@
           "time_info": "[00时28分 ~ 14时33分]"
         },
         {
+          "title": "“寒王”股价再超茅台！融资余额近历史峰值，科创板“吸金”模式重启",
+          "url": "https://www.cls.cn/detail/2179889",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 22时22分]"
+        },
+        {
           "title": "相见时难别亦难故事感转场",
           "url": "https://www.douyin.com/hot/2279157",
           "source": "抖音",
@@ -1165,20 +1202,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 09时27分]"
-        },
-        {
-          "title": "“寒王”股价再超茅台！融资余额近历史峰值，科创板“吸金”模式重启",
-          "url": "https://www.cls.cn/detail/2179889",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 21时35分]"
         },
         {
           "title": "孩之宝首席执行官：今年的假日购物季将成为“两类消费者的故事”。",
@@ -1270,6 +1293,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "标普500指数和纳指均触及盘中历史新高，日内分别上涨0.8%和1%。",
+          "url": "https://wallstreetcn.com/livenews/2993487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "道指触及历史新高，最新上涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20251024215243289800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "桥水基金创始人瑞·达利欧：历史和逻辑表明，制裁会降低对法定货币以及以法定货币计价的债务的需求，并支撑黄金。",
