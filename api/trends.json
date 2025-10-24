@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T00:27:51.903382+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-25T01:20:08.405461+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "特朗普警告以色列：不准吞并约旦河西岸",
@@ -26,8 +26,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "特朗普赦免币安创始人赵长鹏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "特朗普谈普京对美强硬表态：拭目以待",
+          "url": "https://www.toutiao.com/trending/7564749571637841435/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
@@ -37,19 +60,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
-          "title": "特朗普赦免币安创始人赵长鹏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
-          "source": "澎湃新闻",
+          "title": "美国交通部长Duffy：（与特朗普政府关门相关的）人手不足造成53%的航班晚点。",
+          "url": "https://wallstreetcn.com/livenews/2993554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "WTI原油期货涨幅收窄至0.4%，逼近62美元。 荷兰首相呼吁欧盟追随美国总统特朗普的做法，也制裁俄罗斯石油公司Rosneft和LukOil。",
+          "url": "https://wallstreetcn.com/livenews/2993551",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "01时20分"
         },
         {
           "title": "马斯克：对于社交媒体平台“X”算法带来的不便，我们深表歉意。我们正在努力修复这个问题。",
@@ -83,45 +117,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "特朗普谈普京对美强硬表态：拭目以待",
-          "url": "https://www.toutiao.com/trending/7564749571637841435/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "涉及无人机飞行员设计和制造超低延迟视频护目镜的Unusual Machines Inc./US（UMAC）股价上涨16%，据英国金融时报报道，该公司赢得自家历史上最大的五角大楼承包合同。",
           "url": "https://wallstreetcn.com/livenews/2993547",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "乘联分会：我国10月新能源零售量预计为132万左右，渗透率有望提升至60%左右，或创历史新高",
           "url": "https://wallstreetcn.com/livenews/2993543",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "英国股指涨0.7%，继续创收盘历史新高，本周涨3.1%",
+          "url": "https://wallstreetcn.com/livenews/2993540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "01时20分"
         }
       ]
     }
