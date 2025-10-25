@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T22:18:15.239343+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2025-10-25T23:19:33.975489+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普：愿在亚洲行期间会见金正恩",
+          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 23时19分]"
         },
         {
           "title": "韩统一部：特朗普金正恩会面机会“相当大”",
@@ -41,17 +52,6 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
-          "title": "特朗普：愿在亚洲行期间会见金正恩",
-          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 22时18分]"
-        },
-        {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
           "url": "https://www.cls.cn/detail/2180450",
           "source": "财联社热门",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时21分 ~ 22时18分]"
+          "appearance_count": 21,
+          "time_info": "[07时21分 ~ 23时19分]"
         },
         {
           "title": "网传特朗普考虑解散 NASA，这是真的吗？有哪些战略考量？",
@@ -95,11 +95,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时25分 ~ 22时18分]"
+          "appearance_count": 16,
+          "time_info": "[12时25分 ~ 23时19分]"
         },
         {
           "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
@@ -112,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时21分 ~ 22时18分]"
+          "appearance_count": 21,
+          "time_info": "[07时21分 ~ 23时19分]"
         },
         {
           "title": "特朗普警告以色列：不准吞并约旦河西岸，否则将失去美国一切支持",
@@ -157,6 +158,20 @@
           "time_info": "[00时27分 ~ 19时17分]"
         },
         {
+          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
+          "url": "https://wallstreetcn.com/articles/3757880",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时26分 ~ 23时19分]"
+        },
+        {
           "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
           "url": "https://wallstreetcn.com/articles/3757776",
           "source": "华尔街见闻",
@@ -185,20 +200,6 @@
           "time_info": "[12时25分 ~ 18时20分]"
         },
         {
-          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
-          "url": "https://wallstreetcn.com/articles/3757880",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 22时18分]"
-        },
-        {
           "title": "伯南克和耶伦呼吁推翻特朗普关税 加拿大称愿重启与美国谈判 | 环球市场",
           "url": "https://www.cls.cn/detail/2180470",
           "source": "财联社热门",
@@ -208,6 +209,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时21分 ~ 18时20分]"
+        },
+        {
+          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2993685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            6,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 23时19分]"
         },
         {
           "title": "为何特朗普把中美会晤放在行程最后",
@@ -220,6 +236,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
+          "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
+          "url": "https://flash.jin10.com/detail/20251025171620948800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            17,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 23时19分]"
         },
         {
           "title": "伯南克和耶伦等经济学家敦促美国最高法院推翻特朗普多数关税",
@@ -238,18 +269,18 @@
           "time_info": "[05时19分 ~ 12时25分]"
         },
         {
-          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2993685",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
+          "url": "https://flash.jin10.com/detail/20251025185202927800",
+          "source": "金十数据",
           "ranks": [
             1,
-            4,
             6,
-            12
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 22时18分]"
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 23时19分]"
         },
         {
           "title": "特朗普与日本首相通电话。（共同社）",
@@ -258,24 +289,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
         {
-          "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
-          "url": "https://flash.jin10.com/detail/20251025171620948800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
+          "url": "https://flash.jin10.com/detail/20251025183737163800",
           "source": "金十数据",
           "ranks": [
-            3,
-            12,
-            17,
-            22,
-            25
+            5,
+            10,
+            15,
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时20分 ~ 22时18分]"
+          "time_info": "[19时17分 ~ 23时19分]"
         },
         {
           "title": "据华尔街日报：美国总统特朗普推动新建海军军舰级别，希望建造新型海军舰艇，以应对潜在威胁。",
@@ -304,18 +334,26 @@
           "time_info": "[15时20分 ~ 19时17分]"
         },
         {
-          "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
-          "url": "https://flash.jin10.com/detail/20251025185202927800",
-          "source": "金十数据",
+          "title": "韩国民众举行反特朗普示威",
+          "url": "https://news.ifeng.com/c/8nkKIhcxWDm",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            6,
-            11,
-            14
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 22时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "特朗普与日本首相高市早苗通电话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/2993699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "巴西总统卢拉：希望与美国总统特朗普会面。",
@@ -330,20 +368,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时26分 ~ 19时17分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
-          "url": "https://flash.jin10.com/detail/20251025183737163800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 22时18分]"
         },
         {
           "title": "特朗普拿美加贸易谈判要挟得逞：加拿大将暂停播放反关税广告",
@@ -768,8 +792,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 22时18分]"
+          "appearance_count": 8,
+          "time_info": "[17时19分 ~ 23时19分]"
         },
         {
           "title": "IBM量子算法登上AMD芯片，双股齐飞创历史新高",
@@ -887,11 +911,12 @@
           "url": "https://www.zhihu.com/question/1963031957366608081",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时19分]"
         },
         {
           "title": "你认为职场晋升的关键是什么？",
