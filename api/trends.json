@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T06:20:14.654173+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2025-10-26T07:20:08.209811+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：愿在亚洲行期间会见金正恩",
@@ -13,17 +13,6 @@
           "source": "凤凰网",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "韩国民众举行反特朗普示威",
-          "url": "https://news.ifeng.com/c/8nkKIhcxWDm",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -40,18 +29,18 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
-          "url": "https://wallstreetcn.com/articles/3757880",
-          "source": "华尔街见闻",
+          "title": "韩国民众举行反特朗普示威",
+          "url": "https://news.ifeng.com/c/8nkKIhcxWDm",
+          "source": "凤凰网",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
+          "appearance_count": 9,
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
@@ -60,6 +49,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
+          "url": "https://wallstreetcn.com/articles/3757880",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -74,19 +74,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
           "url": "https://www.cls.cn/detail/2180455",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "特朗普玩“军阀剧本”这波绝了!",
@@ -96,8 +97,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "马斯克盛赞朱雀三号",
@@ -108,11 +109,12 @@
             4,
             19,
             29,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 07时20分]"
         },
         {
           "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
@@ -122,8 +124,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
@@ -133,8 +135,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
@@ -144,8 +146,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
@@ -155,8 +157,30 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普：对加拿大再征收10%额外关税",
+          "url": "https://news.ifeng.com/c/8nkgbcKnGsh",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "美国总统特朗普启程访问亚洲三国",
+          "url": "https://news.ifeng.com/c/8nke38dJpcH",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         }
       ]
     },
@@ -172,8 +196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -182,11 +206,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "台青：“台独”遮掩不了历史真相",
