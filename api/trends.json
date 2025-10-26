@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T21:27:51.441966+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2025-10-26T22:20:17.144066+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普：对加拿大再征收10%额外关税",
@@ -81,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时26分 ~ 21时27分]"
+          "appearance_count": 11,
+          "time_info": "[12时26分 ~ 22时20分]"
         },
         {
           "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
@@ -111,24 +111,6 @@
           "time_info": "[09时45分 ~ 19时18分]"
         },
         {
-          "title": "特朗普拆建白宫为何招非议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            16,
-            15,
-            13,
-            22,
-            14,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 21时27分]"
-        },
-        {
           "title": "特朗普与日本首相高市早苗通电话。（共同社）",
           "url": "https://wallstreetcn.com/livenews/2993699",
           "source": "华尔街见闻-快讯",
@@ -145,6 +127,25 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时25分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普拆建白宫为何招非议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            16,
+            15,
+            13,
+            22,
+            14,
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时25分 ~ 22时20分]"
         },
         {
           "title": "特朗普宣布对加拿大征收10%额外关税",
@@ -175,6 +176,19 @@
           "time_info": "[00时25分 ~ 09时45分]"
         },
         {
+          "title": "美国宣布对俄罗斯实施制裁，特朗普已取消与普京的会面，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1964649033109865460",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时25分 ~ 22时20分]"
+        },
+        {
           "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
           "url": "https://www.cls.cn/detail/2180455",
           "source": "财联社热门",
@@ -186,19 +200,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时25分 ~ 09时45分]"
-        },
-        {
-          "title": "美国宣布对俄罗斯实施制裁，特朗普已取消与普京的会面，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1964649033109865460",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 21时27分]"
         },
         {
           "title": "特朗普：对加拿大加征10%关税",
@@ -224,11 +225,12 @@
             22,
             24,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时25分 ~ 21时27分]"
+          "appearance_count": 28,
+          "time_info": "[00时25分 ~ 22时20分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -241,8 +243,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 21时27分]"
+          "appearance_count": 14,
+          "time_info": "[12时25分 ~ 22时20分]"
         },
         {
           "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
@@ -337,6 +339,18 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "美俄代表持续接触，特朗普：暂不打算见普京",
+          "url": "https://news.ifeng.com/c/8nlfLKUi6bc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普抵达马来西亚 跳经典舞蹈互动",
           "url": "https://www.toutiao.com/trending/7564726834030592063/",
           "source": "今日头条",
@@ -408,6 +422,19 @@
           "time_info": "13时21分"
         },
         {
+          "title": "美国财长贝森特：我认为我们有能力在11月初支付军人工资。 美国正走在通往更低通胀率的“滑行通道”上。 自特朗普上任以来，总体通胀已经下降。 我相信通货膨胀率将进一步下降到美联储2%的目标。 俄罗斯将立即感受到制裁带来的痛苦，我们所做的一切将让其坐到谈判桌上。",
+          "url": "https://wallstreetcn.com/livenews/2993772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普抵吉隆坡 在机场即兴起舞",
           "url": "https://www.douyin.com/hot/2283429",
           "source": "抖音",
@@ -442,16 +469,18 @@
           "time_info": "13时21分"
         },
         {
-          "title": "美俄代表持续接触，特朗普：暂不打算见普京",
-          "url": "https://news.ifeng.com/c/8nlfLKUi6bc",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
+          "url": "https://flash.jin10.com/detail/20251026184624203800",
+          "source": "金十数据",
           "ranks": [
+            3,
             7,
-            5
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
         },
         {
           "title": "美国总统特朗普：将签署历史性协议以结束军事冲突。",
@@ -465,19 +494,6 @@
           "time_info": "13时21分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
-          "url": "https://flash.jin10.com/detail/20251026184624203800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时27分]"
-        },
-        {
           "title": "特朗普即将访日 美驻日使馆附近发生持刀袭警事件",
           "url": "https://flash.jin10.com/detail/20251026090438290800",
           "source": "金十数据",
@@ -489,19 +505,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时45分 ~ 12时26分]"
-        },
-        {
-          "title": "美国财长贝森特：我认为我们有能力在11月初支付军人工资。 美国正走在通往更低通胀率的“滑行通道”上。 自特朗普上任以来，总体通胀已经下降。 我相信通货膨胀率将进一步下降到美联储2%的目标。 俄罗斯将立即感受到制裁带来的痛苦，我们所做的一切将让其坐到谈判桌上。",
-          "url": "https://wallstreetcn.com/livenews/2993772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时27分]"
         },
         {
           "title": "美国总统特朗普：对巴西前总统博索纳罗所经历的事情深感遗憾。",
@@ -566,6 +569,59 @@
           "time_info": "[18时22分 ~ 21时27分]"
         },
         {
+          "title": "克里姆林宫：是美国总统特朗普首先表示在匈牙利举行峰会毫无意义，俄罗斯总统普京对此表示赞同。（俄新社）",
+          "url": "https://flash.jin10.com/detail/20251026181522320800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京赞赏美国总统特朗普解决乌克兰危机的愿望，但不可能一蹴而就。",
+          "url": "https://flash.jin10.com/detail/20251026181455137800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            15,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
+        },
+        {
+          "title": "克里姆林宫：谈论取消俄罗斯总统普京与美国总统特朗普的峰会是错误的。（俄新社）",
+          "url": "https://flash.jin10.com/detail/20251026181153765800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            19,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
+        },
+        {
+          "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1965770697927300097",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普抵达马来西亚 跳经典舞蹈互动",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A+%E8%B7%B3%E7%BB%8F%E5%85%B8%E8%88%9E%E8%B9%88%E4%BA%92%E5%8A%A8",
           "source": "百度热搜",
@@ -615,19 +671,6 @@
           "time_info": "[11时14分 ~ 13时21分]"
         },
         {
-          "title": "克里姆林宫：是美国总统特朗普首先表示在匈牙利举行峰会毫无意义，俄罗斯总统普京对此表示赞同。（俄新社）",
-          "url": "https://flash.jin10.com/detail/20251026181522320800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时27分]"
-        },
-        {
           "title": "巴西外交部长：巴西总统卢拉告诉美国总统特朗普，拉丁美洲是一个和平的地区，并提出愿意与委内瑞拉进行斡旋，以寻找解决方案。",
           "url": "https://flash.jin10.com/detail/20251026173029020800",
           "source": "金十数据",
@@ -641,30 +684,28 @@
           "time_info": "[18时22分 ~ 20时39分]"
         },
         {
-          "title": "克里姆林宫：俄罗斯总统普京赞赏美国总统特朗普解决乌克兰危机的愿望，但不可能一蹴而就。",
-          "url": "https://flash.jin10.com/detail/20251026181455137800",
-          "source": "金十数据",
+          "title": "特朗普2.0时期亚洲“首秀”有何看点",
+          "url": "https://www.toutiao.com/trending/7564651167490539583/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            15,
-            16
+            20,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时27分]"
+          "time_info": "[21时27分 ~ 22时20分]"
         },
         {
-          "title": "克里姆林宫：谈论取消俄罗斯总统普京与美国总统特朗普的峰会是错误的。（俄新社）",
-          "url": "https://flash.jin10.com/detail/20251026181153765800",
-          "source": "金十数据",
+          "title": "特朗普在马来西亚听了个地狱笑话",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%90%AC%E4%BA%86%E4%B8%AA%E5%9C%B0%E7%8B%B1%E7%AC%91%E8%AF%9D",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            19,
-            20
+            29,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时27分]"
+          "time_info": "[21时27分 ~ 22时20分]"
         },
         {
           "title": "泰柬签和平协议 特朗普抢镜成功",
@@ -677,6 +718,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
+          "title": "胡锡进：美国最铁杆的盟友，现在却被特朗普政府百般羞辱",
+          "url": "https://news.ifeng.com/c/8nm4emMTaqf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "美国总统特朗普：我认为我们最终会与巴西建立良好的关系。",
@@ -751,17 +803,6 @@
           "time_info": "[18时22分 ~ 19时18分]"
         },
         {
-          "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1965770697927300097",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时27分]"
-        },
-        {
           "title": "特朗普将至 韩国或含泪与美达成协议",
           "url": "https://www.toutiao.com/trending/7565412581439966763/",
           "source": "今日头条",
@@ -795,6 +836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
+          "url": "https://flash.jin10.com/detail/20251026213743304800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美国总统特朗普：泰国与柬埔寨的“和平协议”或将拯救数百万人的生命。",
@@ -896,17 +948,6 @@
           "time_info": "18时22分"
         },
         {
-          "title": "特朗普2.0时期亚洲“首秀”有何看点",
-          "url": "https://www.toutiao.com/trending/7564651167490539583/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
           "title": "美俄印专家热议美对外战略，美前驻印度大使：印度难再信任特朗普",
           "url": "https://m.thepaper.cn/newsDetail_forward_31836369",
           "source": "澎湃新闻",
@@ -971,17 +1012,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
-        },
-        {
-          "title": "特朗普在马来西亚听了个地狱笑话",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%90%AC%E4%BA%86%E4%B8%AA%E5%9C%B0%E7%8B%B1%E7%AC%91%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         },
         {
           "title": "市场消息：泰国、柬埔寨领导人在美国总统特朗普的见证下签署扩大版停火协议。",
@@ -1051,8 +1081,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时13分 ~ 21时27分]"
+          "appearance_count": 16,
+          "time_info": "[11时13分 ~ 22时20分]"
         },
         {
           "title": "对比历史看四中全会公报：五年一次产业变迁",
@@ -1114,6 +1144,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "职场上如何做好二把手?",
+          "url": "https://www.zhihu.com/question/1952274142582775832",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时20分]"
+        },
+        {
           "title": "职场中，人与人之间最大的障碍是什么？",
           "url": "https://www.zhihu.com/question/1963031957366608081",
           "source": "知乎",
@@ -1124,17 +1166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 01时19分]"
-        },
-        {
-          "title": "职场上如何做好二把手?",
-          "url": "https://www.zhihu.com/question/1952274142582775832",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         }
       ]
     }
