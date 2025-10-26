@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T12:26:15.925771+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2025-10-26T13:21:57.559861+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 34,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：愿在亚洲行期间会见金正恩",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时19分 ~ 12时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时19分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普启程访问亚洲三国",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时19分 ~ 12时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时19分 ~ 13时21分]"
         },
         {
           "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
@@ -89,8 +89,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 12时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 13时21分]"
         },
         {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
@@ -128,8 +128,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 12时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 13时21分]"
         },
         {
           "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
@@ -142,8 +142,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 12时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 13时21分]"
         },
         {
           "title": "马斯克盛赞朱雀三号",
@@ -200,22 +200,34 @@
           "source": "今日头条",
           "ranks": [
             15,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 13时21分]"
         },
         {
-          "title": "特朗普拆建白宫为何招非议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "特朗普抵达马来西亚 跳经典舞蹈互动",
+          "url": "https://www.toutiao.com/trending/7564726834030592063/",
+          "source": "今日头条",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美国总统特朗普：将与泰国签署关键矿物协议。",
+          "url": "https://flash.jin10.com/detail/20251026124731184800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "特朗普：“国际部队”不久将进驻加沙",
@@ -224,11 +236,79 @@
           "ranks": [
             15,
             12,
-            13
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 13时21分]"
+        },
+        {
+          "title": "美国总统特朗普：将宣布与柬埔寨、马来西亚达成贸易协议。",
+          "url": "https://flash.jin10.com/detail/20251026124715964800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美国总统特朗普：马来西亚将在泰国和柬埔寨部署观察员。",
+          "url": "https://flash.jin10.com/detail/20251026124549150800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美国总统特朗普：关于泰国与柬埔寨的冲突，我们已经阻止了。",
+          "url": "https://flash.jin10.com/detail/20251026124313688800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "特朗普拆建白宫为何招非议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 13时21分]"
+        },
+        {
+          "title": "美国总统特朗普：将签署历史性协议以结束军事冲突。",
+          "url": "https://flash.jin10.com/detail/20251026124151834800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "特朗普：对加拿大加征10%关税",
+          "url": "https://www.douyin.com/hot/2283231",
+          "source": "抖音",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时45分 ~ 12时26分]"
+          "time_info": "[11时13分 ~ 13时21分]"
         },
         {
           "title": "特朗普即将访日 美驻日使馆附近发生持刀袭警事件",
@@ -244,17 +324,6 @@
           "time_info": "[09时45分 ~ 12时26分]"
         },
         {
-          "title": "特朗普：对加拿大加征10%关税",
-          "url": "https://www.douyin.com/hot/2283231",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时26分]"
-        },
-        {
           "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
           "url": "https://wallstreetcn.com/articles/3757910",
           "source": "华尔街见闻",
@@ -264,8 +333,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时21分]"
         },
         {
           "title": "不满加拿大反关税广告 特朗普宣布对加方征收10%额外关税",
@@ -277,8 +346,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时21分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)正在与马斯克的太空探索技术公司进行洽谈，计划将星链卫星服务整合到未来的iPhone产品中，首部搭载该服务的 iPhone将于2026年推出，型号为iPhone 18 Pro。",
@@ -286,11 +355,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 13时21分]"
         },
         {
           "title": "市场消息：美国总统特朗普抵达吉隆坡。",
@@ -298,11 +368,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 13时21分]"
         },
         {
           "title": "美国宣布对俄罗斯实施制裁，特朗普已取消与普京的会面，哪些信息值得关注？",
@@ -312,8 +383,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 13时21分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -323,8 +394,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 13时21分]"
         },
         {
           "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
@@ -333,20 +404,43 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时21分]"
         },
         {
           "title": "高市早苗与特朗普进行首次电话会谈",
           "url": "https://flash.jin10.com/detail/20251026110048820800",
           "source": "金十数据",
           "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时21分]"
+        },
+        {
+          "title": "美国总统特朗普：对泰国王太后逝世表示哀悼。",
+          "url": "https://flash.jin10.com/detail/20251026124040884800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨的“和平协议”或将拯救数百万人的生命。",
+          "url": "https://flash.jin10.com/detail/20251026124008495800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "13时21分"
         },
         {
           "title": "特朗普为什么拿捏不了乌克兰",
@@ -360,6 +454,28 @@
           "time_info": "09时45分"
         },
         {
+          "title": "白宫：美国总统特朗普将于周日会见巴西领导人。",
+          "url": "https://flash.jin10.com/detail/20251026120039149800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "特朗普抵达马来西亚 跳经典舞蹈互动",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A+%E8%B7%B3%E7%BB%8F%E5%85%B8%E8%88%9E%E8%B9%88%E4%BA%92%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "特朗普称“国际部队”不久将进驻加沙",
           "url": "https://www.toutiao.com/trending/7565087675402272806/",
           "source": "今日头条",
@@ -369,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "特朗普抵吉隆坡 在机场即兴起舞",
+          "url": "https://www.douyin.com/hot/2283429",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "美俄印专家热议美对外战略，美前驻印度大使：印度难再信任特朗普",
@@ -429,8 +556,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 12时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 13时21分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -454,11 +581,12 @@
           "ranks": [
             7,
             18,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 13时21分]"
         },
         {
           "title": "对比历史看四中全会公报：五年一次产业变迁",
@@ -470,8 +598,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时21分]"
         },
         {
           "title": "人民日报评论员：两岸共同续写中华民族历史新辉煌",
@@ -482,8 +610,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 13时21分]"
         },
         {
           "title": "台青：“台独”遮掩不了历史真相",
