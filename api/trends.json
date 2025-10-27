@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T13:23:17.591701+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2025-10-27T14:36:47.376031+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 30,
+      "match_count": 53,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -135,6 +135,17 @@
           "time_info": "11时23分"
         },
         {
+          "title": "特朗普：如果需要，将考虑向阿根廷提供更多支持。",
+          "url": "https://wallstreetcn.com/livenews/2994045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
           "url": "https://flash.jin10.com/detail/20251026184624203800",
           "source": "金十数据",
@@ -168,6 +179,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时47分 ~ 13时23分]"
+        },
+        {
+          "title": "美国财长贝森特：美联储主席候选人名单缩减至五人，希望感恩节后向特朗普提交一份好名单。",
+          "url": "https://flash.jin10.com/detail/20251027142654141800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美国总统特朗普：停火是基于哈以双方的义务。我们也希望哈马斯加快归还人质尸体，目前我们还有13名人质，包括两名美国人。我们不认为（以色列的行动）构成对停火的违反。",
+          "url": "https://flash.jin10.com/detail/20251027142210815800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
@@ -256,6 +300,61 @@
           "time_info": "[09时47分 ~ 11时23分]"
         },
         {
+          "title": "美国总统特朗普：我真没考虑过去竞选2028年的第三任期。",
+          "url": "https://flash.jin10.com/detail/20251027142110925800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美国总统特朗普：也许到今年年底，我们会就美联储做出相关决定。",
+          "url": "https://flash.jin10.com/detail/20251027142056759800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美国财长贝森特：美联储主席人选筛选范围已缩减至五人。 希望感恩节后向特朗普提交一份好名单。",
+          "url": "https://wallstreetcn.com/livenews/2994029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须立即拯救芝加哥，我们可以很容易做到，但必须迅速行动。",
+          "url": "https://flash.jin10.com/detail/20251027141856032800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "特朗普：关税生效时我们会通知加拿大。 暂时不会与加拿大总理卡尼会面。 普京应该结束俄乌冲突。 无意损害韩国造船业。 希望企业引进人才到美国。 将确保牧场主不受损失，同时降低物价。 要把牛肉价格降下来。",
+          "url": "https://wallstreetcn.com/livenews/2994027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "巴西总统卢拉：向美国总统特朗普递交了一份书面议程。",
           "url": "https://flash.jin10.com/detail/20251027111725920800",
           "source": "金十数据",
@@ -267,6 +366,17 @@
           "time_info": "11时23分"
         },
         {
+          "title": "特朗普：和卢拉的会面很愉快，我们看看会发生什么。",
+          "url": "https://wallstreetcn.com/livenews/2994024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "巴西总统卢拉：昨日与美国总统特朗普会晤后留下了非常好的印象。我尊重特朗普，他也尊重我。",
           "url": "https://flash.jin10.com/detail/20251027111712719800",
           "source": "金十数据",
@@ -276,6 +386,83 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
+          "url": "https://flash.jin10.com/detail/20251027141650104800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "特朗普耗资3亿美元的白宫宴会厅项目 获币圈和科技行业盟友“鼎力相助”",
+          "url": "https://wallstreetcn.com/livenews/2994020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美国总统特朗普：将确保牧场不受损害。",
+          "url": "https://flash.jin10.com/detail/20251027141231764800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美国总统特朗普：我们一直关注南美许多国家，特别是在南美洲投入了很多精力，我们对南美洲有了很清楚的掌握。多方面的努力都在进行中。",
+          "url": "https://flash.jin10.com/detail/20251027141149356800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美国总统特朗普：我曾反对让韩国工人离开佐治亚州。",
+          "url": "https://flash.jin10.com/detail/20251027141042006800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美国总统特朗普：韩国方面有一个很好的计划，打算在美国造船业进行更多投资，甚至超过他们目前的投入。坦白说，他们现在正在讨论如何以最佳方式落实韩方在美国的投资，尤其是关于造船业。",
+          "url": "https://flash.jin10.com/detail/20251027141004535800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "东盟峰会特朗普又来当主角",
@@ -322,6 +509,17 @@
           "time_info": "12时33分"
         },
         {
+          "title": "美国总统特朗普：期待与新任日本首相会面。",
+          "url": "https://flash.jin10.com/detail/20251027140519886800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "巴西总统卢拉：特朗普向我保证，我们一定会达成协议。",
           "url": "https://flash.jin10.com/detail/20251027113242354800",
           "source": "金十数据",
@@ -331,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "美国总统特朗普：日本新任首相是（已故前首相）安倍晋三的伟大盟友和朋友。",
+          "url": "https://flash.jin10.com/detail/20251027140510135800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
@@ -355,6 +564,17 @@
           "time_info": "12时33分"
         },
         {
+          "title": "美国总统特朗普：我们将重返造船业。",
+          "url": "https://flash.jin10.com/detail/20251027140356330800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "特朗普的关税“套路”曝光",
           "url": "https://www.toutiao.com/trending/7565671486447423027/",
           "source": "今日头条",
@@ -364,12 +584,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "美国总统特朗普：我不想与加拿大总理会面。",
+          "url": "https://flash.jin10.com/detail/20251027140230204800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美国总统特朗普：我对目前美国与加拿大达成的协议非常满意。",
+          "url": "https://flash.jin10.com/detail/20251027140217658800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大长期以来一直在剥削我们，他们不会再这样做了。",
+          "url": "https://flash.jin10.com/detail/20251027140045061800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "党历史上又一重要纲领性文件",
@@ -401,8 +654,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时36分]"
+        },
+        {
+          "title": "扫描“主播”｜“湖里优品汇”被指编故事忽悠老年人，暗示产品能“起死回生”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31822394",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "A股CPO概念持续走强，东田微涨逾15%，创历史新高；新易盛、生益电子均涨逾9%创历史新高；生益科技涨逾7%，创历史新高。",
