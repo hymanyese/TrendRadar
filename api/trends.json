@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T16:30:00.134742+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-10-27T17:27:26.186616+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -181,6 +181,30 @@
           "time_info": "[09时47分 ~ 13时23分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 17时27分]"
+        },
+        {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
           "url": "https://flash.jin10.com/detail/20251027041707138800",
           "source": "金十数据",
@@ -252,18 +276,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 15时24分]"
-        },
-        {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 16时30分]"
         },
         {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
@@ -495,7 +507,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -506,7 +518,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -660,7 +672,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -744,8 +756,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 16时30分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 17时27分]"
         },
         {
           "title": "扫描“主播”｜“湖里优品汇”被指编故事忽悠老年人，暗示产品能“起死回生”",
@@ -756,8 +768,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 16时30分]"
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 17时27分]"
         },
         {
           "title": "A股CPO概念持续走强，东田微涨逾15%，创历史新高；新易盛、生益电子均涨逾9%创历史新高；生益科技涨逾7%，创历史新高。",
