@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-27T22:24:07.514989+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2025-10-27T23:29:23.143895+08:00",
+  "total_titles_processed": 1874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 82,
+      "match_count": 87,
       "titles": [
+        {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时27分 ~ 23时29分]"
+        },
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
           "url": "https://news.ifeng.com/c/8nlfLKUi6bc",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时27分 ~ 22时24分]"
         },
         {
           "title": "特朗普拆建白宫为何招非议",
@@ -72,6 +72,17 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "特朗普谈南海坠机：或用了劣质燃料",
+          "url": "https://www.toutiao.com/trending/7565133400080846342/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 23时29分]"
+        },
+        {
           "title": "特朗普访问日本",
           "url": "https://www.douyin.com/hot/2285103",
           "source": "抖音",
@@ -106,15 +117,15 @@
           "time_info": "[14时36分 ~ 16时30分]"
         },
         {
-          "title": "特朗普谈南海坠机：或用了劣质燃料",
-          "url": "https://www.toutiao.com/trending/7565133400080846342/",
-          "source": "今日头条",
+          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
+          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 23时29分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -144,17 +155,6 @@
           "time_info": "[01时19分 ~ 07时19分]"
         },
         {
-          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
-          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时24分]"
-        },
-        {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
           "url": "https://flash.jin10.com/detail/20251026213743304800",
           "source": "金十数据",
@@ -179,6 +179,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 23时29分]"
         },
         {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
@@ -227,6 +239,17 @@
           "time_info": "11时23分"
         },
         {
+          "title": "墨西哥比索兑美元短线拉升，日内整体涨超0.4%，逼近18.37比索。 墨西哥股指涨幅重新扩大至将近0.6%。 墨西哥总统辛鲍姆称，上周六与美国总统特朗普通话。 两国接近达成非关税壁垒协议。 美方将（针对墨西哥的）贸易截至日期推后好几周时间。",
+          "url": "https://wallstreetcn.com/livenews/2994435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
           "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
           "source": "凤凰网",
@@ -238,16 +261,29 @@
           "time_info": "[09时47分 ~ 13时23分]"
         },
         {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
+          "title": "特朗普：愿为金正恩延长亚洲行程",
+          "url": "https://www.toutiao.com/trending/7565122061997785115/",
+          "source": "今日头条",
           "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            15,
             9,
-            7
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时26分 ~ 22时24分]"
+          "time_info": "[20时47分 ~ 23时29分]"
         },
         {
           "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
@@ -360,17 +396,17 @@
           "time_info": "[14时36分 ~ 15时24分]"
         },
         {
-          "title": "特朗普：俄试射核动力巡航导弹不合适",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
           "ranks": [
-            16,
-            15,
-            9
+            12,
+            25,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时47分 ~ 22时24分]"
+          "time_info": "[21时34分 ~ 23时29分]"
         },
         {
           "title": "评论员：特朗普在马来西亚双喜临门",
@@ -399,16 +435,16 @@
           "time_info": "[02时30分 ~ 09时47分]"
         },
         {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
+          "title": "特朗普到底薅了全世界多少钱",
+          "url": "https://www.toutiao.com/trending/7565875834884460086/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            25
+            17,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时24分]"
+          "time_info": "[22时23分 ~ 23时29分]"
         },
         {
           "title": "美国总统特朗普：我真没考虑过去竞选2028年的第三任期。",
@@ -542,17 +578,6 @@
           "time_info": "[14时36分 ~ 15时24分]"
         },
         {
-          "title": "特朗普到底薅了全世界多少钱",
-          "url": "https://www.toutiao.com/trending/7565875834884460086/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
-        },
-        {
           "title": "特朗普在马来西亚听了个地狱笑话",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%90%AC%E4%BA%86%E4%B8%AA%E5%9C%B0%E7%8B%B1%E7%AC%91%E8%AF%9D",
           "source": "百度热搜",
@@ -575,6 +600,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 11时23分]"
+        },
+        {
+          "title": "特朗普谈美军机南海坠毁原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D5%26realpos%3D6%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25B0%2588%25E7%25BE%258E%25E5%2586%259B%25E6%259C%25BA%25E5%258D%2597%25E6%25B5%25B7%25E5%259D%25A0%25E6%25AF%2581%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D6%26filter_type%3Drealtimehot%26cate%3D5001%26display_time%3D1761577810%26pre_seqid%3D176157781062302758102127",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普首见高市早苗会聊什么",
@@ -731,6 +767,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：上周六与特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251027225410577800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "特朗普：俄试射核动力巡航导弹不合适",
           "url": "https://www.toutiao.com/trending/7565221360721592361/",
           "source": "今日头条",
@@ -795,6 +842,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "特朗普称韩美“非常接近达成协议”",
+          "url": "https://www.toutiao.com/trending/7565883147104030218/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "日本天皇亲自在门外接送特朗普",
@@ -946,7 +1004,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -965,7 +1023,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "党历史上又一重要纲领性文件",
@@ -989,8 +1047,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时36分 ~ 22时24分]"
+          "appearance_count": 13,
+          "time_info": "[14时36分 ~ 23时29分]"
         },
         {
           "title": "保健食品带货主播被指编故事忽悠老年人，暗示产品能“起死回生”",
@@ -1022,8 +1080,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 23时29分]"
+        },
+        {
+          "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
@@ -1032,7 +1101,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1043,9 +1112,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "费城半导体指数涨逾2%，报7129.23点，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2994401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时29分]"
+        },
+        {
+          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
+          "url": "https://wallstreetcn.com/livenews/2994397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时29分]"
         },
         {
           "title": "第138届广交会境外采购商数量创同期历史新高",
@@ -1057,28 +1150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
-        },
-        {
-          "title": "费城半导体指数涨逾2%，报7129.23点，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/2994401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
-          "url": "https://wallstreetcn.com/livenews/2994397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "日本鸡蛋价格逼近历史最高值",
@@ -1109,7 +1180,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
