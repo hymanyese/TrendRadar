@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T19:20:58.507387+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2025-10-27T20:47:17.954964+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 68,
+      "match_count": 76,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -60,6 +60,18 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时47分]"
+        },
+        {
           "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965770697927300097",
           "source": "知乎",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时20分]"
         },
         {
           "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
@@ -158,6 +158,17 @@
           "time_info": "11时23分"
         },
         {
+          "title": "特朗普访问日本",
+          "url": "https://www.douyin.com/hot/2285103",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
           "url": "https://flash.jin10.com/detail/20251026184624203800",
           "source": "金十数据",
@@ -171,13 +182,24 @@
           "time_info": "[00时26分 ~ 05时18分]"
         },
         {
+          "title": "特斯拉董事会主席呼吁股东支持马斯克万亿美元薪酬方案",
+          "url": "https://flash.jin10.com/detail/20251027203231598800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "经济学家分析特朗普关税政策",
           "url": "https://search.bilibili.com/all?keyword=%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%88%86%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96",
           "source": "bilibili 热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -202,6 +224,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时47分 ~ 13时23分]"
+        },
+        {
+          "title": "特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉可能面临失去首席执行官马斯克的风险。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2994338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
@@ -303,6 +336,18 @@
           "time_info": "[02时30分 ~ 09时47分]"
         },
         {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时47分]"
+        },
+        {
           "title": "美国总统特朗普：我真没考虑过去竞选2028年的第三任期。",
           "url": "https://flash.jin10.com/detail/20251027142110925800",
           "source": "金十数据",
@@ -313,18 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 15时24分]"
-        },
-        {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时20分]"
         },
         {
           "title": "美国总统特朗普：也许到今年年底，我们会就美联储做出相关决定。",
@@ -470,6 +503,17 @@
           "time_info": "[09时47分 ~ 11时23分]"
         },
         {
+          "title": "特朗普首见高市早苗会聊什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A6%96%E8%A7%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%81%8A%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美国总统特朗普：普京应该结束战争而不是试验导弹。",
           "url": "https://flash.jin10.com/detail/20251027144820744800",
           "source": "金十数据",
@@ -490,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "据CNBC：特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉(TSLA.O)可能面临失去首席执行官马斯克的风险。",
+          "url": "https://flash.jin10.com/detail/20251027201010562800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "特朗普：期待与日本新首相高市早苗会面。",
@@ -553,7 +608,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -575,9 +630,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
@@ -635,6 +701,17 @@
           "time_info": "12时33分"
         },
         {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "巴西总统卢拉：特朗普可以提出任何问题，摆上桌面，我都会讨论。",
           "url": "https://flash.jin10.com/detail/20251027113517357800",
           "source": "金十数据",
@@ -655,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "日本天皇亲自在门外接送特朗普",
+          "url": "https://www.toutiao.com/trending/7565133400080797190/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "美国总统特朗普：期待与新任日本首相会面。",
@@ -696,7 +784,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -740,7 +828,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -817,6 +905,19 @@
           "time_info": "[00时26分 ~ 09时47分]"
         },
         {
+          "title": "扫描“主播”｜“湖里优品汇”被指编故事忽悠老年人，暗示产品能“起死回生”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31822394",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时36分 ~ 20时47分]"
+        },
+        {
           "title": "保健食品带货主播被指编故事忽悠老年人，暗示产品能“起死回生”",
           "url": "https://news.ifeng.com/c/8nn2jkxqaH8",
           "source": "凤凰网",
@@ -839,26 +940,13 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
-          "title": "扫描“主播”｜“湖里优品汇”被指编故事忽悠老年人，暗示产品能“起死回生”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31822394",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 19时20分]"
-        },
-        {
           "title": "第138届广交会境外采购商数量创同期历史新高",
           "url": "https://wallstreetcn.com/livenews/2994273",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -880,7 +968,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -910,7 +998,7 @@
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "网球爱好者为省钱像候鸟一样迁徙",
@@ -927,6 +1015,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时19分 ~ 07时19分]"
+        },
+        {
+          "title": "波兰国防部长：波兰政府对多个帕兰提尔系统（Palantir）感兴趣。",
+          "url": "https://flash.jin10.com/detail/20251027195402123800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     }
