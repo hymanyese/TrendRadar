@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T18:26:05.976209+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2025-10-27T19:20:58.507387+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 63,
+      "match_count": 68,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -71,6 +71,18 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
           "url": "https://news.ifeng.com/c/8nn0csPCPJl",
           "source": "凤凰网",
@@ -107,17 +119,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时19分 ~ 07时19分]"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 18时26分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
@@ -168,6 +169,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 05时18分]"
+        },
+        {
+          "title": "经济学家分析特朗普关税政策",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%88%86%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "巴西总统卢拉：愿意前往华盛顿与美国总统特朗普会晤。",
@@ -301,6 +313,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 15时24分]"
+        },
+        {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时20分]"
         },
         {
           "title": "美国总统特朗普：也许到今年年底，我们会就美联储做出相关决定。",
@@ -479,17 +503,6 @@
           "time_info": "15时24分"
         },
         {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "巴西总统卢拉：向美国总统特朗普递交了一份书面议程。",
           "url": "https://flash.jin10.com/detail/20251027111725920800",
           "source": "金十数据",
@@ -534,15 +547,37 @@
           "time_info": "16时30分"
         },
         {
+          "title": "匈牙利外长：匈牙利总理欧尔班将与美国总统特朗普讨论美国对俄罗斯能源的制裁。",
+          "url": "https://flash.jin10.com/detail/20251027184150174800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "加拿大总理卡尼：如果美国总统特朗普不愿谈判，我们已有应急计划。",
           "url": "https://flash.jin10.com/detail/20251027174622030800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "匈牙利外长：匈牙利总理欧尔班将于下周会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251027184028040800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
@@ -655,6 +690,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "南非总统拉马福萨：即使特朗普不出席 G20峰会也将照常举行",
+          "url": "https://wallstreetcn.com/livenews/2994251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
           "url": "https://flash.jin10.com/detail/20251027104546446800",
           "source": "金十数据",
@@ -686,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "特朗普说俄罗斯试射核动力巡航导弹“不合适”，克宫回应",
+          "url": "https://wallstreetcn.com/livenews/2994247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "特朗普称不会在2028年大选时作为副总统候选人参选",
@@ -746,7 +803,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "党历史上又一重要纲领性文件",
@@ -791,8 +848,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时36分 ~ 18时26分]"
+          "appearance_count": 8,
+          "time_info": "[14时36分 ~ 19时20分]"
+        },
+        {
+          "title": "第138届广交会境外采购商数量创同期历史新高",
+          "url": "https://wallstreetcn.com/livenews/2994273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "A股CPO概念持续走强，东田微涨逾15%，创历史新高；新易盛、生益电子均涨逾9%创历史新高；生益科技涨逾7%，创历史新高。",
@@ -804,6 +872,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "朱鹤新：前三季度，我国涉外收支规模为11.6万亿美元，创历史同期新高",
+          "url": "https://wallstreetcn.com/livenews/2994243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "A股可控核聚变概念震荡走强，东方钽业3天2板，创历史新高，纽威股份触及涨停，皖仪科技、中国核建、远东股份、西部超导等跟涨。",
