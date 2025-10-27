@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T01:32:31.280079+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2025-10-28T02:32:01.039327+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时32分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时32分]"
         },
         {
           "title": "特朗普：愿为金正恩延长亚洲行程",
@@ -52,27 +52,15 @@
           "time_info": "00时31分"
         },
         {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
+          "title": "委内瑞拉副总统兼石油部长Delcy Rodriguez表示，Petroleos de Venezuela董事会要求总统马杜罗撤销与Trinidad（特立尼达拉岛）和Tabago（多巴哥岛）的能源协议，因为这地支持美国特朗普政府“侵犯”委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/2994483",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时32分]"
-        },
-        {
-          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
-          "url": "https://www.cls.cn/detail/2182542",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -80,11 +68,25 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时32分]"
+        },
+        {
+          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
+          "url": "https://www.cls.cn/detail/2182542",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时32分]"
         },
         {
           "title": "特朗普：很长时间内不想和加总理见面",
@@ -92,22 +94,59 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            26
+            26,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时32分]"
+        },
+        {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时32分]"
+        },
+        {
+          "title": "特朗普到底薅了全世界多少钱",
+          "url": "https://www.toutiao.com/trending/7565875834884460086/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时32分]"
         },
         {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
           "url": "https://wallstreetcn.com/livenews/2994466",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 02时32分]"
+        },
+        {
+          "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
+          "url": "https://flash.jin10.com/detail/20251028004039681800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 02时32分]"
         },
         {
           "title": "特朗普谈美军机南海坠毁原因",
@@ -119,17 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
-          "url": "https://flash.jin10.com/detail/20251028004039681800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
         },
         {
           "title": "特朗普：不会在未来竞选副总统",
@@ -160,38 +188,16 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "特朗普到底薅了全世界多少钱",
-          "url": "https://www.toutiao.com/trending/7565875834884460086/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时32分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时32分]"
-        },
         {
           "title": "续写高质量发展的共赢故事",
           "url": "https://www.toutiao.com/trending/7565812247957389331/",
@@ -200,19 +206,54 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时32分]"
+        },
+        {
+          "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时32分]"
+        },
+        {
+          "title": "伦铜创收盘历史新高，首次收于1.1万美元上方",
+          "url": "https://wallstreetcn.com/livenews/2994486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "扫描“主播”｜“湖里优品汇”被指编故事忽悠老年人，暗示产品能“起死回生”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31822394",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时32分]"
+        },
+        {
+          "title": "日本鸡蛋价格逼近历史最高值",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%E5%80%BC",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 02时32分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.17%，报575.75点。 欧元区STOXX 50指数初步收涨0.60%，报5708.36点，创收盘历史新高。 富时泛欧绩优300指数初步收涨0.20%，报2291.75点。",
@@ -221,20 +262,48 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
         {
-          "title": "日本鸡蛋价格逼近历史最高值",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%E5%80%BC",
-          "source": "百度热搜",
+          "title": "德国股指收涨将近0.3%，意大利银行板块涨2%，英国股市继续创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/2994460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "欧洲STOXX 600指数收涨0.21%，报576.99点，连续三个交易日创收盘历史新高。 欧元区STOXX 50指数收涨0.64%，报5711.06点，突破10月21日所创收盘历史最高位5686.83点。 富时泛欧绩优300指数收涨0.28%，报2793.60点。",
+          "url": "https://wallstreetcn.com/livenews/2994459",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时32分"
+          "time_info": "02时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴拿马运河表示，已启动与航运业的合作，以确定对大西洋和太平洋沿岸港口码头开发潜在感兴趣的各方。",
+          "url": "https://flash.jin10.com/detail/20251028011249044800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         }
       ]
     }
