@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-29T05:20:27.144474+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2025-10-29T06:22:54.244524+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
+          "url": "https://news.ifeng.com/c/8npJJt30xAk",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时22分]"
+        },
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
           "url": "https://v.ifeng.com/c/8noT1p8iWLt",
@@ -19,18 +31,6 @@
           "time_info": "[00时30分 ~ 04时27分]"
         },
         {
-          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
-          "url": "https://news.ifeng.com/c/8npJJt30xAk",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时20分]"
-        },
-        {
           "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
           "url": "https://news.ifeng.com/c/8np9fQhEQk8",
           "source": "凤凰网",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时22分]"
         },
         {
           "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时22分]"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
@@ -63,8 +63,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时22分]"
         },
         {
           "title": "特朗普在美航母上讲话时用手拍导弹",
@@ -76,6 +76,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
+          "url": "https://wallstreetcn.com/livenews/2995354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时22分]"
         },
         {
           "title": "美国数十个州起诉总统特朗普砍掉食品救助的做法。（纽约时报）",
@@ -102,18 +115,6 @@
           "time_info": "[02时33分 ~ 03时19分]"
         },
         {
-          "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
-          "url": "https://wallstreetcn.com/livenews/2995354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时20分]"
-        },
-        {
           "title": "美媒：特斯拉物色内部CEO继任者 以应对马斯克离职的可能性",
           "url": "https://flash.jin10.com/detail/20251029024823119800",
           "source": "金十数据",
@@ -124,6 +125,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普媒体与科技公司：“真相社交”将与Crypto.com合作，即将开始在“真相社交”上进行测试，随后将在美国全面推出。",
+          "url": "https://flash.jin10.com/detail/20251029042335854800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "美国证交会文件显示，特朗普媒体与科技公司宣布将在“真相社交”平台推出预测市场。",
+          "url": "https://flash.jin10.com/detail/20251029042127064800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
         },
         {
           "title": "英伟达CEO黄仁勋认为，不确定特朗普政府是否会发放向沙特（出口芯片）的许可证。 英伟达称，等待（美国政府）更新关于向海湾地区供应芯片的能力。",
@@ -150,6 +175,18 @@
           "time_info": "[03时19分 ~ 04时27分]"
         },
         {
+          "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
+          "url": "https://wallstreetcn.com/livenews/2995353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
           "title": "美国联邦法官计划阻挠总统特朗普在政府关门期间裁员。",
           "url": "https://wallstreetcn.com/livenews/2995299",
           "source": "华尔街见闻-快讯",
@@ -161,15 +198,15 @@
           "time_info": "02时33分"
         },
         {
-          "title": "特朗普媒体与科技公司：“真相社交”将与Crypto.com合作，即将开始在“真相社交”上进行测试，随后将在美国全面推出。",
-          "url": "https://flash.jin10.com/detail/20251029042335854800",
-          "source": "金十数据",
+          "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
+          "url": "https://wallstreetcn.com/livenews/2995385",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时22分"
         },
         {
           "title": "美国卫生部长RFK Jr.勒令疾控中心研究海上风电场对（总统特朗普）所谓造成的伤害。",
@@ -192,17 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "美国证交会文件显示，特朗普媒体与科技公司宣布将在“真相社交”平台推出预测市场。",
-          "url": "https://flash.jin10.com/detail/20251029042127064800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
         },
         {
           "title": "美国交通部长Duffy：与空中交通控制相关的学生津贴即将耗尽。 在特朗普政府关门期间，与联邦航空管理局（FAA）相关的那些学生将被赶走。",
@@ -236,17 +262,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
-          "url": "https://wallstreetcn.com/livenews/2995353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达预计未来六个季度将实现5000亿美元业务规模。 将发货2000万Blackwell Ruben GPU。 美国亚利桑那州Blackwell（工厂）“满负荷生产”。 等待特朗普政府批准对沙特出口。",
@@ -329,7 +344,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "那些买黄金被套路的故事",
@@ -340,11 +355,12 @@
             23,
             18,
             14,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时22分]"
         },
         {
           "title": "千星纪游故事之外说了什么",
@@ -354,8 +370,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时22分]"
         },
         {
           "title": "小花生 我的故事结束了",
@@ -365,11 +381,12 @@
             16,
             25,
             20,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时22分]"
         },
         {
           "title": "英伟达涨至200美元整数位心理关口，再创历史新高，盘中涨4.4%，总市值达4.86万亿美元。",
@@ -392,8 +409,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时22分]"
         },
         {
           "title": "伦铜再创收盘历史新高",
@@ -407,6 +424,28 @@
           "time_info": "02时33分"
         },
         {
+          "title": "委内瑞拉宣布特多总理为该国“不受欢迎人物”.",
+          "url": "https://flash.jin10.com/detail/20251029053326983800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "委内瑞拉宣布特多总理为该国“不受欢迎人物”",
+          "url": "https://wallstreetcn.com/livenews/2995387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "英伟达涨幅扩大至3%，刷新盘中历史高位至197.29美元。",
           "url": "https://wallstreetcn.com/livenews/2995297",
           "source": "华尔街见闻-快讯",
@@ -416,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "飓风Melissa逼近牙买加，强度达到5级，是当地历史上最严峻的风暴气象。",
@@ -435,7 +485,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
