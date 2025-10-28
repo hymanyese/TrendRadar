@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T04:27:51.453202+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2025-10-29T05:20:27.144474+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
@@ -59,11 +59,12 @@
           "ranks": [
             15,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "特朗普在美航母上讲话时用手拍导弹",
@@ -75,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
-          "url": "https://wallstreetcn.com/livenews/2995354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
         },
         {
           "title": "美国数十个州起诉总统特朗普砍掉食品救助的做法。（纽约时报）",
@@ -112,6 +102,18 @@
           "time_info": "[02时33分 ~ 03时19分]"
         },
         {
+          "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
+          "url": "https://wallstreetcn.com/livenews/2995354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时20分]"
+        },
+        {
           "title": "美媒：特斯拉物色内部CEO继任者 以应对马斯克离职的可能性",
           "url": "https://flash.jin10.com/detail/20251029024823119800",
           "source": "金十数据",
@@ -122,6 +124,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时27分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋认为，不确定特朗普政府是否会发放向沙特（出口芯片）的许可证。 英伟达称，等待（美国政府）更新关于向海湾地区供应芯片的能力。",
+          "url": "https://wallstreetcn.com/livenews/2995343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时20分]"
         },
         {
           "title": "芝加哥大豆期货涨0.8%，豆粕涨约2.8%，特朗普降价“呼声”拖累饲牛期货跌约2.9%",
@@ -147,6 +161,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "特朗普媒体与科技公司：“真相社交”将与Crypto.com合作，即将开始在“真相社交”上进行测试，随后将在美国全面推出。",
+          "url": "https://flash.jin10.com/detail/20251029042335854800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "美国卫生部长RFK Jr.勒令疾控中心研究海上风电场对（总统特朗普）所谓造成的伤害。",
           "url": "https://wallstreetcn.com/livenews/2995298",
           "source": "华尔街见闻-快讯",
@@ -169,6 +194,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "美国证交会文件显示，特朗普媒体与科技公司宣布将在“真相社交”平台推出预测市场。",
+          "url": "https://flash.jin10.com/detail/20251029042127064800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "美国交通部长Duffy：与空中交通控制相关的学生津贴即将耗尽。 在特朗普政府关门期间，与联邦航空管理局（FAA）相关的那些学生将被赶走。",
           "url": "https://wallstreetcn.com/livenews/2995230",
           "source": "华尔街见闻-快讯",
@@ -178,17 +214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋认为，不确定特朗普政府是否会发放向沙特（出口芯片）的许可证。 英伟达称，等待（美国政府）更新关于向海湾地区供应芯片的能力。",
-          "url": "https://wallstreetcn.com/livenews/2995343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
         },
         {
           "title": "特斯拉（董事会）主席Robyn Denholm：马斯克薪酬计划与绩效挂钩。 除了马斯克，没有人能够领导特斯拉。 “时间将证明”薪酬方案被股东否决后，马斯克是否会离开特斯拉。 对于解决马斯克投票权而言，薪酬计划是唯一的出路。",
@@ -211,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
+          "url": "https://wallstreetcn.com/livenews/2995353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达预计未来六个季度将实现5000亿美元业务规模。 将发货2000万Blackwell Ruben GPU。 美国亚利桑那州Blackwell（工厂）“满负荷生产”。 等待特朗普政府批准对沙特出口。",
@@ -293,19 +329,8 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "千星纪游故事之外说了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%83%E6%98%9F%E7%BA%AA%E6%B8%B8%E6%95%85%E4%BA%8B%E4%B9%8B%E5%A4%96%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时27分]"
-        },
         {
           "title": "那些买黄金被套路的故事",
           "url": "https://www.douyin.com/hot/2285261",
@@ -314,11 +339,23 @@
             21,
             23,
             18,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
+        },
+        {
+          "title": "千星纪游故事之外说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%83%E6%98%9F%E7%BA%AA%E6%B8%B8%E6%95%85%E4%BA%8B%E4%B9%8B%E5%A4%96%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "小花生 我的故事结束了",
@@ -331,8 +368,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "英伟达涨至200美元整数位心理关口，再创历史新高，盘中涨4.4%，总市值达4.86万亿美元。",
@@ -345,6 +382,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时27分]"
+        },
+        {
+          "title": "故事的开始是互相报名字",
+          "url": "https://www.douyin.com/hot/2285307",
+          "source": "抖音",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时20分]"
         },
         {
           "title": "伦铜再创收盘历史新高",
@@ -380,6 +429,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "标普500指数收涨15.73点，涨幅0.23%，报6890.89点，继续创收盘历史新高。 道琼斯工业平均指数收涨161.78点，涨幅0.34%，报47706.37点，继续创收盘历史新高。 纳斯达克综合指数（纳指）收涨190.037点，涨幅0.80%，报23827.493点，继续创收盘历史新高。 纳斯达克100指数收涨190.61点，涨幅0.74%，报26012.155点，继续创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2995349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "港澳台人士：牢记台湾光复的历史",
           "url": "https://www.toutiao.com/trending/7565289528462901290/",
           "source": "今日头条",
@@ -389,17 +449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "故事的开始是互相报名字",
-          "url": "https://www.douyin.com/hot/2285307",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
         }
       ]
     }
