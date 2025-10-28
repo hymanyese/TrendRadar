@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T14:33:58.059270+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2025-10-28T15:21:41.888543+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -112,6 +112,19 @@
           "time_info": "[06时30分 ~ 12时25分]"
         },
         {
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时09分 ~ 15时21分]"
+        },
+        {
           "title": "特朗普：愿为金正恩延长亚洲行程",
           "url": "https://www.toutiao.com/trending/7565122061997785115/",
           "source": "今日头条",
@@ -160,16 +173,15 @@
           "time_info": "[09时40分 ~ 13时22分]"
         },
         {
-          "title": "高市早苗会见特朗普 多次伸手笑容满面",
-          "url": "https://www.toutiao.com/trending/7565063392713575990/",
-          "source": "今日头条",
+          "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
+          "url": "https://flash.jin10.com/detail/20251028145714701800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            22
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 14时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美国总统特朗普：期待与日本首相高市早苗携手合作，共促国家发展。",
@@ -183,6 +195,20 @@
           "time_info": "09时40分"
         },
         {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            8,
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时21分]"
+        },
+        {
           "title": "特朗普到底薅了全世界多少钱",
           "url": "https://www.toutiao.com/trending/7565875834884460086/",
           "source": "今日头条",
@@ -194,19 +220,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 05时19分]"
-        },
-        {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时33分]"
         },
         {
           "title": "委内瑞拉副总统兼石油部长Delcy Rodriguez表示，Petroleos de Venezuela董事会要求总统马杜罗撤销与Trinidad（特立尼达拉岛）和Tabago（多巴哥岛）的能源协议，因为这地支持美国特朗普政府“侵犯”委内瑞拉。",
@@ -244,6 +257,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普访日遇运酒车翻倒专车改道",
+          "url": "https://www.toutiao.com/trending/7565133400080895494/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 15时21分]"
         },
         {
           "title": "特朗普再提2028参选可能，点名两个潜在接班人",
@@ -303,19 +330,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时40分 ~ 11时10分]"
-        },
-        {
-          "title": "特朗普访日遇运酒车翻倒专车改道",
-          "url": "https://www.toutiao.com/trending/7565133400080895494/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时33分]"
         },
         {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
@@ -502,7 +516,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -628,6 +642,17 @@
           "time_info": "09时40分"
         },
         {
+          "title": "特斯拉董事长呼吁批准马斯克万亿薪酬计划",
+          "url": "https://flash.jin10.com/detail/20251028143104144800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "日本首相高市早苗：欢迎特朗普访问日本。",
           "url": "https://wallstreetcn.com/livenews/2994630",
           "source": "华尔街见闻-快讯",
@@ -637,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
+          "url": "https://www.toutiao.com/trending/7566111913025900074/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本首相高市早苗计划推荐美国总统特朗普提名诺贝尔和平奖，将在周二的峰会上向特朗普传达这一意向。（NTV）",
@@ -689,6 +725,17 @@
           "time_info": "[00时31分 ~ 06时31分]"
         },
         {
+          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
+          "url": "https://www.cls.cn/detail/2182699",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 15时21分]"
+        },
+        {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
           "url": "https://www.cls.cn/detail/2182682",
           "source": "财联社热门",
@@ -700,17 +747,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时21分 ~ 14时33分]"
-        },
-        {
-          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
-          "url": "https://www.cls.cn/detail/2182699",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 14时33分]"
         },
         {
           "title": "扫描“主播”｜“湖里优品汇”被指编故事忽悠老年人，暗示产品能“起死回生”",
@@ -752,33 +788,12 @@
             23,
             17,
             19,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 14时33分]"
-        },
-        {
-          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2994817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "三花智控A股午后拉升触及涨停，股价创历史新高；三花智控港股涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/2994815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 15时21分]"
         },
         {
           "title": "伦铜创收盘历史新高，首次收于1.1万美元上方",
@@ -792,6 +807,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时22分]"
+        },
+        {
+          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2994817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时21分]"
+        },
+        {
+          "title": "三花智控A股午后拉升触及涨停，股价创历史新高；三花智控港股涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/2994815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时21分]"
         },
         {
           "title": "馆长怒斥民进党是历史罪人",
@@ -828,6 +867,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时22分]"
+        },
+        {
+          "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
+          "url": "https://wallstreetcn.com/livenews/2994791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时21分]"
         },
         {
           "title": "标普500指数收涨83.47点，涨幅1.23%，报6875.16点，继续创收盘历史新高。 道琼斯工业平均指数收涨337.47点，涨幅0.71%，报47544.59点，再创收盘历史新高。 纳斯达克综合指数（纳指）收涨432.589点，涨幅1.86%，报23637.456点，再创收盘历史新高。 纳斯达克100指数收涨463.384点，涨幅1.83%，报25821.546点，再创收盘历史新高，最近三个交易日累计上涨3.79%。 纳斯达克生物科技指数收涨1.62%，报5272.74点。 费城半导体指数收涨2.74%，报7167.979点，继续创收盘历史新高，最近三天累涨7.34%。 费城证交所KBW银行指数收涨0.23%，报150.20点。 道琼斯KBW地区银行指数收涨0.12%，报117.48点。",
@@ -881,18 +932,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
-          "url": "https://wallstreetcn.com/livenews/2994791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
