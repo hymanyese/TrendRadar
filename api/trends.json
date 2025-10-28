@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T15:21:41.888543+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2025-10-28T16:30:01.211065+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 58,
+      "match_count": 67,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -112,6 +112,32 @@
           "time_info": "[06时30分 ~ 12时25分]"
         },
         {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            8,
+            5,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 16时30分]"
+        },
+        {
+          "title": "高市早苗给特朗普送礼 日网民炸锅",
+          "url": "https://www.toutiao.com/trending/7566135501460098598/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
           "title": "高市早苗会见特朗普 多次伸手笑容满面",
           "url": "https://www.toutiao.com/trending/7565063392713575990/",
           "source": "今日头条",
@@ -134,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "美国总统特朗普：日本是美国的大投资者。",
+          "url": "https://flash.jin10.com/detail/20251028155739360800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "美军机南海坠毁 特朗普：可能油不好",
@@ -161,6 +198,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美国总统特朗普：丰田将在美国建造价值高达100亿美元的工厂。",
+          "url": "https://flash.jin10.com/detail/20251028155533375800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "特朗普：愿意延长亚洲行与金正恩会面",
           "url": "https://news.ifeng.com/c/8noSUYL9rE6",
           "source": "凤凰网",
@@ -179,9 +227,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "美国总统特朗普：我们又开始造船了，我们很快就会造。",
+          "url": "https://flash.jin10.com/detail/20251028155313523800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "美国总统特朗普：期待与日本首相高市早苗携手合作，共促国家发展。",
@@ -193,20 +252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
-        },
-        {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            8,
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时21分]"
         },
         {
           "title": "特朗普到底薅了全世界多少钱",
@@ -295,6 +340,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时32分 ~ 03时18分]"
+        },
+        {
+          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
+          "url": "https://www.toutiao.com/trending/7566111913025900074/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时30分]"
         },
         {
           "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
@@ -532,6 +589,17 @@
           "time_info": "09时40分"
         },
         {
+          "title": "特朗普：我们将重新开始造船，很快就会这么做。 我们将与日本合作造船。 日本是美国的大投资者。 丰田将在美国建厂，价值将高达100亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2994894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "特朗普盛赞盟友日本，更向高市承诺将努力“满足任何要求”",
           "url": "https://flash.jin10.com/detail/20251028100012683800",
           "source": "金十数据",
@@ -631,6 +699,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "美国总统特朗普：本周将向日本交付首批导弹。",
+          "url": "https://flash.jin10.com/detail/20251028152925804800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "特朗普与高市早苗的“同盟秀”",
           "url": "https://www.toutiao.com/trending/7565899265139019300/",
           "source": "今日头条",
@@ -648,7 +727,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -664,15 +743,15 @@
           "time_info": "09时40分"
         },
         {
-          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
-          "url": "https://www.toutiao.com/trending/7566111913025900074/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：美日联盟是“整个世界上最卓越的关系之一”。",
+          "url": "https://flash.jin10.com/detail/20251028152443500800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时30分"
         },
         {
           "title": "日本首相高市早苗计划推荐美国总统特朗普提名诺贝尔和平奖，将在周二的峰会上向特朗普传达这一意向。（NTV）",
@@ -695,6 +774,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普：高市早苗在谈判中很强硬，但双方关系良好。",
+          "url": "https://wallstreetcn.com/livenews/2994870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "高市早苗：日本做好准备为和平与稳定作出更多贡献。 将与特朗普一起将盟友关系推升至新的高度。",
+          "url": "https://wallstreetcn.com/livenews/2994867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         }
       ]
     },
@@ -792,8 +893,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 16时30分]"
         },
         {
           "title": "伦铜创收盘历史新高，首次收于1.1万美元上方",
@@ -833,6 +934,19 @@
           "time_info": "[14时33分 ~ 15时21分]"
         },
         {
+          "title": "那些买黄金被套路的故事",
+          "url": "https://www.douyin.com/hot/2285261",
+          "source": "抖音",
+          "ranks": [
+            30,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 16时30分]"
+        },
+        {
           "title": "馆长怒斥民进党是历史罪人",
           "url": "https://www.douyin.com/hot/2284733",
           "source": "抖音",
@@ -855,18 +969,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时40分 ~ 11时10分]"
-        },
-        {
-          "title": "那些买黄金被套路的故事",
-          "url": "https://www.douyin.com/hot/2285261",
-          "source": "抖音",
-          "ranks": [
-            30,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时22分]"
         },
         {
           "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
