@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T07:20:30.091708+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2025-10-29T09:47:04.605846+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 35,
+      "match_count": 47,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -67,13 +67,57 @@
           "time_info": "[00时30分 ~ 07时20分]"
         },
         {
+          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
+          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
+          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "特朗普称轰炸广岛长崎只是小冲突",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BD%B0%E7%82%B8%E5%B9%BF%E5%B2%9B%E9%95%BF%E5%B4%8E%E5%8F%AA%E6%98%AF%E5%B0%8F%E5%86%B2%E7%AA%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26pos%3D4%26flag%3D1%26dgr%3D0%26realpos%3D4%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D4%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25BD%25B0%25E7%2582%25B8%25E5%25B9%25BF%25E5%25B2%259B%25E9%2595%25BF%25E5%25B4%258E%25E5%258F%25AA%25E6%2598%25AF%25E5%25B0%258F%25E5%2586%25B2%25E7%25AA%2581%2523%26c_type%3D31%26display_time%3D1761702354%26pre_seqid%3D176170235464508154691",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "如何看待特朗普贬低电磁弹射，并宣称动用行政手段废除电磁弹射?",
+          "url": "https://www.zhihu.com/question/1966558346145411453",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
           "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
           "url": "https://flash.jin10.com/detail/20251029070406007800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -95,7 +139,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -106,9 +150,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "美国总统特朗普：到目前为止，旅途非常愉快。",
+          "url": "https://flash.jin10.com/detail/20251029093900233800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
@@ -146,6 +201,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时19分]"
+        },
+        {
+          "title": "特斯拉董事长再喊“狼来了”：称公司正备战“无马斯克”时代",
+          "url": "https://www.cls.cn/detail/2184079",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时47分]"
+        },
+        {
+          "title": "高市早苗在安倍影子下拉拢特朗普",
+          "url": "https://www.toutiao.com/trending/7566425231099694598/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
         },
         {
           "title": "美媒：特斯拉物色内部CEO继任者 以应对马斯克离职的可能性",
@@ -220,6 +298,28 @@
           "time_info": "[03时19分 ~ 04时27分]"
         },
         {
+          "title": "特朗普访日在美士兵面前即兴起舞",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D%E5%8D%B3%E5%85%B4%E8%B5%B7%E8%88%9E",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "特朗普演讲时一把搂住高市早苗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E6%97%B6%E4%B8%80%E6%8A%8A%E6%90%82%E4%BD%8F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
           "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
           "url": "https://wallstreetcn.com/livenews/2995353",
           "source": "华尔街见闻-快讯",
@@ -230,6 +330,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "如何看待特朗普与安倍昭惠见面",
+          "url": "https://www.toutiao.com/trending/7566243116995317275/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "特朗普2.0亚洲“首秀”重心何在",
+          "url": "https://www.toutiao.com/trending/7566416366190759443/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "美媒：特朗普在解决自己制造的危机",
+          "url": "https://www.toutiao.com/trending/7565398924144443455/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
         },
         {
           "title": "美国联邦法官计划阻挠总统特朗普在政府关门期间裁员。",
@@ -260,7 +393,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -285,17 +418,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "特斯拉董事长再喊“狼来了”：称公司正备战“无马斯克”时代",
-          "url": "https://www.cls.cn/detail/2184079",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
         },
         {
           "title": "特斯拉（董事会）主席Robyn Denholm：马斯克薪酬计划与绩效挂钩。 除了马斯克，没有人能够领导特斯拉。 “时间将证明”薪酬方案被股东否决后，马斯克是否会离开特斯拉。 对于解决马斯克投票权而言，薪酬计划是唯一的出路。",
@@ -375,13 +497,24 @@
           "time_info": "00时30分"
         },
         {
+          "title": "特朗普将于当地时间上午10:30抵达韩国金海机场。",
+          "url": "https://wallstreetcn.com/livenews/2995468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "特朗普再批美联储主席鲍威尔",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E9%B2%8D%E5%A8%81%E5%B0%94",
           "source": "百度热搜",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -411,8 +544,36 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "千星纪游故事之外说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%83%E6%98%9F%E7%BA%AA%E6%B8%B8%E6%95%85%E4%BA%8B%E4%B9%8B%E5%A4%96%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 09时47分]"
+        },
+        {
+          "title": "小花生 我的故事结束了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E8%8A%B1%E7%94%9F%20%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B%E7%BB%93%E6%9D%9F%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            25,
+            20,
+            21,
+            18,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 09时47分]"
+        },
         {
           "title": "那些买黄金被套路的故事",
           "url": "https://www.douyin.com/hot/2285261",
@@ -430,31 +591,17 @@
           "time_info": "[00时30分 ~ 07时20分]"
         },
         {
-          "title": "千星纪游故事之外说了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%83%E6%98%9F%E7%BA%AA%E6%B8%B8%E6%95%85%E4%BA%8B%E4%B9%8B%E5%A4%96%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
           "ranks": [
-            11
+            13,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 07时20分]"
-        },
-        {
-          "title": "小花生 我的故事结束了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E8%8A%B1%E7%94%9F%20%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B%E7%BB%93%E6%9D%9F%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            25,
-            20,
-            21,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[06时22分 ~ 09时47分]"
         },
         {
           "title": "英伟达涨至200美元整数位心理关口，再创历史新高，盘中涨4.4%，总市值达4.86万亿美元。",
@@ -467,18 +614,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时27分]"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
           "title": "故事的开始是互相报名字",
@@ -540,6 +675,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "日经225指数站上51000点，为历史首次，日内涨1.61%。",
+          "url": "https://flash.jin10.com/detail/20251029091832772800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "飓风Melissa逼近牙买加，强度达到5级，是当地历史上最严峻的风暴气象。",
           "url": "https://wallstreetcn.com/livenews/2995224",
           "source": "华尔街见闻-快讯",
@@ -560,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "菲律宾比索兑美元继续下跌，创下历史新低59.25，此前菲律宾央行暗示对货币疲软的容忍度更高。",
+          "url": "https://wallstreetcn.com/livenews/2995470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "港澳台人士：牢记台湾光复的历史",
