@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T13:23:44.635799+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2025-10-29T14:37:43.687511+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 93,
+      "match_count": 101,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -27,8 +27,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
+        },
+        {
+          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
+          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
         },
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时30分 ~ 04时27分]"
-        },
-        {
-          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
-          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 13时23分]"
         },
         {
           "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
@@ -75,6 +75,21 @@
           "time_info": "[00时30分 ~ 07时20分]"
         },
         {
+          "title": "特斯拉董事长再喊“狼来了”：称公司正备战“无马斯克”时代",
+          "url": "https://www.cls.cn/detail/2184079",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 14时37分]"
+        },
+        {
           "title": "特朗普径自走过日本国旗未鞠躬",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%84%E8%87%AA%E8%B5%B0%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E6%9C%AA%E9%9E%A0%E8%BA%AC",
           "source": "百度热搜",
@@ -89,21 +104,6 @@
           "time_info": "[00时30分 ~ 07时20分]"
         },
         {
-          "title": "特斯拉董事长再喊“狼来了”：称公司正备战“无马斯克”时代",
-          "url": "https://www.cls.cn/detail/2184079",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 13时23分]"
-        },
-        {
           "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
           "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
           "source": "凤凰网",
@@ -111,8 +111,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时37分]"
         },
         {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
@@ -135,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
+          "url": "https://www.zhihu.com/question/1966809012960977218",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时37分]"
         },
         {
           "title": "如何看待特朗普贬低电磁弹射，并宣称动用行政手段废除电磁弹射?",
@@ -220,7 +231,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -231,18 +242,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
-          "url": "https://www.zhihu.com/question/1966809012960977218",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -264,9 +264,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 14时37分]"
         },
         {
           "title": "特朗普访日在美士兵面前即兴起舞",
@@ -331,17 +345,28 @@
           "time_info": "[02时33分 ~ 03时19分]"
         },
         {
-          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            10,
-            8
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时23分]"
+          "time_info": "[12时28分 ~ 14时37分]"
+        },
+        {
+          "title": "特朗普抵韩 落地后专属BGM响起",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时37分]"
         },
         {
           "title": "特朗普演讲时一把搂住高市早苗",
@@ -354,30 +379,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时46分 ~ 11时18分]"
-        },
-        {
-          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普抵韩 落地后专属BGM响起",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时23分]"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普",
@@ -463,6 +464,18 @@
           "time_info": "[03时19分 ~ 04时27分]"
         },
         {
+          "title": "特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D17%26band_rank%3D16%26flag%3D1%26lcate%3D5001%26realpos%3D16%26c_type%3D31%26cate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26display_time%3D1761715285%26pre_seqid%3D17617152856190347160501",
+          "source": "微博",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时37分]"
+        },
+        {
           "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
           "url": "https://wallstreetcn.com/livenews/2995353",
           "source": "华尔街见闻-快讯",
@@ -497,6 +510,18 @@
           "time_info": "[09时46分 ~ 09时47分]"
         },
         {
+          "title": "马斯克为何称中国火箭5年追平SpaceX",
+          "url": "https://www.toutiao.com/trending/7566461338692619782/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时37分]"
+        },
+        {
           "title": "美媒：特朗普在解决自己制造的危机",
           "url": "https://www.toutiao.com/trending/7565398924144443455/",
           "source": "今日头条",
@@ -514,7 +539,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -536,7 +561,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -558,7 +583,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -613,7 +638,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -662,13 +687,24 @@
           "time_info": "12时29分"
         },
         {
+          "title": "特朗普：韩国谈判非常厉害。 韩国已成为造船业的佼佼者。",
+          "url": "https://wallstreetcn.com/livenews/2995637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "美国总统特朗普：与韩国的协议很快就会最终敲定。",
           "url": "https://flash.jin10.com/detail/20251029123731778800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -679,7 +715,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -701,9 +737,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "韩国总统：特朗普做得很好，带来了和平。 将在造船业上合作。",
+          "url": "https://wallstreetcn.com/livenews/2995634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "美国总统特朗普：简化新能源和采矿项目的审批流程。",
@@ -712,9 +759,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "美国总统特朗普：我们擅长制造其他东西，但造船业没有做好。造船是非常必要的。",
+          "url": "https://flash.jin10.com/detail/20251029135233900800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "韩国称，特朗普将与李在明举行午宴峰会，特朗普和李在明将在峰会上讨论贸易和联盟现代化问题。",
@@ -728,24 +786,13 @@
           "time_info": "11时18分"
         },
         {
-          "title": "特朗普",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26pos%3D17%26band_rank%3D16%26flag%3D1%26lcate%3D5001%26realpos%3D16%26c_type%3D31%26cate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26display_time%3D1761715285%26pre_seqid%3D17617152856190347160501",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
           "title": "美国总统特朗普：美国正在改革钢铁生产并提高产量。",
           "url": "https://flash.jin10.com/detail/20251029122942604800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -778,9 +825,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "特朗普矛头再指鲍威尔 要求美联储降息",
+          "url": "https://flash.jin10.com/detail/20251029135119256800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "美国总统特朗普：我们正在为投资者快速发放许可。",
@@ -789,7 +847,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -816,6 +874,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "特朗普为何抨击美航母电磁弹射技术",
+          "url": "https://www.toutiao.com/trending/7566463348447907366/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "美国参议院共和党领袖图恩：如果政府停摆结束，美国总统特朗普愿意在下周与民主党人会面。",
           "url": "https://flash.jin10.com/detail/20251029022609204800",
           "source": "金十数据",
@@ -833,9 +902,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "特朗普：与韩国的关系只会愈发牢固。",
+          "url": "https://wallstreetcn.com/livenews/2995628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "美国总统特朗普：我们将拥有一个非常繁荣的造船业。",
@@ -844,7 +924,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -860,13 +940,24 @@
           "time_info": "03时19分"
         },
         {
+          "title": "韩国股市维持涨势，此前特朗普称美国与韩国有着“特殊纽带”关系，对双边贸易协议持乐观态度",
+          "url": "https://wallstreetcn.com/livenews/2995627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "美国总统特朗普：期望美国在芯片产业中占据重要地位。",
           "url": "https://flash.jin10.com/detail/20251029122241983800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -899,7 +990,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -921,7 +1012,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -954,7 +1045,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -976,7 +1067,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -998,7 +1089,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -1009,18 +1100,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "马斯克为何称中国火箭5年追平SpaceX",
-          "url": "https://www.toutiao.com/trending/7566461338692619782/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -1031,9 +1111,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "韩国拟赠特朗普金色王冠模型",
+          "url": "https://www.toutiao.com/trending/7565866566953271346/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "美国总统特朗普：我们已确保超过18万亿美元的新投资承诺。",
@@ -1042,7 +1133,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -1073,8 +1164,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时22分 ~ 13时23分]"
+          "appearance_count": 9,
+          "time_info": "[06时22分 ~ 14时37分]"
         },
         {
           "title": "千星纪游故事之外说了什么",
@@ -1083,11 +1174,12 @@
           "ranks": [
             11,
             18,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 13时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 14时37分]"
         },
         {
           "title": "小花生 我的故事结束了",
@@ -1103,11 +1195,12 @@
             29,
             14,
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 14时37分]"
         },
         {
           "title": "那些买黄金被套路的故事",
@@ -1130,11 +1223,24 @@
           "url": "https://www.zhihu.com/question/1966490218107466972",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时37分]"
+        },
+        {
+          "title": "花小龙人物短片预告",
+          "url": "https://www.douyin.com/hot/2286820",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时37分]"
         },
         {
           "title": "英伟达涨至200美元整数位心理关口，再创历史新高，盘中涨4.4%，总市值达4.86万亿美元。",
@@ -1160,17 +1266,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时27分 ~ 07时20分]"
-        },
-        {
-          "title": "花小龙人物短片预告",
-          "url": "https://www.douyin.com/hot/2286820",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时23分]"
         },
         {
           "title": "委内瑞拉宣布特多总理为该国“不受欢迎人物”.",
