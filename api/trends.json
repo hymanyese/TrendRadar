@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T09:47:04.605846+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2025-10-29T11:18:57.315454+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 47,
+      "match_count": 55,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -74,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 11时18分]"
         },
         {
           "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
@@ -85,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 11时18分]"
         },
         {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
@@ -133,6 +133,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "特朗普吐槽美航母电磁弹射又贵又难用",
+          "url": "https://www.toutiao.com/trending/7566252257503707179/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "美国参议院通过法案，终止美国总统特朗普针对巴西的关税措施。",
           "url": "https://flash.jin10.com/detail/20251029070107370800",
           "source": "金十数据",
@@ -161,7 +172,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -208,11 +219,36 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时18分]"
+        },
+        {
+          "title": "特朗普演讲时一把搂住高市早苗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E6%97%B6%E4%B8%80%E6%8A%8A%E6%90%82%E4%BD%8F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时47分]"
+          "time_info": "[09时46分 ~ 11时18分]"
+        },
+        {
+          "title": "特朗普访日在美士兵面前即兴起舞",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D%E5%8D%B3%E5%85%B4%E8%B5%B7%E8%88%9E",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 11时18分]"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普",
@@ -298,28 +334,6 @@
           "time_info": "[03时19分 ~ 04时27分]"
         },
         {
-          "title": "特朗普访日在美士兵面前即兴起舞",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%A3%AB%E5%85%B5%E9%9D%A2%E5%89%8D%E5%8D%B3%E5%85%B4%E8%B5%B7%E8%88%9E",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "特朗普演讲时一把搂住高市早苗",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E6%97%B6%E4%B8%80%E6%8A%8A%E6%90%82%E4%BD%8F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
           "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
           "url": "https://wallstreetcn.com/livenews/2995353",
           "source": "华尔街见闻-快讯",
@@ -398,6 +412,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "美日首脑会晤：为“美国核电超级大单”买单，高市成功取悦特朗普",
+          "url": "https://wallstreetcn.com/articles/3758090",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "美国法官延长了对美国总统特朗普政府在政府停摆期间大规模裁员的禁令。",
           "url": "https://flash.jin10.com/detail/20251029024058799800",
           "source": "金十数据",
@@ -420,6 +445,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "特朗普抵达韩国。",
+          "url": "https://wallstreetcn.com/livenews/2995543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "特斯拉（董事会）主席Robyn Denholm：马斯克薪酬计划与绩效挂钩。 除了马斯克，没有人能够领导特斯拉。 “时间将证明”薪酬方案被股东否决后，马斯克是否会离开特斯拉。 对于解决马斯克投票权而言，薪酬计划是唯一的出路。",
           "url": "https://wallstreetcn.com/livenews/2995225",
           "source": "华尔街见闻-快讯",
@@ -431,6 +467,28 @@
           "time_info": "00时30分"
         },
         {
+          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "韩国称，特朗普将与李在明举行午宴峰会，特朗普和李在明将在峰会上讨论贸易和联盟现代化问题。",
+          "url": "https://wallstreetcn.com/livenews/2995537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "WTI原油期货维持超过2%的跌幅，持稳于60美元关口附近。 哈马斯宣布推迟当地时间10月28日的以色列人质尸体移交工作，因为对方违反（美国总统特朗普撮合的）约定。",
           "url": "https://wallstreetcn.com/livenews/2995257",
           "source": "华尔街见闻-快讯",
@@ -440,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "英伟达股价在ALT交易所上涨8.5%，此前特朗普在讲话中谈及Blackwell芯片。",
+          "url": "https://wallstreetcn.com/livenews/2995531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达预计未来六个季度将实现5000亿美元业务规模。 将发货2000万Blackwell Ruben GPU。 美国亚利桑那州Blackwell（工厂）“满负荷生产”。 等待特朗普政府批准对沙特出口。",
@@ -486,6 +555,28 @@
           "time_info": "00时30分"
         },
         {
+          "title": "特朗普到底想不想俄乌停战",
+          "url": "https://www.toutiao.com/trending/7566442804163907078/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "隔夜金价一度跌破3900美元，投行纷纷下调黄金价格预期；特朗普又向鲍威尔“开炮”，称其不是无能就是坏；在政府停摆、数据缺失的背景下，万众瞩目的美联储决议将于明日凌晨公布，当前黄金空头占优，白银卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251029105537246800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "美国众议院议长约翰逊：看不到特朗普第三次担任美国总统的可能性。",
           "url": "https://wallstreetcn.com/livenews/2995213",
           "source": "华尔街见闻-快讯",
@@ -503,7 +594,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -551,11 +642,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%83%E6%98%9F%E7%BA%AA%E6%B8%B8%E6%95%85%E4%BA%8B%E4%B9%8B%E5%A4%96%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 09时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 11时18分]"
         },
         {
           "title": "小花生 我的故事结束了",
@@ -568,11 +660,12 @@
             21,
             18,
             26,
-            29
+            29,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 09时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 11时18分]"
         },
         {
           "title": "那些买黄金被套路的故事",
@@ -600,8 +693,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时22分 ~ 09时47分]"
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 11时18分]"
         },
         {
           "title": "英伟达涨至200美元整数位心理关口，再创历史新高，盘中涨4.4%，总市值达4.86万亿美元。",
@@ -681,7 +774,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -714,7 +807,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
