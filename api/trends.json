@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T12:27:01.488662+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2025-10-30T13:21:31.298645+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时22分 ~ 12时27分]"
+          "appearance_count": 7,
+          "time_info": "[05时22分 ~ 13时21分]"
         },
         {
           "title": "特朗普：相信美中将达成协议，会带来令人兴奋的东西",
@@ -32,6 +32,17 @@
           "time_info": "[09时45分 ~ 12时27分]"
         },
         {
+          "title": "习近平同美国总统特朗普在韩国釜山举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854252",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 13时21分]"
+        },
+        {
           "title": "习近平将同特朗普举行会晤",
           "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
           "source": "bilibili 热搜",
@@ -43,26 +54,18 @@
           "time_info": "[05时22分 ~ 09时45分]"
         },
         {
-          "title": "特朗普：相信我们将建立长期良好关系",
-          "url": "https://www.toutiao.com/trending/7566661509154131492/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时27分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普在韩国釜山举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854252",
+          "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851224",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            15,
+            17,
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时27分]"
+          "appearance_count": 9,
+          "time_info": "[05时22分 ~ 13时21分]"
         },
         {
           "title": "特朗普：未能协调好与金正恩会晤时间",
@@ -110,18 +113,37 @@
           "time_info": "[05时22分 ~ 07时22分]"
         },
         {
-          "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851224",
-          "source": "澎湃新闻",
+          "title": "习近平同特朗普握手合影",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            17,
-            11,
-            13
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时22分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时21分]"
+        },
+        {
+          "title": "习近平同特朗普握手合影",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时21分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普会晤",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时21分]"
         },
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -135,6 +157,29 @@
           "time_info": "[05时22分 ~ 07时22分]"
         },
         {
+          "title": "习近平同特朗普握手合影",
+          "url": "https://www.douyin.com/hot/2288225",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普：相信我们将建立长期良好关系",
+          "url": "https://www.toutiao.com/trending/7566661509154131492/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 13时21分]"
+        },
+        {
           "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
           "url": "https://news.ifeng.com/c/8nqc7tZlYVp",
           "source": "凤凰网",
@@ -146,6 +191,17 @@
           "time_info": "[05时22分 ~ 07时22分]"
         },
         {
+          "title": "特朗普：美中会达成更多共识",
+          "url": "https://www.douyin.com/hot/2288217",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时21分]"
+        },
+        {
           "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
           "url": "https://www.zhihu.com/question/1966809012960977218",
           "source": "知乎",
@@ -155,6 +211,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时22分]"
+        },
+        {
+          "title": "韩国招待特朗普的午餐菜单曝光：主菜有米饭、泡菜、美国牛小排",
+          "url": "https://v.ifeng.com/c/8nr1D3Z9hK3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普：相信我们将建立长期良好关系",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%9B%B8%E4%BF%A1%E6%88%91%E4%BB%AC%E5%B0%86%E5%BB%BA%E7%AB%8B%E9%95%BF%E6%9C%9F%E8%89%AF%E5%A5%BD%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时21分]"
         },
         {
           "title": "美国民主党人报告：特朗普自我挖坑，给了中国底牌",
@@ -190,17 +269,6 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
-          "title": "习近平同特朗普握手合影",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
           "title": "习近平同特朗普在韩国举行会晤",
           "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
           "source": "bilibili 热搜",
@@ -212,70 +280,27 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
-          "title": "习近平同特朗普握手合影",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
-          "source": "bilibili 热搜",
+          "title": "迎接特朗普，高市早苗笑了一天",
+          "url": "https://news.ifeng.com/c/8nrJZ12ddrh",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普已下令立即重启美国核试验",
+          "url": "https://news.ifeng.com/c/8ns4o1aiP6D",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普会晤",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "习近平同特朗普握手合影",
-          "url": "https://www.douyin.com/hot/2288225",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "特朗普：美中会达成更多共识",
-          "url": "https://www.douyin.com/hot/2288217",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "特朗普：相信我们将建立长期良好关系",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%9B%B8%E4%BF%A1%E6%88%91%E4%BB%AC%E5%B0%86%E5%BB%BA%E7%AB%8B%E9%95%BF%E6%9C%9F%E8%89%AF%E5%A5%BD%E5%85%B3%E7%B3%BB",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "韩国招待特朗普的午餐菜单曝光：主菜有米饭、泡菜、美国牛小排",
-          "url": "https://v.ifeng.com/c/8nr1D3Z9hK3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "市场消息：美国总统特朗普抵达釜山。",
@@ -289,16 +314,15 @@
           "time_info": "09时45分"
         },
         {
-          "title": "迎接特朗普，高市早苗笑了一天",
-          "url": "https://news.ifeng.com/c/8nrJZ12ddrh",
+          "title": "特朗普声称：我威胁收250%关税阻止了印巴冲突",
+          "url": "https://news.ifeng.com/c/8nrrYMbODOU",
           "source": "凤凰网",
           "ranks": [
-            9,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 12时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "若万亿美元薪酬被拒，马斯克可能离开特斯拉，马斯克不缺钱，为什么一定要万亿美元薪酬？",
@@ -360,6 +384,29 @@
           "time_info": "[05时22分 ~ 07时22分]"
         },
         {
+          "title": "特朗普回应会晤",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BC%9A%E6%99%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D6%26flag%3D1%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%259B%259E%25E5%25BA%2594%25E4%25BC%259A%25E6%2599%25A4%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D6%26realpos%3D6%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761798018%26pre_seqid%3D1761798018022028255885",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时21分]"
+        },
+        {
+          "title": "习近平同特朗普握手合影",
+          "url": "https://www.cls.cn/detail/2185819",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时21分]"
+        },
+        {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
           "source": "澎湃新闻",
@@ -394,28 +441,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时45分 ~ 11时14分]"
-        },
-        {
-          "title": "特朗普回应会晤",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BC%9A%E6%99%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D6%26flag%3D1%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%259B%259E%25E5%25BA%2594%25E4%25BC%259A%25E6%2599%25A4%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D6%26realpos%3D6%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761798018%26pre_seqid%3D1761798018022028255885",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "习近平同特朗普握手合影",
-          "url": "https://www.cls.cn/detail/2185819",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "特朗普相信中美将建立长期良好关系",
@@ -558,6 +583,28 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
+          "title": "美国总统特朗普：（就印度削减俄罗斯能源进口一事）印度在这方面做得非常好。",
+          "url": "https://flash.jin10.com/detail/20251030130233592800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美国总统特朗普称，和加拿大总理卡尼的谈话非常愉快。",
+          "url": "https://wallstreetcn.com/livenews/2996479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "美国总统特朗普：由于其他国家的测试计划，我已指示国防部开始以同等规模测试我们的核武器。程序将立即启动。",
           "url": "https://flash.jin10.com/detail/20251030090558415800",
           "source": "金十数据",
@@ -567,6 +614,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们确实在和俄罗斯谈论无核化问题。",
+          "url": "https://flash.jin10.com/detail/20251030125315717800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美国总统特朗普：此前与加拿大总理卡尼进行了非常愉快的交谈。",
+          "url": "https://flash.jin10.com/detail/20251030125217823800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "学者：特朗普让美军重回蒸汽时代",
@@ -580,6 +649,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "美国总统特朗普：我希望看到无核化。",
+          "url": "https://flash.jin10.com/detail/20251030125019766800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "特朗普政府接触三个资金渠道，希望能实现在（政府关门期间于）周五对军队发工资。（Axios）",
           "url": "https://wallstreetcn.com/livenews/2996224",
           "source": "华尔街见闻-快讯",
@@ -589,6 +669,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "美国总统特朗普：核试验场选址待定。",
+          "url": "https://flash.jin10.com/detail/20251030124822027800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美国总统特朗普：在全球武器试验中，美国核试验是正当的。既然其他国家都在进行核试验，那我们进行核试验也很重要。",
+          "url": "https://flash.jin10.com/detail/20251030124803322800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
@@ -610,6 +712,18 @@
           "time_info": "[05时22分 ~ 12时27分]"
         },
         {
+          "title": "A股大涨！沪指站上4000点，北证50狂飙超8%，光伏产业链爆发，沪铜创历史新高",
+          "url": "https://wallstreetcn.com/articles/3758138",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时22分 ~ 13时21分]"
+        },
+        {
           "title": "历史上魏延是完全忠于蜀汉的勇武战将，三国演义里却把他写成天生反骨，这公平吗？",
           "url": "https://www.zhihu.com/question/1922309458207413948",
           "source": "知乎",
@@ -620,18 +734,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时45分 ~ 11时14分]"
-        },
-        {
-          "title": "A股大涨！沪指站上4000点，北证50狂飙超8%，光伏产业链爆发，沪铜创历史新高",
-          "url": "https://wallstreetcn.com/articles/3758138",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时22分 ~ 12时27分]"
         },
         {
           "title": "三星电子公布第三季度业绩后，股价扩大涨幅至5.1%，刷新历史高位。",
