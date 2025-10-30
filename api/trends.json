@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T16:28:59.528131+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2025-10-30T17:24:26.485642+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 76,
+      "match_count": 83,
       "titles": [
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时13分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时13分 ~ 17时24分]"
         },
         {
           "title": "习近平同特朗普握手合影",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 16时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时24分]"
         },
         {
           "title": "习近平同特朗普握手合影",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 16时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时24分]"
         },
         {
           "title": "习近平同特朗普握手合影",
@@ -60,11 +60,39 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 16时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普：相信我们将建立长期良好关系",
+          "url": "https://www.toutiao.com/trending/7566661509154131492/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7,
+            5,
+            10,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时13分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普已下令立即重启美国核试验",
+          "url": "https://news.ifeng.com/c/8ns4o1aiP6D",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 17时24分]"
         },
         {
           "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
@@ -81,21 +109,6 @@
           "time_info": "[05时22分 ~ 16时28分]"
         },
         {
-          "title": "特朗普：相信我们将建立长期良好关系",
-          "url": "https://www.toutiao.com/trending/7566661509154131492/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            7,
-            5,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时13分 ~ 16时28分]"
-        },
-        {
           "title": "特朗普：相信美中将达成协议，会带来令人兴奋的东西",
           "url": "https://news.ifeng.com/c/8nrhIL4dt2o",
           "source": "凤凰网",
@@ -106,6 +119,22 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时45分 ~ 12时27分]"
+        },
+        {
+          "title": "习近平同特朗普握手合影",
+          "url": "https://www.cls.cn/detail/2185819",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时24分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -119,17 +148,6 @@
           "time_info": "[05时22分 ~ 09时45分]"
         },
         {
-          "title": "特朗普已下令立即重启美国核试验",
-          "url": "https://news.ifeng.com/c/8ns4o1aiP6D",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 16时28分]"
-        },
-        {
           "title": "习近平同美国总统特朗普会晤",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
@@ -139,6 +157,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时26分 ~ 14时34分]"
+        },
+        {
+          "title": "会晤结束后 特朗普送习近平上车",
+          "url": "https://www.toutiao.com/trending/7566894327608200731/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时24分]"
         },
         {
           "title": "特朗普：未能协调好与金正恩会晤时间",
@@ -211,21 +241,6 @@
           "time_info": "[12时26分 ~ 14时34分]"
         },
         {
-          "title": "习近平同特朗普握手合影",
-          "url": "https://www.cls.cn/detail/2185819",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 16时28分]"
-        },
-        {
           "title": "会晤全文公布！特朗普邀习近平访美",
           "url": "https://www.toutiao.com/trending/7566339492324347455/",
           "source": "今日头条",
@@ -248,6 +263,28 @@
           "time_info": "[05时22分 ~ 07时22分]"
         },
         {
+          "title": "习近平同特朗普会晤 详讯公布",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4+%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时24分]"
+        },
+        {
+          "title": "会晤结束后特朗普送习近平上车",
+          "url": "https://www.douyin.com/hot/2288460",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时24分]"
+        },
+        {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
           "url": "https://news.ifeng.com/c/8nqaruILXu7",
           "source": "凤凰网",
@@ -260,15 +297,15 @@
         },
         {
           "title": "会晤结束后 特朗普送习近平上车",
-          "url": "https://www.toutiao.com/trending/7566894327608200731/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%9A%E6%99%A4%E7%BB%93%E6%9D%9F%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8A%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            4
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时34分 ~ 16时28分]"
+          "time_info": "[15时22分 ~ 17时24分]"
         },
         {
           "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
@@ -349,17 +386,6 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
-          "title": "习近平同特朗普会晤 详讯公布",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4+%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时28分]"
-        },
-        {
           "title": "习近平同特朗普在韩国举行会晤",
           "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
           "source": "bilibili 热搜",
@@ -369,29 +395,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 11时14分]"
-        },
-        {
-          "title": "会晤结束后特朗普送习近平上车",
-          "url": "https://www.douyin.com/hot/2288460",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时28分]"
-        },
-        {
-          "title": "会晤结束后 特朗普送习近平上车",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%9A%E6%99%A4%E7%BB%93%E6%9D%9F%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8A%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时28分]"
         },
         {
           "title": "市场消息：美国总统特朗普抵达釜山。",
@@ -453,6 +456,18 @@
           "time_info": "[11时14分 ~ 12时27分]"
         },
         {
+          "title": "习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://www.cls.cn/detail/2186006",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时24分]"
+        },
+        {
           "title": "美国参议院获得足够票数通过决议，推翻特朗普对加拿大加征的关税。",
           "url": "https://flash.jin10.com/detail/20251030055720412800",
           "source": "金十数据",
@@ -465,6 +480,18 @@
           "time_info": "[06时24分 ~ 07时22分]"
         },
         {
+          "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
+          "url": "https://www.zhihu.com/question/1966966107974931991",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时24分]"
+        },
+        {
           "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
           "url": "https://v.ifeng.com/c/8nqcHK4xyyI",
           "source": "凤凰网",
@@ -474,18 +501,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
-          "url": "https://www.zhihu.com/question/1966966107974931991",
-          "source": "知乎",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 16时28分]"
         },
         {
           "title": "报告：特朗普在自导自演贸易战中败北",
@@ -547,6 +562,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时45分 ~ 11时14分]"
+        },
+        {
+          "title": "特朗普批准韩国在美建造核动力潜艇",
+          "url": "https://news.ifeng.com/c/8nsFayRT4WM",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时24分]"
         },
         {
           "title": "特朗普相信中美将建立长期良好关系",
@@ -702,6 +728,18 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
+          "title": "特朗普称威胁收关税阻止了印巴冲突",
+          "url": "https://www.toutiao.com/trending/7566596359043170346/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 17时24分]"
+        },
+        {
           "title": "特朗普在韩演讲谈及俄乌冲突",
           "url": "https://www.toutiao.com/trending/7566452631020617782/",
           "source": "今日头条",
@@ -713,26 +751,15 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
-          "title": "习近平同美国总统特朗普在釜山举行会晤",
-          "url": "https://www.cls.cn/detail/2186006",
-          "source": "财联社热门",
+          "title": "特朗普：给中美元首会晤打12分",
+          "url": "https://www.toutiao.com/trending/7566587793552719878/",
+          "source": "今日头条",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "特朗普批准韩国在美建造核动力潜艇",
-          "url": "https://news.ifeng.com/c/8nsFayRT4WM",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "17时24分"
         },
         {
           "title": "美国总统特朗普：（就印度削减俄罗斯能源进口一事）印度在这方面做得非常好。",
@@ -757,6 +784,28 @@
           "time_info": "09时45分"
         },
         {
+          "title": "习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758273",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "特朗普座驾现身韩国街头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BA%A7%E9%A9%BE%E7%8E%B0%E8%BA%AB%E9%9F%A9%E5%9B%BD%E8%A1%97%E5%A4%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D10%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D10%26c_type%3D31%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25BA%25A7%25E9%25A9%25BE%25E7%258E%25B0%25E8%25BA%25AB%25E9%259F%25A9%25E5%259B%25BD%25E8%25A1%2597%25E5%25A4%25B4%2523%26cate%3D5001%26dgr%3D0%26pos%3D10%26display_time%3D1761815219%26pre_seqid%3D17618152193910361971793",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "美国总统特朗普：我们确实在和俄罗斯谈论无核化问题。",
           "url": "https://flash.jin10.com/detail/20251030125315717800",
           "source": "金十数据",
@@ -766,6 +815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "特朗普下令重启核试验，外交部回应",
+          "url": "https://www.cls.cn/detail/2186192",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "美国总统特朗普：此前与加拿大总理卡尼进行了非常愉快的交谈。",
@@ -834,6 +894,39 @@
           "time_info": "13时21分"
         },
         {
+          "title": "习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855405",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "特朗普匆忙的行程安排透露何种信号",
+          "url": "https://www.toutiao.com/trending/7566914734864207369/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "中方回应“特朗普下令重启核试验”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E9%87%8D%E5%90%AF%E6%A0%B8%E8%AF%95%E9%AA%8C%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "特朗普为何批准韩国建造核潜艇",
           "url": "https://www.toutiao.com/trending/7566862344162709034/",
           "source": "今日头条",
@@ -851,7 +944,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -867,24 +960,13 @@
           "time_info": "15时22分"
         },
         {
-          "title": "特朗普称威胁收关税阻止了印巴冲突",
-          "url": "https://www.toutiao.com/trending/7566596359043170346/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "特朗普下令重启核试验，外交部：望美方以实际行动维护全球战略平衡与稳定",
           "url": "https://wallstreetcn.com/livenews/2996574",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
