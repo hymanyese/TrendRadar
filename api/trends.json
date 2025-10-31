@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T04:25:43.100921+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2025-11-01T05:20:10.562454+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时20分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "美国总统特朗普：尚未给予匈牙利总理欧尔班豁免权。",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
+          "url": "https://wallstreetcn.com/livenews/2997901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "美国总统特朗普：匈牙利总理欧尔班请求豁免俄罗斯制裁。",
@@ -133,6 +144,19 @@
           "time_info": "00时28分"
         },
         {
+          "title": "美参议院通过终止特朗普关税决议",
+          "url": "https://www.toutiao.com/trending/7567152652803706377/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 05时20分]"
+        },
+        {
           "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
           "url": "https://wallstreetcn.com/livenews/2997857",
           "source": "华尔街见闻-快讯",
@@ -144,6 +168,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时25分]"
+        },
+        {
+          "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
+          "url": "https://flash.jin10.com/detail/20251101030330901800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时20分]"
         },
         {
           "title": "美国法官：总统特朗普的政府叫停食品救济的做法恐怕是非法的。",
@@ -183,18 +220,6 @@
           "time_info": "[02时31分 ~ 03时17分]"
         },
         {
-          "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
-          "url": "https://flash.jin10.com/detail/20251101030330901800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时25分]"
-        },
-        {
           "title": "美国法官要求特朗普政府在下周一前说明是否会批准至少削减11月的美国补充营养协助计划（SNAP）福利。",
           "url": "https://flash.jin10.com/detail/20251101015246394800",
           "source": "金十数据",
@@ -219,16 +244,40 @@
           "time_info": "[03时17分 ~ 04时25分]"
         },
         {
-          "title": "美参议院通过终止特朗普关税决议",
-          "url": "https://www.toutiao.com/trending/7567152652803706377/",
-          "source": "今日头条",
+          "title": "美国白宫将大西洋踢出总统特朗普的一系列石油租赁计划。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/2997878",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30,
-            23
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时25分]"
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
+          "title": "白宫国家经济委员会主任哈塞特：（即便总统特朗普的美国政府连续31天关门）新增就业岗位和收入增长仍然是正面的。",
+          "url": "https://wallstreetcn.com/livenews/2997872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
+          "title": "白宫国家经济委员会主任哈塞特：不认可美国法官对“补充营养援助计划”（SNAP）的裁决。 特朗普政府扣留（联邦政府）众多资金显然是有其法理依据的。",
+          "url": "https://wallstreetcn.com/livenews/2997871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
         },
         {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：美联储主席鲍威尔说12月降息远非“板上钉钉之事”，这让人感到欣慰。 鲍威尔（在新闻发布会的表态）实际上体现出FOMC成员们看法所形成的一个区间/范围。 每次会议都会根据当时的实际情况来做决定。 （在特朗普政府停摆的）当下是最难预料的。",
@@ -241,6 +290,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时31分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
+          "url": "https://flash.jin10.com/detail/20251101031047264800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
         },
         {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
@@ -298,17 +359,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美国白宫将大西洋踢出总统特朗普的一系列石油租赁计划。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/2997878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
           "title": "据CNN：美国国防部批准向乌克兰提供战斧导弹，最终决策权移交美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20251101011341115800",
           "source": "金十数据",
@@ -329,28 +379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：（即便总统特朗普的美国政府连续31天关门）新增就业岗位和收入增长仍然是正面的。",
-          "url": "https://wallstreetcn.com/livenews/2997872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：不认可美国法官对“补充营养援助计划”（SNAP）的裁决。 特朗普政府扣留（联邦政府）众多资金显然是有其法理依据的。",
-          "url": "https://wallstreetcn.com/livenews/2997871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
         },
         {
           "title": "美国总统特朗普：不会与加拿大重新谈判。",
@@ -397,17 +425,6 @@
           "time_info": "00时28分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
-          "url": "https://flash.jin10.com/detail/20251101031047264800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
           "title": "特朗普宣布将尼日利亚列为“特别关注国” 谴责针对基督徒的暴力",
           "url": "https://flash.jin10.com/detail/20251101021528555800",
           "source": "金十数据",
@@ -450,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "马斯克：植入Neuralink设备的人将最终将战胜所有人类玩家",
+          "url": "https://wallstreetcn.com/livenews/2997904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     },
@@ -506,8 +534,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "神舟二十一号载人飞船发射取得圆满成功，我国2025年载人航天发射任务圆满收官",
