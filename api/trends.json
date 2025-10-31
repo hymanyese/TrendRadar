@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T22:22:09.510256+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2025-10-31T23:26:28.029375+08:00",
+  "total_titles_processed": 2105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -29,19 +29,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时27分 ~ 17时24分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时12分 ~ 22时22分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -81,6 +68,18 @@
           "time_info": "[00时27分 ~ 11时13分]"
         },
         {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时23分 ~ 23时26分]"
+        },
+        {
           "title": "美参议院通过终止特朗普全面关税政策决议",
           "url": "https://news.ifeng.com/c/8ntJZC8qeev",
           "source": "凤凰网",
@@ -95,16 +94,18 @@
           "time_info": "[09时40分 ~ 16时28分]"
         },
         {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
           "ranks": [
-            5,
-            3
+            1,
+            2,
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时23分 ~ 22时22分]"
+          "appearance_count": 18,
+          "time_info": "[11时12分 ~ 23时26分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -118,8 +119,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时40分 ~ 22时22分]"
+          "appearance_count": 20,
+          "time_info": "[09时40分 ~ 23时26分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -133,8 +134,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时41分 ~ 22时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时41分 ~ 23时26分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -249,6 +250,21 @@
           "time_info": "[09时40分 ~ 21时35分]"
         },
         {
+          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
+          "url": "https://wallstreetcn.com/articles/3758353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时34分 ~ 23时26分]"
+        },
+        {
           "title": "特朗普：相信我们将建立长期良好的关系",
           "url": "https://m.thepaper.cn/newsDetail_forward_31854436",
           "source": "澎湃新闻",
@@ -346,21 +362,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时40分 ~ 15时20分]"
-        },
-        {
-          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
-          "url": "https://wallstreetcn.com/articles/3758353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时34分 ~ 22时22分]"
         },
         {
           "title": "特朗普为何不参加APEC峰会",
@@ -700,6 +701,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "艾伯维CEO：美国总统特朗普的政府侧重于在IRA（个人退休账户）实施更大力度的（医药）降价。",
+          "url": "https://wallstreetcn.com/livenews/2997792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "特朗普周六将出席在海湖庄园举行的筹款晚宴。",
           "url": "https://wallstreetcn.com/livenews/2997271",
           "source": "华尔街见闻-快讯",
@@ -794,7 +806,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -905,7 +917,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -947,6 +959,18 @@
           "time_info": "[13时22分 ~ 14时34分]"
         },
         {
+          "title": "如果路明非是一个勇敢、坚强、正义、乐观的热血少年，《龙族》的故事会变得怎么样？",
+          "url": "https://www.zhihu.com/question/9580273557",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时26分]"
+        },
+        {
           "title": "大牌保暖空调天猫国补历史最低价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E7%89%8C%E4%BF%9D%E6%9A%96%E7%A9%BA%E8%B0%83%E5%A4%A9%E7%8C%AB%E5%9B%BD%E8%A1%A5%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D20%26q%3D%2523%25E5%25A4%25A7%25E7%2589%258C%25E4%25BF%259D%25E6%259A%2596%25E7%25A9%25BA%25E8%25B0%2583%25E5%25A4%25A9%25E7%258C%25AB%25E5%259B%25BD%25E8%25A1%25A5%25E5%258E%2586%25E5%258F%25B2%25E6%259C%2580%25E4%25BD%258E%25E4%25BB%25B7%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D21%26realpos%3D20%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26display_time%3D1761902396%26pre_seqid%3D176190239689901696156133&launchid=10000360-page_H5",
           "source": "微博",
@@ -956,17 +980,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时23分 ~ 18时23分]"
-        },
-        {
-          "title": "如果路明非是一个勇敢、坚强、正义、乐观的热血少年，《龙族》的故事会变得怎么样？",
-          "url": "https://www.zhihu.com/question/9580273557",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "逃离鸭科夫的诞生故事",
@@ -1008,7 +1021,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1041,7 +1054,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
