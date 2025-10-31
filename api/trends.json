@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T02:31:47.487683+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2025-11-01T03:17:00.498172+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -37,41 +37,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
-          "title": "美国总统特朗普：始终愿意与民主党人会面。民主党人所要做的就是开放政府。",
-          "url": "https://flash.jin10.com/detail/20251101020307809800",
-          "source": "金十数据",
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
           "ranks": [
-            1
+            19,
+            18,
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
-          "title": "美国罗德岛州法官：我将阻止特朗普政府在停摆期间暂停快速粮食援助福利的计划。",
-          "url": "https://flash.jin10.com/detail/20251101020250642800",
+          "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
+          "url": "https://flash.jin10.com/detail/20251101030330901800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
-          "url": "https://wallstreetcn.com/livenews/2997857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时17分"
         },
         {
           "title": "美国总统特朗普：尚未给予匈牙利总理欧尔班豁免权。",
@@ -85,26 +77,15 @@
           "time_info": "00时28分"
         },
         {
-          "title": "美国法官要求特朗普政府在下周一前说明是否会批准至少削减11月的美国补充营养协助计划（SNAP）福利。",
-          "url": "https://flash.jin10.com/detail/20251101015246394800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "美国法官：总统特朗普的政府叫停食品救济的做法恐怕是非法的。",
-          "url": "https://wallstreetcn.com/livenews/2997856",
+          "title": "美法官裁定：特朗普政府不得在“停摆”期间暂停食品援助",
+          "url": "https://wallstreetcn.com/livenews/2997869",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时17分"
         },
         {
           "title": "美国总统特朗普：匈牙利总理欧尔班请求豁免俄罗斯制裁。",
@@ -146,7 +127,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -162,28 +143,76 @@
           "time_info": "00时28分"
         },
         {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
+          "title": "美国总统特朗普：始终愿意与民主党人会面。民主党人所要做的就是开放政府。",
+          "url": "https://flash.jin10.com/detail/20251101020307809800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            18,
-            11
+            1,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
+          "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
+          "url": "https://wallstreetcn.com/livenews/2997857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
           "url": "https://wallstreetcn.com/articles/3758353",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
+        },
+        {
+          "title": "美国罗德岛州法官：我将阻止特朗普政府在停摆期间暂停快速粮食援助福利的计划。",
+          "url": "https://flash.jin10.com/detail/20251101020250642800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
+          "title": "美国法官要求特朗普政府在下周一前说明是否会批准至少削减11月的美国补充营养协助计划（SNAP）福利。",
+          "url": "https://flash.jin10.com/detail/20251101015246394800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
+          "title": "美国法官：总统特朗普的政府叫停食品救济的做法恐怕是非法的。",
+          "url": "https://wallstreetcn.com/livenews/2997856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
         },
         {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：美联储主席鲍威尔说12月降息远非“板上钉钉之事”，这让人感到欣慰。 鲍威尔（在新闻发布会的表态）实际上体现出FOMC成员们看法所形成的一个区间/范围。 每次会议都会根据当时的实际情况来做决定。 （在特朗普政府停摆的）当下是最难预料的。",
@@ -196,6 +225,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时31分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普关税决议",
+          "url": "https://www.toutiao.com/trending/7567152652803706377/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 03时17分]"
         },
         {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
@@ -231,13 +271,24 @@
           "time_info": "00时28分"
         },
         {
+          "title": "美国国务院发言人：美国总统特朗普政府支持废除针对叙利亚的《凯撒法案》制裁。",
+          "url": "https://flash.jin10.com/detail/20251101025013494800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
           "url": "https://flash.jin10.com/detail/20251101011922130800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -248,9 +299,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "据The Information：马斯克称特斯拉(TSLA.O)今年可能会推出飞行汽车。",
+          "url": "https://flash.jin10.com/detail/20251101024513127800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "美国总统特朗普：不会与加拿大重新谈判。",
@@ -297,6 +359,28 @@
           "time_info": "00时28分"
         },
         {
+          "title": "特朗普宣布将尼日利亚列为“特别关注国” 谴责针对基督徒的暴力",
+          "url": "https://flash.jin10.com/detail/20251101021528555800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国总统特朗普：将尼日利亚列为“特别关注国家”。",
+          "url": "https://flash.jin10.com/detail/20251101021019362800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：在（总统特朗普的）政府关门事件造成政府数据缺失之际，美联储的数据具有重要意义。",
           "url": "https://wallstreetcn.com/livenews/2997822",
           "source": "华尔街见闻-快讯",
@@ -330,11 +414,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时17分]"
         },
         {
           "title": "如果路明非是一个勇敢、坚强、正义、乐观的热血少年，《龙族》的故事会变得怎么样？",
@@ -372,8 +457,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "神舟二十一号载人飞船发射取得圆满成功，我国2025年载人航天发射任务圆满收官",
