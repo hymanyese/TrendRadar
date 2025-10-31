@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T01:20:34.924015+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-11-01T02:31:47.487683+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -37,8 +37,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
+        },
+        {
+          "title": "美国总统特朗普：始终愿意与民主党人会面。民主党人所要做的就是开放政府。",
+          "url": "https://flash.jin10.com/detail/20251101020307809800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国罗德岛州法官：我将阻止特朗普政府在停摆期间暂停快速粮食援助福利的计划。",
+          "url": "https://flash.jin10.com/detail/20251101020250642800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
+          "url": "https://wallstreetcn.com/livenews/2997857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "美国总统特朗普：尚未给予匈牙利总理欧尔班豁免权。",
@@ -50,6 +83,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国法官要求特朗普政府在下周一前说明是否会批准至少削减11月的美国补充营养协助计划（SNAP）福利。",
+          "url": "https://flash.jin10.com/detail/20251101015246394800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国法官：总统特朗普的政府叫停食品救济的做法恐怕是非法的。",
+          "url": "https://wallstreetcn.com/livenews/2997856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "美国总统特朗普：匈牙利总理欧尔班请求豁免俄罗斯制裁。",
@@ -85,6 +140,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "美国法官裁定，特朗普政府在政府停摆期间暂停美国补充营养协助计划（SNAP）食品援助福利的计划可能违法。",
+          "url": "https://flash.jin10.com/detail/20251101015020178800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
           "title": "油价回吐涨幅，标普500指数目前涨0.33%，道指微跌。 美国总统特朗普称，美军不会（从陆地上）袭击委内瑞拉。 被问及是否考虑袭击委内瑞拉，称他“没有”。 还没有决定是否要袭击委内瑞拉。 将进行一些（核武器）测试。",
           "url": "https://wallstreetcn.com/livenews/2997815",
           "source": "华尔街见闻-快讯",
@@ -101,11 +167,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
@@ -115,8 +182,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
+        },
+        {
+          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：美联储主席鲍威尔说12月降息远非“板上钉钉之事”，这让人感到欣慰。 鲍威尔（在新闻发布会的表态）实际上体现出FOMC成员们看法所形成的一个区间/范围。 每次会议都会根据当时的实际情况来做决定。 （在特朗普政府停摆的）当下是最难预料的。",
+          "url": "https://wallstreetcn.com/livenews/2997828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时31分]"
         },
         {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
@@ -150,6 +229,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
+          "url": "https://flash.jin10.com/detail/20251101011922130800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "据CNN：美国国防部批准向乌克兰提供战斧导弹，最终决策权移交美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251101011341115800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "美国总统特朗普：不会与加拿大重新谈判。",
@@ -196,24 +297,13 @@
           "time_info": "00时28分"
         },
         {
-          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：美联储主席鲍威尔说12月降息远非“板上钉钉之事”，这让人感到欣慰。 鲍威尔（在新闻发布会的表态）实际上体现出FOMC成员们看法所形成的一个区间/范围。 每次会议都会根据当时的实际情况来做决定。 （在特朗普政府停摆的）当下是最难预料的。",
-          "url": "https://wallstreetcn.com/livenews/2997828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：在（总统特朗普的）政府关门事件造成政府数据缺失之际，美联储的数据具有重要意义。",
           "url": "https://wallstreetcn.com/livenews/2997822",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -224,7 +314,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
@@ -234,6 +324,18 @@
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
       "match_count": 3,
       "titles": [
+        {
+          "title": "美国能源信息署（EIA）：美国8月石油产量创历史新高，接近1380万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/2997841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时31分]"
+        },
         {
           "title": "如果路明非是一个勇敢、坚强、正义、乐观的热血少年，《龙族》的故事会变得怎么样？",
           "url": "https://www.zhihu.com/question/9580273557",
@@ -255,17 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：美国8月石油产量创历史新高，接近1380万桶/日。",
-          "url": "https://wallstreetcn.com/livenews/2997841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
         }
       ]
     },
@@ -281,8 +372,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "神舟二十一号载人飞船发射取得圆满成功，我国2025年载人航天发射任务圆满收官",
@@ -291,7 +382,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
