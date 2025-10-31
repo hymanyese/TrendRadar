@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T16:28:55.308253+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2025-10-31T17:24:02.388372+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -27,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 16时28分]"
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 17时24分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时12分 ~ 17时24分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -82,18 +94,6 @@
           "time_info": "[09时40分 ~ 16时28分]"
         },
         {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时12分 ~ 16时28分]"
-        },
-        {
           "title": "美参议院通过终止特朗普全面关税政策决议",
           "url": "https://www.cls.cn/detail/2187070",
           "source": "财联社热门",
@@ -104,21 +104,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时40分 ~ 14时34分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普关税决议",
-          "url": "https://www.toutiao.com/trending/7567152652803706377/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4,
-            5,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 16时28分]"
         },
         {
           "title": "特朗普称将下令美航母改回蒸汽弹射",
@@ -149,6 +134,22 @@
           "time_info": "[00时27分 ~ 15时20分]"
         },
         {
+          "title": "美参议院通过终止特朗普关税决议",
+          "url": "https://www.toutiao.com/trending/7567152652803706377/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4,
+            5,
+            15,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 17时24分]"
+        },
+        {
           "title": "【早报】美方称中方同意暂停实施稀土出口管制措施，外交部回应；美参议院通过终止特朗普全面关税政策决议",
           "url": "https://www.cls.cn/detail/2187068",
           "source": "财联社热门",
@@ -175,21 +176,6 @@
           "time_info": "[00时28分 ~ 13时22分]"
         },
         {
-          "title": "特朗普全面关税被参议院批准终止",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            7,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 16时28分]"
-        },
-        {
           "title": "特朗普批准韩国在美建造核动力潜艇",
           "url": "https://news.ifeng.com/c/8nsFayRT4WM",
           "source": "凤凰网",
@@ -201,6 +187,37 @@
           "time_info": "[00时27分 ~ 03时18分]"
         },
         {
+          "title": "特朗普全面关税被参议院批准终止",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            7,
+            9,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 17时24分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://wallstreetcn.com/articles/3758372",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 17时24分]"
+        },
+        {
           "title": "美参议院通过终止特朗普全面关税政策决议",
           "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
           "source": "澎湃新闻",
@@ -209,8 +226,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 16时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 17时24分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -283,21 +300,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时40分 ~ 16时28分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://wallstreetcn.com/articles/3758372",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 16时28分]"
         },
         {
           "title": "特朗普全面关税被参议院批准终止",
@@ -392,6 +394,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时40分 ~ 11时13分]"
+        },
+        {
+          "title": "特朗普为何不参加APEC峰会",
+          "url": "https://www.toutiao.com/trending/7567275879148031498/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "美国卫星通讯公司全球星（Globalstar）盘中直线拉升，一度涨超30%。消息面上，该公司正探索出售可能性，并与马斯克旗下的SpaceX等潜在收购方进行初步接洽。",
@@ -501,11 +525,25 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时24分]"
+        },
+        {
+          "title": "终止特朗普全面关税政策落地有多难",
+          "url": "https://www.toutiao.com/trending/7567230870218608138/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时24分]"
         },
         {
           "title": "美国总统特朗普的“房管局长”（联邦住房金融局局长）Bill Pulte：房利美今天裁员超过62人。",
@@ -565,18 +603,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "终止特朗普全面关税政策落地有多难",
-          "url": "https://www.toutiao.com/trending/7567230870218608138/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时28分]"
         },
         {
           "title": "如何看待美国参议院否决特朗普关税",
@@ -712,6 +738,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "乌克兰外长：俄罗斯使用了导致特朗普退出中导条约的导弹",
+          "url": "https://flash.jin10.com/detail/20251031165712977800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "美国副总统万斯：美国民众不应该在（总统特朗普）政府关门期间对飞机出行方式感到惶恐不安。 担心飞行员不会重返（飞机）驾驶舱，这造成航班延误。 如果政府关门持续至感恩节，对旅行行业可能是一场灾难。",
           "url": "https://wallstreetcn.com/livenews/2997087",
           "source": "华尔街见闻-快讯",
@@ -726,7 +763,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "《斗破苍穹》里萧炎能否删去穿越者这一设定？会对故事产生影响吗？",
@@ -803,6 +840,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 14时34分]"
+        },
+        {
+          "title": "逃离鸭科夫的诞生故事",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%83%E7%A6%BB%E9%B8%AD%E7%A7%91%E5%A4%AB%E7%9A%84%E8%AF%9E%E7%94%9F%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "南北方过冬达成历史性一致",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%97%E5%8C%97%E6%96%B9%E8%BF%87%E5%86%AC%E8%BE%BE%E6%88%90%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E8%87%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D19%26q%3D%2523%25E5%258D%2597%25E5%258C%2597%25E6%2596%25B9%25E8%25BF%2587%25E5%2586%25AC%25E8%25BE%25BE%25E6%2588%2590%25E5%258E%2586%25E5%258F%25B2%25E6%2580%25A7%25E4%25B8%2580%25E8%2587%25B4%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D20%26realpos%3D19%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26display_time%3D1761902396%26pre_seqid%3D176190239689901696156133&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "大牌保暖空调天猫国补历史最低价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E7%89%8C%E4%BF%9D%E6%9A%96%E7%A9%BA%E8%B0%83%E5%A4%A9%E7%8C%AB%E5%9B%BD%E8%A1%A5%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D20%26q%3D%2523%25E5%25A4%25A7%25E7%2589%258C%25E4%25BF%259D%25E6%259A%2596%25E7%25A9%25BA%25E8%25B0%2583%25E5%25A4%25A9%25E7%258C%25AB%25E5%259B%25BD%25E8%25A1%25A5%25E5%258E%2586%25E5%258F%25B2%25E6%259C%2580%25E4%25BD%258E%25E4%25BB%25B7%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D21%26realpos%3D20%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26display_time%3D1761902396%26pre_seqid%3D176190239689901696156133&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "《沉默的荣耀》史实顾问讲述真实历史",
