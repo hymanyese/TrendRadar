@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T17:24:02.388372+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2025-10-31T18:23:28.621801+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时12分 ~ 17时24分]"
+          "appearance_count": 11,
+          "time_info": "[11时12分 ~ 18时23分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -176,6 +176,34 @@
           "time_info": "[00时28分 ~ 13时22分]"
         },
         {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://wallstreetcn.com/articles/3758372",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 18时23分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 18时23分]"
+        },
+        {
           "title": "特朗普批准韩国在美建造核动力潜艇",
           "url": "https://news.ifeng.com/c/8nsFayRT4WM",
           "source": "凤凰网",
@@ -196,38 +224,12 @@
             7,
             9,
             12,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时40分 ~ 17时24分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://wallstreetcn.com/articles/3758372",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 17时24分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时40分 ~ 17时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 18时23分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -370,6 +372,29 @@
           "time_info": "[00时27分 ~ 04时24分]"
         },
         {
+          "title": "特朗普为何不参加APEC峰会",
+          "url": "https://www.toutiao.com/trending/7567275879148031498/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时23分]"
+        },
+        {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时23分]"
+        },
+        {
           "title": "高市早苗接待特朗普为何“丑态百出”",
           "url": "https://www.toutiao.com/trending/7566990340884794923/",
           "source": "今日头条",
@@ -394,28 +419,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时40分 ~ 11时13分]"
-        },
-        {
-          "title": "特朗普为何不参加APEC峰会",
-          "url": "https://www.toutiao.com/trending/7567275879148031498/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "美国卫星通讯公司全球星（Globalstar）盘中直线拉升，一度涨超30%。消息面上，该公司正探索出售可能性，并与马斯克旗下的SpaceX等潜在收购方进行初步接洽。",
@@ -495,6 +498,19 @@
           "time_info": "15时20分"
         },
         {
+          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
+          "url": "https://wallstreetcn.com/articles/3758353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 18时23分]"
+        },
+        {
           "title": "普京为何选择对特朗普“冷处理”",
           "url": "https://www.toutiao.com/trending/7567155566624116266/",
           "source": "今日头条",
@@ -518,19 +534,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时24分]"
-        },
-        {
-          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
-          "url": "https://wallstreetcn.com/articles/3758353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 17时24分]"
         },
         {
           "title": "终止特朗普全面关税政策落地有多难",
@@ -628,6 +631,17 @@
           "time_info": "15时20分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-31）",
+          "url": "https://flash.jin10.com/detail/20251031181559600800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "美国副总统万斯：美国民众不应该在（总统特朗普）政府关门期间对飞机出行方式感到惶恐不安。 担心飞行员不会重返（飞机）驾驶舱，这造成航班延误。",
           "url": "https://wallstreetcn.com/livenews/2997087",
           "source": "华尔街见闻-快讯",
@@ -705,6 +719,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "外交部回应特朗普“G2”集团言论",
+          "url": "https://www.toutiao.com/trending/7566848950186197011/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "美国贸易代表格里尔：总统特朗普希望与巴西总统卢拉达成一份协议。",
           "url": "https://wallstreetcn.com/livenews/2997125",
           "source": "华尔街见闻-快讯",
@@ -714,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普关税被指“违法”对华意味什么",
+          "url": "https://www.toutiao.com/trending/7567284269270175295/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "GlobalStar（GSAT）上涨12%，随后触发盘中临时停牌。 彭博援引知情人士报道称，该公司在出售过程中吸引到马斯克旗下太空探索公司SpaceX的兴趣。 该公司与顾问合作，研究潜在的竞购方。",
@@ -744,7 +780,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -842,6 +878,17 @@
           "time_info": "[13时22分 ~ 14时34分]"
         },
         {
+          "title": "大牌保暖空调天猫国补历史最低价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E7%89%8C%E4%BF%9D%E6%9A%96%E7%A9%BA%E8%B0%83%E5%A4%A9%E7%8C%AB%E5%9B%BD%E8%A1%A5%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D20%26q%3D%2523%25E5%25A4%25A7%25E7%2589%258C%25E4%25BF%259D%25E6%259A%2596%25E7%25A9%25BA%25E8%25B0%2583%25E5%25A4%25A9%25E7%258C%25AB%25E5%259B%25BD%25E8%25A1%25A5%25E5%258E%2586%25E5%258F%25B2%25E6%259C%2580%25E4%25BD%258E%25E4%25BB%25B7%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D21%26realpos%3D20%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26display_time%3D1761902396%26pre_seqid%3D176190239689901696156133&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时23分]"
+        },
+        {
           "title": "逃离鸭科夫的诞生故事",
           "url": "https://search.bilibili.com/all?keyword=%E9%80%83%E7%A6%BB%E9%B8%AD%E7%A7%91%E5%A4%AB%E7%9A%84%E8%AF%9E%E7%94%9F%E6%95%85%E4%BA%8B",
           "source": "bilibili 热搜",
@@ -858,17 +905,6 @@
           "source": "微博",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "大牌保暖空调天猫国补历史最低价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E7%89%8C%E4%BF%9D%E6%9A%96%E7%A9%BA%E8%B0%83%E5%A4%A9%E7%8C%AB%E5%9B%BD%E8%A1%A5%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D20%26q%3D%2523%25E5%25A4%25A7%25E7%2589%258C%25E4%25BF%259D%25E6%259A%2596%25E7%25A9%25BA%25E8%25B0%2583%25E5%25A4%25A9%25E7%258C%25AB%25E5%259B%25BD%25E8%25A1%25A5%25E5%258E%2586%25E5%258F%25B2%25E6%259C%2580%25E4%25BD%258E%25E4%25BB%25B7%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D21%26realpos%3D20%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26display_time%3D1761902396%26pre_seqid%3D176190239689901696156133&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
