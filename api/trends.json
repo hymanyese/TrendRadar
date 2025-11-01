@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T09:46:08.369670+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2025-11-01T11:15:20.567855+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -58,6 +58,18 @@
           "time_info": "[00时27分 ~ 07时19分]"
         },
         {
+          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
+          "url": "https://www.cls.cn/detail/2188509",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时15分]"
+        },
+        {
           "title": "美参议院通过终止特朗普关税决议",
           "url": "https://www.toutiao.com/trending/7567152652803706377/",
           "source": "今日头条",
@@ -83,17 +95,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时17分 ~ 07时19分]"
-        },
-        {
-          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
-          "url": "https://www.cls.cn/detail/2188509",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
         },
         {
           "title": "美国总统特朗普：尚未给予匈牙利总理欧尔班豁免权。",
@@ -282,8 +283,43 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 11时15分]"
+        },
+        {
+          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
+          "url": "https://www.cls.cn/detail/2188470",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时15分]"
+        },
+        {
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时15分]"
+        },
+        {
+          "title": "特朗普匆忙回程或预示美政府结束停摆",
+          "url": "https://www.toutiao.com/trending/7566776242700566564/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时15分]"
         },
         {
           "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
@@ -301,17 +337,6 @@
           "title": "美参议院否决特朗普关税政策意味啥",
           "url": "https://www.toutiao.com/trending/7567416043790929444/",
           "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
-          "url": "https://www.cls.cn/detail/2188470",
-          "source": "财联社热门",
           "ranks": [
             8
           ],
@@ -368,17 +393,6 @@
           "time_info": "[04时25分 ~ 05时20分]"
         },
         {
-          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：美联储主席鲍威尔说12月降息远非“板上钉钉之事”，这让人感到欣慰。 鲍威尔（在新闻发布会的表态）实际上体现出FOMC成员们看法所形成的一个区间/范围。 每次会议都会根据当时的实际情况来做决定。 （在特朗普政府停摆的）当下是最难预料的。",
           "url": "https://wallstreetcn.com/livenews/2997828",
           "source": "华尔街见闻-快讯",
@@ -389,17 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时31分]"
-        },
-        {
-          "title": "特朗普匆忙回程或预示美政府结束停摆",
-          "url": "https://www.toutiao.com/trending/7566776242700566564/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
         },
         {
           "title": "特朗普呼吁废除参议院“拖延战术”议事规则，遭共和党内部反对",
@@ -422,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "特朗普：加总理道歉了，没用",
+          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "美国总统特朗普：（被问及美国是否将恢复地下核爆试验）你们很快就会知道了。",
@@ -603,7 +617,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国能源信息署（EIA）：美国8月石油产量创历史新高，接近1380万桶/日。",
@@ -650,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "小鹏汽车：单月交付量创下历史新高",
+          "url": "https://wallstreetcn.com/livenews/2997949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         }
       ]
     },
@@ -673,11 +698,12 @@
           "url": "https://www.zhihu.com/question/1965029358373663025",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时15分]"
         },
         {
           "title": "神舟二十一号载人飞船发射取得圆满成功，我国2025年载人航天发射任务圆满收官",
