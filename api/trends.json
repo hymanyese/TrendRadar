@@ -1,281 +1,22 @@
 {
-  "generated_at": "2025-11-01T23:18:49.042021+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2025-11-02T00:23:18.652199+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 65,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 09时46分]"
-        },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
           "url": "https://www.cls.cn/detail/2188509",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时45分 ~ 23时18分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时19分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://wallstreetcn.com/articles/3758372",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时29分]"
-        },
-        {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时19分 ~ 23时18分]"
-        },
-        {
-          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15,
-            12,
-            11,
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时45分 ~ 23时18分]"
-        },
-        {
-          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
-          "url": "https://www.cls.cn/detail/2188470",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时45分 ~ 23时18分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时19分]"
-        },
-        {
-          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
-          "url": "https://news.ifeng.com/c/8nvMEROArvE",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时20分 ~ 21时25分]"
-        },
-        {
-          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
-          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时26分 ~ 23时18分]"
-        },
-        {
-          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
-          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时26分 ~ 23时18分]"
-        },
-        {
-          "title": "特朗普：加总理道歉了，没用",
-          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 17时20分]"
-        },
-        {
-          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
-          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时23分 ~ 18时22分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普关税决议",
-          "url": "https://www.toutiao.com/trending/7567152652803706377/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            23,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时16分 ~ 07时19分]"
-        },
-        {
-          "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
-          "url": "https://flash.jin10.com/detail/20251101030330901800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 07时19分]"
-        },
-        {
-          "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
-          "url": "https://wallstreetcn.com/livenews/2997972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            20,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 18时22分]"
-        },
-        {
-          "title": "美国总统特朗普：尚未给予匈牙利总理欧尔班豁免权。",
-          "url": "https://flash.jin10.com/detail/20251101000138098800",
-          "source": "金十数据",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国总统特朗普：匈牙利总理欧尔班请求豁免俄罗斯制裁。",
-          "url": "https://flash.jin10.com/detail/20251101000133392800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美元兑加元略微走高，日内涨幅重新扩大至约0.2%。 加拿大股指转跌，失守30180点，北京时间22:00还曾涨至30314.63点刷新日高。 美国总统特朗普称，不会与加拿大恢复贸易磋商。 非常喜欢（加拿大总理）卡尼，（但）加拿大过去做错了。 卡尼为（安大略省在美国针对特朗普关税投放的）关税商业广告道歉。",
-          "url": "https://wallstreetcn.com/livenews/2997816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
-          "url": "https://wallstreetcn.com/articles/3758353",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时25分]"
-        },
-        {
-          "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
-          "url": "https://flash.jin10.com/detail/20251101135652852800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时20分]"
+          "time_info": "00时23分"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -284,56 +25,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国总统特朗普：加拿大总理卡尼为关税广告道歉。",
-          "url": "https://flash.jin10.com/detail/20251031235837933800",
-          "source": "金十数据",
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国法官裁定，特朗普政府在政府停摆期间暂停美国补充营养协助计划（SNAP）食品援助福利的计划可能违法。",
-          "url": "https://flash.jin10.com/detail/20251101015020178800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "油价回吐涨幅，标普500指数目前涨0.33%，道指微跌。 美国总统特朗普称，美军不会（从陆地上）袭击委内瑞拉。 被问及是否考虑袭击委内瑞拉，称他“没有”。 还没有决定是否要袭击委内瑞拉。 将进行一些（核武器）测试。",
-          "url": "https://wallstreetcn.com/livenews/2997815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
-          "url": "https://wallstreetcn.com/livenews/2997901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时20分 ~ 09时46分]"
+          "time_info": "00时23分"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -343,663 +48,124 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 23时18分]"
-        },
-        {
-          "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
-          "url": "https://wallstreetcn.com/livenews/2997857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 04时25分]"
-        },
-        {
-          "title": "美国法官：总统特朗普的政府叫停食品救济的做法恐怕是非法的。",
-          "url": "https://wallstreetcn.com/livenews/2997856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 04时25分]"
-        },
-        {
-          "title": "美国总统特朗普：始终愿意与民主党人会面。民主党人所要做的就是开放政府。",
-          "url": "https://flash.jin10.com/detail/20251101020307809800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时17分]"
-        },
-        {
-          "title": "美国罗德岛州法官：我将阻止特朗普政府在停摆期间暂停快速粮食援助福利的计划。",
-          "url": "https://flash.jin10.com/detail/20251101020250642800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时17分]"
-        },
-        {
-          "title": "美国法官要求特朗普政府在下周一前说明是否会批准至少削减11月的美国补充营养协助计划（SNAP）福利。",
-          "url": "https://flash.jin10.com/detail/20251101015246394800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时17分]"
-        },
-        {
-          "title": "日本首相高市早苗：通过特朗普的访日行程，我们重申了强大的美日同盟。",
-          "url": "https://flash.jin10.com/detail/20251101164227451800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时22分]"
-        },
-        {
-          "title": "美法官裁定：特朗普政府不得在“停摆”期间暂停食品援助",
-          "url": "https://wallstreetcn.com/livenews/2997869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时25分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
-          "url": "https://flash.jin10.com/detail/20251101031047264800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 07时19分]"
-        },
-        {
-          "title": "特朗普匆忙回程或预示美政府结束停摆",
-          "url": "https://www.toutiao.com/trending/7566776242700566564/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 11时15分]"
-        },
-        {
-          "title": "特朗普一番话，让台网友惊呼：台湾没筹码啰",
-          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时16分]"
-        },
-        {
-          "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
-          "url": "https://wallstreetcn.com/livenews/2997914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 09时46分]"
-        },
-        {
-          "title": "美参议院否决特朗普关税政策意味啥",
-          "url": "https://www.toutiao.com/trending/7567416043790929444/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "美国总统特朗普：将询问法院，我们如何尽快地为“补充营养援助计划”（SNAP）提供资金。",
-          "url": "https://wallstreetcn.com/livenews/2997913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 09时46分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-01）",
-          "url": "https://flash.jin10.com/detail/20251101174039208800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时16分]"
-        },
-        {
-          "title": "美国白宫将大西洋踢出总统特朗普的一系列石油租赁计划。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/2997878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "加总理就反关税广告向特朗普致歉：只要美国准备好，贸易谈判将重启",
-          "url": "https://flash.jin10.com/detail/20251101171927032800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时16分]"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：（即便总统特朗普的美国政府连续31天关门）新增就业岗位和收入增长仍然是正面的。",
-          "url": "https://wallstreetcn.com/livenews/2997872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：不认可美国法官对“补充营养援助计划”（SNAP）的裁决。 特朗普政府扣留（联邦政府）众多资金显然是有其法理依据的。",
-          "url": "https://wallstreetcn.com/livenews/2997871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：美联储主席鲍威尔说12月降息远非“板上钉钉之事”，这让人感到欣慰。 鲍威尔（在新闻发布会的表态）实际上体现出FOMC成员们看法所形成的一个区间/范围。 每次会议都会根据当时的实际情况来做决定。 （在特朗普政府停摆的）当下是最难预料的。",
-          "url": "https://wallstreetcn.com/livenews/2997828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时31分]"
-        },
-        {
-          "title": "特朗普呼吁废除参议院“拖延战术”议事规则，遭共和党内部反对",
-          "url": "https://news.ifeng.com/c/8nujw83bPTx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
-          "url": "https://flash.jin10.com/detail/20251031235806226800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国总统特朗普：（被问及美国是否将恢复地下核爆试验）你们很快就会知道了。",
-          "url": "https://flash.jin10.com/detail/20251031235753945800",
-          "source": "金十数据",
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国总统特朗普：（被问及核试验）我们将进行一些试验。",
-          "url": "https://flash.jin10.com/detail/20251031235611504800",
-          "source": "金十数据",
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
+          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
+          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国国务院发言人：美国总统特朗普政府支持废除针对叙利亚的《凯撒法案》制裁。",
-          "url": "https://flash.jin10.com/detail/20251101025013494800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
-          "url": "https://flash.jin10.com/detail/20251101011922130800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "据CNN：美国国防部批准向乌克兰提供战斧导弹，最终决策权移交美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251101011341115800",
-          "source": "金十数据",
+          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
+          "url": "https://www.cls.cn/detail/2188470",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "据The Information：马斯克称特斯拉(TSLA.O)今年可能会推出飞行汽车。",
-          "url": "https://flash.jin10.com/detail/20251101024513127800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "美国总统特朗普：不会与加拿大重新谈判。",
-          "url": "https://flash.jin10.com/detail/20251031234852745800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美、布两油短线下挫0.5美元，特朗普称不打击委内瑞拉。",
-          "url": "https://flash.jin10.com/detail/20251031234643903800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "艾伯维CEO：美国总统特朗普的政府侧重于在IRA（个人退休账户）实施更大力度的（医药）降价。",
-          "url": "https://wallstreetcn.com/livenews/2997792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国总统特朗普：不打击委内瑞拉。",
-          "url": "https://flash.jin10.com/detail/20251031234601048800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "特朗普宣布将尼日利亚列为“特别关注国” 谴责针对基督徒的暴力",
-          "url": "https://flash.jin10.com/detail/20251101021528555800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "美国总统特朗普：将尼日利亚列为“特别关注国家”。",
-          "url": "https://flash.jin10.com/detail/20251101021019362800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：在（总统特朗普的）政府关门事件造成政府数据缺失之际，美联储的数据具有重要意义。",
-          "url": "https://wallstreetcn.com/livenews/2997822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国白宫将大西洋海域排除在总统特朗普的一系列石油租赁计划之外。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/2997878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "特朗普宣布重启核试验被批不切实际",
-          "url": "https://www.toutiao.com/trending/7567349344584601114/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "如何看待特朗普此次亚洲行",
-          "url": "https://www.toutiao.com/trending/7567668976637972006/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "马斯克：植入Neuralink设备的人将最终将战胜所有人类玩家",
-          "url": "https://wallstreetcn.com/livenews/2997904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 14,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "蔚来公司10月新车交付首次超过4万台 连续三个月创历史新高",
-          "url": "https://wallstreetcn.com/livenews/2997990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            11,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 20时40分]"
-        },
-        {
-          "title": "蔚来李斌：公司10月首破月销4万台，连续三个月创历史新高",
-          "url": "https://flash.jin10.com/detail/20251101160755272800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
-        },
-        {
-          "title": "小鹏汽车：单月交付量创下历史新高",
-          "url": "https://wallstreetcn.com/livenews/2997949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 14时31分]"
-        },
-        {
-          "title": "美国能源信息署（EIA）：美国8月石油产量创历史新高，接近1380万桶/日。",
-          "url": "https://wallstreetcn.com/livenews/2997841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时17分]"
-        },
-        {
-          "title": "凡人修仙传南陇侯人物志",
-          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%8D%97%E9%99%87%E4%BE%AF%E4%BA%BA%E7%89%A9%E5%BF%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时25分 ~ 23时18分]"
-        },
-        {
-          "title": "阿维塔10月销量13506辆，同比增长34%，创历史新高",
-          "url": "https://wallstreetcn.com/livenews/2997971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
-        },
-        {
-          "title": "浅跳一下睡前故事",
-          "url": "https://www.douyin.com/hot/2290597",
-          "source": "抖音",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时25分]"
-        },
-        {
-          "title": "鸿蒙智行：10月交付新车68216台，创单月交付量历史新高",
-          "url": "https://wallstreetcn.com/livenews/2998025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时18分]"
-        },
-        {
-          "title": "鸿蒙智行：2025年10月，鸿蒙智行创下双项纪录，单月交付新车68216台，创单月交付量历史新高。全系累计交付已突破100万台，创新势力品牌最快达成百万交付纪录。当月成交均价39万元，持续推动中国汽车高质量发展。",
-          "url": "https://flash.jin10.com/detail/20251101211429872800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时18分]"
-        },
-        {
-          "title": "如果路明非是一个勇敢、坚强、正义、乐观的热血少年，《龙族》的故事会变得怎么样？",
-          "url": "https://www.zhihu.com/question/9580273557",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "《CS2》饰品市场的故事在金融经济领域有哪些案例可以参考？",
-          "url": "https://www.zhihu.com/question/1966226687965492742",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周五（10月31日），南非富时/JSE非洲领先40可交易指数收跌0.42%，至10.2万点下方，本周累计下跌1.14%。 10月份，南非股指累涨0.98%，10月16日涨至10.6万点创历史新高之后快速走低。",
-          "url": "https://wallstreetcn.com/livenews/2997812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
         {
           "title": "伯克希尔·哈撒韦Q3运营利润大增34%，现金储备飙至3817亿美元创历史新高",
           "url": "https://wallstreetcn.com/articles/3758482",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时23分"
         },
         {
           "title": "泰州队击败南通队夺得苏超冠军，观赛人数再创历史纪录",
           "url": "https://m.thepaper.cn/newsDetail_forward_31875871",
           "source": "澎湃新闻",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 航天动态 ===== 月球 登月 火星 宇宙 飞船",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "直播丨点火，出征！神舟二十一号载人飞船发射任务取得圆满成功",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855407",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时19分]"
-        },
-        {
-          "title": "神舟二十一号载人飞船发射成功，航天员乘组进驻「天宫」，此次发射有哪些看点？接下来他们将完成哪些任务？",
-          "url": "https://www.zhihu.com/question/1965029358373663025",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时23分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "神舟二十一号载人飞船发射取得圆满成功，我国2025年载人航天发射任务圆满收官",
-          "url": "https://wallstreetcn.com/livenews/2997818",
+          "title": "鸿蒙智行：10月交付新车68216台，创单月交付量历史新高",
+          "url": "https://wallstreetcn.com/livenews/2998025",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "00时23分"
+        },
+        {
+          "title": "凡人修仙传南陇侯人物志",
+          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%8D%97%E9%99%87%E4%BE%AF%E4%BA%BA%E7%89%A9%E5%BF%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "鸿蒙智行：2025年10月，鸿蒙智行创下双项纪录，单月交付新车68216台，创单月交付量历史新高。全系累计交付已突破100万台，创新势力品牌最快达成百万交付纪录。当月成交均价39万元，持续推动中国汽车高质量发展。",
+          "url": "https://flash.jin10.com/detail/20251101211429872800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     }
