@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T20:40:26.970975+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2025-11-01T21:25:43.592152+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时45分 ~ 20时40分]"
+          "appearance_count": 14,
+          "time_info": "[09时45分 ~ 21时25分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -64,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时19分 ~ 20时40分]"
+          "appearance_count": 13,
+          "time_info": "[07时19分 ~ 21时25分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -83,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时45分 ~ 20时40分]"
+          "appearance_count": 14,
+          "time_info": "[09时45分 ~ 21时25分]"
         },
         {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
@@ -98,8 +99,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时45分 ~ 20时40分]"
+          "appearance_count": 14,
+          "time_info": "[09时45分 ~ 21时25分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -126,8 +127,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时20分 ~ 20时40分]"
+          "appearance_count": 10,
+          "time_info": "[13时20分 ~ 21时25分]"
         },
         {
           "title": "特朗普：加总理道歉了，没用",
@@ -152,6 +153,29 @@
           "time_info": "[12时23分 ~ 18时22分]"
         },
         {
+          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
+          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 21时25分]"
+        },
+        {
+          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
+          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 21时25分]"
+        },
+        {
           "title": "美参议院通过终止特朗普关税决议",
           "url": "https://www.toutiao.com/trending/7567152652803706377/",
           "source": "今日头条",
@@ -166,18 +190,6 @@
           "time_info": "[03时16分 ~ 07时19分]"
         },
         {
-          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
-          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 20时40分]"
-        },
-        {
           "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
           "url": "https://flash.jin10.com/detail/20251101030330901800",
           "source": "金十数据",
@@ -189,17 +201,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时17分 ~ 07时19分]"
-        },
-        {
-          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
-          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 20时40分]"
         },
         {
           "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
@@ -443,6 +444,17 @@
           "time_info": "[18时22分 ~ 19时16分]"
         },
         {
+          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
+          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时25分]"
+        },
+        {
           "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
           "url": "https://wallstreetcn.com/livenews/2997914",
           "source": "华尔街见闻-快讯",
@@ -559,17 +571,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
-          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         },
         {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
@@ -762,7 +763,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "蔚来公司10月新车交付首次超过4万台 连续三个月创历史新高",
@@ -833,6 +834,18 @@
           "time_info": "[16时27分 ~ 18时22分]"
         },
         {
+          "title": "浅跳一下睡前故事",
+          "url": "https://www.douyin.com/hot/2290597",
+          "source": "抖音",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时25分]"
+        },
+        {
           "title": "如果路明非是一个勇敢、坚强、正义、乐观的热血少年，《龙族》的故事会变得怎么样？",
           "url": "https://www.zhihu.com/question/9580273557",
           "source": "知乎",
@@ -855,18 +868,6 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
-          "title": "浅跳一下睡前故事",
-          "url": "https://www.douyin.com/hot/2290597",
-          "source": "抖音",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时40分]"
-        },
-        {
           "title": "非洲股市收盘播报｜周五（10月31日），南非富时/JSE非洲领先40可交易指数收跌0.42%，至10.2万点下方，本周累计下跌1.14%。 10月份，南非股指累涨0.98%，10月16日涨至10.6万点创历史新高之后快速走低。",
           "url": "https://wallstreetcn.com/livenews/2997812",
           "source": "华尔街见闻-快讯",
@@ -876,6 +877,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "凡人修仙传南陇侯人物志",
+          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%8D%97%E9%99%87%E4%BE%AF%E4%BA%BA%E7%89%A9%E5%BF%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         }
       ]
     },
