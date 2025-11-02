@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T09:46:36.005907+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2025-11-02T11:18:58.466650+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
@@ -17,21 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时46分]"
-        },
-        {
-          "title": "马斯克称5年后不再有手机和App",
-          "url": "https://www.toutiao.com/trending/7567154802250088494/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 11时18分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -44,8 +31,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 11时18分]"
+        },
+        {
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://www.toutiao.com/trending/7567154802250088494/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 11时18分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -53,11 +54,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 11时18分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -108,6 +110,17 @@
           "time_info": "[00时23分 ~ 09时46分]"
         },
         {
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D0%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E7%25A7%25B05%25E5%25B9%25B4%25E5%2590%258E%25E4%25B8%258D%25E5%2586%258D%25E6%259C%2589%25E6%2589%258B%25E6%259C%25BA%25E5%2592%258CApp%2523%26flag%3D1%26stream_entry_id%3D31%26realpos%3D1%26cate%3D5001%26dgr%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1762047655%26pre_seqid%3D176204765587901698044145&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时18分]"
+        },
+        {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
           "url": "https://wallstreetcn.com/articles/3758448",
           "source": "华尔街见闻",
@@ -120,37 +133,27 @@
           "time_info": "[00时23分 ~ 01时17分]"
         },
         {
-          "title": "马斯克称5年后不再有手机和App",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D0%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E7%25A7%25B05%25E5%25B9%25B4%25E5%2590%258E%25E4%25B8%258D%25E5%2586%258D%25E6%259C%2589%25E6%2589%258B%25E6%259C%25BA%25E5%2592%258CApp%2523%26flag%3D1%26stream_entry_id%3D31%26realpos%3D1%26cate%3D5001%26dgr%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1762047655%26pre_seqid%3D176204765587901698044145&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
           "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
           "url": "https://news.ifeng.com/c/8nvnXJwNw8a",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时18分]"
         },
         {
           "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
           "url": "https://www.zhihu.com/question/1967205319198372105",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时18分]"
         },
         {
           "title": "美国考虑制作特朗普纪念币",
@@ -159,7 +162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
@@ -169,36 +172,6 @@
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
       "match_count": 6,
       "titles": [
-        {
-          "title": "泰州队击败南通队夺得苏超冠军，观赛人数再创历史纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31875871",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6,
-            7,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时46分]"
-        },
-        {
-          "title": "凡人修仙传南陇侯人物志",
-          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%8D%97%E9%99%87%E4%BE%AF%E4%BA%BA%E7%89%A9%E5%BF%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            7,
-            5,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时46分]"
-        },
         {
           "title": "伯克希尔·哈撒韦Q3运营利润大增34%，现金储备飙至3817亿美元创历史新高",
           "url": "https://wallstreetcn.com/articles/3758482",
@@ -211,8 +184,39 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 11时18分]"
+        },
+        {
+          "title": "泰州队击败南通队夺得苏超冠军，观赛人数再创历史纪录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31875871",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6,
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 11时18分]"
+        },
+        {
+          "title": "凡人修仙传南陇侯人物志",
+          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%8D%97%E9%99%87%E4%BE%AF%E4%BA%BA%E7%89%A9%E5%BF%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            7,
+            5,
+            9,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 11时18分]"
         },
         {
           "title": "鸿蒙智行：10月交付新车68216台，创单月交付量历史新高",
@@ -244,7 +248,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
