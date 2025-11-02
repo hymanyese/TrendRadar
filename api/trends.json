@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-11-02T13:22:35.973032+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2025-11-02T14:31:10.345339+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
-          "url": "https://www.cls.cn/detail/2188509",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时22分]"
-        },
         {
           "title": "马斯克称5年后不再有手机和App",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp",
@@ -31,11 +17,27 @@
             2,
             1,
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 14时31分]"
+        },
+        {
+          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
+          "url": "https://www.cls.cn/detail/2188509",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 14时31分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -45,11 +47,24 @@
             5,
             2,
             6,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 14时31分]"
+        },
+        {
+          "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
+          "url": "https://news.ifeng.com/c/8nvnXJwNw8a",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时31分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -113,30 +128,6 @@
           "time_info": "[00时23分 ~ 09时46分]"
         },
         {
-          "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
-          "url": "https://news.ifeng.com/c/8nvnXJwNw8a",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时22分]"
-        },
-        {
-          "title": "马斯克称5年后不再有手机和App",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D0%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E7%25A7%25B05%25E5%25B9%25B4%25E5%2590%258E%25E4%25B8%258D%25E5%2586%258D%25E6%259C%2589%25E6%2589%258B%25E6%259C%25BA%25E5%2592%258CApp%2523%26flag%3D1%26stream_entry_id%3D31%26realpos%3D1%26cate%3D5001%26dgr%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1762047655%26pre_seqid%3D176204765587901698044145&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时22分]"
-        },
-        {
           "title": "美防长：特朗普和我都认为美中关系从未如此之好",
           "url": "https://news.ifeng.com/c/8nwvz4AVTbb",
           "source": "凤凰网",
@@ -145,8 +136,56 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 14时31分]"
+        },
+        {
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D0%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E7%25A7%25B05%25E5%25B9%25B4%25E5%2590%258E%25E4%25B8%258D%25E5%2586%258D%25E6%259C%2589%25E6%2589%258B%25E6%259C%25BA%25E5%2592%258CApp%2523%26flag%3D1%26stream_entry_id%3D31%26realpos%3D1%26cate%3D5001%26dgr%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1762047655%26pre_seqid%3D176204765587901698044145&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            1,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时31分]"
+        },
+        {
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://www.douyin.com/hot/2291489",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时26分 ~ 13时22分]"
+          "time_info": "[13时22分 ~ 14时31分]"
+        },
+        {
+          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
+          "url": "https://www.zhihu.com/question/1967205319198372105",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时31分]"
+        },
+        {
+          "title": "马斯克预言5年后无手机App",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%A8%805%E5%B9%B4%E5%90%8E%E6%97%A0%E6%89%8B%E6%9C%BAApp",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -161,60 +200,106 @@
           "time_info": "[00时23分 ~ 01时17分]"
         },
         {
-          "title": "马斯克称5年后不再有手机和App",
-          "url": "https://www.douyin.com/hot/2291489",
-          "source": "抖音",
+          "title": "马斯克最新预测：五年后传统手机和APP将消失",
+          "url": "https://flash.jin10.com/detail/20251102141017505800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "马斯克最新预测：五年后传统手机和APP将消失",
+          "url": "https://wallstreetcn.com/livenews/2998095",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
-          "url": "https://www.zhihu.com/question/1967205319198372105",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时22分]"
-        },
-        {
-          "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
-          "url": "https://flash.jin10.com/detail/20251102122507484800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "14时31分"
         },
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
           "url": "https://wallstreetcn.com/articles/3758488",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时31分]"
+        },
+        {
+          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
+          "url": "https://wallstreetcn.com/livenews/2998093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "马斯克：AI6和AI7芯片将会紧随其后迅速推出。",
+          "url": "https://flash.jin10.com/detail/20251102131630826800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
+          "url": "https://flash.jin10.com/detail/20251102122507484800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时22分]"
+          "time_info": "[13时22分 ~ 14时31分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
           "url": "https://wallstreetcn.com/articles/3758487",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时31分]"
+        },
+        {
+          "title": "特朗普威胁对尼日利亚采取军事行动",
+          "url": "https://www.toutiao.com/trending/7567545340048670729/",
+          "source": "今日头条",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时22分]"
+          "time_info": "[14时30分 ~ 14时31分]"
+        },
+        {
+          "title": "马斯克：刚刚和特斯拉(TSLA.O)加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。",
+          "url": "https://flash.jin10.com/detail/20251102131553800800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "美国考虑制作特朗普纪念币",
@@ -231,7 +316,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伯克希尔·哈撒韦Q3运营利润大增34%，现金储备飙至3817亿美元创历史新高",
@@ -246,8 +331,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 13时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 14时31分]"
         },
         {
           "title": "泰州队击败南通队夺得苏超冠军，观赛人数再创历史纪录",
@@ -261,8 +346,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 14时31分]"
         },
         {
           "title": "凡人修仙传南陇侯人物志",
@@ -276,11 +361,12 @@
             17,
             25,
             27,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 14时31分]"
         },
         {
           "title": "鸿蒙智行：10月交付新车68216台，创单月交付量历史新高",
@@ -304,6 +390,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "怎样评价喜人奇妙夜二中《一颗螺丝钉》讲述的东北故事？唤起了你的哪些记忆？",
+          "url": "https://www.zhihu.com/question/1967929733388923094",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "马上评｜苏超的故事，还没讲完",
