@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T06:21:37.280768+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2025-11-03T07:20:44.821978+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "奥巴马又怼特朗普政府：无法无天！",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -57,11 +57,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -71,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "特朗普威胁对尼日利亚动武",
@@ -83,11 +84,12 @@
             14,
             15,
             17,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
@@ -97,8 +99,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -107,11 +109,12 @@
           "ranks": [
             9,
             10,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
@@ -173,11 +176,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时20分]"
         },
         {
           "title": "据华尔街日报：美国政府停摆即将创下纪录之际，民主党人敦促美国总统特朗普展开谈判。",
@@ -185,11 +189,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普主动提“G2” 中国为何不接招",
+          "url": "https://www.toutiao.com/trending/7567992516465659442/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 07时20分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -202,18 +219,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时28分]"
-        },
-        {
-          "title": "特朗普主动提“G2” 中国为何不接招",
-          "url": "https://www.toutiao.com/trending/7567992516465659442/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 06时21分]"
         }
       ]
     },
