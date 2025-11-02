@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-11-02T20:40:02.851344+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2025-11-02T21:25:12.608128+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
       "match_count": 36,
       "titles": [
+        {
+          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
+          "url": "https://wallstreetcn.com/articles/3758488",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 21时25分]"
+        },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
           "url": "https://www.cls.cn/detail/2188509",
@@ -21,20 +36,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时23分 ~ 17时24分]"
-        },
-        {
-          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
-          "url": "https://wallstreetcn.com/articles/3758488",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 20时40分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -81,6 +82,28 @@
           "time_info": "[09时46分 ~ 15时19分]"
         },
         {
+          "title": "奥巴马又怼特朗普政府：无法无天！",
+          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 21时25分]"
+        },
+        {
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 21时25分]"
+        },
+        {
           "title": "马斯克称5年后不再有手机和App",
           "url": "https://www.toutiao.com/trending/7567154802250088494/",
           "source": "今日头条",
@@ -91,11 +114,12 @@
             22,
             24,
             30,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 19时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 21时25分]"
         },
         {
           "title": "美防长：特朗普和我都认为美中关系从未如此之好",
@@ -145,17 +169,6 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
-          "title": "奥巴马又怼特朗普政府：无法无天！",
-          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 20时40分]"
-        },
-        {
           "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
           "url": "https://www.zhihu.com/question/1967205319198372105",
           "source": "知乎",
@@ -168,6 +181,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时46分 ~ 19时16分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 21时25分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -184,17 +211,6 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
-          "title": "特朗普下令“战争部”做好准备",
-          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 20时40分]"
-        },
-        {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
           "url": "https://www.cls.cn/detail/2188470",
           "source": "财联社热门",
@@ -205,20 +221,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 09时46分]"
-        },
-        {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 20时40分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -234,6 +236,19 @@
           "time_info": "[09时46分 ~ 14时31分]"
         },
         {
+          "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
+          "url": "https://wallstreetcn.com/articles/3758497",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 21时25分]"
+        },
+        {
           "title": "马斯克称5年后不再有手机和App",
           "url": "https://www.douyin.com/hot/2291489",
           "source": "抖音",
@@ -247,18 +262,6 @@
           "time_info": "[13时22分 ~ 15时19分]"
         },
         {
-          "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
-          "url": "https://wallstreetcn.com/articles/3758497",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 20时40分]"
-        },
-        {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
           "url": "https://wallstreetcn.com/articles/3758448",
           "source": "华尔街见闻",
@@ -269,6 +272,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
+          "url": "https://news.ifeng.com/c/8nxFfh4rZIk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 21时25分]"
         },
         {
           "title": "马斯克最新预测：五年后传统手机和APP将消失",
@@ -340,15 +354,15 @@
           "time_info": "[14时31分 ~ 17时24分]"
         },
         {
-          "title": "马斯克万亿美元薪酬方案下周表决，马斯克与咨询公司展开骂战",
-          "url": "https://wallstreetcn.com/livenews/2998143",
-          "source": "华尔街见闻-快讯",
+          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
+          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
+          "source": "凤凰网",
           "ranks": [
-            5
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 21时25分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-02）",
@@ -356,11 +370,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            22
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时25分]"
+        },
+        {
+          "title": "马斯克万亿美元薪酬方案下周表决，马斯克与咨询公司展开骂战",
+          "url": "https://wallstreetcn.com/livenews/2998143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时40分]"
+          "time_info": "[20时40分 ~ 21时25分]"
         },
         {
           "title": "马斯克：刚刚和特斯拉(TSLA.O)加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。",
@@ -376,28 +403,6 @@
           "time_info": "[14时31分 ~ 17时24分]"
         },
         {
-          "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
-          "url": "https://news.ifeng.com/c/8nxFfh4rZIk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时40分]"
-        },
-        {
-          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
-          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 20时40分]"
-        },
-        {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
           "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
           "source": "澎湃新闻",
@@ -405,8 +410,20 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 21时25分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：解除哈马斯的武装、实现加沙地带的非军事化是我们坚持的原则，这是我与特朗普总统共同达成的共识，我们正是以此为明确纲领开展行动。当然，如果这种方法行不通，我们将会采取另一种方法。",
+          "url": "https://flash.jin10.com/detail/20251102194256163800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时39分 ~ 20时40分]"
+          "time_info": "[20时40分 ~ 21时25分]"
         },
         {
           "title": "邵永灵：特朗普又将矛头对准尼日利亚",
@@ -453,17 +470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：解除哈马斯的武装、实现加沙地带的非军事化是我们坚持的原则，这是我与特朗普总统共同达成的共识，我们正是以此为明确纲领开展行动。当然，如果这种方法行不通，我们将会采取另一种方法。",
-          "url": "https://flash.jin10.com/detail/20251102194256163800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         }
       ]
     },
@@ -500,8 +506,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时23分 ~ 20时40分]"
+          "appearance_count": 26,
+          "time_info": "[00时23分 ~ 21时25分]"
         },
         {
           "title": "凡人修仙传南陇侯人物志",
@@ -524,6 +530,20 @@
           "time_info": "[00时23分 ~ 17时24分]"
         },
         {
+          "title": "怎样评价喜人奇妙夜二中《一颗螺丝钉》讲述的东北故事？唤起了你的哪些记忆？",
+          "url": "https://www.zhihu.com/question/1967929733388923094",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时30分 ~ 21时25分]"
+        },
+        {
           "title": "鸿蒙智行：10月交付新车68216台，创单月交付量历史新高",
           "url": "https://wallstreetcn.com/livenews/2998025",
           "source": "华尔街见闻-快讯",
@@ -536,18 +556,17 @@
           "time_info": "[00时23分 ~ 09时46分]"
         },
         {
-          "title": "怎样评价喜人奇妙夜二中《一颗螺丝钉》讲述的东北故事？唤起了你的哪些记忆？",
-          "url": "https://www.zhihu.com/question/1967929733388923094",
-          "source": "知乎",
+          "title": "马上评｜苏超的故事，还没讲完",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31876039",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
-            14,
-            15,
-            20
+            19,
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时30分 ~ 20时40分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 21时25分]"
         },
         {
           "title": "鸿蒙智行：2025年10月，鸿蒙智行创下双项纪录，单月交付新车68216台，创单月交付量历史新高。全系累计交付已突破100万台，创新势力品牌最快达成百万交付纪录。当月成交均价39万元，持续推动中国汽车高质量发展。",
@@ -559,19 +578,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "马上评｜苏超的故事，还没讲完",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31876039",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 20时40分]"
         }
       ]
     }
