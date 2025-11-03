@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T19:19:15.404082+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2025-11-03T20:46:15.649730+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时22分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[13时22分 ~ 20时46分]"
         },
         {
           "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
@@ -55,6 +56,17 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "特朗普称中方秘密测试核武器，外交部回应",
+          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时30分 ~ 20时46分]"
+        },
+        {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
           "url": "https://wallstreetcn.com/articles/3758488",
           "source": "华尔街见闻",
@@ -67,6 +79,18 @@
           "time_info": "[00时25分 ~ 09时48分]"
         },
         {
+          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
+          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时21分 ~ 20时46分]"
+        },
+        {
           "title": "特朗普：道歉没用，不谈！",
           "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
           "source": "凤凰网",
@@ -76,17 +100,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时47分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普称中方秘密测试核武器，外交部回应",
-          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时30分 ~ 19时19分]"
         },
         {
           "title": "特朗普：中美可以通过合作变得更加强大",
@@ -102,16 +115,15 @@
           "time_info": "[15时21分 ~ 18时26分]"
         },
         {
-          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
-          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
+          "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
+          "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
           "source": "凤凰网",
           "ranks": [
-            4,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时21分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 20时46分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -177,15 +189,28 @@
           "time_info": "[11时20分 ~ 14时35分]"
         },
         {
-          "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
-          "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
-          "source": "凤凰网",
+          "title": "特朗普：和中国合作能让我们更强大",
+          "url": "https://www.toutiao.com/trending/7567809473297809450/",
+          "source": "今日头条",
           "ranks": [
-            3
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时26分 ~ 19时19分]"
+          "time_info": "[18时26分 ~ 20时46分]"
+        },
+        {
+          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
+          "url": "https://news.ifeng.com/c/8nywSREDnvu",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时30分 ~ 20时46分]"
         },
         {
           "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
@@ -198,17 +223,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时21分 ~ 16时31分]"
-        },
-        {
-          "title": "特朗普：和中国合作能让我们更强大",
-          "url": "https://www.toutiao.com/trending/7567809473297809450/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 19时19分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -225,16 +239,29 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
-          "url": "https://news.ifeng.com/c/8nywSREDnvu",
-          "source": "凤凰网",
+          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
+          "url": "https://www.cls.cn/detail/2189459",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            13,
+            11,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时30分 ~ 19时19分]"
+          "time_info": "[17时26分 ~ 20时46分]"
+        },
+        {
+          "title": "特朗普70分钟采访提及中国41次",
+          "url": "https://www.toutiao.com/trending/7567997679352250410/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
@@ -338,6 +365,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "尼日利亚资产大幅走低 特朗普称有可能在尼日利亚部署地面部队或发动空袭",
+          "url": "https://wallstreetcn.com/livenews/2998585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "美国总统特朗普：将“参与”以色列总理内塔尼亚胡的审判。",
           "url": "https://flash.jin10.com/detail/20251103091938196800",
           "source": "金十数据",
@@ -347,19 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
-          "url": "https://www.cls.cn/detail/2189459",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 19时19分]"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -475,6 +500,18 @@
           "time_info": "[14时35分 ~ 16时31分]"
         },
         {
+          "title": "特朗普拒答是否会打击委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/2998540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时46分]"
+        },
+        {
           "title": "马斯克称 5 年后不再有手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
           "url": "https://www.zhihu.com/question/1968223817403954668",
           "source": "知乎",
@@ -506,6 +543,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普70分钟采访提及中国41次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "特朗普为何威胁对尼日利亚动武",
@@ -540,17 +588,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普拒答是否会打击委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/2998540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "据Tradeweb数据，在美国总统特朗普威胁采取军事行动后，尼日利亚主权债券下跌多达0.5美分。",
@@ -636,7 +673,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -677,8 +714,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时31分 ~ 19时19分]"
+          "appearance_count": 15,
+          "time_info": "[12时31分 ~ 20时46分]"
         },
         {
           "title": "玉渊谭天丨从釜山会晤看“历史主动”：看长远、驭大局、做更好的自己",
