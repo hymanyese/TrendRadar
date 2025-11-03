@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T15:22:11.684899+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2025-11-03T16:31:02.476694+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -66,6 +66,18 @@
           "time_info": "[09时47分 ~ 14时35分]"
         },
         {
+          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 16时31分]"
+        },
+        {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
           "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
           "source": "澎湃新闻",
@@ -76,8 +88,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 15时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 16时31分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -129,16 +141,28 @@
           "time_info": "[11时20分 ~ 14时35分]"
         },
         {
-          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
+          "title": "特朗普：中美可以通过合作变得更加强大",
+          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            2
+            1,
+            3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时22分 ~ 15时22分]"
+          "time_info": "[15时21分 ~ 16时31分]"
+        },
+        {
+          "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
+          "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 16时31分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -155,15 +179,15 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "特朗普：中美可以通过合作变得更加强大",
-          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
+          "title": "特朗普称中方秘密测试核武器，外交部回应",
+          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
@@ -208,26 +232,16 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
-          "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
-          "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
-        },
-        {
           "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
           "url": "https://news.ifeng.com/c/8nyd0LY05uS",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 16时31分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -390,6 +404,18 @@
           "time_info": "[14时35分 ~ 15时22分]"
         },
         {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时31分]"
+        },
+        {
           "title": "马斯克称 5 年后不再有手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
           "url": "https://www.zhihu.com/question/1968223817403954668",
           "source": "知乎",
@@ -399,6 +425,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
+          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
+          "url": "https://news.ifeng.com/c/8nywSREDnvu",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "核武专家逐字分析特朗普核试验言论",
+          "url": "https://www.toutiao.com/trending/7567494416286531625/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "特朗普为何威胁对尼日利亚动武",
@@ -521,17 +569,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普称美将干预内塔尼亚胡受审",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         }
       ]
     },
@@ -548,8 +585,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 16时31分]"
         },
         {
           "title": "韩国首尔综指日内涨幅扩大至2.5%，至4,208.93点，创历史新高。",
@@ -622,8 +659,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 16时31分]"
         }
       ]
     }
