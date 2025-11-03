@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T23:25:12.738988+08:00",
-  "total_titles_processed": 1787,
+  "generated_at": "2025-11-04T00:27:26.230094+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 63,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -15,19 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时30分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普下令“战争部”做好准备",
-          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
-          "source": "凤凰网",
+          "title": "福特和现代电动汽车10月销量大幅下滑，特朗普叫停前美国总统拜登的联邦过车补贴政策",
+          "url": "https://wallstreetcn.com/livenews/2998665",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
@@ -37,875 +37,151 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时26分 ~ 23时25分]"
-        },
-        {
-          "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
-          "url": "https://wallstreetcn.com/articles/3758497",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 14时35分]"
-        },
-        {
-          "title": "奥巴马又怼特朗普政府：无法无天！",
-          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
-          "url": "https://wallstreetcn.com/articles/3758488",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 09时48分]"
-        },
-        {
-          "title": "特朗普：和中国合作能让我们更强大",
-          "url": "https://www.toutiao.com/trending/7567809473297809450/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时26分 ~ 23时25分]"
-        },
-        {
-          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[13时22分 ~ 23时25分]"
-        },
-        {
-          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
-          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时21分 ~ 20时46分]"
-        },
-        {
-          "title": "特朗普：道歉没用，不谈！",
-          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普：中美可以通过合作变得更加强大",
-          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时21分 ~ 18时26分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
           "url": "https://www.cls.cn/detail/2189459",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            9,
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时26分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
-          "source": "澎湃新闻",
+          "title": "特朗普：大型台企将生产线向美国转移",
+          "url": "https://www.toutiao.com/trending/7567605280260292627/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            8,
-            9,
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 16时31分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "马斯克：我承诺在播客节目公布“外星人证据”",
           "url": "https://news.ifeng.com/c/8nywSREDnvu",
           "source": "凤凰网",
           "ranks": [
-            10,
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时30分 ~ 23时25分]"
-        },
-        {
-          "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
-          "url": "https://news.ifeng.com/c/8nxFfh4rZIk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普威胁对尼日利亚动武",
-          "url": "https://www.toutiao.com/trending/7567990713968017458/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            14,
-            15,
-            17,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
-          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
-          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 14时35分]"
-        },
-        {
-          "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
-          "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 16时31分]"
-        },
-        {
-          "title": "特朗普70分钟采访提及中国41次",
-          "url": "https://www.toutiao.com/trending/7567997679352250410/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 21时34分]"
-        },
-        {
-          "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
-          "url": "https://wallstreetcn.com/livenews/2998163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            10,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
-          "url": "https://flash.jin10.com/detail/20251102221418618800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            11,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普70分钟采访提及中国41次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时45分 ~ 23时25分]"
-        },
-        {
-          "title": "核武专家都在猜 特朗普这话什么意思",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            13,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 14时35分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普政府不会就法官关于“补充营养援助计划”(SNAP)福利的裁决提出上诉。",
-          "url": "https://flash.jin10.com/detail/20251102220538929800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            17,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "菲律宾与阿联酋申请加入TPP以应对特朗普关税政策",
-          "url": "https://flash.jin10.com/detail/20251103181946624800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "00时27分"
         },
         {
-          "title": "马斯克：AI在2026年超越单个人类智商",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            20,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "马斯克万亿美元薪酬方案下周表决，马斯克与咨询公司展开骂战",
-          "url": "https://wallstreetcn.com/livenews/2998143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时19分]"
-        },
-        {
-          "title": "美国总统特朗普：我们将进行核试验，因为我不希望我们成为唯一不这样做的国家。",
-          "url": "https://flash.jin10.com/detail/20251103092312071800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "美国总统特朗普：我不认为我们会对委内瑞拉发动战争。",
-          "url": "https://flash.jin10.com/detail/20251103092219460800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "美国总统特朗普：将“参与”以色列总理内塔尼亚胡的审判。",
-          "url": "https://flash.jin10.com/detail/20251103091938196800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普70分钟采访提及中国41次",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE70%25E5%2588%2586%25E9%2592%259F%25E9%2587%2587%25E8%25AE%25BF%25E6%258F%2590%25E5%258F%258A%25E4%25B8%25AD%25E5%259B%25BD41%25E6%25AC%25A1%2523%26realpos%3D16%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D16%26pos%3D17%26display_time%3D1762176861%26pre_seqid%3D17621768614910339557613&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            16,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时34分 ~ 23时25分]"
-        },
-        {
-          "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
-          "url": "https://flash.jin10.com/detail/20251103045723386800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 07时20分]"
-        },
-        {
-          "title": "据华尔街日报：美国政府停摆即将创下纪录之际，民主党人敦促美国总统特朗普展开谈判。",
-          "url": "https://flash.jin10.com/detail/20251103045303406800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 07时20分]"
-        },
-        {
-          "title": "尼日利亚资产大幅走低 特朗普称有可能在尼日利亚部署地面部队或发动空袭",
-          "url": "https://wallstreetcn.com/livenews/2998585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时22分]"
-        },
-        {
-          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时21分 ~ 23时25分]"
-        },
-        {
-          "title": "特朗普主动提“G2” 中国为何不接招",
-          "url": "https://www.toutiao.com/trending/7567992516465659442/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时22分 ~ 07时20分]"
-        },
-        {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
-        },
-        {
-          "title": "如何看特朗普说台海政策是秘密",
-          "url": "https://www.toutiao.com/trending/7568264436717194788/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时20分]"
-        },
-        {
-          "title": "奥巴马怼特朗普政府“无法无天”",
-          "url": "https://www.toutiao.com/trending/7567655390914199593/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时20分]"
-        },
-        {
-          "title": "奥巴马抨击特朗普释放了什么信号",
-          "url": "https://www.toutiao.com/trending/7568449754930089518/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时22分]"
-        },
-        {
-          "title": "学者：特朗普抛G2概念是霸权算计",
-          "url": "https://www.toutiao.com/trending/7568286962377821723/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时20分]"
-        },
-        {
-          "title": "特朗普拒绝重启与加拿大的贸易谈判",
-          "url": "https://www.toutiao.com/trending/7567532659673727026/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普称美将干预内塔尼亚胡受审",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 16时31分]"
-        },
-        {
-          "title": "特朗普拒答是否会打击委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/2998540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时46分]"
-        },
-        {
-          "title": "多家能源巨头CEO警告：特朗普对俄制裁将冲击石油供应",
-          "url": "https://wallstreetcn.com/livenews/2998615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 23时25分]"
-        },
-        {
-          "title": "马斯克称 5 年后不再有手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "马斯克万亿美元薪酬方案真实目的是啥",
-          "url": "https://www.toutiao.com/trending/7568389694271016494/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
-        },
-        {
-          "title": "核武专家逐字分析特朗普核试验言论",
-          "url": "https://www.toutiao.com/trending/7567494416286531625/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
-        },
-        {
-          "title": "特朗普为何威胁对尼日利亚动武",
-          "url": "https://www.toutiao.com/trending/7568275900907654662/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "马斯克万亿美元薪酬方案下周表决",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E4%B8%8B%E5%91%A8%E8%A1%A8%E5%86%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D29%26pos%3D28%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E4%25B8%2587%25E4%25BA%25BF%25E7%25BE%258E%25E5%2585%2583%25E8%2596%25AA%25E9%2585%25AC%25E6%2596%25B9%25E6%25A1%2588%25E4%25B8%258B%25E5%2591%25A8%25E8%25A1%25A8%25E5%2586%25B3%2523%26filter_type%3Drealtimehot%26realpos%3D29%26c_type%3D31%26flag%3D0%26cate%3D5001%26display_time%3D1762134458%26pre_seqid%3D17621344587920254830341&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "美国总统特朗普：（被问及是否会寻求竞选第三个任期时）我根本没考虑过。现在还太早了。我喜欢万斯，鲁比奥。",
-          "url": "https://flash.jin10.com/detail/20251103091814853800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "据Tradeweb数据，在美国总统特朗普威胁采取军事行动后，尼日利亚主权债券下跌多达0.5美分。",
-          "url": "https://flash.jin10.com/detail/20251103181425616800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
-          "url": "https://wallstreetcn.com/livenews/2998242",
+          "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过“补充营养援助计划”（SNAP）。 必须向那些享受SNAP的人群重新计算支付金额。",
+          "url": "https://wallstreetcn.com/livenews/2998654",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普称美将干预内塔尼亚胡受审",
-          "url": "https://www.toutiao.com/trending/7567984366324858899/",
-          "source": "今日头条",
+          "title": "特朗普70分钟采访提及中国41次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1",
+          "source": "百度热搜",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "00时27分"
         },
         {
-          "title": "市场消息：特朗普称，他对币安赵长鹏获赦免一事并不了解。",
-          "url": "https://flash.jin10.com/detail/20251103085356566800",
-          "source": "金十数据",
+          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "马斯克：若掌握外星人证据将公开",
+          "url": "https://www.douyin.com/hot/2293371",
+          "source": "抖音",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普的三角外交玩不转了吗",
-          "url": "https://www.toutiao.com/trending/7568318449886170651/",
+          "title": "“中美处得挺好”，特朗普：与其一味打压不如与中方合作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31882601",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "特朗普：和中国合作能让我们更强大",
+          "url": "https://www.toutiao.com/trending/7567809473297809450/",
           "source": "今日头条",
           "ranks": [
-            16
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普称靠关税阻止了8场战争",
-          "url": "https://www.toutiao.com/trending/7567544845976502314/",
-          "source": "今日头条",
+          "title": "马斯克称若发现外星人证据就公开",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%8B%A5%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E8%AF%81%E6%8D%AE%E5%B0%B1%E5%85%AC%E5%BC%80",
+          "source": "百度热搜",
           "ranks": [
-            16
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时34分"
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普称有可能在尼日利亚部署地面部队或发动空袭",
-          "url": "https://wallstreetcn.com/livenews/2998237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普称或军事打击尼日利亚",
-          "url": "https://wallstreetcn.com/livenews/2998231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-03）",
-          "url": "https://flash.jin10.com/detail/20251103183554238800",
+          "title": "美国众议院议长约翰逊：周末与美国总统特朗普就补充营养协助计划（SNAP）进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20251103232552334800",
           "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "奥巴马抨击特朗普释放了什么信号",
+          "url": "https://www.toutiao.com/trending/7568449754930089518/",
+          "source": "今日头条",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "00时27分"
         },
         {
-          "title": "特朗普称他不会出席最高法院就关税措施合法性举行的听证会",
-          "url": "https://wallstreetcn.com/livenews/2998222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普称尚未认真考虑向乌克兰提供“战斧”导弹",
-          "url": "https://wallstreetcn.com/livenews/2998220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "A 股原历史顶部吹哨人「宁泉资产」称自 10 月 30 日起，暂停旗下基金的新投资者首次申购申请，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1967155206090397412",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时31分 ~ 20时46分]"
-        },
-        {
-          "title": "玉渊谭天丨从釜山会晤看“历史主动”：看长远、驭大局、做更好的自己",
-          "url": "https://wallstreetcn.com/livenews/2998528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时19分]"
-        },
-        {
-          "title": "韩国首尔综指日内涨幅扩大至2.5%，至4,208.93点，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/2998316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 12时32分]"
-        },
-        {
-          "title": "高盛策略师：美国企业盈利超预期的比例位居历史前列",
-          "url": "https://wallstreetcn.com/livenews/2998527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时19分]"
-        },
-        {
-          "title": "怎样评价喜人奇妙夜二中《一颗螺丝钉》讲述的东北故事？唤起了你的哪些记忆？",
-          "url": "https://www.zhihu.com/question/1967929733388923094",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时18分]"
-        },
-        {
-          "title": "孩子喜欢看家长和老师认为没有营养的漫画类书籍。给孩子买书时买孩子喜欢的，还是买家长认为孩子应该读的？",
-          "url": "https://www.zhihu.com/question/7075925519",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "市场消息：印度央行可能正在出售美元，以帮助卢比避免跌至88.8的历史低点。",
-          "url": "https://flash.jin10.com/detail/20251103113503405800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "从釜山会晤看历史主动",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BB%8E%E9%87%9C%E5%B1%B1%E4%BC%9A%E6%99%A4%E7%9C%8B%E5%8E%86%E5%8F%B2%E4%B8%BB%E5%8A%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E4%25BB%258E%25E9%2587%259C%25E5%25B1%25B1%25E4%25BC%259A%25E6%2599%25A4%25E7%259C%258B%25E5%258E%2586%25E5%258F%25B2%25E4%25B8%25BB%25E5%258A%25A8%2523%26lcate%3D5001%26realpos%3D16%26pos%3D15%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D16%26display_time%3D1762165248%26pre_seqid%3D176216524812801684935155&launchid=10000360-page_H5",
+          "title": "特朗普70分钟采访提及中国41次",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D0%26lcate%3D5001%26band_rank%3D26%26filter_type%3Drealtimehot%26pos%3D26%26c_type%3D31%26realpos%3D26%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE70%25E5%2588%2586%25E9%2592%259F%25E9%2587%2587%25E8%25AE%25BF%25E6%258F%2590%25E5%258F%258A%25E4%25B8%25AD%25E5%259B%25BD41%25E6%25AC%25A1%2523%26cate%3D5001%26dgr%3D0%26display_time%3D1762186968%26pre_seqid%3D176218696822703333870146&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            16
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "孩子喜欢看家长和老师认为没有营养的漫画类书籍，给孩子买书时买孩子喜欢的，还是买家长认为孩子应该读的？",
-          "url": "https://www.zhihu.com/question/7075925519",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "职场中自己的工作成果被「窃取」，不能署自己的名字该怎么办？有哪些好的办法为自己正名？",
-          "url": "https://www.zhihu.com/question/1967904513127048603",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时47分 ~ 19时19分]"
-        },
-        {
-          "title": "没有背景，职场上怎样获得晋升机会？",
-          "url": "https://www.zhihu.com/question/1948191706806739226",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时34分 ~ 23时25分]"
+          "time_info": "00时27分"
         }
       ]
     }
