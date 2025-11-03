@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T13:22:49.657418+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2025-11-03T14:35:53.270811+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 13时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 14时35分]"
         },
         {
           "title": "奥巴马又怼特朗普政府：无法无天！",
@@ -61,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时35分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -75,8 +76,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 13时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 14时35分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -124,8 +125,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 14时35分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -156,6 +157,20 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
+          "title": "核武专家都在猜 特朗普这话什么意思",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            13,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时35分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普政府不会就法官关于“补充营养援助计划”(SNAP)福利的裁决提出上诉。",
           "url": "https://flash.jin10.com/detail/20251102220538929800",
           "source": "金十数据",
@@ -170,17 +185,16 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
-          "title": "核武专家都在猜 特朗普这话什么意思",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
-          "source": "百度热搜",
+          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
           "ranks": [
-            28,
-            13,
-            18
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时22分]"
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时35分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -229,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
         },
         {
           "title": "美国总统特朗普：将“参与”以色列总理内塔尼亚胡的审判。",
@@ -398,6 +401,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.toutiao.com/trending/7567984366324858899/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "市场消息：特朗普称，他对币安赵长鹏获赦免一事并不了解。",
           "url": "https://flash.jin10.com/detail/20251103085356566800",
           "source": "金十数据",
@@ -415,7 +429,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -442,6 +456,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "特朗普拒绝重启与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7567532659673727026/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "特朗普称他不会出席最高法院就关税措施合法性举行的听证会",
           "url": "https://wallstreetcn.com/livenews/2998222",
           "source": "华尔街见闻-快讯",
@@ -462,6 +487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
@@ -482,6 +518,18 @@
           "time_info": "[11时20分 ~ 12时32分]"
         },
         {
+          "title": "A 股原历史顶部吹哨人「宁泉资产」称自 10 月 30 日起，暂停旗下基金的新投资者首次申购申请，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1967155206090397412",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时35分]"
+        },
+        {
           "title": "怎样评价喜人奇妙夜二中《一颗螺丝钉》讲述的东北故事？唤起了你的哪些记忆？",
           "url": "https://www.zhihu.com/question/1967929733388923094",
           "source": "知乎",
@@ -491,18 +539,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 01时18分]"
-        },
-        {
-          "title": "A 股原历史顶部吹哨人「宁泉资产」称自 10 月 30 日起，暂停旗下基金的新投资者首次申购申请，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1967155206090397412",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时22分]"
         },
         {
           "title": "孩子喜欢看家长和老师认为没有营养的漫画类书籍。给孩子买书时买孩子喜欢的，还是买家长认为孩子应该读的？",
@@ -552,8 +588,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时35分]"
         }
       ]
     }
