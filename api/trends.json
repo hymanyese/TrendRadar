@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T01:19:23.976976+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-11-05T02:31:59.326045+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -15,19 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
-          "title": "巴西总统卢拉：已向特朗普表明拉丁美洲是“和平地带”",
-          "url": "https://wallstreetcn.com/livenews/2999332",
+          "title": "知名银行家：特朗普时代掀并购潮，美国两三年内料有3000家银行被整合",
+          "url": "https://wallstreetcn.com/livenews/2999344",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "02时31分"
         },
         {
           "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
@@ -35,11 +35,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
+        },
+        {
+          "title": "美国总统特朗普：只有当激进左翼民主党人重新开放政府时，才会发放SNAP福利。",
+          "url": "https://flash.jin10.com/detail/20251105000851307800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "美国总统特朗普：一旦政府结束关门事件，就会发放联邦食品救济项目“补充营养援助计划”（SNAP）。",
@@ -54,16 +68,29 @@
           "time_info": "[00时28分 ~ 01时19分]"
         },
         {
-          "title": "美国总统特朗普：只有当激进左翼民主党人重新开放政府时，才会发放SNAP福利。",
-          "url": "https://flash.jin10.com/detail/20251105000851307800",
+          "title": "巴西总统卢拉：政府将寻求对里约警方的致命行动进行独立调查。我告诉特朗普，拉丁美洲是一个“和平地区”。",
+          "url": "https://flash.jin10.com/detail/20251105000308068800",
           "source": "金十数据",
           "ranks": [
+            5,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
+        },
+        {
+          "title": "巴西总统卢拉：已向特朗普表明拉丁美洲是“和平地带”",
+          "url": "https://wallstreetcn.com/livenews/2999332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             3,
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
+          "time_info": "[01时19分 ~ 02时31分]"
         },
         {
           "title": "美国劳工部长Lori Chavez-Deremer：将在（总统特朗普的）政府关门事件结束时发布劳工统计局（BLS）的数据。 在那之前，是无法发布数据的。 政府停摆正影响到劳动力。",
@@ -72,18 +99,6 @@
           "ranks": [
             4,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "巴西总统卢拉：政府将寻求对里约警方的致命行动进行独立调查。我告诉特朗普，拉丁美洲是一个“和平地区”。",
-          "url": "https://flash.jin10.com/detail/20251105000308068800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -109,8 +124,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "美国众议长约翰逊：如果参议院（针对总统特朗普的政府关门事件相关的融资立法草案）批准一些东西，众议院就会重返谈判桌。",
@@ -125,6 +140,30 @@
           "time_info": "[00时28分 ~ 01时19分]"
         },
         {
+          "title": "市场消息：美国马里兰州政府运营的公共养老金体系（MSRPS）将投票反对马斯克的薪酬计划。",
+          "url": "https://flash.jin10.com/detail/20251105004501901800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时31分]"
+        },
+        {
+          "title": "Maryland Pension将投票反对特斯拉针对马斯克的薪酬计划。",
+          "url": "https://wallstreetcn.com/livenews/2999322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时31分]"
+        },
+        {
           "title": "美国法官要求迫使特朗普政府支付全额补充营养协助计划（SNAP）福利。",
           "url": "https://flash.jin10.com/detail/20251104234509311800",
           "source": "金十数据",
@@ -137,37 +176,16 @@
           "time_info": "[00时28分 ~ 01时19分]"
         },
         {
-          "title": "市场消息：美国马里兰州政府运营的公共养老金体系（MSRPS）将投票反对马斯克的薪酬计划。",
-          "url": "https://flash.jin10.com/detail/20251105004501901800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "Maryland Pension将投票反对特斯拉针对马斯克的薪酬计划。",
-          "url": "https://wallstreetcn.com/livenews/2999322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
           "title": "美国总统特朗普：（谈加州选区重划）违宪投票是一场巨大的骗局。所有邮寄选票正接受非常严肃的法律和刑事审查。",
           "url": "https://flash.jin10.com/detail/20251105002826068800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时31分]"
         },
         {
           "title": "尼日利亚无视特朗普武力威胁，推进发行欧洲债券的计划",
@@ -184,7 +202,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美政府停摆35天追平历史纪录",
@@ -192,11 +210,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "美国办公地产危机加速：办公楼CMBS违约率突破11.8%创历史新高，已超越2008金融危机峰值",
@@ -206,8 +225,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
+        },
+        {
+          "title": "彭博汇编数据显示：摩根士丹利发行45亿欧元（折合52亿美元）债券，使得美国公司本周在欧元区单一货币市场的债务融资规模达到154亿欧元——创单周历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2999343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     },
@@ -241,8 +271,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时31分]"
         }
       ]
     }
