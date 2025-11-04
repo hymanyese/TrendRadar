@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T06:20:38.563703+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2025-11-05T07:21:49.662350+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -27,33 +27,12 @@
             14,
             10,
             9,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时20分]"
-        },
-        {
-          "title": "美股散户指数创特朗普关税日以来的最大跌幅",
-          "url": "https://flash.jin10.com/detail/20251105061222244800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "特朗普称最高法院关税案关乎美国存亡",
-          "url": "https://flash.jin10.com/detail/20251105060423187800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
@@ -105,6 +84,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时49分]"
+        },
+        {
+          "title": "美股散户指数创特朗普关税日以来的最大跌幅",
+          "url": "https://flash.jin10.com/detail/20251105061222244800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时21分]"
         },
         {
           "title": "特斯拉CEO马斯克：特斯拉AI5芯片的略微不同版本将由台积电和三星代工生产。",
@@ -166,6 +157,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时49分]"
+        },
+        {
+          "title": "特朗普称最高法院关税案关乎美国存亡",
+          "url": "https://flash.jin10.com/detail/20251105060423187800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时21分]"
         },
         {
           "title": "美国劳工部长Lori Chavez-Deremer：将在（总统特朗普的）政府关门事件结束时发布劳工统计局（BLS）的数据。 在那之前，是无法发布数据的。 政府停摆正影响到劳动力。",
@@ -264,6 +267,18 @@
           "time_info": "[01时19分 ~ 02时31分]"
         },
         {
+          "title": "摩根大通：正在回应特朗普政府就本公司客户政策提出的要求。",
+          "url": "https://wallstreetcn.com/livenews/2999421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时21分]"
+        },
+        {
           "title": "Maryland Pension将投票反对特斯拉针对马斯克的薪酬计划。",
           "url": "https://wallstreetcn.com/livenews/2999322",
           "source": "华尔街见闻-快讯",
@@ -334,15 +349,15 @@
           "time_info": "03时18分"
         },
         {
-          "title": "摩根大通：正在回应特朗普政府就本公司客户政策提出的要求。",
-          "url": "https://wallstreetcn.com/livenews/2999421",
+          "title": "特朗普选择Jared Isaacman为美国国家航空航天局（NASA）局长。 Jared Isaacman是太空探索公司SpaceX首席执行官（CEO）马斯克的盟友。",
+          "url": "https://wallstreetcn.com/livenews/2999440",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "07时21分"
         },
         {
           "title": "白宫：特朗普正在密切关注尼日利亚。",
@@ -373,7 +388,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -389,15 +404,59 @@
           "time_info": "03时18分"
         },
         {
+          "title": "特朗普的CBS《60分钟》采访吸引约1300万名观众",
+          "url": "https://flash.jin10.com/detail/20251105064332489800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美国总统特朗普：我很高兴提名贾里德·艾萨克曼为美国国家航空航天局的局长。",
+          "url": "https://flash.jin10.com/detail/20251105064331425800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
+          "url": "https://flash.jin10.com/detail/20251105062051375800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国参议院共和党成员们受邀11月5日前往白宫。 他们将与总统特朗普共进早餐。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/2999414",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "尼日利亚无视特朗普武力威胁，推进发行欧洲债券的计划",
@@ -439,7 +498,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         }
@@ -447,7 +506,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美政府停摆35天追平历史纪录",
@@ -462,8 +521,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "美国办公地产危机加速：办公楼CMBS违约率突破11.8%创历史新高，已超越2008金融危机峰值",
@@ -474,8 +533,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "彭博汇编数据显示：摩根士丹利发行45亿欧元（折合52亿美元）债券，使得美国公司本周在欧元区单一货币市场的债务融资规模达到154亿欧元——创单周历史新高。",
@@ -500,12 +559,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时20分]"
+        },
+        {
+          "title": "为什么越南的历史很长但其领土扩张较为缓慢？",
+          "url": "https://www.zhihu.com/question/54140551",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "翁青雅采访朱珠，这场采访为啥成了「反面典型」？她犯的哪些错误值得职场新人吸取教训？",
@@ -515,11 +585,12 @@
             4,
             5,
             3,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "《明末：渊虚之羽》在整体宣发上让路人也产生了兴趣，但发现好像破圈效果适得其反，这给了游戏发行什么启示？",
@@ -533,6 +604,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 06时20分]"
+        },
+        {
+          "title": "在职场中遇到对自己不公平的对待时，你们会怎么做？",
+          "url": "https://www.zhihu.com/question/1968624010536416596",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "职场上你拼命努力不一定成功，但不努力更难，怎么办？",
