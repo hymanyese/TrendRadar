@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T02:31:59.326045+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2025-11-05T03:18:27.619895+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 16,
+      "match_count": 27,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -15,19 +15,75 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时18分]"
         },
         {
-          "title": "知名银行家：特朗普时代掀并购潮，美国两三年内料有3000家银行被整合",
-          "url": "https://wallstreetcn.com/livenews/2999344",
+          "title": "特斯拉CEO马斯克：AI6芯片将采用相同的晶圆厂，但性能将提升约2倍。",
+          "url": "https://flash.jin10.com/detail/20251105031111963800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：特斯拉AI5芯片的略微不同版本将由台积电和三星代工生产。",
+          "url": "https://flash.jin10.com/detail/20251105031017939800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "Egan-Jones评级公司：基于财富导向的政策，建议投票支持马斯克的薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251105030955942800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美媒：特朗普政府考虑控制委内瑞拉油田",
+          "url": "https://flash.jin10.com/detail/20251105030659180800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
+          "url": "https://wallstreetcn.com/livenews/2999357",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时18分"
+        },
+        {
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时18分]"
         },
         {
           "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
@@ -56,6 +112,19 @@
           "time_info": "[00时28分 ~ 02时31分]"
         },
         {
+          "title": "巴西总统卢拉：已向特朗普表明拉丁美洲是“和平地带”",
+          "url": "https://wallstreetcn.com/livenews/2999332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时18分]"
+        },
+        {
           "title": "美国总统特朗普：一旦政府结束关门事件，就会发放联邦食品救济项目“补充营养援助计划”（SNAP）。",
           "url": "https://wallstreetcn.com/livenews/2999308",
           "source": "华尔街见闻-快讯",
@@ -79,18 +148,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时31分]"
-        },
-        {
-          "title": "巴西总统卢拉：已向特朗普表明拉丁美洲是“和平地带”",
-          "url": "https://wallstreetcn.com/livenews/2999332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时31分]"
         },
         {
           "title": "美国劳工部长Lori Chavez-Deremer：将在（总统特朗普的）政府关门事件结束时发布劳工统计局（BLS）的数据。 在那之前，是无法发布数据的。 政府停摆正影响到劳动力。",
@@ -117,15 +174,16 @@
           "time_info": "[00时28分 ~ 01时19分]"
         },
         {
-          "title": "佩洛西：特朗普是地表最坏的家伙",
-          "url": "https://www.toutiao.com/trending/7567917613335494699/",
-          "source": "今日头条",
+          "title": "知名银行家：特朗普时代掀并购潮，美国两三年内料有3000家银行被整合",
+          "url": "https://wallstreetcn.com/livenews/2999344",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时18分]"
         },
         {
           "title": "美国众议长约翰逊：如果参议院（针对总统特朗普的政府关门事件相关的融资立法草案）批准一些东西，众议院就会重返谈判桌。",
@@ -188,6 +246,61 @@
           "time_info": "[01时19分 ~ 02时31分]"
         },
         {
+          "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20251105030214488800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
+          "url": "https://flash.jin10.com/detail/20251105024546546800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "白宫：（谈美印关系）特朗普对两国关系持积极态度。",
+          "url": "https://flash.jin10.com/detail/20251105024520582800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "白宫：特朗普正在密切关注尼日利亚。",
+          "url": "https://flash.jin10.com/detail/20251105024507839800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
+          "url": "https://flash.jin10.com/detail/20251105024210324800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
           "title": "尼日利亚无视特朗普武力威胁，推进发行欧洲债券的计划",
           "url": "https://wallstreetcn.com/livenews/2999281",
           "source": "华尔街见闻-快讯",
@@ -197,6 +310,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美财长被问和马斯克打架揪衣领没",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%E8%A2%AB%E9%97%AE%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%93%E6%9E%B6%E6%8F%AA%E8%A1%A3%E9%A2%86%E6%B2%A1",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "翁青雅采访朱珠，这场采访为啥成了「反面典型」？她犯的哪些错误值得职场新人吸取教训？",
+          "url": "https://www.zhihu.com/question/1968703119304167638",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时18分]"
+        },
+        {
+          "title": "《明末：渊虚之羽》在整体宣发上让路人也产生了兴趣，但发现好像破圈效果适得其反，这给了游戏发行什么启示？",
+          "url": "https://www.zhihu.com/question/1966538200722945291",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "职场上你拼命努力不一定成功，但不努力更难，怎么办？",
+          "url": "https://www.zhihu.com/question/1913142535318143468",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     },
@@ -214,30 +379,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时18分]"
         },
         {
           "title": "美国办公地产危机加速：办公楼CMBS违约率突破11.8%创历史新高，已超越2008金融危机峰值",
           "url": "https://wallstreetcn.com/articles/3758656",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "彭博汇编数据显示：摩根士丹利发行45亿欧元（折合52亿美元）债券，使得美国公司本周在欧元区单一货币市场的债务融资规模达到154亿欧元——创单周历史新高。",
           "url": "https://wallstreetcn.com/livenews/2999343",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时18分]"
         }
       ]
     },
@@ -255,24 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "翁青雅采访朱珠，这场采访为啥成了「反面典型」？她犯的哪些错误值得职场新人吸取教训？",
-          "url": "https://www.zhihu.com/question/1968703119304167638",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时31分]"
         }
       ]
     }
