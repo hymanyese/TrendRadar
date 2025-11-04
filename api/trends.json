@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T20:48:09.293996+08:00",
-  "total_titles_processed": 1846,
+  "generated_at": "2025-11-04T21:36:10.278084+08:00",
+  "total_titles_processed": 1930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 57,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -93,8 +93,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时27分 ~ 20时48分]"
+          "appearance_count": 31,
+          "time_info": "[00时27分 ~ 21时36分]"
         },
         {
           "title": "赵长鹏威胁美国国安却被赦免？特朗普：他谁啊",
@@ -107,6 +107,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时26分 ~ 16时31分]"
+        },
+        {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 21时36分]"
         },
         {
           "title": "马斯克：体力劳动更难被AI取代",
@@ -215,17 +227,6 @@
           "time_info": "[15时21分 ~ 19时21分]"
         },
         {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 20时48分]"
-        },
-        {
           "title": "马斯克称若发现外星人证据就公开",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%8B%A5%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E8%AF%81%E6%8D%AE%E5%B0%B1%E5%85%AC%E5%BC%80",
           "source": "百度热搜",
@@ -254,6 +255,20 @@
           "time_info": "[15时21分 ~ 18时26分]"
         },
         {
+          "title": "特朗普称对中国与其打压不如合作",
+          "url": "https://www.toutiao.com/trending/7568736208902324287/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            21,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 21时36分]"
+        },
+        {
           "title": "马斯克：若掌握外星人证据将公开",
           "url": "https://www.douyin.com/hot/2293371",
           "source": "抖音",
@@ -265,6 +280,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "美财长回应与马斯克在白宫打架",
+          "url": "https://www.toutiao.com/trending/7568305525287436294/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
+        },
+        {
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
@@ -303,17 +340,26 @@
           "time_info": "01时20分"
         },
         {
-          "title": "特朗普称对中国与其打压不如合作",
-          "url": "https://www.toutiao.com/trending/7568736208902324287/",
-          "source": "今日头条",
+          "title": "特朗普：立即废除参议院冗长议事规则。 废除该规则后共和党将推动所有议程顺利通过。",
+          "url": "https://wallstreetcn.com/livenews/2999237",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            21,
-            27
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 20时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "特朗普再次呼吁终止参议院冗长议事规则",
+          "url": "https://flash.jin10.com/detail/20251104212729939800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美国总统特朗普：将要求我们的交通部长考虑取消纽约市拥堵收费。",
@@ -400,6 +446,18 @@
           "time_info": "[15时21分 ~ 16时31分]"
         },
         {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 21时36分]"
+        },
+        {
           "title": "马斯克称自己永远不会自杀",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E8%87%AA%E6%9D%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D29%26stream_entry_id%3D31%26band_rank%3D29%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E7%25A7%25B0%25E8%2587%25AA%25E5%25B7%25B1%25E6%25B0%25B8%25E8%25BF%259C%25E4%25B8%258D%25E4%25BC%259A%25E8%2587%25AA%25E6%259D%2580%2523%26dgr%3D0%26c_type%3D31%26filter_type%3Drealtimehot%26flag%3D0%26lcate%3D5001%26pos%3D29%26display_time%3D1762200020%26pre_seqid%3D17622000209050339791558&launchid=10000360-page_H5",
           "source": "微博",
@@ -446,6 +504,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时25分 ~ 19时21分]"
+        },
+        {
+          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
+          "url": "https://wallstreetcn.com/livenews/2999214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时36分]"
         },
         {
           "title": "道富集团CEO称特朗普移民政策“反增长”",
@@ -531,15 +601,15 @@
           "time_info": "[02时32分 ~ 03时18分]"
         },
         {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
+          "title": "特朗普再向中国示好背后原因是什么",
+          "url": "https://www.toutiao.com/trending/7568843465572748827/",
+          "source": "今日头条",
           "ranks": [
-            19
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时47分 ~ 20时48分]"
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "如何看特朗普说中美合作让美国强大",
@@ -553,15 +623,15 @@
           "time_info": "[17时24分 ~ 17时25分]"
         },
         {
-          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
-          "url": "https://wallstreetcn.com/livenews/2999214",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：共和党将在没有冗长辩论的情况下使所有议案获得批准。",
+          "url": "https://flash.jin10.com/detail/20251104212317020800",
+          "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时48分"
+          "time_info": "21时36分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-04）",
@@ -573,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "美国总统特朗普呼吁立即终止冗长辩论。",
+          "url": "https://flash.jin10.com/detail/20251104212241216800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美国总统特朗普：如果马姆达尼（在纽约选举中）获胜，我将“极不可能”为纽约市提供联邦资金。",
@@ -730,8 +811,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时21分 ~ 20时48分]"
+          "appearance_count": 13,
+          "time_info": "[15时21分 ~ 21时36分]"
         },
         {
           "title": "印度央行疑入市干预 卢比脱离接近历史低点水平",
@@ -751,7 +832,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -834,11 +915,12 @@
           "ranks": [
             13,
             14,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 20时48分]"
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 21时36分]"
         },
         {
           "title": "游泳爱好者逼近货船 船主咆哮驱离",
