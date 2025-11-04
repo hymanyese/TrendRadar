@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T04:49:28.225274+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2025-11-05T05:20:43.922375+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             14,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
@@ -192,6 +193,18 @@
           "time_info": "[03时18分 ~ 04时49分]"
         },
         {
+          "title": "美财长被问和马斯克打架揪衣领没",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%E8%A2%AB%E9%97%AE%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%93%E6%9E%B6%E6%8F%AA%E8%A1%A3%E9%A2%86%E6%B2%A1",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时20分]"
+        },
+        {
           "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
           "url": "https://flash.jin10.com/detail/20251105030214488800",
           "source": "金十数据",
@@ -264,16 +277,16 @@
           "time_info": "[01时19分 ~ 02时31分]"
         },
         {
-          "title": "美财长被问和马斯克打架揪衣领没",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%E8%A2%AB%E9%97%AE%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%93%E6%9E%B6%E6%8F%AA%E8%A1%A3%E9%A2%86%E6%B2%A1",
-          "source": "百度热搜",
+          "title": "马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
+          "url": "https://wallstreetcn.com/livenews/2999372",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
+            20,
             26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时49分]"
+          "time_info": "[04时49分 ~ 05时20分]"
         },
         {
           "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
@@ -309,6 +322,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "市场消息：嘉信理财将支持马斯克在特斯拉的1万亿美元薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251105045858317800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
           "url": "https://flash.jin10.com/detail/20251105024210324800",
           "source": "金十数据",
@@ -331,24 +355,13 @@
           "time_info": "00时28分"
         },
         {
-          "title": "马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
-          "url": "https://wallstreetcn.com/livenews/2999372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
           "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
           "url": "https://flash.jin10.com/detail/20251105032507471800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -359,9 +372,65 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美政府停摆35天追平历史纪录",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8635%E5%A4%A9%E8%BF%BD%E5%B9%B3%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            10,
+            7,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时20分]"
+        },
+        {
+          "title": "美国办公地产危机加速：办公楼CMBS违约率突破11.8%创历史新高，已超越2008金融危机峰值",
+          "url": "https://wallstreetcn.com/articles/3758656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时20分]"
+        },
+        {
+          "title": "彭博汇编数据显示：摩根士丹利发行45亿欧元（折合52亿美元）债券，使得美国公司本周在欧元区单一货币市场的债务融资规模达到154亿欧元——创单周历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2999343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时18分]"
+        },
+        {
+          "title": "朝鲜政坛原“二号人物”金永南逝世",
+          "url": "https://www.toutiao.com/trending/7568615599367258166/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     },
@@ -380,8 +449,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "《明末：渊虚之羽》在整体宣发上让路人也产生了兴趣，但发现好像破圈效果适得其反，这给了游戏发行什么启示？",
@@ -389,11 +458,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时20分]"
         },
         {
           "title": "职场上你拼命努力不一定成功，但不努力更难，怎么办？",
@@ -405,50 +475,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美政府停摆35天追平历史纪录",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8635%E5%A4%A9%E8%BF%BD%E5%B9%B3%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            10,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时49分]"
-        },
-        {
-          "title": "美国办公地产危机加速：办公楼CMBS违约率突破11.8%创历史新高，已超越2008金融危机峰值",
-          "url": "https://wallstreetcn.com/articles/3758656",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时49分]"
-        },
-        {
-          "title": "彭博汇编数据显示：摩根士丹利发行45亿欧元（折合52亿美元）债券，使得美国公司本周在欧元区单一货币市场的债务融资规模达到154亿欧元——创单周历史新高。",
-          "url": "https://wallstreetcn.com/livenews/2999343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时18分]"
         }
       ]
     },
