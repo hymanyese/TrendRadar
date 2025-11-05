@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T21:34:36.112886+08:00",
-  "total_titles_processed": 1950,
+  "generated_at": "2025-11-05T22:22:43.665063+08:00",
+  "total_titles_processed": 2030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 59,
+      "match_count": 69,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时13分 ~ 21时34分]"
+          "appearance_count": 16,
+          "time_info": "[11时13分 ~ 22时22分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时30分 ~ 21时34分]"
+          "appearance_count": 7,
+          "time_info": "[16时30分 ~ 22时22分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -112,9 +112,53 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默和众议院少数党领袖杰弗瑞斯要求与特朗普举行两党会晤。",
+          "url": "https://flash.jin10.com/detail/20251105220952184800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "美国（国会山）民主党致函总统特朗普，要求会面。 参议院民主党领导人Schumer和众议院民主党领导人Hakeem Jeffries要求与特朗普进行跨党派会面。 这两名民主党领导人希望结束10月1日以来的政府关门问题。",
+          "url": "https://wallstreetcn.com/livenews/2999953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "金十数据整理：特朗普胜选一周年，在市场掀起过哪些波澜？",
+          "url": "https://flash.jin10.com/detail/20251105220524399800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "为结束政府“停摆” 特朗普再要求参议院终止“冗长辩论”",
+          "url": "https://wallstreetcn.com/livenews/2999952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "白宫降半旗悼念切尼 特朗普沉默",
@@ -338,6 +382,18 @@
           "time_info": "[03时18分 ~ 05时20分]"
         },
         {
+          "title": "马斯克万亿薪酬背后的对赌棋局",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E8%83%8C%E5%90%8E%E7%9A%84%E5%AF%B9%E8%B5%8C%E6%A3%8B%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时22分]"
+        },
+        {
           "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
           "url": "https://flash.jin10.com/detail/20251105030214488800",
           "source": "金十数据",
@@ -444,17 +500,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时20分]"
-        },
-        {
-          "title": "马斯克万亿薪酬背后的对赌棋局",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E8%83%8C%E5%90%8E%E7%9A%84%E5%AF%B9%E8%B5%8C%E6%A3%8B%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         },
         {
           "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
@@ -578,6 +623,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "特朗普告诫共和党人：不终止冗长辩论规则是错误之举。",
+          "url": "https://wallstreetcn.com/livenews/2999939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美国总统特朗普：我很高兴提名贾里德·艾萨克曼为美国国家航空航天局的局长。",
           "url": "https://flash.jin10.com/detail/20251105064331425800",
           "source": "金十数据",
@@ -598,6 +654,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "美股三大股指期货均转涨，此前特朗普称股市在过去9个月里屡创新高，股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "俄罗斯情报部门负责人纳雷什金：（就特朗普有关核试验的声明表示）美国官员拒绝直接讨论此事。",
+          "url": "https://flash.jin10.com/detail/20251105215937400800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
@@ -666,6 +744,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。 政府停摆影响股市。 股市在过去9个月里屡创新高。 股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
           "url": "https://flash.jin10.com/detail/20251105032507471800",
           "source": "金十数据",
@@ -688,6 +777,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "俄罗斯总统普京：（就美国总统特朗普有关核试验的声明表示）这是一个严重的问题。",
+          "url": "https://flash.jin10.com/detail/20251105215226127800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "奥巴马为何怼特朗普政府“无法无天”",
           "url": "https://www.toutiao.com/trending/7568801860920806922/",
           "source": "今日头条",
@@ -697,6 +797,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "特朗普呼吁结束政府停摆 并直言美股屡创新高仅是开端",
+          "url": "https://flash.jin10.com/detail/20251105214713212800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
@@ -731,8 +842,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时22分 ~ 21时34分]"
+          "appearance_count": 12,
+          "time_info": "[13时22分 ~ 22时22分]"
         },
         {
           "title": "美政府停摆35天追平历史纪录",
@@ -778,6 +889,19 @@
           "time_info": "[13时22分 ~ 18时25分]"
         },
         {
+          "title": "真人演绎初见昔涟的故事",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E6%BC%94%E7%BB%8E%E5%88%9D%E8%A7%81%E6%98%94%E6%B6%9F%E7%9A%84%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时22分]"
+        },
+        {
           "title": "香港交易所：第三季度的平均每日成交额同比大增141%，达到2864亿港元，创历史新高。",
           "url": "https://flash.jin10.com/detail/20251105121859791800",
           "source": "金十数据",
@@ -788,18 +912,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 13时22分]"
-        },
-        {
-          "title": "真人演绎初见昔涟的故事",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E6%BC%94%E7%BB%8E%E5%88%9D%E8%A7%81%E6%98%94%E6%B6%9F%E7%9A%84%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时34分]"
         },
         {
           "title": "进入第36天，美联邦政府“停摆”时长破历史纪录",
