@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T05:21:29.043828+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2025-11-06T06:21:48.176029+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "马斯克万亿薪酬背后的对赌棋局",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -50,8 +50,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普再次对尼日利亚发出威胁",
+          "url": "https://flash.jin10.com/detail/20251106061021528800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普：已指示国防部对核武器进行测试",
+          "url": "https://flash.jin10.com/detail/20251106060815768800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "梅西百货（M）涨9.5%，卡特（CRI）涨9.7%，美泰（MAT）涨4.4%，投资者关注“美国最高法院多名关键性法官对总统特朗普全球关税政策合法性的怀疑态度”。",
@@ -60,7 +82,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -140,6 +162,20 @@
           "time_info": "[04时26分 ~ 05时21分]"
         },
         {
+          "title": "纽约新市长为何成特朗普的“噩梦”",
+          "url": "https://www.toutiao.com/trending/7569209850954026547/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
           "title": "美国最高法院对特朗普关税官司听证会的要点总结",
           "url": "https://wallstreetcn.com/livenews/3000063",
           "source": "华尔街见闻-快讯",
@@ -177,19 +213,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 05时21分]"
-        },
-        {
-          "title": "纽约新市长为何成特朗普的“噩梦”",
-          "url": "https://www.toutiao.com/trending/7569209850954026547/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 05时21分]"
         },
         {
           "title": "据CBS新闻：礼来制药、诺和诺德将与美国总统特朗普宣布下调减肥药价格。",
@@ -276,6 +299,17 @@
           "time_info": "[03时18分 ~ 04时26分]"
         },
         {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时21分]"
+        },
+        {
           "title": "据CNBC：特朗普对西屋电气核能领域的投资，可能会推动该公司上市，而美国政府将成为其股东。",
           "url": "https://flash.jin10.com/detail/20251106025104417800",
           "source": "金十数据",
@@ -309,17 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
         },
         {
           "title": "为结束政府“停摆” 美国会民主党领袖呼吁特朗普开始会谈",
@@ -361,7 +384,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -372,9 +395,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "Pinterest（PINS）收跌21%，创该公司美国IPO以来第二最差单日表现，特朗普关税冲击到该公司广告收入。",
+          "url": "https://wallstreetcn.com/livenews/3000107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "提醒：美国最高法院针对总统特朗普关税官司的听证会开始。",
@@ -397,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "高通第四财季调整后营收112.7亿美元，分析师预期107.7亿美元。 预计全年资本开支11.9亿美元，分析师预期11.8亿美元。 因（美国总统特朗普的）税收政策而一次性计提57亿美元，这将使得长期税率降低。 预计第一财季营收118亿-126亿美元，分析师预期115.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3000098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -413,8 +458,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "真人演绎初见昔涟的故事",
@@ -424,8 +469,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "星巴克工会：准备在美国超过25个城市罢工。 准备举行公司历史上最大规模、持续时间最长的罢工。 美国工人准备从11月13日开始罢工。 罢工针对Red Cup Day（11月13日）活动。",
@@ -508,6 +553,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 航天动态 ===== 月球 登月 火星 宇宙 飞船",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：特朗普提名的美国航空航天局局长贾里德·艾萨克曼提议最早于明年发射一次无人火星任务。",
+          "url": "https://flash.jin10.com/detail/20251106054434301800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     }
