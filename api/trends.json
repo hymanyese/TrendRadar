@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T11:14:14.758064+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2025-11-05T12:28:00.949161+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 12时28分]"
+        },
+        {
           "title": "佩洛西：特朗普是地表最坏的家伙",
           "url": "https://www.toutiao.com/trending/7567917613335494699/",
           "source": "今日头条",
@@ -33,17 +45,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时21分]"
-        },
-        {
-          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -241,6 +242,18 @@
           "time_info": "[03时18分 ~ 04时49分]"
         },
         {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 12时28分]"
+        },
+        {
           "title": "美财长被问和马斯克打架揪衣领没",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%E8%A2%AB%E9%97%AE%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%93%E6%9E%B6%E6%8F%AA%E8%A1%A3%E9%A2%86%E6%B2%A1",
           "source": "百度热搜",
@@ -275,18 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 11时14分]"
         },
         {
           "title": "市场消息：美国马里兰州政府运营的公共养老金体系（MSRPS）将投票反对马斯克的薪酬计划。",
@@ -422,7 +423,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -488,7 +489,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -510,7 +511,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -573,7 +574,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国办公地产危机加速：办公楼CMBS违约率突破11.8%创历史新高，已超越2008金融危机峰值",
@@ -586,8 +587,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 11时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时28分]"
         },
         {
           "title": "美政府停摆35天追平历史纪录",
@@ -607,6 +608,28 @@
           "time_info": "[00时27分 ~ 09时44分]"
         },
         {
+          "title": "香港交易所：第三季度的平均每日成交额同比大增141%，达到2864亿港元，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20251105121859791800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "进入第36天，美联邦政府“停摆”时长破历史纪录",
+          "url": "https://wallstreetcn.com/livenews/2999620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
           "title": "历史上的鳌拜到底是怎样的一个人?",
           "url": "https://www.zhihu.com/question/35890790",
           "source": "知乎",
@@ -617,6 +640,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时44分 ~ 11时14分]"
+        },
+        {
+          "title": "进入第36天，美联邦政府“停摆”时长破历史纪录",
+          "url": "https://news.ifeng.com/c/8o20Gh1qWO8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
         },
         {
           "title": "彭博汇编数据显示：摩根士丹利发行45亿欧元（折合52亿美元）债券，使得美国公司本周在欧元区单一货币市场的债务融资规模达到154亿欧元——创单周历史新高。",
@@ -641,6 +675,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时20分]"
+        },
+        {
+          "title": "进入第36天 美联邦政府“停摆”时长破历史纪录",
+          "url": "https://flash.jin10.com/detail/20251105120644996800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         },
         {
           "title": "为什么越南的历史很长但其领土扩张较为缓慢？",
