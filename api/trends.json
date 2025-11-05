@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T07:21:49.662350+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2025-11-05T09:44:40.480850+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -327,6 +327,17 @@
           "time_info": "[04时49分 ~ 05时20分]"
         },
         {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
           "url": "https://flash.jin10.com/detail/20251105024546546800",
           "source": "金十数据",
@@ -355,7 +366,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -410,7 +421,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -421,7 +432,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -432,7 +443,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -454,7 +465,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -506,7 +517,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美政府停摆35天追平历史纪录",
@@ -518,11 +529,12 @@
             7,
             11,
             16,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时44分]"
         },
         {
           "title": "美国办公地产危机加速：办公楼CMBS违约率突破11.8%创历史新高，已超越2008金融危机峰值",
@@ -530,11 +542,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 09时44分]"
         },
         {
           "title": "彭博汇编数据显示：摩根士丹利发行45亿欧元（折合52亿美元）债券，使得美国公司本周在欧元区单一货币市场的债务融资规模达到154亿欧元——创单周历史新高。",
@@ -561,13 +574,24 @@
           "time_info": "[05时20分 ~ 06时20分]"
         },
         {
+          "title": "历史上的鳌拜到底是怎样的一个人?",
+          "url": "https://www.zhihu.com/question/35890790",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "为什么越南的历史很长但其领土扩张较为缓慢？",
           "url": "https://www.zhihu.com/question/54140551",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -586,11 +610,12 @@
             5,
             3,
             6,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时44分]"
         },
         {
           "title": "《明末：渊虚之羽》在整体宣发上让路人也产生了兴趣，但发现好像破圈效果适得其反，这给了游戏发行什么启示？",
@@ -612,7 +637,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
