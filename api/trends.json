@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T02:31:35.438742+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-11-06T03:18:49.953306+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -15,19 +15,64 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
-          "title": "美国总统特朗普考虑11月6日宣布减肥药意见。 他将与礼来制药、诺和诺德宣布降价。 在某些情况下，减肥药售价可能会低于150美元。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3000056",
+          "title": "特朗普继续攻击鲍威尔，称他是傻瓜",
+          "url": "https://wallstreetcn.com/livenews/3000066",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普：将不会出席在南非举行的G20会议。",
+          "url": "https://flash.jin10.com/detail/20251106030531792800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3000064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
+          "url": "https://wallstreetcn.com/articles/3758695",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
+        },
+        {
+          "title": "马斯克万亿薪酬背后的对赌棋局",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E8%83%8C%E5%90%8E%E7%9A%84%E5%AF%B9%E8%B5%8C%E6%A3%8B%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "标普500指数涨0.35%，道指微跌，纳指涨0.61%，半导体指数涨2.45%。 美国最高法院似乎怀疑总统特朗普关税的合法性。",
@@ -42,27 +87,16 @@
           "time_info": "[00时29分 ~ 01时28分]"
         },
         {
-          "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
-          "url": "https://wallstreetcn.com/articles/3758695",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普考虑11月6日宣布减肥药意见。 他将与礼来制药、诺和诺德宣布降价。 在某些情况下，减肥药售价可能会低于150美元。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3000056",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时31分]"
-        },
-        {
-          "title": "马斯克万亿薪酬背后的对赌棋局",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E8%83%8C%E5%90%8E%E7%9A%84%E5%AF%B9%E8%B5%8C%E6%A3%8B%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时31分]"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时18分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -72,8 +106,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
+        },
+        {
+          "title": "据CBS新闻：礼来制药、诺和诺德将与美国总统特朗普宣布下调减肥药价格。",
+          "url": "https://flash.jin10.com/detail/20251106020814036800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时18分]"
         },
         {
           "title": "特朗普新推的美联储理事米兰：美联储货币政策太具有限制性了，与中性距离太遥远",
@@ -86,6 +132,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时28分]"
+        },
+        {
+          "title": "据CBS新闻：美国总统特朗普定于周四上午11点（北京时间周五00:00）就减肥药物发表声明。",
+          "url": "https://flash.jin10.com/detail/20251106020733024800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时18分]"
+        },
+        {
+          "title": "提醒：美国最高法院针对特朗普关税官司的辩论环节结束。",
+          "url": "https://wallstreetcn.com/livenews/3000053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时18分]"
+        },
+        {
+          "title": "特朗普上任一年美股跑输全球大盘",
+          "url": "https://www.toutiao.com/trending/7569232858510790187/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时18分]"
         },
         {
           "title": "克里姆林宫：普京和特朗普之间没有计划在不久的将来进行对话。",
@@ -112,48 +194,60 @@
           "time_info": "[01时28分 ~ 02时31分]"
         },
         {
-          "title": "据CBS新闻：礼来制药、诺和诺德将与美国总统特朗普宣布下调减肥药价格。",
-          "url": "https://flash.jin10.com/detail/20251106020814036800",
-          "source": "金十数据",
+          "title": "纽约新市长为何成特朗普的“噩梦”",
+          "url": "https://www.toutiao.com/trending/7569209850954026547/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 03时18分]"
+        },
+        {
+          "title": "美国最高法院对特朗普关税官司听证会的要点总结",
+          "url": "https://wallstreetcn.com/livenews/3000063",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时18分"
         },
         {
-          "title": "据CBS新闻：美国总统特朗普定于周四上午11点（北京时间周五00:00）就减肥药物发表声明。",
-          "url": "https://flash.jin10.com/detail/20251106020733024800",
+          "title": "美国总统特朗普：美联储主席鲍威尔是傻瓜。",
+          "url": "https://flash.jin10.com/detail/20251106025957354800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时18分"
         },
         {
-          "title": "提醒：美国最高法院针对特朗普关税官司的辩论环节结束。",
-          "url": "https://wallstreetcn.com/livenews/3000053",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：重申对鲍威尔的批评。预计2美元/加仑的汽油价格将回归。",
+          "url": "https://flash.jin10.com/detail/20251106025736560800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时18分"
         },
         {
-          "title": "特朗普上任一年美股跑输全球大盘",
-          "url": "https://www.toutiao.com/trending/7569232858510790187/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：预计第三季度GDP增长4.2%或更高。",
+          "url": "https://flash.jin10.com/detail/20251106025235863800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时18分"
         },
         {
           "title": "为结束政府“停摆” 美国会民主党领袖呼吁特朗普开始会谈",
@@ -167,22 +261,22 @@
           "time_info": "00时29分"
         },
         {
+          "title": "据CNBC：特朗普对西屋电气核能领域的投资，可能会推动该公司上市，而美国政府将成为其股东。",
+          "url": "https://flash.jin10.com/detail/20251106025104417800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
           "title": "美国供应管理协会（ISM）服务业业务调查委员会主席Steve Miller：受访者继续提到关税对支付价格的影响。 没有迹象显示出现大范围裁员或人力缩减。 但（总统特朗普的）联邦政府关门被多次提及，称其影响了商业活动，并引发对未来裁员的担忧。",
           "url": "https://wallstreetcn.com/livenews/3000004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "纽约新市长为何成特朗普的“噩梦”",
-          "url": "https://www.toutiao.com/trending/7569209850954026547/",
-          "source": "今日头条",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -224,8 +318,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "真人演绎初见昔涟的故事",
@@ -235,8 +329,21 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
+        },
+        {
+          "title": "星巴克工会：准备在美国超过25个城市罢工。 准备举行公司历史上最大规模、持续时间最长的罢工。 美国工人准备从11月13日开始罢工。 罢工针对Red Cup Day（11月13日）活动。",
+          "url": "https://wallstreetcn.com/livenews/3000041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时31分]"
+          "time_info": "[01时28分 ~ 03时18分]"
         },
         {
           "title": "星巴克(SBUX.O)工会：准备举行公司历史上最大规模、持续时间最长的罢工。美国工人准备从11月13日起在超过25个城市开始罢工。罢工针对星巴克红杯日(RedCupDay)活动。",
@@ -245,18 +352,6 @@
           "ranks": [
             2,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时31分]"
-        },
-        {
-          "title": "星巴克工会：准备在美国超过25个城市罢工。 准备举行公司历史上最大规模、持续时间最长的罢工。 美国工人准备从11月13日开始罢工。 罢工针对Red Cup Day（11月13日）活动。",
-          "url": "https://wallstreetcn.com/livenews/3000041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -279,11 +374,12 @@
           "url": "https://flash.jin10.com/detail/20251106014505362800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时18分]"
         },
         {
           "title": "英国股市创收盘历史新高，博柏利涨超3%",
@@ -314,7 +410,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         }
