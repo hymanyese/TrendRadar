@@ -1,1144 +1,171 @@
 {
-  "generated_at": "2025-11-05T23:23:58.399694+08:00",
-  "total_titles_processed": 2121,
+  "generated_at": "2025-11-06T00:29:50.539209+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 73,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时13分 ~ 22时22分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时21分]"
-        },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
           "url": "https://wallstreetcn.com/articles/3758705",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时30分 ~ 23时23分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 19时20分]"
-        },
-        {
-          "title": "佩洛西：特朗普是地表最坏的家伙",
-          "url": "https://www.toutiao.com/trending/7567917613335494699/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14,
-            10,
-            9,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时21分]"
-        },
-        {
-          "title": "马斯克特朗普携手再战",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%B9%E6%9C%97%E6%99%AE%E6%90%BA%E6%89%8B%E5%86%8D%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
-        },
-        {
-          "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
-          "url": "https://news.ifeng.com/c/8o11vuaIumr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
-        },
-        {
-          "title": "日本最高外汇事务官员三村淳：特朗普总统将从美日委员会提出的项目中进行挑选。",
-          "url": "https://flash.jin10.com/detail/20251105151752442800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "提醒：美国最高法院针对总统特朗普关税官司的听证会开始。",
-          "url": "https://wallstreetcn.com/livenews/2999989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。 政府停摆影响股市。 股市在过去9个月里屡创新高。",
-          "url": "https://wallstreetcn.com/livenews/2999930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "美国最高法院正式开始听取有关美国总统特朗普关税的论点。",
-          "url": "https://flash.jin10.com/detail/20251105230629956800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默和众议院少数党领袖杰弗瑞斯要求与特朗普举行两党会晤。",
-          "url": "https://flash.jin10.com/detail/20251105220952184800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时22分"
+          "time_info": "00时29分"
         },
         {
-          "title": "美国（国会山）民主党致函总统特朗普，要求会面。 参议院民主党领导人Schumer和众议院民主党领导人Hakeem Jeffries要求与特朗普进行跨党派会面。 这两名民主党领导人希望结束10月1日以来的政府关门问题。",
-          "url": "https://wallstreetcn.com/livenews/2999953",
+          "title": "标普500指数涨0.35%，道指微跌，纳指涨0.61%，半导体指数涨2.45%。 美国最高法院似乎怀疑总统特朗普关税的合法性。",
+          "url": "https://wallstreetcn.com/livenews/3000015",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "金十数据整理：特朗普胜选一周年，在市场掀起过哪些波澜？",
-          "url": "https://flash.jin10.com/detail/20251105220524399800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "为结束政府“停摆” 特朗普再要求参议院终止“冗长辩论”",
-          "url": "https://wallstreetcn.com/livenews/2999952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "白宫降半旗悼念切尼 特朗普沉默",
-          "url": "https://www.toutiao.com/trending/7568870591252906035/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时25分]"
-        },
-        {
-          "title": "奥巴马为何高调对特朗普发难",
-          "url": "https://www.toutiao.com/trending/7569156347464257074/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 21时34分]"
-        },
-        {
-          "title": "马斯克万亿薪酬背后的对赌棋局",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E8%83%8C%E5%90%8E%E7%9A%84%E5%AF%B9%E8%B5%8C%E6%A3%8B%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 23时23分]"
-        },
-        {
-          "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
-          "url": "https://wallstreetcn.com/livenews/2999310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
-        },
-        {
-          "title": "美国总统特朗普：只有当激进左翼民主党人重新开放政府时，才会发放SNAP福利。",
-          "url": "https://flash.jin10.com/detail/20251105000851307800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
-        },
-        {
-          "title": "巴西总统卢拉：已向特朗普表明拉丁美洲是“和平地带”",
-          "url": "https://wallstreetcn.com/livenews/2999332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 03时18分]"
-        },
-        {
-          "title": "特斯拉CEO马斯克：AI6芯片将采用相同的晶圆厂，但性能将提升约2倍。",
-          "url": "https://flash.jin10.com/detail/20251105031111963800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时49分]"
-        },
-        {
-          "title": "美股散户指数创特朗普关税日以来的最大跌幅",
-          "url": "https://flash.jin10.com/detail/20251105061222244800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时21分]"
-        },
-        {
-          "title": "特斯拉CEO马斯克：特斯拉AI5芯片的略微不同版本将由台积电和三星代工生产。",
-          "url": "https://flash.jin10.com/detail/20251105031017939800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时49分]"
-        },
-        {
-          "title": "美国总统特朗普：一旦政府结束关门事件，就会发放联邦食品救济项目“补充营养援助计划”（SNAP）。",
-          "url": "https://wallstreetcn.com/livenews/2999308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "巴西总统卢拉：政府将寻求对里约警方的致命行动进行独立调查。我告诉特朗普，拉丁美洲是一个“和平地区”。",
-          "url": "https://flash.jin10.com/detail/20251105000308068800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
-        },
-        {
-          "title": "Egan-Jones评级公司：基于财富导向的政策，建议投票支持马斯克的薪酬方案。",
-          "url": "https://flash.jin10.com/detail/20251105030955942800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时49分]"
-        },
-        {
-          "title": "美媒：特朗普政府考虑控制委内瑞拉油田",
-          "url": "https://flash.jin10.com/detail/20251105030659180800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时49分]"
-        },
-        {
-          "title": "特朗普称最高法院关税案关乎美国存亡",
-          "url": "https://flash.jin10.com/detail/20251105060423187800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时21分]"
-        },
-        {
-          "title": "美国劳工部长Lori Chavez-Deremer：将在（总统特朗普的）政府关门事件结束时发布劳工统计局（BLS）的数据。 在那之前，是无法发布数据的。 政府停摆正影响到劳动力。",
-          "url": "https://wallstreetcn.com/livenews/2999304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "美国法官被原告的代理律师要求强迫总统特朗普的政府全额支付关于联邦食品救济项目“补充营养援助计划”（SNAP）的资金。",
-          "url": "https://wallstreetcn.com/livenews/2999303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "知名银行家：特朗普时代掀并购潮，美国两三年内料有3000家银行被整合",
-          "url": "https://wallstreetcn.com/livenews/2999344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时18分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
-          "url": "https://wallstreetcn.com/livenews/2999357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时49分]"
-        },
-        {
-          "title": "美财长被问和马斯克打架揪衣领没",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%E8%A2%AB%E9%97%AE%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%93%E6%9E%B6%E6%8F%AA%E8%A1%A3%E9%A2%86%E6%B2%A1",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时20分]"
-        },
-        {
-          "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
-          "url": "https://flash.jin10.com/detail/20251105030214488800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时49分]"
-        },
-        {
-          "title": "美国众议长约翰逊：如果参议院（针对总统特朗普的政府关门事件相关的融资立法草案）批准一些东西，众议院就会重返谈判桌。",
-          "url": "https://wallstreetcn.com/livenews/2999301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "市场消息：美国马里兰州政府运营的公共养老金体系（MSRPS）将投票反对马斯克的薪酬计划。",
-          "url": "https://flash.jin10.com/detail/20251105004501901800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时31分]"
-        },
-        {
-          "title": "摩根大通：正在回应特朗普政府就本公司客户政策提出的要求。",
-          "url": "https://wallstreetcn.com/livenews/2999421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时21分]"
-        },
-        {
-          "title": "Maryland Pension将投票反对特斯拉针对马斯克的薪酬计划。",
-          "url": "https://wallstreetcn.com/livenews/2999322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时31分]"
-        },
-        {
-          "title": "美国法官要求迫使特朗普政府支付全额补充营养协助计划（SNAP）福利。",
-          "url": "https://flash.jin10.com/detail/20251104234509311800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈加州选区重划）违宪投票是一场巨大的骗局。所有邮寄选票正接受非常严肃的法律和刑事审查。",
-          "url": "https://flash.jin10.com/detail/20251105002826068800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时31分]"
-        },
-        {
-          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1969362121386100394",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时21分]"
-        },
-        {
-          "title": "马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
-          "url": "https://wallstreetcn.com/livenews/2999372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时20分]"
+          "time_info": "00时29分"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
           "url": "https://wallstreetcn.com/articles/3758695",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
-          "url": "https://flash.jin10.com/detail/20251105024546546800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "00时29分"
         },
         {
-          "title": "白宫：（谈美印关系）特朗普对两国关系持积极态度。",
-          "url": "https://flash.jin10.com/detail/20251105024520582800",
+          "title": "马斯克万亿薪酬背后的对赌棋局",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E8%83%8C%E5%90%8E%E7%9A%84%E5%AF%B9%E8%B5%8C%E6%A3%8B%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "特朗普新推的美联储理事米兰：美联储货币政策太具有限制性了，与中性距离太遥远",
+          "url": "https://wallstreetcn.com/livenews/3000013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "为结束政府“停摆” 美国会民主党领袖呼吁特朗普开始会谈",
+          "url": "https://flash.jin10.com/detail/20251106000840561800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "特朗普选择Jared Isaacman为美国国家航空航天局（NASA）局长。 Jared Isaacman是太空探索公司SpaceX首席执行官（CEO）马斯克的盟友。",
-          "url": "https://wallstreetcn.com/livenews/2999440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普再次提名艾萨克曼出任美航天局局长",
-          "url": "https://wallstreetcn.com/livenews/2999698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "白宫：特朗普正在密切关注尼日利亚。",
-          "url": "https://flash.jin10.com/detail/20251105024507839800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "市场消息：嘉信理财将支持马斯克在特斯拉的1万亿美元薪酬方案。",
-          "url": "https://flash.jin10.com/detail/20251105045858317800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
-          "url": "https://wallstreetcn.com/livenews/2999566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "据塔斯社援引克里姆林宫的话称，俄罗斯仍在等待美国就特朗普有关恢复核试验的言论作出澄清。",
-          "url": "https://flash.jin10.com/detail/20251105055137506800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "纽约市当选市长Mamdani：将终结“腐败文化”，正是这种文化允许像特朗普这样的亿万富翁逃避税收并利用税收优惠。",
-          "url": "https://flash.jin10.com/detail/20251105123816370800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "00时29分"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
           "url": "https://www.cls.cn/detail/2192187",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
-          "url": "https://flash.jin10.com/detail/20251105024210324800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "00时29分"
         },
         {
-          "title": "特朗普的CBS《60分钟》采访吸引约1300万名观众",
-          "url": "https://flash.jin10.com/detail/20251105064332489800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普告诫共和党人：不终止冗长辩论规则是错误之举。",
-          "url": "https://wallstreetcn.com/livenews/2999939",
+          "title": "美国供应管理协会（ISM）服务业业务调查委员会主席Steve Miller：受访者继续提到关税对支付价格的影响。 没有迹象显示出现大范围裁员或人力缩减。 但（总统特朗普的）联邦政府关门被多次提及，称其影响了商业活动，并引发对未来裁员的担忧。",
+          "url": "https://wallstreetcn.com/livenews/3000004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时22分"
+          "time_info": "00时29分"
         },
         {
-          "title": "美国总统特朗普：我很高兴提名贾里德·艾萨克曼为美国国家航空航天局的局长。",
-          "url": "https://flash.jin10.com/detail/20251105064331425800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-05）",
-          "url": "https://flash.jin10.com/detail/20251105183737191800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "美股三大股指期货均转涨，此前特朗普称股市在过去9个月里屡创新高，股市将创下更多纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/2999938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "俄罗斯情报部门负责人纳雷什金：（就特朗普有关核试验的声明表示）美国官员拒绝直接讨论此事。",
-          "url": "https://flash.jin10.com/detail/20251105215937400800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
-          "url": "https://flash.jin10.com/detail/20251105062051375800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普将于当地时间上午8:30在与共和党参议员的早餐会上发表讲话。",
-          "url": "https://flash.jin10.com/detail/20251105100328874800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "美国参议院共和党成员们受邀11月5日前往白宫。 他们将与总统特朗普共进早餐。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/2999414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国前财长批评特朗普滥用紧急权力征收关税",
-          "url": "https://flash.jin10.com/detail/20251105100305577800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "尼日利亚无视特朗普武力威胁，推进发行欧洲债券的计划",
-          "url": "https://wallstreetcn.com/livenews/2999281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。 政府停摆影响股市。 股市在过去9个月里屡创新高。 股市将创下更多纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/2999930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
-          "url": "https://flash.jin10.com/detail/20251105032507471800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "特斯拉CEO马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
-          "url": "https://flash.jin10.com/detail/20251105031420233800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "俄罗斯总统普京：（就美国总统特朗普有关核试验的声明表示）这是一个严重的问题。",
-          "url": "https://flash.jin10.com/detail/20251105215226127800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "奥巴马为何怼特朗普政府“无法无天”",
-          "url": "https://www.toutiao.com/trending/7568801860920806922/",
+          "title": "纽约新市长为何成特朗普的“噩梦”",
+          "url": "https://www.toutiao.com/trending/7569209850954026547/",
           "source": "今日头条",
           "ranks": [
-            29
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时29分"
         },
         {
-          "title": "特朗普呼吁结束政府停摆 并直言美股屡创新高仅是开端",
-          "url": "https://flash.jin10.com/detail/20251105214713212800",
-          "source": "金十数据",
+          "title": "提醒：美国最高法院针对总统特朗普关税官司的听证会开始。",
+          "url": "https://wallstreetcn.com/livenews/2999989",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时22分"
+          "time_info": "00时29分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 16,
+      "match_count": 4,
       "titles": [
         {
           "title": "人物｜民主社会主义者、穆斯林、印度裔，马姆达尼成为纽约最年轻市长",
           "url": "https://m.thepaper.cn/newsDetail_forward_31897450",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            16,
-            8,
-            6,
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时22分 ~ 23时23分]"
-        },
-        {
-          "title": "美国办公地产危机加速：办公楼CMBS违约率突破11.8%创历史新高，已超越2008金融危机峰值",
-          "url": "https://wallstreetcn.com/articles/3758656",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 20时44分]"
-        },
-        {
-          "title": "美政府停摆35天追平历史纪录",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8635%E5%A4%A9%E8%BF%BD%E5%B9%B3%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            10,
-            7,
-            11,
-            16,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时44分]"
-        },
-        {
-          "title": "进入第36天，美联邦政府“停摆”时长破历史纪录",
-          "url": "https://news.ifeng.com/c/8o20Gh1qWO8",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时34分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "真人演绎初见昔涟的故事",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E6%BC%94%E7%BB%8E%E5%88%9D%E8%A7%81%E6%98%94%E6%B6%9F%E7%9A%84%E6%95%85%E4%BA%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            20,
-            3,
-            5,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时44分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "美政府“关门”时长即将刷新纪录！高盛：经济冲击或创历史之最",
-          "url": "https://www.cls.cn/detail/2191424",
-          "source": "财联社热门",
+          "title": "美国纽约联储发布家庭债务季度报告：美国三季度家庭债务增长1.1%，至18.59万亿美元。 消费者债务拖欠率创2020年一季度以来新高。 学生贷款逾期率上升至14.4%，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3000012",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11,
-            12,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 18时25分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "香港交易所：第三季度的平均每日成交额同比大增141%，达到2864亿港元，创历史新高。",
-          "url": "https://flash.jin10.com/detail/20251105121859791800",
+          "title": "美国能源信息署（EIA）：美国中西部地区汽油库存上周降至历史最低水平。",
+          "url": "https://flash.jin10.com/detail/20251105233720388800",
           "source": "金十数据",
           "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时22分]"
-        },
-        {
-          "title": "进入第36天，美联邦政府“停摆”时长破历史纪录",
-          "url": "https://wallstreetcn.com/livenews/2999620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时22分]"
-        },
-        {
-          "title": "美政府“停摆”36天破历史纪录",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E2%80%9C%E5%81%9C%E6%91%86%E2%80%9D36%E5%A4%A9%E7%A0%B4%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 17时25分]"
-        },
-        {
-          "title": "历史上的鳌拜到底是怎样的一个人?",
-          "url": "https://www.zhihu.com/question/35890790",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时14分]"
-        },
-        {
-          "title": "美国政府关门打破历史纪录",
-          "url": "https://www.toutiao.com/trending/7568815188931199017/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 17时25分]"
-        },
-        {
-          "title": "彭博汇编数据显示：摩根士丹利发行45亿欧元（折合52亿美元）债券，使得美国公司本周在欧元区单一货币市场的债务融资规模达到154亿欧元——创单周历史新高。",
-          "url": "https://wallstreetcn.com/livenews/2999343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时18分]"
-        },
-        {
-          "title": "进入第36天 美联邦政府“停摆”时长破历史纪录",
-          "url": "https://flash.jin10.com/detail/20251105120644996800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时22分]"
-        },
-        {
-          "title": "朝鲜政坛原“二号人物”金永南逝世",
-          "url": "https://www.toutiao.com/trending/7568615599367258166/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时20分]"
-        },
-        {
-          "title": "挪威历史性暂停主权财富基金道德准则 允许其保留所投美科技巨头股份",
-          "url": "https://wallstreetcn.com/livenews/2999855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "为什么越南的历史很长但其领土扩张较为缓慢？",
-          "url": "https://www.zhihu.com/question/54140551",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "翁青雅采访朱珠，这场采访为啥成了「反面典型」？她犯的哪些错误值得职场新人吸取教训？",
-          "url": "https://www.zhihu.com/question/1968703119304167638",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            3,
-            6,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时44分]"
-        },
-        {
-          "title": "《明末：渊虚之羽》在整体宣发上让路人也产生了兴趣，但发现好像破圈效果适得其反，这给了游戏发行什么启示？",
-          "url": "https://www.zhihu.com/question/1966538200722945291",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 06时20分]"
-        },
-        {
-          "title": "在职场中遇到对自己不公平的对待时，你们会怎么做？",
-          "url": "https://www.zhihu.com/question/1968624010536416596",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "职场上你拼命努力不一定成功，但不努力更难，怎么办？",
-          "url": "https://www.zhihu.com/question/1913142535318143468",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 经济金融 ===== 黄金 美元 石油 稀土",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2999277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "00时29分"
         }
       ]
     }
