@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T13:23:14.146200+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2025-11-06T14:34:46.985574+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时42分 ~ 13时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 14时34分]"
         },
         {
           "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
@@ -41,8 +41,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时42分 ~ 13时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普的大麻烦来了",
+          "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 14时34分]"
         },
         {
           "title": "马斯克万亿薪酬背后的对赌棋局",
@@ -58,16 +70,15 @@
           "time_info": "[00时29分 ~ 11时16分]"
         },
         {
-          "title": "特朗普的大麻烦来了",
-          "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 14时34分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -82,15 +93,16 @@
           "time_info": "[00时29分 ~ 09时43分]"
         },
         {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 14时34分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -103,18 +115,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时42分 ~ 11时16分]"
-        },
-        {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 13时23分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -134,11 +134,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时21分 ~ 13时23分]"
+          "appearance_count": 8,
+          "time_info": "[05时21分 ~ 14时34分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -172,6 +173,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "事关机器人、自动驾驶板块！马斯克“万亿薪酬”提案将表决 通过概率几何？",
+          "url": "https://www.cls.cn/detail/2192690",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时34分]"
         },
         {
           "title": "梅西百货（M）涨9.5%，卡特（CRI）涨9.7%，美泰（MAT）涨4.4%，投资者关注“美国最高法院多名关键性法官对总统特朗普全球关税政策合法性的怀疑态度”。",
@@ -337,15 +350,16 @@
           "time_info": "[02时31分 ~ 05时21分]"
         },
         {
-          "title": "事关机器人、自动驾驶板块！马斯克“万亿薪酬”提案将表决 通过概率几何？",
-          "url": "https://www.cls.cn/detail/2192690",
-          "source": "财联社热门",
+          "title": "马斯克万亿薪酬背后的权力博弈",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E8%83%8C%E5%90%8E%E7%9A%84%E6%9D%83%E5%8A%9B%E5%8D%9A%E5%BC%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时34分]"
         },
         {
           "title": "据CBS新闻：礼来制药、诺和诺德将与美国总统特朗普宣布下调减肥药价格。",
@@ -456,17 +470,6 @@
           "time_info": "[01时28分 ~ 02时31分]"
         },
         {
-          "title": "马斯克万亿薪酬背后的权力博弈",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E8%83%8C%E5%90%8E%E7%9A%84%E6%9D%83%E5%8A%9B%E5%8D%9A%E5%BC%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
-        },
-        {
           "title": "特朗普称美股将再创新高",
           "url": "https://www.toutiao.com/trending/7569403413117537838/",
           "source": "今日头条",
@@ -498,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "高盛：即使美最高法院裁定特朗普关税违法，对整体贸易局势影响也有限",
+          "url": "https://flash.jin10.com/detail/20251106140838691800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "特朗普高级顾问：特朗普明年将聚焦生活成本议题",
@@ -542,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普政府决定提供三分之二食品援助福利 修正此前“计算错误”",
+          "url": "https://flash.jin10.com/detail/20251106140101223800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "美国供应管理协会（ISM）服务业业务调查委员会主席Steve Miller：受访者继续提到关税对支付价格的影响。 没有迹象显示出现大范围裁员或人力缩减。 但（总统特朗普的）联邦政府关门被多次提及，称其影响了商业活动，并引发对未来裁员的担忧。",
@@ -635,7 +660,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "人物｜民主社会主义者、穆斯林、印度裔，马姆达尼成为纽约最年轻市长",
@@ -661,21 +686,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时21分 ~ 13时23分]"
-        },
-        {
-          "title": "真人演绎初见昔涟的故事",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E6%BC%94%E7%BB%8E%E5%88%9D%E8%A7%81%E6%98%94%E6%B6%9F%E7%9A%84%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 11,
+          "time_info": "[07时21分 ~ 14时34分]"
         },
         {
           "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
@@ -684,11 +696,26 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时42分 ~ 13时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 14时34分]"
+        },
+        {
+          "title": "真人演绎初见昔涟的故事",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E6%BC%94%E7%BB%8E%E5%88%9D%E8%A7%81%E6%98%94%E6%B6%9F%E7%9A%84%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时34分]"
         },
         {
           "title": "美国政府停摆时长破历史纪录",
@@ -772,6 +799,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时18分]"
+        },
+        {
+          "title": "美国政府「停摆」超过 36 天，破历史纪录，造成的损失到底有多大？可能会持续多久？",
+          "url": "https://www.zhihu.com/question/1969392097502143770",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
+          "url": "https://flash.jin10.com/detail/20251106140725860800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "英国股市创收盘历史新高，博柏利涨超3%",
