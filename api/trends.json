@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-06T17:24:25.461773+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2025-11-06T18:25:06.731662+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 18时25分]"
+        },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
           "url": "https://wallstreetcn.com/articles/3758705",
@@ -20,16 +32,17 @@
           "time_info": "[00时29分 ~ 11时16分]"
         },
         {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            3,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时28分 ~ 17时24分]"
+          "time_info": "[09时43分 ~ 18时25分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -57,16 +70,18 @@
           "time_info": "[09时42分 ~ 14时34分]"
         },
         {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
+          "title": "事关机器人、自动驾驶板块！马斯克“万亿薪酬”提案将表决 通过概率几何？",
+          "url": "https://www.cls.cn/detail/2192690",
+          "source": "财联社热门",
           "ranks": [
+            7,
+            5,
             3,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 17时24分]"
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 18时25分]"
         },
         {
           "title": "特朗普的大麻烦来了",
@@ -94,18 +109,16 @@
           "time_info": "[00时29分 ~ 11时16分]"
         },
         {
-          "title": "事关机器人、自动驾驶板块！马斯克“万亿薪酬”提案将表决 通过概率几何？",
-          "url": "https://www.cls.cn/detail/2192690",
-          "source": "财联社热门",
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5,
-            3,
-            2
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 17时24分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 18时25分]"
         },
         {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
@@ -118,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时21分 ~ 17时24分]"
+          "appearance_count": 12,
+          "time_info": "[05时21分 ~ 18时25分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -155,18 +168,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时22分]"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时24分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -507,6 +508,17 @@
           "time_info": "[11时15分 ~ 11时16分]"
         },
         {
+          "title": "特朗普为何呼吁改革选举制度",
+          "url": "https://www.toutiao.com/trending/7569486558500228659/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "民主党呼吁特朗普会谈结束政府停摆",
           "url": "https://www.toutiao.com/trending/7569362062070825002/",
           "source": "今日头条",
@@ -538,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "特朗普高级顾问：特朗普明年将聚焦生活成本议题",
@@ -645,7 +668,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -708,7 +731,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "人物｜民主社会主义者、穆斯林、印度裔，马姆达尼成为纽约最年轻市长",
@@ -768,6 +791,19 @@
           "time_info": "[00时29分 ~ 17时24分]"
         },
         {
+          "title": "美国政府「停摆」超过 36 天，破历史纪录，造成的损失到底有多大？可能会持续多久？",
+          "url": "https://www.zhihu.com/question/1969392097502143770",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 18时25分]"
+        },
+        {
           "title": "美国政府停摆时长破历史纪录",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%97%B6%E9%95%BF%E7%A0%B4%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D4%26pos%3D3%26lcate%3D5001%26cate%3D5001%26flag%3D1%26band_rank%3D4%26q%3D%2523%25E7%25BE%258E%25E5%259B%25BD%25E6%2594%25BF%25E5%25BA%259C%25E5%2581%259C%25E6%2591%2586%25E6%2597%25B6%25E9%2595%25BF%25E7%25A0%25B4%25E5%258E%2586%25E5%258F%25B2%25E7%25BA%25AA%25E5%25BD%2595%2523%26dgr%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26c_type%3D31%26display_time%3D1762384662%26pre_seqid%3D176238466293702558261102&launchid=10000360-page_H5",
           "source": "微博",
@@ -789,19 +825,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "美国政府「停摆」超过 36 天，破历史纪录，造成的损失到底有多大？可能会持续多久？",
-          "url": "https://www.zhihu.com/question/1969392097502143770",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 17时24分]"
         },
         {
           "title": "星巴克工会：准备在美国超过25个城市罢工。 准备举行公司历史上最大规模、持续时间最长的罢工。 美国工人准备从11月13日开始罢工。 罢工针对Red Cup Day（11月13日）活动。",
@@ -852,6 +875,29 @@
           "time_info": "[00时29分 ~ 01时28分]"
         },
         {
+          "title": "历史重演还是纯属巧合？先是Burry做空，后是德银对冲，“大空头2.0”真实再现了！",
+          "url": "https://wallstreetcn.com/articles/3758778",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时25分]"
+        },
+        {
+          "title": "“寒王”股价又超茅台！距历史新高仅差8%，科创板热度再起，权重成资金关注方向",
+          "url": "https://www.cls.cn/detail/2193199",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "墨西哥主要股指涨幅扩大至1.9%，创历史新高。",
           "url": "https://flash.jin10.com/detail/20251106014505362800",
           "source": "金十数据",
@@ -862,6 +908,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时18分]"
+        },
+        {
+          "title": "《崩坏：星穹铁道》主线剧情【翁法罗斯篇】已经在 3.7 版本迎来收尾，你对故事整体会做出怎样的评价？",
+          "url": "https://www.zhihu.com/question/1969690484126521334",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
@@ -875,24 +932,13 @@
           "time_info": "14时34分"
         },
         {
-          "title": "历史重演还是纯属巧合？先是Burry做空，后是德银对冲，“大空头2.0”真实再现了！",
-          "url": "https://wallstreetcn.com/articles/3758778",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "11月7日启幕！公募领军人物齐聚合肥，共话高质量发展新路径",
           "url": "https://www.cls.cn/detail/2192677",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -917,6 +963,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "富时新加坡海峡时报指数收于历史新高，报4484.99点，涨幅1.5%。",
+          "url": "https://flash.jin10.com/detail/20251106173546898800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美国能源信息署（EIA）：美国中西部地区汽油库存上周降至历史最低水平。",
