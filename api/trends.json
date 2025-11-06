@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T15:21:33.257822+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2025-11-06T16:32:11.978993+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -45,6 +45,18 @@
           "time_info": "[09时42分 ~ 14时34分]"
         },
         {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 16时32分]"
+        },
+        {
           "title": "特朗普的大麻烦来了",
           "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
           "source": "凤凰网",
@@ -70,17 +82,6 @@
           "time_info": "[00时29分 ~ 11时16分]"
         },
         {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 15时21分]"
-        },
-        {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
           "url": "https://wallstreetcn.com/articles/3758755",
           "source": "华尔街见闻",
@@ -89,8 +90,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 16时32分]"
+        },
+        {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时21分 ~ 16时32分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -105,18 +120,18 @@
           "time_info": "[00时29分 ~ 09时43分]"
         },
         {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
+          "title": "事关机器人、自动驾驶板块！马斯克“万亿薪酬”提案将表决 通过概率几何？",
+          "url": "https://www.cls.cn/detail/2192690",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            6,
-            7
+            7,
+            5,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时21分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 16时32分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -142,17 +157,15 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
-          "title": "事关机器人、自动驾驶板块！马斯克“万亿薪酬”提案将表决 通过概率几何？",
-          "url": "https://www.cls.cn/detail/2192690",
-          "source": "财联社热门",
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 15时21分]"
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时32分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -188,15 +201,15 @@
           "time_info": "07时22分"
         },
         {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
+          "title": "瑞银：特朗普关税若被推翻，美国财政承压之际美联储或迎降息契机",
+          "url": "https://flash.jin10.com/detail/20251106161902252800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时32分"
         },
         {
           "title": "梅西百货（M）涨9.5%，卡特（CRI）涨9.7%，美泰（MAT）涨4.4%，投资者关注“美国最高法院多名关键性法官对总统特朗普全球关税政策合法性的怀疑态度”。",
@@ -614,6 +627,17 @@
           "time_info": "11时16分"
         },
         {
+          "title": "法国外贸银行：特朗普关税案若败诉，美贸易政策将陷入更深不确定性之中",
+          "url": "https://flash.jin10.com/detail/20251106160417235800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "摩根大通CEO戴蒙：美联储将继续保持独立，但特朗普总统会畅所欲言。",
           "url": "https://flash.jin10.com/detail/20251106043243122800",
           "source": "金十数据",
@@ -712,8 +736,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时42分 ~ 15时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 16时32分]"
         },
         {
           "title": "真人演绎初见昔涟的故事",
@@ -723,11 +747,12 @@
             5,
             6,
             28,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 16时32分]"
         },
         {
           "title": "美国政府停摆时长破历史纪录",
@@ -778,6 +803,19 @@
           "time_info": "[01时28分 ~ 02时31分]"
         },
         {
+          "title": "美国政府「停摆」超过 36 天，破历史纪录，造成的损失到底有多大？可能会持续多久？",
+          "url": "https://www.zhihu.com/question/1969392097502143770",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 16时32分]"
+        },
+        {
           "title": "美国政府「停摆」进入第 36 天，破历史纪录，造成的损失到底有多大？可能会持续多久？",
           "url": "https://www.zhihu.com/question/1969392097502143770",
           "source": "知乎",
@@ -787,18 +825,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 13时23分]"
-        },
-        {
-          "title": "美国政府「停摆」超过 36 天，破历史纪录，造成的损失到底有多大？可能会持续多久？",
-          "url": "https://www.zhihu.com/question/1969392097502143770",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时21分]"
         },
         {
           "title": "美国纽约联储发布家庭债务季度报告：美国三季度家庭债务增长1.1%，至18.59万亿美元。 消费者债务拖欠率创2020年一季度以来新高。 学生贷款逾期率上升至14.4%，创历史新高。",
