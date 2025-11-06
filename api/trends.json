@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T01:23:02.987994+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2025-11-07T02:34:24.380562+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 20,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普为什么总是针对南非？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -26,41 +26,54 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时34分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
+          "url": "https://flash.jin10.com/detail/20251107015432543800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
+          "url": "https://wallstreetcn.com/livenews/3000699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。",
           "url": "https://wallstreetcn.com/livenews/3000682",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时34分]"
         },
         {
           "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议。 两家公司的GLP-1s减肥药将在TrumpRX网站上架销售。 Zepbound和Wegovy价格将下调，医疗保险和医疗补助将涵盖这些减肥药物。 两家公司将在美国新建工厂。 礼来将在美国投资270亿美元，诺和诺德将投资100亿美元。 许多应用广泛的药品将实施60%的折扣。 美国民众应该支付全球最低的药价。 其他国家对美国医药定价协议感到不满。",
           "url": "https://wallstreetcn.com/livenews/3000680",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "特朗普政府与礼来、诺和诺德达成减肥药降价协议",
-          "url": "https://wallstreetcn.com/livenews/3000679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时34分]"
         },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
@@ -70,8 +83,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
+        },
+        {
+          "title": "特朗普政府与礼来、诺和诺德达成减肥药降价协议",
+          "url": "https://wallstreetcn.com/livenews/3000679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时34分]"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -81,8 +106,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
@@ -139,7 +164,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -150,9 +175,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
+          "url": "https://wallstreetcn.com/livenews/3000696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "美国总统特朗普：Zepbound和Wegovy价格将下调。",
@@ -161,7 +197,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -172,7 +208,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -183,7 +219,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -194,7 +230,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -210,13 +246,79 @@
           "time_info": "00时29分"
         },
         {
+          "title": "美国总统特朗普在椭圆形办公室发表讲话时，一名官员晕倒，讲话随即暂停。",
+          "url": "https://flash.jin10.com/detail/20251107013741993800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "美国总统特朗普：美国今年的投资可能超过21万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251107013332153800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "美国总统特朗普：最高法院对关税案若作出负面裁决，对美国来说将是毁灭性的。",
+          "url": "https://flash.jin10.com/detail/20251107013319980800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：当前的利率环境“几乎不存在限制性”。 并没有明显的证据表明，应该在2025年继续采取货币政策行动。 通胀是更加迫切的担忧。 预计2026年更快的经济增速将利好就业。 （由于总统特朗普政府关门影响到经济的缘故）预计失业率将在未来数月上升。",
+          "url": "https://wallstreetcn.com/livenews/3000676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "美国总统特朗普：美国人必须能够以全球最低的价格购买药品，这是他们的权利。",
+          "url": "https://flash.jin10.com/detail/20251107013210117800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "特朗普会否成为“跛脚总统”",
+          "url": "https://www.toutiao.com/trending/7569576151731932699/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
           "title": "特朗普政府的人工智能官员表示，联邦政府不会对人工智能行业实施救助。",
           "url": "https://flash.jin10.com/detail/20251107005622900800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -227,7 +329,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -235,7 +337,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“寒王”股价又超茅台！距历史新高仅差8%，科创板热度再起，权重成资金关注方向",
@@ -245,8 +347,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "媒体：基因溯源不容“历史戏说”",
@@ -254,11 +356,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "美国政府「停摆」超过 36 天，破历史纪录，造成的损失到底有多大？可能会持续多久？",
@@ -268,8 +371,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "历史重演还是纯属巧合？先是Burry做空，后是德银对冲，“大空头2.0”真实再现了！",
@@ -279,8 +382,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "德国股市收跌超1%，英国股市脱离收盘历史最高位",
@@ -289,9 +392,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "德国股市收跌1.3%，英国股市脱离收盘历史最高位",
+          "url": "https://wallstreetcn.com/livenews/3000667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         }
       ]
     },
@@ -308,8 +422,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
         }
       ]
     }
