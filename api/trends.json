@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T11:16:22.387819+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2025-11-06T12:29:04.548420+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -33,6 +33,31 @@
           "time_info": "[00时29分 ~ 11时16分]"
         },
         {
+          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
+          "url": "https://www.cls.cn/detail/2192410",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时29分]"
+        },
+        {
+          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
+          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时29分]"
+        },
+        {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
           "url": "https://www.cls.cn/detail/2192187",
           "source": "财联社热门",
@@ -57,6 +82,18 @@
           "time_info": "[09时42分 ~ 11时16分]"
         },
         {
+          "title": "特朗普的大麻烦来了",
+          "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 12时29分]"
+        },
+        {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
           "url": "https://wallstreetcn.com/articles/3758695",
           "source": "华尔街见闻",
@@ -68,39 +105,27 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
-          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
-          "url": "https://www.cls.cn/detail/2192410",
-          "source": "财联社热门",
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 12时29分]"
         },
         {
-          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
-          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时16分]"
-        },
-        {
-          "title": "特朗普的大麻烦来了",
-          "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "time_info": "[12时28分 ~ 12时29分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -114,18 +139,6 @@
           "time_info": "[09时42分 ~ 09时43分]"
         },
         {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时16分]"
-        },
-        {
           "title": "为结束政府“停摆”美国会民主党领袖呼吁特朗普开始会谈",
           "url": "https://news.ifeng.com/c/8o36aXsrNEC",
           "source": "凤凰网",
@@ -135,6 +148,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时42分 ~ 09时43分]"
+        },
+        {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时21分 ~ 12时29分]"
         },
         {
           "title": "美国总统特朗普：我们必须把牛肉价格降下来。",
@@ -157,18 +183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时21分 ~ 11时16分]"
         },
         {
           "title": "特朗普继续攻击鲍威尔，称他是傻瓜",
@@ -464,6 +478,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "特朗普高级顾问：特朗普明年将聚焦生活成本议题",
+          "url": "https://flash.jin10.com/detail/20251106114548245800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "为结束政府“停摆” 美国会民主党领袖呼吁特朗普开始会谈",
           "url": "https://flash.jin10.com/detail/20251106000840561800",
           "source": "金十数据",
@@ -473,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "据Politico：特朗普的高级顾问表示，总统明年将专注于可负担性问题。",
+          "url": "https://flash.jin10.com/detail/20251106113709729800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "美国总统特朗普称赞加密货币，称其减轻了美元压力。",
@@ -514,7 +550,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -598,11 +634,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E4%BA%BA%E6%BC%94%E7%BB%8E%E5%88%9D%E8%A7%81%E6%98%94%E6%B6%9F%E7%9A%84%E6%95%85%E4%BA%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 12时29分]"
         },
         {
           "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
@@ -614,8 +651,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 11时16分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 12时29分]"
         },
         {
           "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
@@ -623,11 +660,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 11时16分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时29分]"
         },
         {
           "title": "美国政府停摆时长破历史纪录",
@@ -648,7 +686,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -719,7 +757,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -748,6 +786,34 @@
       ]
     },
     {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么玩家对「合成」这一玩法这么感兴趣，为什么什么游戏都想把它缝进去？它的爽点到底在哪里？",
+          "url": "https://www.zhihu.com/question/1966538201662469673",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 12时29分]"
+        },
+        {
+          "title": "在职场中，要避免「学生气」吗？对职场新人来说，如何将「学生气」转化为「职业感」？",
+          "url": "https://www.zhihu.com/question/1967884655341572951",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ===== 航天动态 ===== 月球 登月 火星 宇宙 飞船",
       "match_count": 1,
       "titles": [
@@ -762,23 +828,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么玩家对「合成」这一玩法这么感兴趣，为什么什么游戏都想把它缝进去？它的爽点到底在哪里？",
-          "url": "https://www.zhihu.com/question/1966538201662469673",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
         }
       ]
     }
