@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T04:25:17.631918+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2025-11-07T05:20:13.298271+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普为什么总是针对南非？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -49,8 +49,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院关于关税的案件进展不顺利，将需要第二套方案。我们还能做其他事情，但相比之下速度较慢。",
@@ -62,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "特朗普政府表示，美国COVE资本将与哈萨克斯坦国有矿业公司TAAU - KEN SAMRUK共同开发哈萨克斯坦的大型钨矿，项目的成本预计为11亿美元；美国进出口银行已发出意向函，拟提供9亿美元资金支持。",
-          "url": "https://flash.jin10.com/detail/20251107041030974800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
         },
         {
           "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议。 两家公司的GLP-1s减肥药将在TrumpRX网站上架销售。 Zepbound和Wegovy价格将下调，医疗保险和医疗补助将涵盖这些减肥药物。 两家公司将在美国新建工厂。 礼来将在美国投资270亿美元，诺和诺德将投资100亿美元。 许多应用广泛的药品将实施60%的折扣。 美国民众应该支付全球最低的药价。 其他国家对美国医药定价协议感到不满。",
@@ -138,6 +127,18 @@
           "time_info": "[03时18分 ~ 04时25分]"
         },
         {
+          "title": "特朗普政府表示，美国COVE资本将与哈萨克斯坦国有矿业公司TAAU - KEN SAMRUK共同开发哈萨克斯坦的大型钨矿，项目的成本预计为11亿美元；美国进出口银行已发出意向函，拟提供9亿美元资金支持。",
+          "url": "https://flash.jin10.com/detail/20251107041030974800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
           "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
           "url": "https://flash.jin10.com/detail/20251107015432543800",
           "source": "金十数据",
@@ -162,6 +163,32 @@
           "time_info": "[02时34分 ~ 04时25分]"
         },
         {
+          "title": "美国总统特朗普：共和党因为经济承受问题而在民主党占优势的地区败选。",
+          "url": "https://wallstreetcn.com/livenews/3000712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普赞莫迪减购俄油，称可能明年前往印度",
+          "url": "https://wallstreetcn.com/livenews/3000711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时20分]"
+        },
+        {
           "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
           "url": "https://wallstreetcn.com/livenews/3000696",
           "source": "华尔街见闻-快讯",
@@ -173,30 +200,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 04时25分]"
-        },
-        {
-          "title": "美国总统特朗普：共和党因为经济承受问题而在民主党占优势的地区败选。",
-          "url": "https://wallstreetcn.com/livenews/3000712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时25分]"
-        },
-        {
-          "title": "特朗普赞莫迪减购俄油，称可能明年前往印度",
-          "url": "https://wallstreetcn.com/livenews/3000711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时25分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
@@ -235,6 +238,30 @@
           "time_info": "[00时29分 ~ 01时23分]"
         },
         {
+          "title": "美国总统特朗普：不担心航空旅行安全。",
+          "url": "https://flash.jin10.com/detail/20251107030453698800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
+          "title": "美国总统特朗普：新的空中交通管制系统正在竞标中，未来六周将发布相关合同。",
+          "url": "https://flash.jin10.com/detail/20251107030442496800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
           "title": "美国众议长约翰逊：我可不会对（总统特朗普的政府关门期间的）医疗保健补贴问题作出投票承诺。",
           "url": "https://wallstreetcn.com/livenews/3000647",
           "source": "华尔街见闻-快讯",
@@ -247,6 +274,18 @@
           "time_info": "[00时29分 ~ 01时23分]"
         },
         {
+          "title": "美国总统特朗普：我们会安排好去印度的行程，可能是明年。",
+          "url": "https://flash.jin10.com/detail/20251107030006844800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
           "title": "美国总统特朗普在椭圆形办公室发表讲话时，一名官员晕倒，讲话随即暂停。",
           "url": "https://flash.jin10.com/detail/20251107013741993800",
           "source": "金十数据",
@@ -257,6 +296,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时18分]"
+        },
+        {
+          "title": "美国总统特朗普：印度总理莫迪很棒，他们已经基本停止购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20251107025935125800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
+        },
+        {
+          "title": "美国总统特朗普：与印度的会谈进展顺利。我们会敲定印度之行。",
+          "url": "https://flash.jin10.com/detail/20251107025853685800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
         },
         {
           "title": "美国总统特朗普：美国今年的投资可能超过21万亿美元。",
@@ -338,6 +401,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "美国商务部长卢特尼克：如果（国会山）出台合适的法律，将鼓励数字投资。 C5+1平台是总统特朗普策略的基石。",
+          "url": "https://wallstreetcn.com/livenews/3000732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "礼来(LLY.N)：作为与特朗普政府达成协议的一部分，将获得为期三年的关税减免。",
           "url": "https://flash.jin10.com/detail/20251107010908893800",
           "source": "金十数据",
@@ -360,68 +434,13 @@
           "time_info": "00时29分"
         },
         {
-          "title": "美国总统特朗普：不担心航空旅行安全。",
-          "url": "https://flash.jin10.com/detail/20251107030453698800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普：新的空中交通管制系统正在竞标中，未来六周将发布相关合同。",
-          "url": "https://flash.jin10.com/detail/20251107030442496800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普：我们会安排好去印度的行程，可能是明年。",
-          "url": "https://flash.jin10.com/detail/20251107030006844800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普：印度总理莫迪很棒，他们已经基本停止购买俄罗斯石油。",
-          "url": "https://flash.jin10.com/detail/20251107025935125800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普：与印度的会谈进展顺利。我们会敲定印度之行。",
-          "url": "https://flash.jin10.com/detail/20251107025853685800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
           "title": "美国总统特朗普：我们会把牛肉价格降下来，哪怕不得不向他们提供援助。",
           "url": "https://flash.jin10.com/detail/20251107025737098800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -454,7 +473,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
@@ -505,8 +524,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "媒体：基因溯源不容“历史戏说”",
@@ -517,11 +536,12 @@
             16,
             25,
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "美国政府「停摆」超过 36 天，破历史纪录，造成的损失到底有多大？可能会持续多久？",
@@ -532,8 +552,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "历史重演还是纯属巧合？先是Burry做空，后是德银对冲，“大空头2.0”真实再现了！",
@@ -543,19 +563,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时20分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股指本周累跌3%，埃及股指连续四天创历史新高本周累涨约4.4%",
           "url": "https://wallstreetcn.com/livenews/3000720",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
         },
         {
           "title": "德国股市收跌超1%，英国股市脱离收盘历史最高位",
@@ -592,11 +613,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 05时20分]"
         }
       ]
     }
