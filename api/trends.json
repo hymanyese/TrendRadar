@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T20:44:30.166364+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2025-11-06T21:34:11.416331+08:00",
+  "total_titles_processed": 1935,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时28分 ~ 20时44分]"
+          "appearance_count": 15,
+          "time_info": "[12时28分 ~ 21时34分]"
         },
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 20时44分]"
+          "appearance_count": 12,
+          "time_info": "[09时43分 ~ 21时34分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -171,6 +171,17 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "特朗普为什么总是针对南非？",
+          "url": "https://news.ifeng.com/c/8o3ygttojoa",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 21时34分]"
+        },
+        {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
           "url": "https://news.ifeng.com/c/8o2w70KHTf3",
           "source": "凤凰网",
@@ -202,17 +213,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "特朗普为什么总是针对南非？",
-          "url": "https://news.ifeng.com/c/8o3ygttojoa",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "瑞银：特朗普关税若被推翻，美国财政承压之际美联储或迎降息契机",
@@ -336,6 +336,18 @@
           "time_info": "[04时26分 ~ 05时21分]"
         },
         {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时34分]"
+        },
+        {
           "title": "纽约新市长为何成特朗普的“噩梦”",
           "url": "https://www.toutiao.com/trending/7569209850954026547/",
           "source": "今日头条",
@@ -376,16 +388,15 @@
           "time_info": "[02时31分 ~ 04时26分]"
         },
         {
-          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
-          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
+          "url": "https://www.cls.cn/detail/2193135",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时44分]"
+          "time_info": "[20时44分 ~ 21时34分]"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -399,6 +410,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 05时21分]"
+        },
+        {
+          "title": "民主党接连胜选之后 特朗普要求立即通过支出法案以结束停摆",
+          "url": "https://www.cls.cn/detail/2192934",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 21时34分]"
         },
         {
           "title": "马斯克万亿薪酬背后的权力博弈",
@@ -576,17 +598,6 @@
           "time_info": "14时34分"
         },
         {
-          "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
-          "url": "https://www.cls.cn/detail/2193135",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "特朗普高级顾问：特朗普明年将聚焦生活成本议题",
           "url": "https://flash.jin10.com/detail/20251106114548245800",
           "source": "金十数据",
@@ -596,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普从未声称自己拥有无限制的关税权力。",
+          "url": "https://flash.jin10.com/detail/20251106210925726800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "为结束政府“停摆” 美国会民主党领袖呼吁特朗普开始会谈",
@@ -618,17 +640,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
-        },
-        {
-          "title": "民主党接连胜选之后 特朗普要求立即通过支出法案以结束停摆",
-          "url": "https://www.cls.cn/detail/2192934",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "美国总统特朗普称赞加密货币，称其减轻了美元压力。",
@@ -714,7 +725,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -780,7 +791,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -868,8 +879,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时34分 ~ 20时44分]"
+          "appearance_count": 11,
+          "time_info": "[14时34分 ~ 21时34分]"
+        },
+        {
+          "title": "“寒王”股价又超茅台！距历史新高仅差8%，科创板热度再起，权重成资金关注方向",
+          "url": "https://www.cls.cn/detail/2193199",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 21时34分]"
         },
         {
           "title": "美国政府停摆时长破历史纪录",
@@ -884,19 +908,6 @@
           "time_info": "[07时21分 ~ 09时43分]"
         },
         {
-          "title": "“寒王”股价又超茅台！距历史新高仅差8%，科创板热度再起，权重成资金关注方向",
-          "url": "https://www.cls.cn/detail/2193199",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 20时44分]"
-        },
-        {
           "title": "印尼基准指数上涨0.5%，创下8362.916点的历史新高。",
           "url": "https://flash.jin10.com/detail/20251106105844496800",
           "source": "金十数据",
@@ -906,6 +917,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "历史重演还是纯属巧合？先是Burry做空，后是德银对冲，“大空头2.0”真实再现了！",
+          "url": "https://wallstreetcn.com/articles/3758778",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 21时34分]"
         },
         {
           "title": "星巴克工会：准备在美国超过25个城市罢工。 准备举行公司历史上最大规模、持续时间最长的罢工。 美国工人准备从11月13日开始罢工。 罢工针对Red Cup Day（11月13日）活动。",
@@ -933,18 +958,15 @@
           "time_info": "[01时28分 ~ 02时31分]"
         },
         {
-          "title": "历史重演还是纯属巧合？先是Burry做空，后是德银对冲，“大空头2.0”真实再现了！",
-          "url": "https://wallstreetcn.com/articles/3758778",
-          "source": "华尔街见闻",
+          "title": "如何评价《剑风传奇》中，格里菲斯这一人物？",
+          "url": "https://www.zhihu.com/question/59938097",
+          "source": "知乎",
           "ranks": [
-            10,
-            8,
-            9,
-            7
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 20时44分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 21时34分]"
         },
         {
           "title": "《崩坏：星穹铁道》主线剧情【翁法罗斯篇】已经在 3.7 版本迎来收尾，你对故事整体会做出怎样的评价？",
@@ -1047,17 +1069,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "如何评价《剑风传奇》中，格里菲斯这一人物？",
-          "url": "https://www.zhihu.com/question/59938097",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "富时新加坡海峡时报指数收于历史新高，报4484.99点，涨幅1.5%。",
