@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T21:34:11.416331+08:00",
-  "total_titles_processed": 1935,
+  "generated_at": "2025-11-06T22:22:42.575590+08:00",
+  "total_titles_processed": 2015,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 21时34分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 22时22分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -175,11 +175,12 @@
           "url": "https://news.ifeng.com/c/8o3ygttojoa",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 21时34分]"
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 22时22分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -235,6 +236,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 22时22分]"
         },
         {
           "title": "特朗普继续攻击鲍威尔，称他是傻瓜",
@@ -336,16 +349,27 @@
           "time_info": "[04时26分 ~ 05时21分]"
         },
         {
-          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
-          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
+          "url": "https://www.cls.cn/detail/2193135",
+          "source": "财联社热门",
           "ranks": [
             9,
             10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时25分 ~ 21时34分]"
+          "time_info": "[20时44分 ~ 22时22分]"
+        },
+        {
+          "title": "民主党接连胜选之后 特朗普要求立即通过支出法案以结束停摆",
+          "url": "https://www.cls.cn/detail/2192934",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 22时22分]"
         },
         {
           "title": "纽约新市长为何成特朗普的“噩梦”",
@@ -388,17 +412,6 @@
           "time_info": "[02时31分 ~ 04时26分]"
         },
         {
-          "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
-          "url": "https://www.cls.cn/detail/2193135",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 21时34分]"
-        },
-        {
           "title": "特朗普上任一年美股跑输全球大盘",
           "url": "https://www.toutiao.com/trending/7569232858510790187/",
           "source": "今日头条",
@@ -410,17 +423,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 05时21分]"
-        },
-        {
-          "title": "民主党接连胜选之后 特朗普要求立即通过支出法案以结束停摆",
-          "url": "https://www.cls.cn/detail/2192934",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 21时34分]"
         },
         {
           "title": "马斯克万亿薪酬背后的权力博弈",
@@ -565,6 +567,18 @@
           "time_info": "[18时24分 ~ 18时25分]"
         },
         {
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 22时22分]"
+        },
+        {
           "title": "民主党呼吁特朗普会谈结束政府停摆",
           "url": "https://www.toutiao.com/trending/7569362062070825002/",
           "source": "今日头条",
@@ -615,7 +629,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -785,17 +799,6 @@
           "time_info": "01时28分"
         },
         {
-          "title": "特朗普重申不会出席G20峰会",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "高通第四财季调整后营收112.7亿美元，分析师预期107.7亿美元。 预计全年资本开支11.9亿美元，分析师预期11.8亿美元。 因（美国总统特朗普的）税收政策而一次性计提57亿美元，这将使得长期税率降低。 预计第一财季营收118亿-126亿美元，分析师预期115.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3000098",
           "source": "华尔街见闻-快讯",
@@ -810,7 +813,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "人物｜民主社会主义者、穆斯林、印度裔，马姆达尼成为纽约最年轻市长",
@@ -879,8 +882,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时34分 ~ 21时34分]"
+          "appearance_count": 12,
+          "time_info": "[14时34分 ~ 22时22分]"
         },
         {
           "title": "“寒王”股价又超茅台！距历史新高仅差8%，科创板热度再起，权重成资金关注方向",
@@ -889,11 +892,26 @@
           "ranks": [
             12,
             7,
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时24分 ~ 22时22分]"
+        },
+        {
+          "title": "历史重演还是纯属巧合？先是Burry做空，后是德银对冲，“大空头2.0”真实再现了！",
+          "url": "https://wallstreetcn.com/articles/3758778",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时24分 ~ 21时34分]"
+          "time_info": "[17时24分 ~ 22时22分]"
         },
         {
           "title": "美国政府停摆时长破历史纪录",
@@ -917,20 +935,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "历史重演还是纯属巧合？先是Burry做空，后是德银对冲，“大空头2.0”真实再现了！",
-          "url": "https://wallstreetcn.com/articles/3758778",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 21时34分]"
         },
         {
           "title": "星巴克工会：准备在美国超过25个城市罢工。 准备举行公司历史上最大规模、持续时间最长的罢工。 美国工人准备从11月13日开始罢工。 罢工针对Red Cup Day（11月13日）活动。",
@@ -962,11 +966,12 @@
           "url": "https://www.zhihu.com/question/59938097",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 21时34分]"
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 22时22分]"
         },
         {
           "title": "《崩坏：星穹铁道》主线剧情【翁法罗斯篇】已经在 3.7 版本迎来收尾，你对故事整体会做出怎样的评价？",
@@ -1091,6 +1096,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "世界黄金协会：10月黄金市场日均交易额创历史新高",
+          "url": "https://flash.jin10.com/detail/20251106220121322800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "德国股指收涨超0.4%，英国股指涨超0.6%创收盘历史新高，博柏利涨超3.1%",
