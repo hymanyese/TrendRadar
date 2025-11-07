@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T09:42:05.567166+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2025-11-07T11:13:24.965539+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 74,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普为什么总是针对南非？",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 11时13分]"
         },
         {
           "title": "马斯克万亿薪酬方案获批准",
@@ -74,8 +74,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 11时13分]"
+        },
+        {
+          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
+          "url": "https://wallstreetcn.com/articles/3758856",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
+          "time_info": "[09时42分 ~ 11时13分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院关于关税的案件进展不顺利，将需要第二套方案。我们还能做其他事情，但相比之下速度较慢。",
@@ -100,6 +111,30 @@
           "time_info": "06时21分"
         },
         {
+          "title": "马斯克和机器人跳出六亲不认的步伐",
+          "url": "https://www.toutiao.com/trending/7569133596599091219/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
+          "url": "https://www.cls.cn/detail/2193634",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时13分]"
+        },
+        {
           "title": "联邦法官下令特朗普政府全额发放11月食品援助金",
           "url": "https://flash.jin10.com/detail/20251107071312828800",
           "source": "金十数据",
@@ -122,17 +157,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
-          "url": "https://wallstreetcn.com/articles/3758856",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
           "title": "禁止特朗普绕过国会对委动武议案被否",
           "url": "https://flash.jin10.com/detail/20251107071256941800",
           "source": "金十数据",
@@ -142,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普将于当地时间周五上午11:45会见匈牙利总理欧尔班。",
+          "url": "https://flash.jin10.com/detail/20251107105725161800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "特朗普会否成为“跛脚总统”",
@@ -256,16 +291,26 @@
           "time_info": "[02时34分 ~ 03时18分]"
         },
         {
-          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
-          "url": "https://www.cls.cn/detail/2193634",
-          "source": "财联社热门",
+          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
+          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
+          "source": "凤凰网",
           "ranks": [
-            12,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时42分]"
+          "time_info": "[09时41分 ~ 11时13分]"
+        },
+        {
+          "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
+          "url": "https://news.ifeng.com/c/8o4WnZCvvkZ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 11时13分]"
         },
         {
           "title": "美国总统特朗普：共和党因为经济承受问题而在民主党占优势的地区败选。",
@@ -307,15 +352,16 @@
           "time_info": "[02时34分 ~ 04时25分]"
         },
         {
-          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
-          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
-          "source": "凤凰网",
+          "title": "男子在特朗普身边晕倒 发布会中断",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E8%BE%B9%E6%99%95%E5%80%92+%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%AD%E6%96%AD",
+          "source": "百度热搜",
           "ranks": [
-            6
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 11时13分]"
         },
         {
           "title": "特朗普官宣：减肥药降价",
@@ -323,17 +369,6 @@
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
-        },
-        {
-          "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
-          "url": "https://news.ifeng.com/c/8o4WnZCvvkZ",
-          "source": "凤凰网",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -484,17 +519,6 @@
           "time_info": "[02时34分 ~ 03时18分]"
         },
         {
-          "title": "男子在特朗普身边晕倒 发布会中断",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E8%BE%B9%E6%99%95%E5%80%92+%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%AD%E6%96%AD",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
-        },
-        {
           "title": "美国总统特朗普：礼来公司将在美国投资270亿美元，诺和诺德将投资100亿美元。",
           "url": "https://flash.jin10.com/detail/20251107011357287800",
           "source": "金十数据",
@@ -537,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "万亿美元薪酬计划获压倒性票数通过！马斯克发声",
+          "url": "https://news.ifeng.com/c/8o5563NmbDn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "特斯拉(TSLA.O)：超过75%的股东批准马斯克的2025年薪酬计划。",
@@ -638,6 +673,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
+          "url": "https://www.cls.cn/detail/2193664",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
           "title": "礼来(LLY.N)：作为与特朗普政府达成协议的一部分，将获得为期三年的关税减免。",
           "url": "https://flash.jin10.com/detail/20251107010908893800",
           "source": "金十数据",
@@ -666,9 +712,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "凯投宏观：如果特朗普关税政策被否决，财政问题将是投资者的首要担忧",
+          "url": "https://flash.jin10.com/detail/20251107103540030800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 股东批准重新选举三名董事会成员。 董事会将评估xAI投资。 特斯拉美股盘后涨1.8%。",
@@ -704,13 +761,24 @@
           "time_info": "07时20分"
         },
         {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
           "title": "美国总统特朗普：伊朗一直在询问美国的制裁是否能够解除。",
           "url": "https://flash.jin10.com/detail/20251107085925426800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -721,9 +789,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "特朗普：乌兹别克斯坦将采购和投资近350亿美元，乌兹别克斯坦将投资于美国的基础设施、农业、能源。",
+          "url": "https://wallstreetcn.com/livenews/3000890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "特斯拉CEO马斯克：我们立志在明年底前将汽车产量提高约50%。",
@@ -743,9 +822,42 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "美国总统特朗普：在未来三年内，乌兹别克斯坦将购买并投资近350亿美元，而在未来十年内，将超过1000亿美元，投资于美国的关键行业，包括关键矿产、航空、汽车零部件、基础设施、农业、能源与化工、信息技术等多个领域。",
+          "url": "https://flash.jin10.com/detail/20251107102731934800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "美国总统特朗普：美国与乌兹别克斯坦达成贸易和经济协议。",
+          "url": "https://flash.jin10.com/detail/20251107102715387800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "特朗普回应佩洛西退休：对美国是件大好事",
+          "url": "https://wallstreetcn.com/livenews/3000884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "特朗普政府签署行政令，敲定从周五开始削减4%的航班，并将于11月14日削减至10%。",
@@ -754,7 +866,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -779,6 +891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "特朗普痛骂佩洛西",
+          "url": "https://www.douyin.com/hot/2297374",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "美国总统特朗普：美国人必须能够以全球最低的价格购买药品，这是他们的权利。",
@@ -809,9 +932,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "美脱口秀节目就政府停摆整活特朗普",
+          "url": "https://www.toutiao.com/trending/7568727581982474303/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。 最高法院作出裁决之前，不会宣布新的关税措施。",
@@ -842,7 +976,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -955,7 +1089,7 @@
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "俞敏洪发文确认孙东旭离职，怎样评价孙东旭在东方甄选的职业生涯？他的离职给职场人带来哪些启示？",
@@ -971,6 +1105,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时29分 ~ 09时42分]"
+        },
+        {
+          "title": "回复必带表情包，发言要挑时机，为什么年轻人对工作群里的「逢场作戏」越来越烦？反映了怎样的职场心态？",
+          "url": "https://www.zhihu.com/question/1969154327823253806",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         }
       ]
     }
