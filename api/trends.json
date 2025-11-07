@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T22:22:52.297771+08:00",
-  "total_titles_processed": 1983,
+  "generated_at": "2025-11-07T23:24:01.668557+08:00",
+  "total_titles_processed": 2073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 123,
+      "match_count": 127,
       "titles": [
         {
           "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时22分 ~ 22时22分]"
+          "appearance_count": 13,
+          "time_info": "[15时22分 ~ 23时24分]"
         },
         {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时42分 ~ 22时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时42分 ~ 23时24分]"
         },
         {
           "title": "特朗普为什么总是针对南非？",
@@ -104,11 +104,12 @@
             12,
             11,
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时41分 ~ 22时22分]"
+          "appearance_count": 21,
+          "time_info": "[09时41分 ~ 23时24分]"
         },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
@@ -155,17 +156,6 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
-          "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
-          "url": "https://news.ifeng.com/c/8o4WnZCvvkZ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 14时34分]"
-        },
-        {
           "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
           "url": "https://wallstreetcn.com/articles/3758872",
           "source": "华尔街见闻",
@@ -176,8 +166,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时30分 ~ 22时22分]"
+          "appearance_count": 8,
+          "time_info": "[16时30分 ~ 23时24分]"
+        },
+        {
+          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
+          "url": "https://www.zhihu.com/question/1970064184793334914",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时23分 ~ 23时24分]"
+        },
+        {
+          "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
+          "url": "https://news.ifeng.com/c/8o4WnZCvvkZ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 14时34分]"
         },
         {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
@@ -207,19 +221,6 @@
           "time_info": "[15时22分 ~ 19时20分]"
         },
         {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时23分 ~ 22时22分]"
-        },
-        {
           "title": "马斯克预计FSD明年在华全面获批",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%AE%A1FSD%E6%98%8E%E5%B9%B4%E5%9C%A8%E5%8D%8E%E5%85%A8%E9%9D%A2%E8%8E%B7%E6%89%B9",
           "source": "bilibili 热搜",
@@ -231,6 +232,33 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时33分 ~ 16时30分]"
+        },
+        {
+          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
+          "url": "https://www.cls.cn/detail/2194534",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时42分 ~ 23时24分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时20分 ~ 23时24分]"
         },
         {
           "title": "万亿美元薪酬计划获压倒性票数通过！马斯克发声",
@@ -308,7 +336,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -377,7 +405,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -448,18 +476,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时27分 ~ 14时34分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 22时22分]"
         },
         {
           "title": "特朗普会否成为“跛脚总统”",
@@ -599,19 +615,6 @@
           "time_info": "[02时34分 ~ 03时18分]"
         },
         {
-          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
-          "url": "https://www.cls.cn/detail/2194534",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时22分]"
-        },
-        {
           "title": "美国总统特朗普：共和党因为经济承受问题而在民主党占优势的地区败选。",
           "url": "https://wallstreetcn.com/livenews/3000712",
           "source": "华尔街见闻-快讯",
@@ -663,6 +666,18 @@
           "time_info": "[02时34分 ~ 04时25分]"
         },
         {
+          "title": "马斯克薪酬为何能这么高",
+          "url": "https://www.toutiao.com/trending/7569935804399619634/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时22分 ~ 23时24分]"
+        },
+        {
           "title": "特朗普痛骂佩洛西是“邪恶女人”",
           "url": "https://www.toutiao.com/trending/7569040586016620587/",
           "source": "今日头条",
@@ -684,6 +699,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "特朗普真想对委内瑞拉开战吗？",
+          "url": "https://v.ifeng.com/c/8o61H5snkCE",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
@@ -970,7 +996,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -992,7 +1018,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1036,9 +1062,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
+        },
+        {
+          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
+          "url": "https://wallstreetcn.com/articles/3758924",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "特朗普回应共和党选举失利",
@@ -1162,6 +1199,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "CNH Industrial NV跌11%，恐创2020年以来最差单日表现，特朗普关税冲击到该公司业绩展望。 迪尔农机/约翰迪尔（DE）跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3001287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "美联储威廉姆斯、巴尔将于十分钟后出席活动；美国总统特朗普将于十分钟后就减肥药物发表声明。",
           "url": "https://flash.jin10.com/detail/20251106235000000800",
           "source": "金十数据",
@@ -1201,7 +1249,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1272,6 +1320,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "特朗普媒体科技三季度净销售97.29万美元，上年同期101万美元。 三季度金融资产大约31亿美元。 连续两个季度实现正运营现金流。 预计将继续推进并购与收购策略。 正进军迅猛扩张的预测市场。",
+          "url": "https://wallstreetcn.com/livenews/3001276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "美国总统特朗普：美国与乌兹别克斯坦达成贸易和经济协议。",
           "url": "https://flash.jin10.com/detail/20251107102715387800",
           "source": "金十数据",
@@ -1292,17 +1351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        },
-        {
-          "title": "马斯克薪酬为何能这么高",
-          "url": "https://www.toutiao.com/trending/7569935804399619634/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
         },
         {
           "title": "特朗普政府签署行政令，敲定从周五开始削减4%的航班，并将于11月14日削减至10%。",
@@ -1451,7 +1499,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "“寒王”股价又超茅台！距历史新高仅差8%，科创板热度再起，权重成资金关注方向",
@@ -1522,6 +1570,17 @@
           "time_info": "[00时29分 ~ 09时42分]"
         },
         {
+          "title": "美国11月密歇根大学消费者信心创逾三年新低，短期通胀预期上升，现况指数创历史新低",
+          "url": "https://wallstreetcn.com/livenews/3001304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "历史上哪个名人，小时候以为是好人，长大了才发现是坏人？",
           "url": "https://www.zhihu.com/question/701237582",
           "source": "知乎",
@@ -1567,6 +1626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "Expedia上涨17.6%，报258.50美元，创盘中历史新高。 该公司业绩和指引都强劲，带动Piper Sandler分析师上调评级。",
+          "url": "https://wallstreetcn.com/livenews/3001292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "英国最大抵押贷款机构Halifax：英国十月份平均房价为299,862英镑，小幅上涨至新的历史最高纪录。同时录得自1月以来的最大单月涨幅。",
