@@ -1,704 +1,66 @@
 {
-  "generated_at": "2025-11-07T23:24:01.668557+08:00",
-  "total_titles_processed": 2073,
+  "generated_at": "2025-11-08T00:24:15.486569+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 127,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
-          "url": "https://www.cls.cn/detail/2193650",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 16时30分]"
-        },
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
           "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
           "source": "凤凰网",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时22分 ~ 23时24分]"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
-          "url": "https://wallstreetcn.com/articles/3758856",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时42分 ~ 23时24分]"
-        },
-        {
-          "title": "特朗普为什么总是针对南非？",
-          "url": "https://news.ifeng.com/c/8o3ygttojoa",
-          "source": "凤凰网",
+          "title": "特朗普痛骂佩洛西",
+          "url": "https://www.douyin.com/hot/2297374",
+          "source": "抖音",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
-          "url": "https://www.cls.cn/detail/2193634",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时20分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
-          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 16时30分]"
-        },
-        {
-          "title": "马斯克万亿薪酬方案获批准",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            9,
-            10,
-            8,
-            12,
-            11,
-            13,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时41分 ~ 23时24分]"
-        },
-        {
-          "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
-          "url": "https://www.cls.cn/detail/2193135",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15,
-            17,
-            20,
-            9,
-            24,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时13分 ~ 19时20分]"
-        },
-        {
-          "title": "特朗普重申不会出席G20峰会",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
-          "url": "https://wallstreetcn.com/articles/3758872",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时30分 ~ 23时24分]"
-        },
-        {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时23分 ~ 23时24分]"
-        },
-        {
-          "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
-          "url": "https://news.ifeng.com/c/8o4WnZCvvkZ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 14时34分]"
-        },
-        {
-          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
-          "url": "https://www.cls.cn/detail/2193664",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时13分 ~ 16时30分]"
-        },
-        {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 19时20分]"
-        },
-        {
-          "title": "马斯克预计FSD明年在华全面获批",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%AE%A1FSD%E6%98%8E%E5%B9%B4%E5%9C%A8%E5%8D%8E%E5%85%A8%E9%9D%A2%E8%8E%B7%E6%89%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 16时30分]"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
           "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
           "url": "https://www.cls.cn/detail/2194534",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时42分 ~ 23时24分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时20分 ~ 23时24分]"
-        },
-        {
-          "title": "万亿美元薪酬计划获压倒性票数通过！马斯克发声",
-          "url": "https://news.ifeng.com/c/8o5563NmbDn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 14时34分]"
-        },
-        {
-          "title": "特朗普官宣降价后药企高管当场晕倒",
-          "url": "https://www.toutiao.com/trending/7569788096678608905/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "马斯克万亿薪酬到手？背后是一场豪赌",
-          "url": "https://news.ifeng.com/c/8o5MXnFe1TH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 18时24分]"
-        },
-        {
-          "title": "世界首富还不够 马斯克又要了1万亿",
-          "url": "https://www.toutiao.com/trending/7569901105614687780/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            7,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 21时30分]"
-        },
-        {
-          "title": "美国总统特朗普：如果最高法院关于关税的案件进展不顺利，将需要第二套方案。我们还能做其他事情，但相比之下速度较慢。",
-          "url": "https://flash.jin10.com/detail/20251107024330534800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "特斯拉股东批准马斯克8780亿美元的薪酬计划",
-          "url": "https://flash.jin10.com/detail/20251107061513912800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "市场消息：特朗普政府向第一巡回法院提交紧急延期动议，寻求阻止法官关于11月全额发放补充营养协助计划（SNAP）福利的裁决。",
-          "url": "https://flash.jin10.com/detail/20251107221627605800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "男子在特朗普身边晕倒 发布会中断",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E8%BE%B9%E6%99%95%E5%80%92+%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%AD%E6%96%AD",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 13时22分]"
-        },
-        {
-          "title": "马斯克和机器人跳出六亲不认的步伐",
-          "url": "https://www.toutiao.com/trending/7569133596599091219/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-07）",
-          "url": "https://flash.jin10.com/detail/20251107191347439800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 22时22分]"
-        },
-        {
-          "title": "联邦法官下令特朗普政府全额发放11月食品援助金",
-          "url": "https://flash.jin10.com/detail/20251107071312828800",
-          "source": "金十数据",
+          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
+          "url": "https://wallstreetcn.com/articles/3758856",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "00时24分"
         },
         {
-          "title": "特朗普媒体科技三季度金融资产大约31亿美元。 连续两个季度实现正运营现金流。 预计将继续推进并购与收购策略。 正进军迅猛扩张的预测市场。",
-          "url": "https://wallstreetcn.com/livenews/3001276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "特斯拉CEO马斯克：希望特斯拉股东能够参与SpaceX的投资。",
-          "url": "https://flash.jin10.com/detail/20251107071303327800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "特朗普将与匈牙利总理欧尔班会面，讨论俄罗斯石油及经济合作问题。",
-          "url": "https://flash.jin10.com/detail/20251107140048691800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "特朗普官宣降价减肥药企高管当场晕倒",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%E5%87%8F%E8%82%A5%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D2%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AE%2598%25E5%25AE%25A3%25E9%2599%258D%25E4%25BB%25B7%25E5%2587%258F%25E8%2582%25A5%25E8%258D%25AF%25E4%25BC%2581%25E9%25AB%2598%25E7%25AE%25A1%25E5%25BD%2593%25E5%259C%25BA%25E6%2599%2595%25E5%2580%2592%2523%26dgr%3D0%26pos%3D1%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D2%26filter_type%3Drealtimehot%26display_time%3D1762504043%26pre_seqid%3D17625040435650241159098&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 17时23分]"
-        },
-        {
-          "title": "禁止特朗普绕过国会对委动武议案被否",
-          "url": "https://flash.jin10.com/detail/20251107071256941800",
-          "source": "金十数据",
+          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
+          "url": "https://wallstreetcn.com/articles/3758872",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "特朗普将于当地时间周五上午11:45会见匈牙利总理欧尔班。",
-          "url": "https://flash.jin10.com/detail/20251107105725161800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
-          "url": "https://www.zhihu.com/question/1970038336501547391",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 14时34分]"
-        },
-        {
-          "title": "特朗普会否成为“跛脚总统”",
-          "url": "https://www.toutiao.com/trending/7569576151731932699/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时34分 ~ 07时20分]"
-        },
-        {
-          "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议。 两家公司的GLP-1s减肥药将在TrumpRX网站上架销售。 Zepbound和Wegovy价格将下调，医疗保险和医疗补助将涵盖这些减肥药物。 两家公司将在美国新建工厂。 礼来将在美国投资270亿美元，诺和诺德将投资100亿美元。 许多应用广泛的药品将实施60%的折扣。 美国民众应该支付全球最低的药价。 其他国家对美国医药定价协议感到不满。",
-          "url": "https://wallstreetcn.com/livenews/3000680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时18分]"
-        },
-        {
-          "title": "特朗普政府与礼来、诺和诺德达成减肥药降价协议",
-          "url": "https://wallstreetcn.com/livenews/3000679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时18分]"
-        },
-        {
-          "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。",
-          "url": "https://wallstreetcn.com/livenews/3000682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时34分]"
-        },
-        {
-          "title": "特朗普称计划应莫迪邀请到访印度 访问时间可能定在明年",
-          "url": "https://wallstreetcn.com/livenews/3001040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时30分]"
-        },
-        {
-          "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
-          "url": "https://wallstreetcn.com/livenews/3000699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时25分]"
-        },
-        {
-          "title": "据CNN：消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
-          "url": "https://flash.jin10.com/detail/20251107023254631800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时25分]"
-        },
-        {
-          "title": "特朗普政府表示，美国COVE资本将与哈萨克斯坦国有矿业公司TAAU - KEN SAMRUK共同开发哈萨克斯坦的大型钨矿，项目的成本预计为11亿美元；美国进出口银行已发出意向函，拟提供9亿美元资金支持。",
-          "url": "https://flash.jin10.com/detail/20251107041030974800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "马斯克：特斯拉将于2026年4月开始生产Cybercab。",
-          "url": "https://wallstreetcn.com/livenews/3000776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "美脱口秀节目就政府停摆整活特朗普",
-          "url": "https://www.toutiao.com/trending/7568727581982474303/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 13时22分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
-          "url": "https://flash.jin10.com/detail/20251107015432543800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时18分]"
-        },
-        {
-          "title": "美国总统特朗普：共和党因为经济承受问题而在民主党占优势的地区败选。",
-          "url": "https://wallstreetcn.com/livenews/3000712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普赞莫迪减购俄油，称可能明年前往印度",
-          "url": "https://wallstreetcn.com/livenews/3000711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普就美高院激辩关税表态",
-          "url": "https://www.toutiao.com/trending/7569800305303359018/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 17时23分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
-          "url": "https://wallstreetcn.com/livenews/3000696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时25分]"
-        },
-        {
-          "title": "马斯克薪酬为何能这么高",
-          "url": "https://www.toutiao.com/trending/7569935804399619634/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时22分 ~ 23时24分]"
-        },
-        {
-          "title": "特朗普痛骂佩洛西是“邪恶女人”",
-          "url": "https://www.toutiao.com/trending/7569040586016620587/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普官宣：减肥药降价",
-          "url": "https://news.ifeng.com/c/8o4szatota8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
+          "time_info": "00时24分"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -709,362 +71,51 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时23分 ~ 23时24分]"
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
-          "url": "https://wallstreetcn.com/livenews/3000653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时23分]"
-        },
-        {
-          "title": "马斯克预计FSD有望明年初在华全面获批",
-          "url": "https://wallstreetcn.com/livenews/3000967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时34分]"
-        },
-        {
-          "title": "美国众议长约翰逊：现在，对结束“特朗普政府关门”的乐观情绪更低。",
-          "url": "https://wallstreetcn.com/livenews/3000652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时23分]"
-        },
-        {
-          "title": "尼日利亚财政部长Wale Edun宣布该国欧元债发行取得成功，投资者认购倍数超过五倍。 意味着投资者看淡美国总统特朗普近期发出的军事威胁，更关注该国的经济改革和政治稳定性。",
-          "url": "https://wallstreetcn.com/livenews/3000650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时23分]"
-        },
-        {
-          "title": "美国总统特朗普：不担心航空旅行安全。",
-          "url": "https://flash.jin10.com/detail/20251107030453698800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "美国总统特朗普：新的空中交通管制系统正在竞标中，未来六周将发布相关合同。",
-          "url": "https://flash.jin10.com/detail/20251107030442496800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "美国众议长约翰逊：我可不会对（总统特朗普的政府关门期间的）医疗保健补贴问题作出投票承诺。",
-          "url": "https://wallstreetcn.com/livenews/3000647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时23分]"
-        },
-        {
-          "title": "美国总统特朗普：我们会安排好去印度的行程，可能是明年。",
-          "url": "https://flash.jin10.com/detail/20251107030006844800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "美国总统特朗普在椭圆形办公室发表讲话时，一名官员晕倒，讲话随即暂停。",
-          "url": "https://flash.jin10.com/detail/20251107013741993800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时18分]"
-        },
-        {
-          "title": "为何说特朗普处于重返白宫后最大困境",
-          "url": "https://www.toutiao.com/trending/7568788294771720243/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
-        },
-        {
-          "title": "美国总统特朗普：印度总理莫迪很棒，他们已经基本停止购买俄罗斯石油。",
-          "url": "https://flash.jin10.com/detail/20251107025935125800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "美国总统特朗普：与印度的会谈进展顺利。我们会敲定印度之行。",
-          "url": "https://flash.jin10.com/detail/20251107025853685800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普痛骂佩洛西",
-          "url": "https://www.douyin.com/hot/2297374",
-          "source": "抖音",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
-        },
-        {
-          "title": "美国总统特朗普：美国今年的投资可能超过21万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251107013332153800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时18分]"
-        },
-        {
-          "title": "特朗普官宣降价 药企高管当场晕倒",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7+%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
-        },
-        {
-          "title": "美国总统特朗普：最高法院对关税案若作出负面裁决，对美国来说将是毁灭性的。",
-          "url": "https://flash.jin10.com/detail/20251107013319980800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时18分]"
-        },
-        {
-          "title": "特朗普为何否认美军要袭击委内瑞拉",
-          "url": "https://www.toutiao.com/trending/7569866217960246838/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
-        },
-        {
-          "title": "媒体：马斯克拉高企业家价值天花板",
-          "url": "https://www.toutiao.com/trending/7569865295695711750/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
-        },
-        {
-          "title": "美国总统特朗普：礼来公司将在美国投资270亿美元，诺和诺德将投资100亿美元。",
-          "url": "https://flash.jin10.com/detail/20251107011357287800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "马斯克：或许在某个时候SpaceX应该成为一家上市公司，尽管上市有很多弊端。",
-          "url": "https://flash.jin10.com/detail/20251107071232452800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "周四（11月6日），降息赢家指数跌1.63%，报94.02点。 “特朗普关税输家”指数跌3.69%，报101.61点。",
-          "url": "https://wallstreetcn.com/livenews/3000794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "马斯克万亿美元薪酬包被批准",
-          "url": "https://www.toutiao.com/trending/7569418701297467446/",
-          "source": "今日头条",
+          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
+          "url": "https://www.zhihu.com/question/1970064184793334914",
+          "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "特斯拉(TSLA.O)：超过75%的股东批准马斯克的2025年薪酬计划。",
-          "url": "https://flash.jin10.com/detail/20251107055655849800",
-          "source": "金十数据",
+          "title": "马斯克万亿薪酬方案获批准",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
+        },
+        {
+          "title": "美国政府：总统特朗普将于12月10日拍卖大约8000万英亩的墨西哥湾石油与天然气开采权益。",
+          "url": "https://wallstreetcn.com/livenews/3001316",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "金十整理：马斯克万亿美元薪酬细节",
-          "url": "https://flash.jin10.com/detail/20251107071218253800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "特朗普媒体科技集团(DJT.O)第三季度净亏损5480万美元。",
-          "url": "https://flash.jin10.com/detail/20251107220224855800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美国总统特朗普：医疗保险和医疗补助将涵盖这些减肥药物。",
-          "url": "https://flash.jin10.com/detail/20251107011115320800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "特朗普媒体科技集团(DJT.O)第三季度从其他金融投资中产生1340万美元的利息收入，第三季度运营现金流达1010万美元。",
-          "url": "https://flash.jin10.com/detail/20251107220203696800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美国总统特朗普：Zepbound和Wegovy价格将下调。",
-          "url": "https://flash.jin10.com/detail/20251107011057572800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股东投票赞成批准马斯克8780亿美元的薪酬方案。",
-          "url": "https://flash.jin10.com/detail/20251107055530039800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "英特尔(INTC.O)美股盘前上涨2.4%，此前马斯克表示值得与该公司进行讨论。",
-          "url": "https://flash.jin10.com/detail/20251107170531468800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "特朗普媒体科技集团(DJT.O)第三季度末财务资产达31亿美元，第三季度通过比特币相关证券的期权溢价实现1530万美元收益。",
-          "url": "https://flash.jin10.com/detail/20251107220149666800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
+          "time_info": "00时24分"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -1075,667 +126,79 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "00时24分"
         },
         {
-          "title": "特朗普回应共和党选举失利",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E5%85%B1%E5%92%8C%E5%85%9A%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "美国总统特朗普：礼来和诺和诺德的GLP-1药物将纳入“最惠国”定价机制。",
-          "url": "https://flash.jin10.com/detail/20251107011045842800",
+          "title": "市场消息：美国总统特朗普将于下月拍卖整个墨西哥湾的石油和天然气开采权。",
+          "url": "https://flash.jin10.com/detail/20251107235335051800",
           "source": "金十数据",
           "ranks": [
-            10
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "00时24分"
         },
         {
-          "title": "特斯拉CEO马斯克：我认为我们将能够部署我们生产的所有Cybercab。",
-          "url": "https://flash.jin10.com/detail/20251107070640571800",
+          "title": "特朗普称佩洛西在股市“非法敛财”",
+          "url": "https://flash.jin10.com/detail/20251107234753828800",
           "source": "金十数据",
           "ranks": [
-            10
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "00时24分"
         },
         {
-          "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议。",
-          "url": "https://flash.jin10.com/detail/20251107011007312800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘前涨1.8%，此前股东批准特斯拉CEO马斯克的1万亿美元薪酬计划。",
-          "url": "https://flash.jin10.com/detail/20251107170234164800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：如果（国会山）出台合适的法律，将鼓励数字投资。 C5+1平台是总统特朗普策略的基石。",
-          "url": "https://wallstreetcn.com/livenews/3000732",
+          "title": "特朗普政府要求暂停执行全额支付食品援助金裁定",
+          "url": "https://wallstreetcn.com/livenews/3001317",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "礼来(LLY.N)：作为与特朗普政府达成协议的一部分，将获得为期三年的关税减免。",
-          "url": "https://flash.jin10.com/detail/20251107010908893800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "美国参议院阻止了一项禁止特朗普对委内瑞拉发动战争的措施，投票仍在继续。",
-          "url": "https://flash.jin10.com/detail/20251107065741297800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "美国总统特朗普：美国需要保持高度流动性。",
-          "url": "https://flash.jin10.com/detail/20251107090111234800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "凯投宏观：如果特朗普关税政策被否决，财政问题将是投资者的首要担忧",
-          "url": "https://flash.jin10.com/detail/20251107103540030800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 股东批准重新选举三名董事会成员。 董事会将评估xAI投资。 特斯拉美股盘后涨1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3000764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "00时24分"
         },
         {
           "title": "CNH Industrial NV跌11%，恐创2020年以来最差单日表现，特朗普关税冲击到该公司业绩展望。 迪尔农机/约翰迪尔（DE）跌3.7%。",
           "url": "https://wallstreetcn.com/livenews/3001287",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "美联储威廉姆斯、巴尔将于十分钟后出席活动；美国总统特朗普将于十分钟后就减肥药物发表声明。",
-          "url": "https://flash.jin10.com/detail/20251106235000000800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "马斯克：特斯拉可能会打造自己的芯片工厂。",
-          "url": "https://wallstreetcn.com/livenews/3000784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗一直在询问美国的制裁是否能够解除。",
-          "url": "https://flash.jin10.com/detail/20251107085925426800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "特朗普再次呼吁废除冗长辩论程序",
-          "url": "https://flash.jin10.com/detail/20251107214340577800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美国总统特朗普：加沙国际维稳部队将“很快”部署到位。",
-          "url": "https://flash.jin10.com/detail/20251107085647458800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "特朗普：乌兹别克斯坦将采购和投资近350亿美元，乌兹别克斯坦将投资于美国的基础设施、农业、能源。",
-          "url": "https://wallstreetcn.com/livenews/3000890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "特斯拉CEO马斯克：我们立志在明年底前将汽车产量提高约50%。",
-          "url": "https://flash.jin10.com/detail/20251107064805059800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "特斯拉美股盘前涨近2%，公司股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%。",
-          "url": "https://wallstreetcn.com/livenews/3001114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "美国总统特朗普：正与多国就《亚伯拉罕协议》进行磋商。",
-          "url": "https://flash.jin10.com/detail/20251107085340549800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "美国总统特朗普：在未来三年内，乌兹别克斯坦将购买并投资近350亿美元，而在未来十年内，将超过1000亿美元，投资于美国的关键行业，包括关键矿产、航空、汽车零部件、基础设施、农业、能源与化工、信息技术等多个领域。",
-          "url": "https://flash.jin10.com/detail/20251107102731934800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "特朗普媒体科技三季度净销售97.29万美元，上年同期101万美元。 三季度金融资产大约31亿美元。 连续两个季度实现正运营现金流。 预计将继续推进并购与收购策略。 正进军迅猛扩张的预测市场。",
-          "url": "https://wallstreetcn.com/livenews/3001276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "美国总统特朗普：美国与乌兹别克斯坦达成贸易和经济协议。",
-          "url": "https://flash.jin10.com/detail/20251107102715387800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "特朗普回应佩洛西退休：对美国是件大好事",
-          "url": "https://wallstreetcn.com/livenews/3000884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "特朗普政府签署行政令，敲定从周五开始削减4%的航班，并将于11月14日削减至10%。",
-          "url": "https://flash.jin10.com/detail/20251107083618763800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "特朗普称已与中俄领导人讨论无核化，外交部：中国核力量与美俄完全不在一个量级",
-          "url": "https://wallstreetcn.com/livenews/3001047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "美国总统特朗普：我们会把牛肉价格降下来，哪怕不得不向他们提供援助。",
-          "url": "https://flash.jin10.com/detail/20251107025737098800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：当前的利率环境“几乎不存在限制性”。 并没有明显的证据表明，应该在2025年继续采取货币政策行动。 通胀是更加迫切的担忧。 预计2026年更快的经济增速将利好就业。 （由于总统特朗普政府关门影响到经济的缘故）预计失业率将在未来数月上升。",
-          "url": "https://wallstreetcn.com/livenews/3000676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
-          "title": "经贸大战背后 特朗普正在包围欧洲吗",
-          "url": "https://www.toutiao.com/trending/7569784878405783081/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "美国总统特朗普：美国人必须能够以全球最低的价格购买药品，这是他们的权利。",
-          "url": "https://flash.jin10.com/detail/20251107013210117800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
-          "title": "特朗普：最高法院审理关税案期间不会宣布新关税",
-          "url": "https://flash.jin10.com/detail/20251107024330534800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普：中亚五国中的一些国家将加入《亚伯拉罕协议》。",
-          "url": "https://flash.jin10.com/detail/20251107083221263800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。 最高法院作出裁决之前，不会宣布新的关税措施。",
-          "url": "https://wallstreetcn.com/livenews/3000682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "特朗普呼吁尽快结束政府停摆",
-          "url": "https://www.toutiao.com/trending/7569518620293300270/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "特朗普政府的人工智能官员表示，联邦政府不会对人工智能行业实施救助。",
-          "url": "https://flash.jin10.com/detail/20251107005622900800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "特朗普在与中亚领导人共进晚餐时发表讲话称，加强与中亚的经济伙伴关系，关键矿产是议程上的关键事项；更多的国家将加入亚伯拉罕协议。",
-          "url": "https://wallstreetcn.com/livenews/3000826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "据华尔街日报：特朗普政府终止免费报税试点项目。",
-          "url": "https://flash.jin10.com/detail/20251107005559851800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "00时24分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "“寒王”股价又超茅台！距历史新高仅差8%，科创板热度再起，权重成资金关注方向",
-          "url": "https://www.cls.cn/detail/2193199",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "热搜第一！泡泡玛特直播间“翻车”，股价较历史峰值蒸发近4成",
-          "url": "https://www.cls.cn/detail/2193961",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时21分 ~ 20时43分]"
-        },
-        {
-          "title": "媒体：基因溯源不容“历史戏说”",
-          "url": "https://www.toutiao.com/trending/7568837482473803270/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            16,
-            25,
-            19,
-            18,
-            20,
-            26,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "美国政府「停摆」超过 36 天，破历史纪录，造成的损失到底有多大？可能会持续多久？",
-          "url": "https://www.zhihu.com/question/1969392097502143770",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "历史重演还是纯属巧合？先是Burry做空，后是德银对冲，“大空头2.0”真实再现了！",
-          "url": "https://wallstreetcn.com/articles/3758778",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 09时42分]"
-        },
         {
           "title": "美国11月密歇根大学消费者信心创逾三年新低，短期通胀预期上升，现况指数创历史新低",
           "url": "https://wallstreetcn.com/livenews/3001304",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "历史上哪个名人，小时候以为是好人，长大了才发现是坏人？",
-          "url": "https://www.zhihu.com/question/701237582",
-          "source": "知乎",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 17时23分]"
-        },
-        {
-          "title": "中东股市收盘播报｜沙特股指本周累跌3%，埃及股指连续四天创历史新高本周累涨约4.4%",
-          "url": "https://wallstreetcn.com/livenews/3000720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "二十四史中的《宋书》中有什么令人印象深刻的故事？",
-          "url": "https://www.zhihu.com/question/640735051",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时30分]"
-        },
-        {
-          "title": "世界粮食计划署：由于资金水平降至历史低位，可能在数月内不得不“中断”对刚果民主共和国东部地区的粮食援助。",
-          "url": "https://flash.jin10.com/detail/20251107175244282800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "00时24分"
         },
         {
           "title": "Expedia上涨17.6%，报258.50美元，创盘中历史新高。 该公司业绩和指引都强劲，带动Piper Sandler分析师上调评级。",
           "url": "https://wallstreetcn.com/livenews/3001292",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "英国最大抵押贷款机构Halifax：英国十月份平均房价为299,862英镑，小幅上涨至新的历史最高纪录。同时录得自1月以来的最大单月涨幅。",
-          "url": "https://flash.jin10.com/detail/20251107150927376800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "德国股市收跌超1%，英国股市脱离收盘历史最高位",
-          "url": "https://wallstreetcn.com/livenews/3000667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "德国股市收跌1.3%，英国股市脱离收盘历史最高位",
-          "url": "https://wallstreetcn.com/livenews/3000667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "俞敏洪发文确认孙东旭离职，怎样评价孙东旭在东方甄选的职业生涯？他的离职给职场人带来哪些启示？",
-          "url": "https://www.zhihu.com/question/1969796244558815812",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 09时42分]"
-        },
-        {
-          "title": "回复必带表情包，发言要挑时机，为什么年轻人对工作群里的「逢场作戏」越来越烦？反映了怎样的职场心态？",
-          "url": "https://www.zhihu.com/question/1969154327823253806",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
-        },
-        {
-          "title": "俄总统新闻秘书：俄美仍对元首会晤有兴趣",
-          "url": "https://wallstreetcn.com/livenews/3001191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时43分]"
-        },
-        {
-          "title": "俄总统新闻秘书：俄美仍对元首会晤有兴趣",
-          "url": "https://flash.jin10.com/detail/20251107183158280800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "在职场，你和朋友有哪些好习惯让自己提升和受益？",
-          "url": "https://www.zhihu.com/question/1959315885832511665",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
+          "time_info": "00时24分"
         }
       ]
     }
