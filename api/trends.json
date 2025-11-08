@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T01:17:25.139214+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2025-11-09T02:28:45.244755+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -15,19 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
-        },
-        {
-          "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
-          "url": "https://wallstreetcn.com/livenews/3001591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
@@ -38,8 +27,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
+        },
+        {
+          "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
+          "url": "https://wallstreetcn.com/livenews/3001591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -60,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -71,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -82,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -93,8 +94,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -105,8 +106,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
+        },
+        {
+          "title": "特朗普开始调整“话术”以争取选民",
+          "url": "https://www.toutiao.com/trending/7569436810300964907/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     }
