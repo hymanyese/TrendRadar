@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T18:22:27.837118+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2025-11-08T19:18:28.689662+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -94,8 +94,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时05分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时05分 ~ 19时18分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -196,6 +196,17 @@
           "time_info": "[01时20分 ~ 07时19分]"
         },
         {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时18分]"
+        },
+        {
           "title": "马斯克点赞小鹏机器人",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "百度热搜",
@@ -209,15 +220,26 @@
           "time_info": "[09时28分 ~ 12时25分]"
         },
         {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
+          "url": "https://flash.jin10.com/detail/20251108183318165800",
+          "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "特朗普被问急眼了怒喷记者",
+          "url": "https://www.toutiao.com/trending/7569684589699235903/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
@@ -232,6 +254,33 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时29分 ~ 13时20分]"
+        },
+        {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 19时18分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 19时18分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -257,19 +306,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 09时29分]"
-        },
-        {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://flash.jin10.com/detail/20251108154641553800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时22分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -396,18 +432,6 @@
           "time_info": "[07时19分 ~ 09时29分]"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 18时22分]"
-        },
-        {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
           "url": "https://flash.jin10.com/detail/20251108105346756800",
           "source": "金十数据",
@@ -420,6 +444,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时25分 ~ 15时21分]"
+        },
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时18分]"
         },
         {
           "title": "特朗普称希望继续在布达佩斯与普京会晤",
@@ -482,18 +519,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时20分]"
-        },
-        {
-          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
-          "url": "https://wallstreetcn.com/articles/3758970",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时22分]"
         },
         {
           "title": "美国总统特朗普：与俄罗斯的根本分歧在于，他们不愿停止俄乌冲突。",
@@ -674,7 +699,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -814,7 +839,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "国台办：统一是历史大势是正道，“台独”是历史逆流是绝路",
@@ -826,8 +851,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[04时22分 ~ 18时22分]"
+          "appearance_count": 17,
+          "time_info": "[04时22分 ~ 19时18分]"
         },
         {
           "title": "第五人格监管者女王蜂故事视频",
@@ -836,11 +861,12 @@
           "ranks": [
             2,
             3,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时18分]"
         },
         {
           "title": "《宝可梦传说 Z-A》游戏，有哪些细思极恐的故事细节？",
@@ -857,6 +883,18 @@
           "time_info": "[01时20分 ~ 05时16分]"
         },
         {
+          "title": "国台办：统一是历史大势是正道，“台独”是历史逆流是绝路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31918362",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时18分]"
+        },
+        {
           "title": "可以推荐几本高质量的当代史（1980-2025）书籍吗？既可以是世界史，也可以是中国史?",
           "url": "https://www.zhihu.com/question/1965052043103281833",
           "source": "知乎",
@@ -867,6 +905,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时24分 ~ 13时20分]"
+        },
+        {
+          "title": "媒体：看清历史大势 早享统一红利",
+          "url": "https://www.toutiao.com/trending/7570253468054716435/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时18分]"
         },
         {
           "title": "美国11月密歇根大学消费者信心创逾三年新低，短期通胀预期上升，现况指数创历史新低",
@@ -881,18 +931,6 @@
           "time_info": "[00时24分 ~ 01时20分]"
         },
         {
-          "title": "国台办：统一是历史大势是正道，“台独”是历史逆流是绝路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31918362",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时22分]"
-        },
-        {
           "title": "想知道各位是怎么看待《反叛的鲁鲁修》中黑色骑士团的背叛，以及朱雀这个人物的？",
           "url": "https://www.zhihu.com/question/63716828",
           "source": "知乎",
@@ -904,15 +942,15 @@
           "time_info": "[09时28分 ~ 09时29分]"
         },
         {
-          "title": "媒体：看清历史大势 早享统一红利",
-          "url": "https://www.toutiao.com/trending/7570253468054716435/",
-          "source": "今日头条",
+          "title": "美国11月密歇根大学消费者信心逼近历史新低，短期通胀预期上升",
+          "url": "https://wallstreetcn.com/articles/3758946",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "19时18分"
         },
         {
           "title": "中东股市收盘播报｜土耳其银行板块收跌2.5%，里拉创历史新低",
