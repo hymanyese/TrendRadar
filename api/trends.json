@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T09:45:21.831665+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2025-11-09T11:15:42.293437+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,26 @@
           "ranks": [
             6,
             5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 11时15分]"
+        },
+        {
+          "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
+          "url": "https://wallstreetcn.com/articles/3758973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 09时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 11时15分]"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -40,21 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时45分]"
-        },
-        {
-          "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
-          "url": "https://wallstreetcn.com/articles/3758973",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 09时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时15分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -64,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时15分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -141,6 +143,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据华尔街日报：消息人士称，Visa和万事达卡即将与商家就一桩已有20年历史的案件达成和解，Visa和万事达卡将降低信用卡交换费，在未来数年内平均降幅约为十分之一个百分点。",
+          "url": "https://flash.jin10.com/detail/20251109094110849800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         }
       ]
     }
