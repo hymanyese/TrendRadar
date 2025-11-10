@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T21:33:46.239748+08:00",
-  "total_titles_processed": 1662,
+  "generated_at": "2025-11-10T22:23:00.339003+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普宣布一个大消息",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时34分 ~ 21时33分]"
+          "appearance_count": 14,
+          "time_info": "[14时34分 ~ 22时23分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -514,7 +514,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -539,6 +539,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "以色列政府发言人：关于被困哈马斯武装人员的任何决定都将与特朗普政府合作作出。",
+          "url": "https://flash.jin10.com/detail/20251110214623760800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "以色列政府发言人：以色列总理内塔尼亚胡与库什纳（特朗普女婿）讨论了解除哈马斯武装、加沙非军事化，以及确保哈马斯今后永远无法在加沙发挥作用等问题。",
+          "url": "https://flash.jin10.com/detail/20251110214600198800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "特朗普拟向民众发关税红利有何目的",
@@ -566,7 +588,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Doran说这是我故事的序章",
@@ -698,12 +720,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "美联储戴利：从历史上看，联邦公开市场委员会（FOMC）过去的分歧比现在更大。",
+          "url": "https://flash.jin10.com/detail/20251110214523741800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么职场中的老资历们都不愿意多说话，是被坑怕了还是本该如此？",
@@ -718,6 +751,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时27分 ~ 07时19分]"
+        },
+        {
+          "title": "在职场中，上司认为什么样的下属是值得信任的?",
+          "url": "https://www.zhihu.com/question/594622968",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         }
       ]
     }
