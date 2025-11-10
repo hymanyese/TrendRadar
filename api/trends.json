@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T17:28:09.006506+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2025-11-10T18:26:06.981113+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普宣布一个大消息",
@@ -48,6 +48,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时23分 ~ 11时21分]"
+        },
+        {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时34分 ~ 18时26分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -150,19 +164,6 @@
           "time_info": "[09时46分 ~ 11时21分]"
         },
         {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时34分 ~ 17时28分]"
-        },
-        {
           "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
           "url": "https://flash.jin10.com/detail/20251109213351299800",
           "source": "金十数据",
@@ -185,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-10）",
+          "url": "https://flash.jin10.com/detail/20251110180323905800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "特朗普被严重警告",
@@ -437,6 +449,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "以色列总理内塔尼亚胡正在其位于耶路撒冷的办公室会见特朗普女婿贾里德·库什纳。",
+          "url": "https://flash.jin10.com/detail/20251110175508186800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://flash.jin10.com/detail/20251110085906374800",
           "source": "金十数据",
@@ -493,8 +516,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 17时28分]"
+          "appearance_count": 23,
+          "time_info": "[00时23分 ~ 18时26分]"
         },
         {
           "title": "如果《权力的游戏》第八季最后雪诺没杀龙母，那么故事的结局会是什么？",
