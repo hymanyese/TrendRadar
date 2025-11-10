@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T02:32:45.948586+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2025-11-11T03:18:38.193979+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
@@ -34,11 +34,12 @@
           "url": "https://flash.jin10.com/detail/20251111020735747800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 03时18分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -49,8 +50,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "获400亿美元援助后米莱大跳特朗普舞",
@@ -61,8 +62,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -70,11 +71,23 @@
           "source": "今日头条",
           "ranks": [
             26,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时18分]"
+        },
+        {
+          "title": "市场消息：特斯拉(TSLA.O)董事会主席登霍尔姆感谢特斯拉股东的支持，感谢他们批准首席执行官埃隆·马斯克的薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251111023658524800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
@@ -86,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "叙利亚领导人沙拉和美国总统特朗普的会晤结束。",
+          "url": "https://flash.jin10.com/detail/20251111022542433800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
@@ -149,7 +173,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
@@ -164,11 +188,12 @@
           "url": "https://wallstreetcn.com/livenews/3002275",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 03时18分]"
         },
         {
           "title": "礼来制药上涨5.9%，报979.16，突破2024年8月22日所创盘中历史最高位972.53美元。 Leerink因减肥疗法的市场进展而上调对礼来的评级。 MeiraGTx与该公司进入战略合作关系。 Insilico与该公司围绕研究与许可进行合作。",
