@@ -1,23 +1,33 @@
 {
-  "generated_at": "2025-11-11T23:23:59.781345+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2025-11-12T00:29:49.607158+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 70,
+      "match_count": 11,
       "titles": [
         {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
+          "title": "特朗普宣布美国不再资助乌克兰",
+          "url": "https://www.toutiao.com/trending/7571447279153971246/",
+          "source": "今日头条",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 09时44分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
@@ -27,36 +37,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时25分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
+          "title": "白宫经济顾问哈塞特：有人告诉我，（特朗普政府关门期间）一些美国经济调查还没有完成。 通胀轨迹非常不错。 （特朗普政府）正关注住房市场，设法改善生活成本问题。",
+          "url": "https://wallstreetcn.com/livenews/3002897",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时15分 ~ 23时23分]"
-        },
-        {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            21,
-            23,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 15时21分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "换了件“马甲”，他见上特朗普了(图)",
@@ -66,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时25分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
@@ -77,884 +70,63 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时25分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
-          "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时43分 ~ 13时23分]"
-        },
-        {
-          "title": "因剪辑拼接特朗普视频，BBC高管辞职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31929721",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普的“贸易战”收到了什么结果",
-          "url": "https://www.toutiao.com/trending/7571084710177148454/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时20分]"
-        },
-        {
-          "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3002244",
+          "title": "美国众议院民主党领导人Hakeem Jeffries：如果方案中缺少ACA补贴条款，将反对（用于结束特朗普政府关门事件的）临时开支立法草案。",
+          "url": "https://wallstreetcn.com/livenews/3002888",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时30分"
+          "time_info": "00时29分"
         },
         {
-          "title": "牛弹琴：特朗普又给美国最高法院施压",
-          "url": "https://www.toutiao.com/trending/7570354589443538971/",
-          "source": "今日头条",
+          "title": "美主播阴阳怪气中国人遭特朗普反驳",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E4%B8%BB%E6%92%AD%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E9%A9%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D11%26lcate%3D5001%26filter_type%3Drealtimehot%26cate%3D5001%26realpos%3D11%26c_type%3D31%26q%3D%2523%25E7%25BE%258E%25E4%25B8%25BB%25E6%2592%25AD%25E9%2598%25B4%25E9%2598%25B3%25E6%2580%25AA%25E6%25B0%2594%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E9%2581%25AD%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%258F%258D%25E9%25A9%25B3%2523%26dgr%3D0%26pos%3D12%26display_time%3D1762878246%26pre_seqid%3D176287824648503042033&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            23,
-            5,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 22时23分]"
-        },
-        {
-          "title": "叙利亚政权领导人到访白宫会晤特朗普",
-          "url": "https://flash.jin10.com/detail/20251111090947597800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普的想法。 白宫将举行一系列会议。",
-          "url": "https://wallstreetcn.com/livenews/3002316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
-          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 16时36分]"
+          "time_info": "00时29分"
         },
         {
           "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
           "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            16
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时45分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "特朗普威胁起诉BBC 索赔10亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时45分 ~ 23时23分]"
-        },
-        {
-          "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
-          "url": "https://wallstreetcn.com/livenews/3002333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时21分]"
-        },
-        {
-          "title": "牛弹琴：特朗普宣布一个大消息",
-          "url": "https://www.toutiao.com/trending/7570877314167213595/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
-          "url": "https://flash.jin10.com/detail/20251111020735747800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 03时18分]"
-        },
-        {
-          "title": "美国总统特朗普：在接下来的两到三周内，我们将推出新的空中交通管制系统。",
-          "url": "https://flash.jin10.com/detail/20251111050747330800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：政府重新开放后，旅行情况将比以往好得多。",
-          "url": "https://flash.jin10.com/detail/20251111050637638800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普回应高市早苗涉台错误言论",
-          "url": "https://www.toutiao.com/trending/7571253212158689290/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 19时19分]"
-        },
-        {
-          "title": "市场消息：特斯拉(TSLA.O)董事会主席登霍尔姆感谢特斯拉股东的支持，感谢他们批准首席执行官埃隆·马斯克的薪酬方案。",
-          "url": "https://flash.jin10.com/detail/20251111023658524800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普：美国通胀率很快就会降至1.5%，将支持拨款法案",
-          "url": "https://wallstreetcn.com/livenews/3002324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：我们正在努力降低对瑞士的关税。",
-          "url": "https://flash.jin10.com/detail/20251111050524738800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "主持人带偏见贴标签 特朗普当场回怼",
-          "url": "https://www.toutiao.com/trending/7571403488106905638/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
-        },
-        {
-          "title": "叙利亚领导人沙拉和美国总统特朗普的会晤结束。",
-          "url": "https://flash.jin10.com/detail/20251111022542433800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时26分]"
-        },
-        {
-          "title": "美国总统特朗普：劳力士（瑞士手表生产商）一直都很不错。",
-          "url": "https://flash.jin10.com/detail/20251111050513052800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普称接近与印度达成贸易协议",
-          "url": "https://flash.jin10.com/detail/20251111050432896800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：正在与瑞士商讨协议，尚未确定具体数字（关税税率）。",
-          "url": "https://flash.jin10.com/detail/20251111050220430800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普（加密货币担保的按揭贷款）的想法。 白宫将举行一系列会议。",
-          "url": "https://wallstreetcn.com/livenews/3002316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：我们正与瑞士合作，商讨降低关税的协议。",
-          "url": "https://flash.jin10.com/detail/20251111050150815800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：我们正在与以色列合作，以与叙利亚和睦相处。",
-          "url": "https://flash.jin10.com/detail/20251111050113975800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "空运持续混乱 特朗普喊话空管员：回来上班否则扣钱",
-          "url": "https://wallstreetcn.com/livenews/3002795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时32分]"
-        },
-        {
-          "title": "美国总统特朗普：你们可以期待一些关于叙利亚的声明。",
-          "url": "https://flash.jin10.com/detail/20251111050112452800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：对印度征收高额关税是因为它购买了俄罗斯石油。印度正在停止购买俄罗斯石油。",
-          "url": "https://flash.jin10.com/detail/20251111045920378800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：如果我们在最高法院输掉关税案，将面临经济灾难。",
-          "url": "https://flash.jin10.com/detail/20251111045809987800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：我们很快就会达到1.5%的通胀率。",
-          "url": "https://flash.jin10.com/detail/20251111045807616800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "媒体人：特朗普给美国民众画大饼",
-          "url": "https://www.toutiao.com/trending/7571240185996774918/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
-        },
-        {
-          "title": "贝森特为特朗普政府辩护 并承诺工资将上涨",
-          "url": "https://flash.jin10.com/detail/20251111215241238800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "00时29分"
         },
         {
-          "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
-          "url": "https://wallstreetcn.com/livenews/3002238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
-          "url": "https://wallstreetcn.com/livenews/3002542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "一些航空公司首席执行官敦促特朗普政府官员为削减航班提供理由。",
-          "url": "https://flash.jin10.com/detail/20251111231344801800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
-          "url": "https://wallstreetcn.com/livenews/3002232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "特朗普明年会重启对华贸易战吗",
-          "url": "https://www.toutiao.com/trending/7571253413522968106/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "土耳其外交部长：与美国及叙利亚同行、美国副总统、美国总统特朗普的助手威特科夫和特使巴拉克会谈时，讨论了叙利亚和加沙问题。美国官员理解叙利亚需要保持统一，叙利亚南部和北部的问题存在分裂国家的风险。",
-          "url": "https://flash.jin10.com/detail/20251111063234579800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美国总统特朗普的政府官员们表示，最高法院应当暂停对食品救助官司的审理。",
-          "url": "https://wallstreetcn.com/livenews/3002228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "美国联邦航空管理局网站显示，尽管特朗普要求管制人员重返工作岗位，但目前仍有23个联邦航空管理局设施报告存在人员配置问题。",
-          "url": "https://flash.jin10.com/detail/20251111063015742800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普：如果不采取措施应对芝加哥的谋杀和犯罪问题 美国最好的购物中心将被迫关门",
-          "url": "https://flash.jin10.com/detail/20251111135746280800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "美主播阴阳怪气中国人遭特朗普反驳",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E4%B8%BB%E6%92%AD%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E9%A9%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D15%26stream_entry_id%3D31%26flag%3D1%26realpos%3D15%26c_type%3D31%26lcate%3D5001%26pos%3D16%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25BE%258E%25E4%25B8%25BB%25E6%2592%25AD%25E9%2598%25B4%25E9%2598%25B3%25E6%2580%25AA%25E6%25B0%2594%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E9%2581%25AD%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%258F%258D%25E9%25A9%25B3%2523%26dgr%3D0%26display_time%3D1762874397%26pre_seqid%3D176287439730602601727&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "美国总统特朗普：期待再次与叙利亚总统会面并交谈。一个稳定繁荣的叙利亚对该地区所有国家都至关重要。",
-          "url": "https://flash.jin10.com/detail/20251111083643534800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
-          "url": "https://flash.jin10.com/detail/20251111134244008800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-11）",
-          "url": "https://flash.jin10.com/detail/20251111175811195800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "美国众议长约翰逊：（特朗普政府关门这个）“噩梦”终于要结束了。 参议院投票过后，我将召集众议员重返华盛顿——众议院复会。 认为（众议院会）有足够多的票数来通过临时拨款草案。",
-          "url": "https://wallstreetcn.com/livenews/3002222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "特朗普宣称美国不再资助乌克兰",
-          "url": "https://wallstreetcn.com/livenews/3002791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "美国总统特朗普：如果最高法院裁定关税无效，我会想办法的。",
-          "url": "https://flash.jin10.com/detail/20251111082822719800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "美国总统特朗普：我们将向中低收入人群发放2000美元的补贴，这要归功于关税。",
-          "url": "https://flash.jin10.com/detail/20251111045600389800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美国总统特朗普：我们将在某个时候降低对印度的关税。",
-          "url": "https://flash.jin10.com/detail/20251111045551090800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "市场消息：叙利亚领导人艾哈迈德·沙拉抵达白宫，准备与美国总统特朗普举行双边会晤。",
-          "url": "https://flash.jin10.com/detail/20251110235819595800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "美国总统特朗普：我相信叙利亚总统能够胜任这项工作。",
-          "url": "https://flash.jin10.com/detail/20251111045517495800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及与叙利亚总统会面）我和他相处得很好。",
-          "url": "https://flash.jin10.com/detail/20251111045501696800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "消息人士：瑞士方面降低关税的协议要等到特朗普批准后才能确定。",
-          "url": "https://flash.jin10.com/detail/20251111183736123800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "美国总统特朗普：向美国低收入和中等收入公民发放的2000美元款项（“关税红利”）若有结余，将全部用于大幅削减国家债务。",
-          "url": "https://flash.jin10.com/detail/20251110234854471800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "美国财长贝森特：特朗普政府继承了高物价水平。",
-          "url": "https://flash.jin10.com/detail/20251111204349700800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "特朗普：有外国留学生来很好；不想摧毁我们的大学体系。",
-          "url": "https://wallstreetcn.com/livenews/3002395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "美国总统特朗普：协议非常好。我们希望医疗保健能让我们把钱直接支付给民众，而不是给医疗公司。",
-          "url": "https://flash.jin10.com/detail/20251111045446928800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "特朗普在FOX NEWS一段此前录制的采访中表示：物价很快就会下降；将充实国家战略储备。 50年期住房抵押贷款不是什么大问题，它可能有助于提高住房负担能力。",
-          "url": "https://wallstreetcn.com/livenews/3002394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "美国总统特朗普：我们将很快开放我们的国家（结束停摆）。",
-          "url": "https://flash.jin10.com/detail/20251111045420298800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美国总统特朗普：我们正在接近与印度达成一项协议，与我们过去达成的协议不同。",
-          "url": "https://flash.jin10.com/detail/20251111044553990800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
-          "url": "https://wallstreetcn.com/livenews/3002253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "唐诡编剧吃了多少历史书",
-          "url": "https://www.douyin.com/hot/2301005",
+          "title": "特朗普回应高市早苗涉台言论",
+          "url": "https://www.douyin.com/hot/2302972",
           "source": "抖音",
           "ranks": [
-            29,
-            30,
-            15,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时20分 ~ 17时25分]"
-        },
-        {
-          "title": "连涨6日！红利指数剑指年内新高，相关ETF持续“吸金”，这些份额已达历史峰值",
-          "url": "https://www.cls.cn/detail/2196141",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时25分 ~ 07时21分]"
-        },
-        {
-          "title": "挪威历史性暂停主权财富基金道德准则 允许其保留所投美科技巨头股份",
-          "url": "https://wallstreetcn.com/livenews/3002828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "伦敦金库现历史性的白银流入，此前遭遇“逼空”",
-          "url": "https://wallstreetcn.com/livenews/3002275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 03时18分]"
-        },
-        {
-          "title": "英国富时100指数触及历史新高，上涨逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3002641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "花旗：印尼股市明年有望上涨10%至历史新高",
-          "url": "https://flash.jin10.com/detail/20251111160154869800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "第八届进博会落幕 外交部：将书写更多与天下同利的精彩故事",
-          "url": "https://wallstreetcn.com/livenews/3002626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "礼来制药上涨5.9%，报979.16，突破2024年8月22日所创盘中历史最高位972.53美元。 Leerink因减肥疗法的市场进展而上调对礼来的评级。 MeiraGTx与该公司进入战略合作关系。 Insilico与该公司围绕研究与许可进行合作。",
-          "url": "https://wallstreetcn.com/livenews/3002221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "美股因停摆有望结束而上涨 历史数据显示有望迎来假日反弹",
-          "url": "https://flash.jin10.com/detail/20251111184320408800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "唐诡编剧这是吃了多少历史书",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%94%90%E8%AF%A1%E7%BC%96%E5%89%A7%E8%BF%99%E6%98%AF%E5%90%83%E4%BA%86%E5%A4%9A%E5%B0%91%E5%8E%86%E5%8F%B2%E4%B9%A6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D27%26q%3D%25E5%2594%2590%25E8%25AF%25A1%25E7%25BC%2596%25E5%2589%25A7%25E8%25BF%2599%25E6%2598%25AF%25E5%2590%2583%25E4%25BA%2586%25E5%25A4%259A%25E5%25B0%2591%25E5%258E%2586%25E5%258F%25B2%25E4%25B9%25A6%26dgr%3D0%26realpos%3D27%26pos%3D27%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26display_time%3D1762853131%26pre_seqid%3D176285313133301981916159&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 经济金融 ===== 黄金 美元 石油 稀土",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纽交所金矿股指数涨3.7%，创10月16日以来最佳盘中表现。 GAU涨13.2%，赫克拉矿业涨7.7%，ASM涨7%，THM涨7.2%，PPTA涨6%，AG涨5.3%，巴里克矿业涨5.3%，金田公司涨5.2%，哈莫尼黄金和B2gold涨5%，泛美白银涨4.9%，科尔黛伦矿业涨4%，金矿股ETF涨3.2%，黄金矿工因素指数ETF涨3.2%，白银ETF涨2.7%，金条价格ETF涨2.1%，黄金ETF涨1.9%。 此外，多伦多上市的Santacruz Silver Mining Ltd.涨17%，创最近14周最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3002210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "time_info": "00时29分"
         }
       ]
     }
