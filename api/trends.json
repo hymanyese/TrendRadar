@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:27:44.300597+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-11-11T13:23:34.917767+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[00时29分 ~ 11时15分]"
         },
         {
+          "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
+          "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 13时23分]"
+        },
+        {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
           "url": "https://m.thepaper.cn/newsDetail_forward_31929721",
           "source": "澎湃新闻",
@@ -45,18 +57,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 06时22分]"
-        },
-        {
-          "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
-          "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 12时27分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -174,8 +174,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时23分]"
         },
         {
           "title": "市场消息：特斯拉(TSLA.O)董事会主席登霍尔姆感谢特斯拉股东的支持，感谢他们批准首席执行官埃隆·马斯克的薪酬方案。",
@@ -594,6 +594,21 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "唐诡编剧吃了多少历史书",
+          "url": "https://www.douyin.com/hot/2301005",
+          "source": "抖音",
+          "ranks": [
+            29,
+            30,
+            15,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时20分 ~ 13时23分]"
+        },
+        {
           "title": "连涨6日！红利指数剑指年内新高，相关ETF持续“吸金”，这些份额已达历史峰值",
           "url": "https://www.cls.cn/detail/2196141",
           "source": "财联社热门",
@@ -605,20 +620,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时25分 ~ 07时21分]"
-        },
-        {
-          "title": "唐诡编剧吃了多少历史书",
-          "url": "https://www.douyin.com/hot/2301005",
-          "source": "抖音",
-          "ranks": [
-            29,
-            30,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时20分 ~ 12时27分]"
         },
         {
           "title": "伦敦金库现历史性的白银流入，此前遭遇“逼空”",
