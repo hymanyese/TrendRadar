@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T05:21:14.861552+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-11-13T06:21:54.807898+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 06时21分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -279,9 +280,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普“最恨的女人”要退休了",
+          "url": "https://www.toutiao.com/trending/7571102416779952154/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：我同意特朗普的观点，利率可以低得多。",
@@ -309,8 +321,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "次级车贷违约率创历史新高 凸显美国经济疲弱",
