@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T09:42:41.124135+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2025-11-12T11:14:50.822263+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -48,11 +48,12 @@
             15,
             14,
             17,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 09时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 11时14分]"
         },
         {
           "title": "换了件“马甲”，他见上特朗普了(图)",
@@ -92,6 +93,17 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时14分]"
+        },
+        {
           "title": "特朗普威胁起诉BBC 索赔10亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -102,17 +114,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时26分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -160,9 +161,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "特朗普亲吻去世盟友柯克的遗孀",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%B2%E5%90%BB%E5%8E%BB%E4%B8%96%E7%9B%9F%E5%8F%8B%E6%9F%AF%E5%85%8B%E7%9A%84%E9%81%97%E5%AD%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D4%26stream_entry_id%3D31%26realpos%3D4%26lcate%3D5001%26c_type%3D31%26flag%3D1%26pos%3D4%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25BA%25B2%25E5%2590%25BB%25E5%258E%25BB%25E4%25B8%2596%25E7%259B%259F%25E5%258F%258B%25E6%259F%25AF%25E5%2585%258B%25E7%259A%2584%25E9%2581%2597%25E5%25AD%2580%2523%26dgr%3D0%26display_time%3D1762917245%26pre_seqid%3D176291724569702602169&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "美国总统特朗普：众议长约翰逊与参议院多数党领袖John Thune在临时开支草案协议上“取得重大胜利”。",
@@ -355,6 +367,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3003110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "特朗普：（谈众议院对拨款法案进行投票）我认为他们会投赞成票。",
           "url": "https://flash.jin10.com/detail/20251112022207649800",
           "source": "金十数据",
@@ -421,13 +444,24 @@
           "time_info": "02时31分"
         },
         {
+          "title": "特朗普将于美国东部时间周三晚上7:30（北京时间周四早晨8:30）举行私人晚宴。",
+          "url": "https://flash.jin10.com/detail/20251112101904646800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "美最高法院：特朗普政府可继续暂扣食品援助金",
           "url": "https://wallstreetcn.com/livenews/3003054",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -449,7 +483,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -460,7 +494,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         }
@@ -468,7 +502,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价孙继海在曼城的成就和历史地位？",
@@ -495,6 +529,17 @@
           "time_info": "[01时20分 ~ 02时31分]"
         },
         {
+          "title": "农业银行拉升涨超3%，股价再创历史新高，总市值突破3万亿元。",
+          "url": "https://wallstreetcn.com/livenews/3003118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨1.22%，报579.79点，创收盘历史新高。 欧元区STOXX 50指数初步收涨1.00%，报5721.13点，创收盘历史新高。 富时泛欧绩优300指数初步收涨1.25%，报2312.05点。",
           "url": "https://wallstreetcn.com/livenews/3002907",
           "source": "华尔街见闻-快讯",
@@ -504,6 +549,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "印度10月通胀或创历史新低",
+          "url": "https://flash.jin10.com/detail/20251112104453968800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "据华尔街日报：民调显示，印度10月份通胀可能创下历史新低。",
+          "url": "https://flash.jin10.com/detail/20251112104330454800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "欧洲STOXX 600指数收涨1.28%，报580.13点，突破10月27日所创收盘历史最高位577.03点，最近两个交易日累计反弹2.72%。 欧元区STOXX 50指数收涨1.08%，报5725.70点，突破10月27日所创收盘历史最高位5711.06点、逼近10月29日所创盘中历史最高位5734.28点，最近两天反弹2.86%。 富时泛欧绩优300指数收涨1.31%，报2313.41点，也创收盘历史新高，最近两天反弹2.78%。",
