@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T06:21:54.807898+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2025-11-13T07:21:43.313954+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -15,11 +15,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 07时21分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -131,6 +132,18 @@
           "time_info": "[02时31分 ~ 03时20分]"
         },
         {
+          "title": "特朗普“最恨的女人”要退休了",
+          "url": "https://www.toutiao.com/trending/7571102416779952154/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
           "url": "https://flash.jin10.com/detail/20251113032506975800",
           "source": "金十数据",
@@ -206,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "美国上诉法院暂时阻止了特朗普政府的命令，该命令要求达美航空和墨西哥航空公司于1月1日前终止合资企业。",
+          "url": "https://flash.jin10.com/detail/20251113062840962800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "白宫新闻秘书莱维特：（谈英国广播公司）美国总统特朗普对其演讲被编辑一事深感关切。",
@@ -285,17 +309,6 @@
           "time_info": "05时21分"
         },
         {
-          "title": "特朗普“最恨的女人”要退休了",
-          "url": "https://www.toutiao.com/trending/7571102416779952154/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
           "title": "美国白宫国家经济委员会主任哈塞特：我同意特朗普的观点，利率可以低得多。",
           "url": "https://flash.jin10.com/detail/20251113014622086800",
           "source": "金十数据",
@@ -310,7 +323,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "老外“友”故事丨当法国旅行者“遗忘”了他的电脑：一场关于信任的中国观察",
@@ -321,8 +334,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 07时21分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "次级车贷违约率创历史新高 凸显美国经济疲弱",
