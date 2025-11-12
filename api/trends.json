@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T12:27:34.277086+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2025-11-12T13:23:20.566779+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 12时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 13时23分]"
         },
         {
           "title": "换了件“马甲”，他见上特朗普了(图)",
@@ -92,6 +92,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 07时20分]"
+        },
+        {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 13时23分]"
         },
         {
           "title": "特朗普威胁起诉BBC 索赔10亿美元",
@@ -132,18 +145,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时27分]"
         },
         {
           "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
@@ -504,7 +505,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价孙继海在曼城的成就和历史地位？",
@@ -543,6 +544,29 @@
           "time_info": "[01时20分 ~ 02时31分]"
         },
         {
+          "title": "11月12日午间收评：创业板指半日跌1.58%，农行、工行双双创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3003142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时23分]"
+        },
+        {
+          "title": "老外“友”故事丨当法国旅行者“遗忘”了他的电脑：一场关于信任的中国观察",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31881277",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
           "title": "欧洲STOXX 600指数初步收涨1.22%，报579.79点，创收盘历史新高。 欧元区STOXX 50指数初步收涨1.00%，报5721.13点，创收盘历史新高。 富时泛欧绩优300指数初步收涨1.25%，报2312.05点。",
           "url": "https://wallstreetcn.com/livenews/3002907",
           "source": "华尔街见闻-快讯",
@@ -574,17 +598,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
-        },
-        {
-          "title": "11月12日午间收评：创业板指半日跌1.58%，农行、工行双双创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3003142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "欧洲STOXX 600指数收涨1.28%，报580.13点，突破10月27日所创收盘历史最高位577.03点，最近两个交易日累计反弹2.72%。 欧元区STOXX 50指数收涨1.08%，报5725.70点，突破10月27日所创收盘历史最高位5711.06点、逼近10月29日所创盘中历史最高位5734.28点，最近两天反弹2.86%。 富时泛欧绩优300指数收涨1.31%，报2313.41点，也创收盘历史新高，最近两天反弹2.78%。",
