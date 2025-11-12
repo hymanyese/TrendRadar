@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T17:25:03.503555+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2025-11-12T18:25:03.710670+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -69,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 17时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 18时25分]"
         },
         {
           "title": "换了件“马甲”，他见上特朗普了(图)",
@@ -120,6 +120,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时26分]"
+        },
+        {
+          "title": "段永平不买特斯拉是因看不惯马斯克吗",
+          "url": "https://www.toutiao.com/trending/7571742472888389162/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -209,6 +220,18 @@
           "time_info": "[00时29分 ~ 02时31分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 18时25分]"
+        },
+        {
           "title": "据Politico：特朗普政府宣布消费者金融保护局拨款非法。",
           "url": "https://flash.jin10.com/detail/20251112010827200800",
           "source": "金十数据",
@@ -281,17 +304,6 @@
           "time_info": "[02时31分 ~ 03时17分]"
         },
         {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
-        },
-        {
           "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
           "url": "https://wallstreetcn.com/livenews/3002989",
           "source": "华尔街见闻-快讯",
@@ -350,6 +362,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时26分]"
+        },
+        {
+          "title": "特朗普称没有稀土磁铁就什么都没有",
+          "url": "https://www.toutiao.com/trending/7571130765851443254/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "特朗普宣布：赦免75名支持者",
@@ -449,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112175252982800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
@@ -576,8 +610,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 18时25分]"
         },
         {
           "title": "如何评价孙继海在曼城的成就和历史地位？",
