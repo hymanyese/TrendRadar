@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T18:25:25.284962+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2025-11-13T19:20:30.006380+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -47,8 +47,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时21分 ~ 18时25分]"
+          "appearance_count": 17,
+          "time_info": "[01时21分 ~ 19时20分]"
+        },
+        {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 19时20分]"
         },
         {
           "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
@@ -62,20 +77,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时21分 ~ 17时26分]"
-        },
-        {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 18时25分]"
         },
         {
           "title": "特朗普罕见为中国留学生辩护",
@@ -121,8 +122,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 18时25分]"
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 19时20分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -172,6 +173,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时27分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
         },
         {
           "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
@@ -282,17 +294,6 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
-          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
           "url": "https://flash.jin10.com/detail/20251113124331404800",
           "source": "金十数据",
@@ -310,7 +311,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -324,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "民调显示，特朗普支持率维持在40%，反对率攀升至58%。",
+          "url": "https://flash.jin10.com/detail/20251113190308610800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "白宫称特朗普外部团队已起诉BBC",
@@ -387,7 +399,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -615,7 +627,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -642,6 +654,19 @@
           "time_info": "[00时29分 ~ 07时21分]"
         },
         {
+          "title": "泰国国王“历史性”来华访问",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E7%8E%8B%E2%80%9C%E5%8E%86%E5%8F%B2%E6%80%A7%E2%80%9D%E6%9D%A5%E5%8D%8E%E8%AE%BF%E9%97%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 19时20分]"
+        },
+        {
           "title": "历史首次？白宫：10月CPI和就业报告可能永远不会发布",
           "url": "https://www.cls.cn/detail/2199078",
           "source": "财联社热门",
@@ -653,19 +678,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时27分 ~ 17时26分]"
-        },
-        {
-          "title": "泰国国王“历史性”来华访问",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E7%8E%8B%E2%80%9C%E5%8E%86%E5%8F%B2%E6%80%A7%E2%80%9D%E6%9D%A5%E5%8D%8E%E8%AE%BF%E9%97%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 18时25分]"
         },
         {
           "title": "中国澳门选手朱雨玲晋级四强创历史",
@@ -739,6 +751,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时25分]"
+        },
+        {
+          "title": "T1揭秘夺冠的幕后故事",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%8F%AD%E7%A7%98%E5%A4%BA%E5%86%A0%E7%9A%84%E5%B9%95%E5%90%8E%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "前10月京津冀地区出口1.2万亿元 创历史同期新高",
