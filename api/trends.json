@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T16:30:03.170401+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2025-11-13T17:26:07.811809+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 16时30分]"
+          "appearance_count": 9,
+          "time_info": "[12时27分 ~ 17时26分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
@@ -25,11 +26,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 16时30分]"
+          "appearance_count": 9,
+          "time_info": "[12时27分 ~ 17时26分]"
         },
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -45,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时21分 ~ 16时30分]"
+          "appearance_count": 15,
+          "time_info": "[01时21分 ~ 17时26分]"
         },
         {
           "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
@@ -54,11 +56,25 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 16时30分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 17时26分]"
         },
         {
           "title": "特朗普罕见为中国留学生辩护",
@@ -86,16 +102,15 @@
           "time_info": "[12时27分 ~ 15时22分]"
         },
         {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
+          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
+          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 16时30分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 17时26分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -135,15 +150,15 @@
           "time_info": "[03时20分 ~ 04时25分]"
         },
         {
-          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
-          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
-          "source": "凤凰网",
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            9
+            28
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时21分 ~ 16时30分]"
+          "time_info": "[16时29分 ~ 17时26分]"
         },
         {
           "title": "特朗普送叙政权领导人自产香水",
@@ -266,17 +281,6 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
-        },
-        {
           "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
           "url": "https://flash.jin10.com/detail/20251113124331404800",
           "source": "金十数据",
@@ -305,7 +309,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -577,7 +581,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -613,8 +617,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 16时30分]"
+          "appearance_count": 9,
+          "time_info": "[12时27分 ~ 17时26分]"
         },
         {
           "title": "泰国国王“历史性”来华访问",
@@ -626,8 +630,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 16时30分]"
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 17时26分]"
+        },
+        {
+          "title": "中国澳门选手朱雨玲晋级四强创历史",
+          "url": "https://www.toutiao.com/trending/7571383317687468095/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 17时26分]"
+        },
+        {
+          "title": "外交部：G20峰会首次在非洲大陆举办 具有重要历史意义",
+          "url": "https://wallstreetcn.com/livenews/3004059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "三角洲阿萨拉赛季故事短片",
@@ -640,18 +668,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 14时33分]"
-        },
-        {
-          "title": "中国澳门选手朱雨玲晋级四强创历史",
-          "url": "https://www.toutiao.com/trending/7571383317687468095/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 16时30分]"
         },
         {
           "title": "次级车贷违约率创历史新高 凸显美国经济疲弱",
@@ -678,6 +694,17 @@
           "time_info": "[03时20分 ~ 04时25分]"
         },
         {
+          "title": "历史上有哪些很搞笑的人物和事？",
+          "url": "https://www.zhihu.com/question/265408102",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
           "title": "前10月京津冀地区出口1.2万亿元 创历史同期新高",
           "url": "https://wallstreetcn.com/livenews/3003891",
           "source": "华尔街见闻-快讯",
@@ -687,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "腾讯Q3资本开支同比降约24%，研发投入228亿创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3004035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "意大利银行板块继续创收盘历史新高",
