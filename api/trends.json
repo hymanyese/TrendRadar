@@ -1,916 +1,94 @@
 {
-  "generated_at": "2025-11-13T23:24:56.700777+08:00",
-  "total_titles_processed": 2139,
+  "generated_at": "2025-11-14T00:28:18.321207+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 57,
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
-          "url": "https://news.ifeng.com/c/8oFCuwr7cLg",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时27分 ~ 18时25分]"
-        },
-        {
-          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
-          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时27分 ~ 18时25分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
-          "url": "https://wallstreetcn.com/articles/3759245",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时21分 ~ 22时23分]"
-        },
-        {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时33分 ~ 19时20分]"
-        },
-        {
-          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
-          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 17时26分]"
-        },
-        {
-          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 21时35分]"
-        },
-        {
-          "title": "特朗普罕见为中国留学生辩护",
-          "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时17分]"
-        },
-        {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时46分]"
-        },
-        {
-          "title": "特朗普致信以总统求赦免内塔尼亚胡",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
-          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 17时26分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
-          "url": "https://wallstreetcn.com/livenews/3003597",
+          "title": "马斯克：媒体关于xAI融资的报道“不实”。",
+          "url": "https://wallstreetcn.com/livenews/3004285",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普的50年期房贷构想遇冷，房管局长改提“可转移抵押贷款”方案",
-          "url": "https://wallstreetcn.com/livenews/3003536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
-        },
-        {
-          "title": "美国最高法院：将于明年1月21日就美国总统特朗普解雇美联储理事库克的请求举行口头辩论。",
-          "url": "https://flash.jin10.com/detail/20251113030327873800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时25分]"
-        },
-        {
-          "title": "特朗普送叙政权领导人自产香水",
-          "url": "https://www.toutiao.com/trending/7572030694445272627/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 18时25分]"
-        },
-        {
-          "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3003872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时33分]"
-        },
-        {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普不会有第三季。",
-          "url": "https://wallstreetcn.com/livenews/3003588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时25分]"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：一旦政府重新开门，特朗普愿意就医疗保健问题展开对话。",
-          "url": "https://flash.jin10.com/detail/20251113025304021800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时25分]"
-        },
-        {
-          "title": "特朗普政府发布声明，称支持用于结束美国政府关门的立法草案，总统特朗普将（在参众两院都批准的草案上）签字——让该草案生效为法律。",
-          "url": "https://wallstreetcn.com/livenews/3003568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时20分]"
-        },
-        {
-          "title": "洲际交易所（ICE）CEO参与组织美国总统特朗普的晚宴。 纽交所总裁料将出席。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3003567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时20分]"
-        },
-        {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：相比美国总统特朗普的第一任期，现在的白宫“更有效率”。",
-          "url": "https://wallstreetcn.com/livenews/3003582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时25分]"
-        },
-        {
-          "title": "特朗普：美国政府不应该再次出现停摆，政府现在将恢复正常运作。",
-          "url": "https://wallstreetcn.com/livenews/3003838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时22分]"
-        },
-        {
-          "title": "“风电教父”发出警告：特朗普敦促各国放弃气候应对行动",
-          "url": "https://wallstreetcn.com/livenews/3003564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时20分]"
-        },
-        {
-          "title": "特朗普“最恨的女人”要退休了",
-          "url": "https://www.toutiao.com/trending/7571102416779952154/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
-          "url": "https://flash.jin10.com/detail/20251113124331404800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-13）",
-          "url": "https://flash.jin10.com/detail/20251113180638887800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
-          "url": "https://flash.jin10.com/detail/20251113032506975800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "民调显示，特朗普支持率维持在40%，反对率攀升至58%。",
-          "url": "https://flash.jin10.com/detail/20251113190308610800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "房利美下跌12%，创8月8日以来盘中新低，美国总统特朗普近日提出50年其抵押贷款假想。",
-          "url": "https://wallstreetcn.com/livenews/3004257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "00时28分"
         },
         {
-          "title": "白宫称特朗普外部团队已起诉BBC",
-          "url": "https://wallstreetcn.com/livenews/3003989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "特朗普签署法案 美国政府停摆宣告结束",
-          "url": "https://flash.jin10.com/detail/20251113104453356800",
+          "title": "美国总统特朗普推动的近海钻探计划在加利福尼亚州遭遇根深蒂固的反对。",
+          "url": "https://flash.jin10.com/detail/20251114000857927800",
           "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时17分"
+          "time_info": "00时28分"
         },
         {
-          "title": "美国财长贝森特：选民们授权总统特朗普让美国恢复经济承受能力。 巩固国债市场是这个使命的一部分。 在2025年的发达国家市场，美债表现最佳。 美债的日常现金交易大约1万亿美元。 将继续考虑改善美债回购计划。 投资者对美债需求是如此的强烈，将继续监控投资者的需求。 不会改变债务发行的整体协议。 维持债市健康是我的头等大事。",
-          "url": "https://wallstreetcn.com/livenews/3003527",
+          "title": "国际货币基金组织（IMF）因特朗普政府关门事件而推迟与美国的“第四条款磋商”（US Article IV discussions），原定11月进行。 IMF通讯主管Julie Kozack在一次新闻发布会上表示：“数据的缺失最近使我们难以评估美国经济状况，也难以开展第四条款磋商的初步工作。” 尚未确定磋商的新日期，但IMF将与美国当局协商新的时间表。 第四条款磋商是对IMF成员国经济进行的年度审查，通常涵盖货币、财政和其他政策。",
+          "url": "https://wallstreetcn.com/livenews/3004279",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：我非常尊重美联储主席鲍威尔。 我认同美国总统特朗普关于“利率可以更低”的看法。 如果特朗普提出要求，我会担任下一任美联储主席。",
-          "url": "https://wallstreetcn.com/livenews/3003570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "00时28分"
         },
         {
           "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3004252",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "美国总统特朗普：我很高兴宣布提名艾伦·彼得森（Aaron Peterson）担任美国阿拉斯加地区联邦地区法院的法官。",
-          "url": "https://flash.jin10.com/detail/20251113015430870800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "民主党再公布爱泼斯坦案文件，内容指向特朗普",
-          "url": "https://wallstreetcn.com/livenews/3004092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "白宫表示，民主党选择性地公布了爱泼斯坦的电子邮件，以抹黑美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251112235536881800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特谈住房问题：不知道美国总统特朗普是否已决定推出50年期抵押贷款。",
-          "url": "https://flash.jin10.com/detail/20251113015411099800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普在“爱泼斯坦事件”中没有做错任何事。",
-          "url": "https://flash.jin10.com/detail/20251113024300036800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普再次呼吁取消参议院冗长辩论规则。",
-          "url": "https://wallstreetcn.com/livenews/3003837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "美国上诉法院暂时阻止了特朗普政府的命令，该命令要求达美航空和墨西哥航空公司于1月1日前终止合资企业。",
-          "url": "https://flash.jin10.com/detail/20251113062840962800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普签署临时拨款法案，持续43天的美国政府史上最长“停摆”结束。",
-          "url": "https://wallstreetcn.com/livenews/3003836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "特朗普首席经济顾问：美国9月就业报告可能下周公布",
-          "url": "https://wallstreetcn.com/livenews/3004247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：（谈英国广播公司）美国总统特朗普对其演讲被编辑一事深感关切。",
-          "url": "https://flash.jin10.com/detail/20251113024054748800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普所谓的50年期抵押贷款是正在研究的许多政策方案之一。",
-          "url": "https://wallstreetcn.com/livenews/3004246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "美国财长贝森特：选民授权特朗普让美国再次更有负担能力。",
-          "url": "https://flash.jin10.com/detail/20251112235256981800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国总统特朗普的外部法律顾问已对英国广播公司提起了诉讼。",
-          "url": "https://flash.jin10.com/detail/20251113024035505800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普问叙利亚领导人有几个老婆",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%AE%E5%8F%99%E5%88%A9%E4%BA%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%9C%89%E5%87%A0%E4%B8%AA%E8%80%81%E5%A9%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D20%26band_rank%3D20%26pos%3D21%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2597%25AE%25E5%258F%2599%25E5%2588%25A9%25E4%25BA%259A%25E9%25A2%2586%25E5%25AF%25BC%25E4%25BA%25BA%25E6%259C%2589%25E5%2587%25A0%25E4%25B8%25AA%25E8%2580%2581%25E5%25A9%2586%2523%26display_time%3D1763008026%26pre_seqid%3D17630080261780113704201&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "爱尔兰监管机构调查马斯克的“X”是否违反欧盟数字服务法",
-          "url": "https://flash.jin10.com/detail/20251113024027019800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普拟定数小时后正式结束政府停摆",
-          "url": "https://flash.jin10.com/detail/20251113083457271800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "特朗普：共和党人从未希望政府停摆，并曾15次投票支持继续拨款。然而，对方政党的极端分子却执意制造美国历史上持续时间最长的政府停摆，他们这样做纯粹是出于政治原因。",
-          "url": "https://flash.jin10.com/detail/20251113112722111800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "特朗普：呼吁直接向民众支付资金以购买医疗保健服务。",
-          "url": "https://flash.jin10.com/detail/20251113112355110800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国总统特朗普希望今晚签署结束政府停摆的法案。",
-          "url": "https://flash.jin10.com/detail/20251113023641093800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普政府新规：外国人可能被拒签的慢性疾病包括肥胖、高血压、心血管等",
-          "url": "https://wallstreetcn.com/livenews/3003514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "特朗普：今天，我们发出一个明确的信息，那就是我们绝不会屈服于“敲诈勒索”。",
-          "url": "https://flash.jin10.com/detail/20251113112217348800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "特朗普：政府将恢复正常运作。",
-          "url": "https://flash.jin10.com/detail/20251113112133905800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "G7外长联合声明：重申强烈支持美国总统特朗普结束加沙冲突的计划，强调归还已故人质遗骸的紧迫性。",
-          "url": "https://flash.jin10.com/detail/20251113044517247800",
-          "source": "金十数据",
-          "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：我同意特朗普的观点，利率可以低得多。",
-          "url": "https://flash.jin10.com/detail/20251113014622086800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "00时28分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 22,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
-          "url": "https://www.cls.cn/detail/2198992",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 16时30分]"
-        },
-        {
-          "title": "老外“友”故事丨当法国旅行者“遗忘”了他的电脑：一场关于信任的中国观察",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31881277",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "泰国国王“历史性”来华访问",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%9B%BD%E7%8E%8B%E2%80%9C%E5%8E%86%E5%8F%B2%E6%80%A7%E2%80%9D%E6%9D%A5%E5%8D%8E%E8%AE%BF%E9%97%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时33分 ~ 20时46分]"
-        },
-        {
-          "title": "历史首次？白宫：10月CPI和就业报告可能永远不会发布",
-          "url": "https://www.cls.cn/detail/2199078",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 17时26分]"
-        },
         {
           "title": "泰国国王“历史性”来华访问",
           "url": "https://www.toutiao.com/trending/7572034214984420905/",
           "source": "今日头条",
           "ranks": [
-            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 23时24分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
           "title": "T1揭秘夺冠的幕后故事",
           "url": "https://search.bilibili.com/all?keyword=T1%E6%8F%AD%E7%A7%98%E5%A4%BA%E5%86%A0%E7%9A%84%E5%B9%95%E5%90%8E%E6%95%85%E4%BA%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            14,
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时20分 ~ 23时24分]"
-        },
-        {
-          "title": "中国澳门选手朱雨玲晋级四强创历史",
-          "url": "https://www.toutiao.com/trending/7571383317687468095/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 17时26分]"
-        },
-        {
-          "title": "三角洲阿萨拉赛季故事短片",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E9%98%BF%E8%90%A8%E6%8B%89%E8%B5%9B%E5%AD%A3%E6%95%85%E4%BA%8B%E7%9F%AD%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时33分]"
-        },
-        {
-          "title": "外交部：G20峰会首次在非洲大陆举办 具有重要历史意义",
-          "url": "https://wallstreetcn.com/livenews/3004059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时25分]"
-        },
-        {
-          "title": "历史上有哪些很搞笑的人物和事？",
-          "url": "https://www.zhihu.com/question/265408102",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 20时46分]"
-        },
-        {
-          "title": "次级车贷违约率创历史新高 凸显美国经济疲弱",
-          "url": "https://wallstreetcn.com/livenews/3003528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2200065",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时24分]"
-        },
-        {
-          "title": "美国高评级债券销售突破2024年供应总量，创历史第二高",
-          "url": "https://wallstreetcn.com/livenews/3003586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时25分]"
-        },
-        {
-          "title": "前10月京津冀地区出口1.2万亿元 创历史同期新高",
-          "url": "https://wallstreetcn.com/livenews/3003891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "腾讯Q3资本开支同比降约24%，研发投入228亿创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3004035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "意大利银行板块继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3003540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "欧洲股市继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3003539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "沪银主力合约涨超5%，现报12535元/千克，续创历史新高。",
-          "url": "https://flash.jin10.com/detail/20251113112245283800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "华峰化学：目前己二酸行业整体盈利水平较低，属于历史底部区域",
-          "url": "https://wallstreetcn.com/livenews/3003792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：从历史上看，美元现在正处于强势地位。",
-          "url": "https://flash.jin10.com/detail/20251113014931444800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
           "title": "边看唐诡边学唐朝历史",
@@ -919,20 +97,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "曼哈顿租金中位数创历史第三高 可负担性问题持续恶化",
-          "url": "https://flash.jin10.com/detail/20251113205843321800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         }
       ]
     },
@@ -945,12 +112,11 @@
           "url": "https://www.zhihu.com/question/1967184591547790011",
           "source": "知乎",
           "ranks": [
-            9,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时24分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         }
       ]
     }
