@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T21:35:19.992928+08:00",
-  "total_titles_processed": 1964,
+  "generated_at": "2025-11-13T22:23:38.076838+08:00",
+  "total_titles_processed": 2051,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时21分 ~ 21时35分]"
+          "appearance_count": 20,
+          "time_info": "[01时21分 ~ 22时23分]"
         },
         {
           "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
@@ -628,7 +628,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -694,6 +694,31 @@
           "time_info": "[15时21分 ~ 17时26分]"
         },
         {
+          "title": "泰国国王“历史性”来华访问",
+          "url": "https://www.toutiao.com/trending/7572034214984420905/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时23分]"
+        },
+        {
+          "title": "T1揭秘夺冠的幕后故事",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%8F%AD%E7%A7%98%E5%A4%BA%E5%86%A0%E7%9A%84%E5%B9%95%E5%90%8E%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时23分]"
+        },
+        {
           "title": "三角洲阿萨拉赛季故事短片",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E9%98%BF%E8%90%A8%E6%8B%89%E8%B5%9B%E5%AD%A3%E6%95%85%E4%BA%8B%E7%9F%AD%E7%89%87",
           "source": "bilibili 热搜",
@@ -718,19 +743,6 @@
           "time_info": "[17时26分 ~ 18时25分]"
         },
         {
-          "title": "T1揭秘夺冠的幕后故事",
-          "url": "https://search.bilibili.com/all?keyword=T1%E6%8F%AD%E7%A7%98%E5%A4%BA%E5%86%A0%E7%9A%84%E5%B9%95%E5%90%8E%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时35分]"
-        },
-        {
           "title": "历史上有哪些很搞笑的人物和事？",
           "url": "https://www.zhihu.com/question/265408102",
           "source": "知乎",
@@ -742,17 +754,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时25分 ~ 20时46分]"
-        },
-        {
-          "title": "泰国国王“历史性”来华访问",
-          "url": "https://www.toutiao.com/trending/7572034214984420905/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "次级车贷违约率创历史新高 凸显美国经济疲弱",
@@ -777,6 +778,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时25分]"
+        },
+        {
+          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2200065",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "前10月京津冀地区出口1.2万亿元 创历史同期新高",
@@ -862,9 +874,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "职场中遇到上司暗示我「做假账」，我该妥协还是坚持原则？",
+          "url": "https://www.zhihu.com/question/1967184591547790011",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     }
