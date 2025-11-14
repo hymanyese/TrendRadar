@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T21:32:09.409528+08:00",
-  "total_titles_processed": 1917,
+  "generated_at": "2025-11-14T22:22:26.458656+08:00",
+  "total_titles_processed": 2006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -25,11 +25,12 @@
           "url": "https://news.ifeng.com/c/8oGsK5I0blR",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时27分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[12时27分 ~ 22时22分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -110,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "瑞士政府：感谢特朗普的建设性接触。",
+          "url": "https://flash.jin10.com/detail/20251114220851366800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美国准备实施一定程度上的关税豁免，从而降低食品价格。 其中将包括牛肉和柑橘（类）产品。 然而，总统特朗普尚未做最终的决定。（纽约时报）",
@@ -581,8 +593,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时22分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：美元走软让其更加符合“历史性的公允值”。",
