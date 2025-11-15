@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T12:24:43.423743+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-11-15T13:21:00.428637+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 12时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
+          "url": "https://flash.jin10.com/detail/20251115090032024800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 13时21分]"
         },
         {
           "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
@@ -32,19 +46,6 @@
           "time_info": "[04时24分 ~ 09时39分]"
         },
         {
-          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
-          "url": "https://flash.jin10.com/detail/20251115090032024800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 12时24分]"
-        },
-        {
           "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
           "url": "https://wallstreetcn.com/livenews/3005021",
           "source": "华尔街见闻-快讯",
@@ -57,6 +58,19 @@
           "time_info": "[04时24分 ~ 05时20分]"
         },
         {
+          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
+          "url": "https://flash.jin10.com/detail/20251115094016472800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 13时21分]"
+        },
+        {
           "title": "特朗普政府下调美国大豆出口前景预测",
           "url": "https://wallstreetcn.com/livenews/3005036",
           "source": "华尔街见闻-快讯",
@@ -67,18 +81,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时21分]"
-        },
-        {
-          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
-          "url": "https://flash.jin10.com/detail/20251115094016472800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时24分]"
         },
         {
           "title": "特朗普拟削减部分食品杂货的关税",
@@ -117,6 +119,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时24分]"
+        },
+        {
+          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
+          "url": "https://wallstreetcn.com/livenews/3005121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 13时21分]"
+        },
+        {
+          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
+          "url": "https://wallstreetcn.com/livenews/3005141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时21分]"
         },
         {
           "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
@@ -203,18 +230,6 @@
           "time_info": "[01时19分 ~ 02时31分]"
         },
         {
-          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
-          "url": "https://wallstreetcn.com/livenews/3005121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时24分]"
-        },
-        {
           "title": "美国能源部官员拟劝阻特朗普恢复爆炸性核试验",
           "url": "https://flash.jin10.com/detail/20251115014832583800",
           "source": "金十数据",
@@ -225,17 +240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时18分]"
-        },
-        {
-          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
-          "url": "https://wallstreetcn.com/livenews/3005141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
         },
         {
           "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
@@ -376,8 +380,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 12时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 13时21分]"
         },
         {
           "title": "全运会历史首个跨境马拉松何杰夺冠。（新华社）",
@@ -386,11 +390,12 @@
           "ranks": [
             1,
             16,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 12时24分]"
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 13时21分]"
         },
         {
           "title": "中东股市收盘播报｜土耳其股指本周跌约3.3%，里拉不断创历史新低",
@@ -405,6 +410,19 @@
           "time_info": "[00时28分 ~ 01时19分]"
         },
         {
+          "title": "深挖唐诡对应历史",
+          "url": "https://www.douyin.com/hot/2305887",
+          "source": "抖音",
+          "ranks": [
+            30,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 13时21分]"
+        },
+        {
           "title": "俄罗斯Arctic LNG 2工厂已经启动减产程序，冬季天气即将带来挑战。 此前，该公司10月份天然气产量创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3004954",
           "source": "华尔街见闻-快讯",
@@ -415,18 +433,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "深挖唐诡对应历史",
-          "url": "https://www.douyin.com/hot/2305887",
-          "source": "抖音",
-          "ranks": [
-            30,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时24分]"
         },
         {
           "title": "全运会历史首个跨境马拉松何杰夺冠",
