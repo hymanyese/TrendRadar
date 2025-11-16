@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T16:26:53.897121+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2025-11-16T17:20:52.605460+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
@@ -121,11 +121,12 @@
             1,
             6,
             11,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 17时20分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -181,6 +182,18 @@
           "time_info": "[15时20分 ~ 16时26分]"
         },
         {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时20分]"
+        },
+        {
           "title": "爱泼斯坦2万份文件揭了特朗普哪些短",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A62%E4%B8%87%E4%BB%BD%E6%96%87%E4%BB%B6%E6%8F%AD%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E5%93%AA%E4%BA%9B%E7%9F%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D28%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D27%26dgr%3D0%26c_type%3D31%26band_rank%3D27%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2588%25B1%25E6%25B3%25BC%25E6%2596%25AF%25E5%259D%25A62%25E4%25B8%2587%25E4%25BB%25BD%25E6%2596%2587%25E4%25BB%25B6%25E6%258F%25AD%25E4%25BA%2586%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2593%25AA%25E4%25BA%259B%25E7%259F%25AD%2523%26display_time%3D1763274412%26pre_seqid%3D17632744123650330454279&launchid=10000360-page_H5",
           "source": "微博",
@@ -192,15 +205,26 @@
           "time_info": "[14时30分 ~ 14时31分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
+          "title": "造芯，马斯克是“来真的”，2026年",
+          "url": "https://wallstreetcn.com/articles/3759471",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "17时20分"
+        },
+        {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
@@ -311,8 +335,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时20分]"
         },
         {
           "title": "加拿大本拿比市就歧视华裔历史正式道歉",
@@ -357,6 +381,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时16分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "德国选择党议员：柏林对调查“北溪”天然气管道爆炸事件毫无兴趣",
+          "url": "https://flash.jin10.com/detail/20251116163840025800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     }
