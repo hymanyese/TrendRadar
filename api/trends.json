@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T16:32:03.641412+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2025-11-17T17:27:52.930188+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "造芯，马斯克是“来真的”，2026年",
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时25分 ~ 11时18分]"
+        },
+        {
+          "title": "曝特朗普与昔日得力干将决裂",
+          "url": "https://www.toutiao.com/trending/7573470510160399923/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            16,
+            23,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 17时27分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -43,19 +57,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 07时20分]"
-        },
-        {
-          "title": "曝特朗普与昔日得力干将决裂",
-          "url": "https://www.toutiao.com/trending/7573470510160399923/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 16时32分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -121,6 +122,17 @@
           "time_info": "[01时18分 ~ 05时18分]"
         },
         {
+          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
+          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时27分]"
+        },
+        {
           "title": "特朗普不到两个月内完成超175笔投资",
           "url": "https://www.toutiao.com/trending/7573491698903289386/",
           "source": "今日头条",
@@ -142,17 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时44分 ~ 11时18分]"
-        },
-        {
-          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
-          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "特朗普转变立场 称众议院应投票支持司法部公布爱泼斯坦档案",
@@ -177,6 +178,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时44分 ~ 11时18分]"
+        },
+        {
+          "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
+          "url": "https://www.cls.cn/detail/2202481",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "特朗普豪气“画饼”要发每人2000美元？美财长泼冷水：得先国会同意",
+          "url": "https://www.cls.cn/detail/2202033",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "特朗普态度转变？支持投票公开爱泼斯坦相关文件",
@@ -259,7 +282,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "盘中创历史新高A股名单一览：孚日股份、华盛锂电等多只锂电池概念股在列",
@@ -314,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "福建板块持续“吸金”！成交额创历史次高，2成标的近日涨停，这些游资密集现身",
+          "url": "https://www.cls.cn/detail/2202633",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         }
       ]
     },
