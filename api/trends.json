@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T19:19:56.166010+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2025-11-17T20:44:46.976967+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "造芯，马斯克是“来真的”，2026年",
@@ -30,11 +30,12 @@
             23,
             8,
             9,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时44分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[09时44分 ~ 20时44分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -61,6 +62,17 @@
           "time_info": "[00时24分 ~ 07时20分]"
         },
         {
+          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
+          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时44分]"
+        },
+        {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
           "url": "https://flash.jin10.com/detail/20251116223106128800",
           "source": "金十数据",
@@ -73,17 +85,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
-          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 19时19分]"
         },
         {
           "title": "造芯，马斯克是“来真的”，2026年将小规模量产",
@@ -108,6 +109,17 @@
           "time_info": "18时26分"
         },
         {
+          "title": "空中客车：面对美国总统特朗普对波音的支持，需要付出更多努力。",
+          "url": "https://flash.jin10.com/detail/20251117203930090800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
           "url": "https://flash.jin10.com/detail/20251116221017649800",
           "source": "金十数据",
@@ -127,9 +139,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
+          "url": "https://www.cls.cn/detail/2202481",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时44分]"
         },
         {
           "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
@@ -141,19 +167,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时28分 ~ 14时34分]"
-        },
-        {
-          "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
-          "url": "https://www.cls.cn/detail/2202481",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时19分]"
         },
         {
           "title": "博主：特朗普正走向众叛亲离",
@@ -168,6 +181,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时18分 ~ 05时18分]"
+        },
+        {
+          "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
+          "url": "https://wallstreetcn.com/articles/3759513",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时44分]"
         },
         {
           "title": "特朗普不到两个月内完成超175笔投资",
@@ -205,18 +231,6 @@
           "time_info": "[13时22分 ~ 14时34分]"
         },
         {
-          "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
-          "url": "https://wallstreetcn.com/articles/3759513",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时19分]"
-        },
-        {
           "title": "文件披露：8月下旬以来 特朗普购买了至少8200万美元的债券",
           "url": "https://www.cls.cn/detail/2201676",
           "source": "财联社热门",
@@ -235,7 +249,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -279,7 +293,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -290,7 +304,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -406,7 +420,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
