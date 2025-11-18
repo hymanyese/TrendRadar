@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T13:22:16.883743+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-11-18T14:32:48.426918+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
@@ -41,6 +41,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 07时20分]"
+        },
+        {
+          "title": "马斯克突袭发布Grok 4.1",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E8%A2%AD%E5%8F%91%E5%B8%83Grok%204.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时32分]"
+        },
+        {
+          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
+          "url": "https://www.cls.cn/detail/2203227",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时14分 ~ 14时32分]"
         },
         {
           "title": "美国总统特朗普：有个国家想重新谈判其贸易协议的条款。",
@@ -87,19 +113,6 @@
           "time_info": "04时26分"
         },
         {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 13时22分]"
-        },
-        {
           "title": "美国总统特朗普：马杜罗对我们的国家造成了巨大的损害，在某个时候，我会与马杜罗交谈。",
           "url": "https://flash.jin10.com/detail/20251118040902719800",
           "source": "金十数据",
@@ -120,18 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "马斯克突袭发布Grok 4.1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E8%A2%AD%E5%8F%91%E5%B8%83Grok%204.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 13时22分]"
         },
         {
           "title": "美国总统特朗普：将“强烈”支持反对那些不允许重新划分选区的印第安纳州国会议员。",
@@ -206,6 +207,19 @@
           "time_info": "[02时31分 ~ 03时17分]"
         },
         {
+          "title": "特朗普威胁更换世界杯比赛城市",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E5%9F%8E%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时32分]"
+        },
+        {
           "title": "马斯克核心团队为何“集体叛逃”",
           "url": "https://www.toutiao.com/trending/7573679537695755822/",
           "source": "今日头条",
@@ -217,18 +231,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时20分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普威胁更换世界杯比赛城市",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E5%9F%8E%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 13时22分]"
         },
         {
           "title": "特朗普为何因关税问题大动肝火",
@@ -315,6 +317,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "特朗普威胁拉美三国",
+          "url": "https://wallstreetcn.com/livenews/3006282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "委内瑞拉总统马杜罗：愿与特朗普“面对面”对话",
           "url": "https://flash.jin10.com/detail/20251118085402345800",
           "source": "金十数据",
@@ -368,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "印尼外交部：印尼欢迎联合国安理会通过特朗普的加沙计划。",
+          "url": "https://flash.jin10.com/detail/20251118132513968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "美联储理事沃勒：支持FOMC在12月为了“风险管理”而再次降息。 美国劳动力市场仍然疲软，接近停滞速度。 剔除关税因素的基础通胀接近2%这一目标。 中期、长期通胀预期被锚定。 剔除（美国总统特朗普的）政府关门事件的影响之后，GDP（仍然）可能已经在2025年下半年放缓。 大部分家庭难以购房，也难以购车。 没有看到任何能够让美国通胀加速的因素。 工人需求的降速超过供应的下降速度。 许多企业裁员，或者允许人头数下降。",
@@ -608,6 +632,19 @@
           "time_info": "[00时30分 ~ 06时22分]"
         },
         {
+          "title": "16岁“小孩姐”陈妤颉成就全运会历史最年轻女子百米冠军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984769",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时32分]"
+        },
+        {
           "title": "鬼灭之刃人物志 继国缘一",
           "url": "https://search.bilibili.com/all?keyword=%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E4%BA%BA%E7%89%A9%E5%BF%97%20%E7%BB%A7%E5%9B%BD%E7%BC%98%E4%B8%80",
           "source": "bilibili 热搜",
@@ -618,18 +655,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 07时20分]"
-        },
-        {
-          "title": "16岁“小孩姐”陈妤颉成就全运会历史最年轻女子百米冠军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31984769",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 13时22分]"
         },
         {
           "title": "英雄联盟新赛季故事",
@@ -714,6 +739,23 @@
       ]
     },
     {
+      "keyword_group": "# ===== 科技发展 ===== 芯片 光刻机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国产汽车芯片认证审查技术体系实现突破",
+          "url": "https://wallstreetcn.com/livenews/3006284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
       "match_count": 1,
       "titles": [
@@ -722,11 +764,12 @@
           "url": "https://www.zhihu.com/question/1974049026065330685",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时32分]"
         }
       ]
     }
