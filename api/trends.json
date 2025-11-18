@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T04:27:02.571177+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2025-11-19T06:22:25.601713+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 04时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时22分]"
         },
         {
           "title": "高管离职潮是因为马斯克不务正业吗",
@@ -29,8 +29,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我们必须制定一项人工智能联邦标准，而不是由50个州各自为政的监管体系。",
+          "url": "https://flash.jin10.com/detail/20251119055753200800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
@@ -263,13 +274,24 @@
           "time_info": "03时19分"
         },
         {
+          "title": "美国总统特朗普点评AI监管，宣称：呼吁在AI模型上推行一个联邦标准。",
+          "url": "https://wallstreetcn.com/livenews/3006752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "特朗普支持率跌至低点 生活成本与爱泼斯坦案引发不满",
           "url": "https://flash.jin10.com/detail/20251119035446963800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -291,7 +313,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -302,7 +324,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -324,7 +346,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -346,7 +368,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -368,7 +390,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -390,7 +412,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -401,7 +423,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -412,7 +434,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -423,7 +445,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -470,6 +492,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Klarna Group Plc.（KLAR）收跌9.3%，创收盘历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3006732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国股市连跌四天，半导体板块较历史峰值回撤超11%，纳指科技指数较收盘历史峰值回调超8%",
+          "url": "https://wallstreetcn.com/livenews/3006729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     }
