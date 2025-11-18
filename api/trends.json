@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T17:25:18.745133+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2025-11-18T18:26:04.785936+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
@@ -437,7 +437,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -646,18 +646,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "福建板块持续“吸金”！成交额创历史次高，2成标的近日涨停，这些游资密集现身",
-          "url": "https://www.cls.cn/detail/2202633",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时22分]"
-        },
-        {
           "title": "16岁“小孩姐”陈妤颉成就全运会历史最年轻女子百米冠军",
           "url": "https://m.thepaper.cn/newsDetail_forward_31984769",
           "source": "澎湃新闻",
@@ -668,8 +656,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时26分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[12时26分 ~ 18时26分]"
+        },
+        {
+          "title": "福建板块持续“吸金”！成交额创历史次高，2成标的近日涨停，这些游资密集现身",
+          "url": "https://www.cls.cn/detail/2202633",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时22分]"
         },
         {
           "title": "鬼灭之刃人物志 继国缘一",
@@ -737,7 +737,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
