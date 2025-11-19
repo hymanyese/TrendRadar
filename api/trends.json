@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T19:20:35.173033+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2025-11-19T20:45:38.736671+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 81,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -32,6 +32,20 @@
           "time_info": "[07时20分 ~ 15时21分]"
         },
         {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时14分 ~ 20时45分]"
+        },
+        {
           "title": "高管离职潮是因为马斯克不务正业吗",
           "url": "https://www.toutiao.com/trending/7573718606148616218/",
           "source": "今日头条",
@@ -48,20 +62,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时30分 ~ 14时33分]"
-        },
-        {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时14分 ~ 19时20分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -146,6 +146,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "特朗普怒怼提问记者",
+          "url": "https://www.douyin.com/hot/2310914",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "马斯克：Grok 4.1版本是一次重要更新。",
           "url": "https://flash.jin10.com/detail/20251119001154423800",
           "source": "金十数据",
@@ -155,6 +166,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 20时45分]"
         },
         {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
@@ -255,19 +279,6 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 19时20分]"
-        },
-        {
           "title": "马斯克现身白宫参加晚宴(图)",
           "url": "https://news.ifeng.com/c/8oPCQzNPXrX",
           "source": "凤凰网",
@@ -277,6 +288,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时27分 ~ 14时33分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 20时45分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -303,17 +325,6 @@
           "time_info": "[02时33分 ~ 04时27分]"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时20分]"
-        },
-        {
           "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
           "url": "https://flash.jin10.com/detail/20251119020557608800",
           "source": "金十数据",
@@ -336,6 +347,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时19分]"
+        },
+        {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时45分]"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -443,6 +465,17 @@
           "time_info": "17时25分"
         },
         {
+          "title": "特朗普怒怼ABC女记者",
+          "url": "https://www.toutiao.com/trending/7574268540435136563/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
           "url": "https://news.ifeng.com/c/8oOUDZNFZvg",
           "source": "凤凰网",
@@ -496,17 +529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
@@ -716,6 +738,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "美媒：特朗普批准中情局在委内瑞拉实施秘密行动",
+          "url": "https://wallstreetcn.com/livenews/3007210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "马斯克基金会2024年捐赠额创新高 大笔资金流入其控制实体",
@@ -952,7 +985,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "央视起底高市早苗黑历史：劣迹斑斑",
@@ -965,6 +998,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时13分 ~ 14时33分]"
+        },
+        {
+          "title": "一图看懂 | 期货价格突破10万元 碳酸锂当前价格离历史高点还有多远?",
+          "url": "https://www.cls.cn/detail/2205027",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 20时45分]"
         },
         {
           "title": "俄外交部发言人：高市早苗应汲取历史教训",
@@ -992,19 +1039,6 @@
           "time_info": "[09时42分 ~ 12时27分]"
         },
         {
-          "title": "一图看懂 | 期货价格突破10万元 碳酸锂当前价格离历史高点还有多远?",
-          "url": "https://www.cls.cn/detail/2205027",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时20分]"
-        },
-        {
           "title": "起底高市早苗的“黑历史”",
           "url": "https://www.cls.cn/detail/2204663",
           "source": "财联社热门",
@@ -1014,6 +1048,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
+        },
+        {
+          "title": "朱婷率河南女排创全运会历史最佳成绩",
+          "url": "https://www.toutiao.com/trending/7573604744603664426/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "Klarna Group Plc.（KLAR）收跌9.3%，创收盘历史新低。",
