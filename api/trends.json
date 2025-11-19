@@ -1,12 +1,36 @@
 {
-  "generated_at": "2025-11-20T06:21:27.458817+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2025-11-20T07:20:59.194819+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时20分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时20分]"
+        },
         {
           "title": "马斯克C罗现身白宫参加晚宴",
           "url": "https://www.douyin.com/hot/2311155",
@@ -22,40 +46,33 @@
           "time_info": "[00时29分 ~ 05时17分]"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时21分]"
-        },
-        {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
           "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%99%BD%E5%AE%AB+%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%9A%E5%AE%B4",
           "source": "百度热搜",
           "ranks": [
             26,
             24,
-            16
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时32分 ~ 07时20分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            30,
+            29,
+            25,
+            26
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[02时32分 ~ 06时21分]"
+          "time_info": "[00时29分 ~ 07时20分]"
         },
         {
           "title": "美国总统特朗普：今天有数十家公司将签署总价值2700亿美元的协议和销售合同。",
@@ -78,20 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            30,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "沙特公司Humain与Adobe宣布全球战略合作伙伴关系，将打造AI模型和基于AI技术的应用。 Humain与马斯克旗下xAI构建合作伙伴关系，将在沙特打造下一代AI算力、部署Grok，从而支持“最赋能AI国家”目标。",
@@ -417,6 +420,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "市场消息：一项草案显示，美国总统特朗普正在考虑签署一项行政令，以优先于各州AI法规实施联邦规定。",
+          "url": "https://flash.jin10.com/detail/20251120063519485800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "美国总统特朗普：我遇到了两个在路易斯安那州被拖延了14年和18年的液化天然气项目，分别投资200亿美元和240亿美元，均在等待审批。在我亲自干预后，首个项目仅在一天内获得批准，第二个项目在一周内获得批准，随后成功投入运营。我的参与显著加快了审批流程，证实了总统直接参与关键能源投资的有效性。",
           "url": "https://flash.jin10.com/detail/20251120015520964800",
           "source": "金十数据",
@@ -607,8 +621,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时20分]"
         },
         {
           "title": "智利铜业委员会（Cochilco）：上调2025年铜价预期至4.45美元/磅，上调2026年预期至4.55美元/磅。 这些预期为该委员会历史上最高水平的预期。 之前预计均为4.30美元/磅。",
