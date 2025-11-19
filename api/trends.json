@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T14:33:16.413118+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-11-19T15:21:54.045226+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 15时21分]"
         },
         {
           "title": "高管离职潮是因为马斯克不务正业吗",
@@ -97,6 +97,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时14分 ~ 15时21分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时21分]"
+        },
+        {
+          "title": "如何看待马斯克预测「20 年内人类意识有望上传至机器人实现永生」？你认为能实现么？",
+          "url": "https://www.zhihu.com/question/1973721840783417550",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时21分]"
         },
         {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
@@ -173,30 +210,6 @@
           "time_info": "[02时33分 ~ 03时19分]"
         },
         {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时33分]"
-        },
-        {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 14时33分]"
-        },
-        {
           "title": "美国总统特朗普：我对普京感到有点惊讶。",
           "url": "https://flash.jin10.com/detail/20251119020840985800",
           "source": "金十数据",
@@ -232,16 +245,28 @@
           "time_info": "[12时27分 ~ 14时33分]"
         },
         {
-          "title": "如何看待马斯克预测「20 年内人类意识有望上传至机器人实现永生」？你认为能实现么？",
-          "url": "https://www.zhihu.com/question/1973721840783417550",
-          "source": "知乎",
+          "title": "特朗普与沙特王储握手露出尴尬表情",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            11
+            27,
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时33分]"
+          "time_info": "[13时22分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
+          "url": "https://news.ifeng.com/c/8oPCfhjamik",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时21分]"
         },
         {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
@@ -255,18 +280,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时33分 ~ 04时27分]"
-        },
-        {
-          "title": "特朗普与沙特王储握手露出尴尬表情",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 14时33分]"
         },
         {
           "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
@@ -291,17 +304,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时19分]"
-        },
-        {
-          "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
-          "url": "https://news.ifeng.com/c/8oPCfhjamik",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -781,6 +783,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "特朗普为何支持公开爱泼斯坦案文件",
+          "url": "https://www.toutiao.com/trending/7574298445284904498/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "安理会为何通过特朗普加沙方案",
