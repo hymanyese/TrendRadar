@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T15:21:54.045226+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2025-11-19T16:30:32.383161+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -64,6 +64,32 @@
           "time_info": "[07时20分 ~ 13时22分]"
         },
         {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 16时30分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时30分]"
+        },
+        {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
           "url": "https://wallstreetcn.com/livenews/3006688",
           "source": "华尔街见闻-快讯",
@@ -75,6 +101,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时33分 ~ 04时27分]"
+        },
+        {
+          "title": "如何看待马斯克预测「20 年内人类意识有望上传至机器人实现永生」？你认为能实现么？",
+          "url": "https://www.zhihu.com/question/1973721840783417550",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时30分]"
         },
         {
           "title": "美国财长贝森特：可以肯定地说，我不会成为美联储主席。 特朗普将在感恩节后会见三位美联储主席候选人。 特朗普可能在圣诞节前宣布下一任美联储主席。",
@@ -99,41 +138,18 @@
           "time_info": "00时30分"
         },
         {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
+          "title": "特朗普与沙特王储握手露出尴尬表情",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            8
+            27,
+            20,
+            19,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时14分 ~ 15时21分]"
-        },
-        {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时21分]"
-        },
-        {
-          "title": "如何看待马斯克预测「20 年内人类意识有望上传至机器人实现永生」？你认为能实现么？",
-          "url": "https://www.zhihu.com/question/1973721840783417550",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时21分]"
+          "time_info": "[13时22分 ~ 16时30分]"
         },
         {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
@@ -243,19 +259,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时27分 ~ 14时33分]"
-        },
-        {
-          "title": "特朗普与沙特王储握手露出尴尬表情",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 15时21分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -453,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
@@ -719,6 +733,17 @@
           "time_info": "09时42分"
         },
         {
+          "title": "金十整理：特朗普的媒体“黑名单”与“好友圈”一览——谁被猛攻，谁被力挺？",
+          "url": "https://flash.jin10.com/detail/20251119154224503800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "特朗普暗示美联储主席人选已定 抱怨解雇鲍威尔遭人阻拦",
           "url": "https://flash.jin10.com/detail/20251119020232871800",
           "source": "金十数据",
@@ -791,7 +816,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -865,7 +890,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "央视起底高市早苗黑历史：劣迹斑斑",
@@ -891,6 +916,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时42分 ~ 12时27分]"
+        },
+        {
+          "title": "起底高市早苗的“黑历史”",
+          "url": "https://www.cls.cn/detail/2204663",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "Klarna Group Plc.（KLAR）收跌9.3%，创收盘历史新低。",
@@ -940,8 +976,19 @@
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "外交部：中方没有兴趣搜集英国议会的所谓情报",
+          "url": "https://wallstreetcn.com/livenews/3007055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
         {
           "title": "苏州纳芯微电子股份有限公司开始评估投资者对其香港上市的兴趣。",
           "url": "https://wallstreetcn.com/livenews/3006871",
