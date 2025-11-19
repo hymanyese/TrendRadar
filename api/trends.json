@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T21:33:46.029880+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2025-11-19T22:22:39.153413+08:00",
+  "total_titles_processed": 1794,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时14分 ~ 21时33分]"
+          "appearance_count": 12,
+          "time_info": "[11时14分 ~ 22时22分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -55,11 +55,12 @@
             14,
             23,
             22,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时27分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[12时27分 ~ 22时22分]"
         },
         {
           "title": "高管离职潮是因为马斯克不务正业吗",
@@ -121,6 +122,17 @@
           "time_info": "[02时33分 ~ 04时27分]"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 22时22分]"
+        },
+        {
           "title": "特朗普与沙特王储握手露出尴尬表情",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
           "source": "百度热搜",
@@ -179,17 +191,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时30分 ~ 20时45分]"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时25分 ~ 21时33分]"
         },
         {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
@@ -266,6 +267,17 @@
           "time_info": "[02时33分 ~ 03时19分]"
         },
         {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时22分]"
+        },
+        {
           "title": "美国总统特朗普：我对普京感到有点惊讶。",
           "url": "https://flash.jin10.com/detail/20251119020840985800",
           "source": "金十数据",
@@ -299,17 +311,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时27分 ~ 14时33分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时33分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -986,7 +987,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "央视起底高市早苗黑历史：劣迹斑斑",
@@ -1011,8 +1012,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时25分 ~ 21时33分]"
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 22时22分]"
         },
         {
           "title": "俄外交部发言人：高市早苗应汲取历史教训",
@@ -1052,6 +1053,18 @@
           "time_info": "[20时45分 ~ 21时33分]"
         },
         {
+          "title": "扎哈罗娃：高市早苗应汲取历史教训",
+          "url": "https://www.toutiao.com/trending/7573989018619101222/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时22分]"
+        },
+        {
           "title": "起底高市早苗的“黑历史”",
           "url": "https://www.cls.cn/detail/2204663",
           "source": "财联社热门",
@@ -1061,17 +1074,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
-        },
-        {
-          "title": "扎哈罗娃：高市早苗应汲取历史教训",
-          "url": "https://www.toutiao.com/trending/7573989018619101222/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "Klarna Group Plc.（KLAR）收跌9.3%，创收盘历史新低。",
@@ -1116,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "朱婷率河南女排创全运历史最佳",
+          "url": "https://www.toutiao.com/trending/7573604744603664426/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
