@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T07:20:21.230084+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2025-11-19T09:42:24.102145+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 51,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -27,11 +27,12 @@
             16,
             17,
             10,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时42分]"
         },
         {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
@@ -53,7 +54,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -105,6 +106,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时33分 ~ 04时27分]"
+        },
+        {
+          "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
+          "url": "https://www.cls.cn/detail/2204401",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时42分]"
         },
         {
           "title": "美国总统特朗普：我们必须制定一项人工智能联邦标准，而不是由50个州各自为政的监管体系。",
@@ -190,6 +203,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时19分]"
+        },
+        {
+          "title": "特朗普：已确定下一任美联储主席人选",
+          "url": "https://www.cls.cn/detail/2204373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时42分]"
         },
         {
           "title": "美国总统特朗普：应吊销美国广播公司的执照。",
@@ -287,13 +312,35 @@
           "time_info": "03时19分"
         },
         {
+          "title": "美国总统特朗普：加沙和平委员会将有来自多国的国家元首参与。",
+          "url": "https://flash.jin10.com/detail/20251119090005842800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
+          "url": "https://news.ifeng.com/c/8oOUDZNFZvg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "特朗普：希望建立人工智能的统一联邦监管标准",
           "url": "https://flash.jin10.com/detail/20251119064221124800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -318,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "美国总统特朗普：更多被扣押人员的遗体已交付给以色列家庭，还有两具待交付。",
+          "url": "https://flash.jin10.com/detail/20251119085926432800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
@@ -348,20 +406,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
-          "url": "https://www.cls.cn/detail/2204401",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：我们与沙特签署战略防御协议。",
+          "url": "https://flash.jin10.com/detail/20251119085626387800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时42分"
         },
         {
           "title": "特朗普称他“与家族业务没有任何关系”",
@@ -381,7 +439,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -408,15 +466,26 @@
           "time_info": "04时27分"
         },
         {
-          "title": "特朗普：已确定下一任美联储主席人选",
-          "url": "https://www.cls.cn/detail/2204373",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：沙特被指定为“主要非北约盟友”（Major Non-NATO Ally）。",
+          "url": "https://flash.jin10.com/detail/20251119085614958800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗愿意与我们达成协议。",
+          "url": "https://flash.jin10.com/detail/20251119085543422800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时42分"
         },
         {
           "title": "沙特Humain、贝佐斯旗下亚马逊、AMD、马斯克旗下xAI将打造多个数据中心。（Semafor）",
@@ -436,7 +505,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -452,6 +521,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "特朗普指定沙特阿拉伯为美国主要的非北约盟友，与沙特签署战略防御协议。",
+          "url": "https://wallstreetcn.com/livenews/3006823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "美国总统特朗普：我希望鲍威尔现在就下台，我想我已经知道新任美联储主席的人选了。",
           "url": "https://flash.jin10.com/detail/20251119020232871800",
           "source": "金十数据",
@@ -463,15 +543,37 @@
           "time_info": "02时33分"
         },
         {
+          "title": "特朗普：伊朗将想要和我们达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3006822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "美国总统特朗普：希望将AI标准纳入NDAA，或者（国会山）单独起草一份法案。",
           "url": "https://wallstreetcn.com/livenews/3006771",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普：将与沙特阿拉伯签署人工智能协议。",
+          "url": "https://wallstreetcn.com/livenews/3006820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "马斯克基金会2024年捐赠额创新高 大笔资金流入其控制实体",
@@ -483,6 +585,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "英伟达(NVDA.O)首席执行官黄仁勋现身特朗普与沙特王储的晚宴。",
+          "url": "https://flash.jin10.com/detail/20251119084603202800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "视频画面显示，马斯克及多位嘉宾一同出席了特朗普与沙特王储的晚宴。",
+          "url": "https://flash.jin10.com/detail/20251119084229152800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "特朗普暗示美联储主席人选已定 抱怨解雇鲍威尔遭人阻拦",
@@ -505,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "视频片段显示，埃隆·马斯克与众多嘉宾一道出席了特朗普与沙特王储的晚宴。 葡萄牙足球巨星罗纳尔多、英伟达CEO黄仁勋出席特朗普与沙特王储的晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3006816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
@@ -573,6 +708,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "美国白宫：特朗普将于当地时间周三中午在华盛顿出席美沙投资论坛并发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3006804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "美国总统特朗普：关于亚伯拉罕协议的会谈很顺利。",
           "url": "https://flash.jin10.com/detail/20251119014812879800",
           "source": "金十数据",
@@ -590,7 +736,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
@@ -598,8 +744,19 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "起底高市早苗黑历史",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E5%BA%95%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%BB%91%E5%8E%86%E5%8F%B2",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
         {
           "title": "Klarna Group Plc.（KLAR）收跌9.3%，创收盘历史新低。",
           "url": "https://wallstreetcn.com/livenews/3006732",
@@ -621,6 +778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "迟重瑞揭秘参演西游记幕后故事",
+          "url": "https://www.toutiao.com/trending/7573864685041467434/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     }
