@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T11:14:10.899362+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2025-11-19T12:27:22.095402+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 68,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -29,11 +29,12 @@
             10,
             9,
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 11时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 12时27分]"
         },
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -44,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时14分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时27分]"
         },
         {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
@@ -70,6 +71,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普：已确定下一任美联储主席人选",
+          "url": "https://www.cls.cn/detail/2204373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时27分]"
         },
         {
           "title": "马斯克：Grok 4.1版本是一次重要更新。",
@@ -131,19 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普：已确定下一任美联储主席人选",
-          "url": "https://www.cls.cn/detail/2204373",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时14分]"
         },
         {
           "title": "墨西哥比索兑美元重新涨超0.2%，该国总统辛鲍姆认为，美国总统特朗普通过军事手段打击其境内毒贩的暗示“不会发生”。",
@@ -229,6 +231,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时19分]"
+        },
+        {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 12时27分]"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -380,15 +393,15 @@
           "time_info": "09时42分"
         },
         {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时14分"
+          "time_info": "12时27分"
         },
         {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
@@ -424,6 +437,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "马斯克现身白宫参加晚宴(图)",
+          "url": "https://news.ifeng.com/c/8oPCQzNPXrX",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "美国总统特朗普：我们与沙特签署战略防御协议。",
           "url": "https://flash.jin10.com/detail/20251119085626387800",
           "source": "金十数据",
@@ -455,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "如何看待马斯克预测「20 年内人类意识有望上传至机器人实现永生」？你认为能实现么？",
+          "url": "https://www.zhihu.com/question/1973721840783417550",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "美国总统特朗普：我们有一些出人意料和一些意料之中的美联储主席人选。",
@@ -617,7 +652,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -628,7 +663,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -639,7 +674,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -800,8 +835,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 12时27分]"
         },
         {
           "title": "起底高市早苗黑历史",
@@ -809,11 +844,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 12时27分]"
         },
         {
           "title": "Klarna Group Plc.（KLAR）收跌9.3%，创收盘历史新低。",
@@ -844,7 +880,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -872,7 +908,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         }
