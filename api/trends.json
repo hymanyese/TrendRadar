@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T11:12:15.416487+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-11-20T12:25:27.470641+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -108,6 +108,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "共和党议员对特朗普“关税红利”计划持保留态度",
+          "url": "https://flash.jin10.com/detail/20251120120628966800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "据NBC新闻：本周早些时候，美国总统特朗普已悄然批准了一项俄罗斯与乌克兰之间的和平计划。",
           "url": "https://flash.jin10.com/detail/20251120091031141800",
           "source": "金十数据",
@@ -179,6 +190,18 @@
           "time_info": "[01时20分 ~ 02时32分]"
         },
         {
+          "title": "特朗普：应起诉鲍威尔",
+          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时25分]"
+        },
+        {
           "title": "美国总统特朗普：（美国与沙特之间）数十家公司今天签署2700亿美元协议和销售（合同）。",
           "url": "https://wallstreetcn.com/livenews/3007345",
           "source": "华尔街见闻-快讯",
@@ -203,18 +226,6 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
-          "title": "特朗普：应起诉鲍威尔",
-          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 11时12分]"
-        },
-        {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
           "url": "https://wallstreetcn.com/livenews/3007367",
           "source": "华尔街见闻-快讯",
@@ -226,6 +237,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时22分]"
+        },
+        {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时11分 ~ 12时25分]"
+        },
+        {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时11分 ~ 12时25分]"
         },
         {
           "title": "特朗普政府宣布拆解教育部计划",
@@ -273,17 +307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时20分]"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 11时12分]"
         },
         {
           "title": "美国总统特朗普：马斯克，我支持你。",
@@ -334,17 +357,6 @@
           "time_info": "[02时32分 ~ 03时18分]"
         },
         {
-          "title": "特朗普批准公布爱泼斯坦案档案",
-          "url": "https://www.toutiao.com/trending/7574614385700851210/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 11时12分]"
-        },
-        {
           "title": "马斯克：xAI 的沙特数据中心项目将有沙特人工智能公司Humain与英伟达参与。",
           "url": "https://flash.jin10.com/detail/20251120001716224800",
           "source": "金十数据",
@@ -387,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "马斯克：xAI和沙特正在与英伟达(NVDA.O)合作进行一个500兆瓦的项目。",
@@ -717,12 +740,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "C罗随特朗普参观白宫开怀大笑",
+          "url": "https://www.toutiao.com/trending/7573905925644340755/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "一图看懂 | 期货价格突破10万元 碳酸锂当前价格离历史高点还有多远?",
@@ -770,12 +804,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）富时中国A50指数成分股午盘收盘行情一览：银行板块大幅走强，中国银行、工商银行再创历史新高",
+          "url": "https://flash.jin10.com/detail/20251120113240150800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "快手员工曝团队每年组建筹委会给 +2 级领导庆生，费用由全体平摊，这是真的吗？如何看待这种职场风气？",
@@ -783,11 +828,23 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时25分]"
+        },
+        {
+          "title": "员工在同事群八卦领导私生活被开除，法院判公司违法解除并赔 10 万，依据是什么？职场吐槽要注意哪些分寸？",
+          "url": "https://www.zhihu.com/question/1974082897754420651",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     }
