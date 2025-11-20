@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T16:30:59.903372+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2025-11-20T17:24:02.868611+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -70,6 +70,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时32分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 17时24分]"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 17时24分]"
         },
         {
           "title": "美国总统特朗普签署法案，批准公开爱泼斯坦档案。",
@@ -142,18 +168,6 @@
           "time_info": "09时41分"
         },
         {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时30分]"
-        },
-        {
           "title": "美国总统特朗普：正在努力批准向沙特阿拉伯出售飞机。",
           "url": "https://flash.jin10.com/detail/20251120011003291800",
           "source": "金十数据",
@@ -163,19 +177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 16时30分]"
         },
         {
           "title": "沙特公司Humain与Adobe宣布全球战略合作伙伴关系，将打造AI模型和基于AI技术的应用。 Humain与马斯克旗下xAI构建合作伙伴关系，将在沙特打造下一代AI算力、部署Grok，从而支持“最赋能AI国家”目标。",
@@ -371,6 +372,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时22分]"
+        },
+        {
+          "title": "马斯克：未来AI和机器人将令金钱“失去意义” 工作成“可选项”！",
+          "url": "https://www.cls.cn/detail/2205685",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "美国总统特朗普：股市上扬正在提振美国经济。",
@@ -581,6 +593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）调查英国广播公司（BBC）对特朗普1月6日演讲的剪辑。",
+          "url": "https://flash.jin10.com/detail/20251120165827216800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "美国总统特朗普：我遇到了两个在路易斯安那州被拖延了14年和18年的液化天然气项目，分别投资200亿美元和240亿美元，均在等待审批。在我亲自干预后，首个项目仅在一天内获得批准，第二个项目在一周内获得批准，随后成功投入运营。我的参与显著加快了审批流程，证实了总统直接参与关键能源投资的有效性。",
@@ -862,6 +885,21 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "员工在同事群八卦领导私生活被开除，法院判公司违法解除并赔 10 万，依据是什么？职场吐槽要注意哪些分寸？",
+          "url": "https://www.zhihu.com/question/1974082897754420651",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            14,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 17时24分]"
+        },
+        {
           "title": "快手员工曝团队每年组建筹委会给 +2 级领导庆生，费用由全体平摊，这是真的吗？如何看待这种职场风气？",
           "url": "https://www.zhihu.com/question/1974499754890196831",
           "source": "知乎",
@@ -876,20 +914,6 @@
           "time_info": "[09时41分 ~ 15时21分]"
         },
         {
-          "title": "员工在同事群八卦领导私生活被开除，法院判公司违法解除并赔 10 万，依据是什么？职场吐槽要注意哪些分寸？",
-          "url": "https://www.zhihu.com/question/1974082897754420651",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时30分]"
-        },
-        {
           "title": "你如何看待职场顺手牵羊行为",
           "url": "https://www.toutiao.com/trending/7574408991095963694/",
           "source": "今日头条",
@@ -900,8 +924,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 16时30分]"
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 17时24分]"
         },
         {
           "title": "德国财政部长克林贝伊尔：新加坡对德国投资基金表现出浓厚兴趣。",
