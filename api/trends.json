@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T04:26:00.628027+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2025-11-21T05:21:32.883213+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时26分]"
+        },
+        {
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时21分]"
         },
         {
           "title": "美国参议院一个委员会举行程序性投票，支持总统特朗普提名的商品期货交易委员会（CFTC）主席Selig。",
@@ -145,7 +157,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -159,17 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
-          "url": "https://wallstreetcn.com/articles/3759784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
         },
         {
           "title": "民主党籍联邦通信委员会（FCC）委员Anna Gomez表示，特朗普总统威胁吊销ABC广播执照的做法在法庭上将不会成功。",
@@ -203,6 +204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "马斯克：实时视频的理解与生成是未来的趋势。",
+          "url": "https://flash.jin10.com/detail/20251121045030890800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "蓝色起源公司推出更大的 \"新格伦 \"火箭变体计划，与马斯克的SpaceX一较高下",
@@ -249,6 +261,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "特朗普“化缘”21万亿美元意味着啥",
+          "url": "https://www.toutiao.com/trending/7574747368273219114/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "文件显示：特朗普政府正在准备一项计划，以减轻政府裁员的法律障碍。",
           "url": "https://flash.jin10.com/detail/20251121013301455800",
           "source": "金十数据",
@@ -270,11 +293,12 @@
           "url": "https://www.cls.cn/detail/2206437",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 05时21分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股指本周跌约1.5%，埃及股指创历史新高后回落累涨约0.3%",
@@ -283,7 +307,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -313,11 +337,12 @@
             16,
             23,
             25,
-            19
+            19,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时21分]"
         }
       ]
     }
