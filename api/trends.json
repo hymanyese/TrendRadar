@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T15:21:58.644900+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2025-11-20T16:30:59.903372+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,18 @@
           "time_info": "[00时29分 ~ 05时17分]"
         },
         {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时11分 ~ 16时30分]"
+        },
+        {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
           "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%99%BD%E5%AE%AB+%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%9A%E5%AE%B4",
           "source": "百度热搜",
@@ -58,18 +70,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时32分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 15时21分]"
         },
         {
           "title": "美国总统特朗普签署法案，批准公开爱泼斯坦档案。",
@@ -142,6 +142,18 @@
           "time_info": "09时41分"
         },
         {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 16时30分]"
+        },
+        {
           "title": "美国总统特朗普：正在努力批准向沙特阿拉伯出售飞机。",
           "url": "https://flash.jin10.com/detail/20251120011003291800",
           "source": "金十数据",
@@ -151,6 +163,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时30分]"
         },
         {
           "title": "沙特公司Humain与Adobe宣布全球战略合作伙伴关系，将打造AI模型和基于AI技术的应用。 Humain与马斯克旗下xAI构建合作伙伴关系，将在沙特打造下一代AI算力、部署Grok，从而支持“最赋能AI国家”目标。",
@@ -177,17 +202,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时17分]"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时21分]"
         },
         {
           "title": "共和党议员对特朗普“关税红利”计划持保留态度",
@@ -298,18 +312,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时17分]"
-        },
-        {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时21分]"
         },
         {
           "title": "美债收益率走高，特朗普政府推迟发布就业数据，浇灭对美联储降息的预期",
@@ -838,7 +840,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -884,8 +886,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 16时30分]"
         },
         {
           "title": "你如何看待职场顺手牵羊行为",
@@ -894,11 +896,12 @@
           "ranks": [
             9,
             15,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 16时30分]"
         },
         {
           "title": "德国财政部长克林贝伊尔：新加坡对德国投资基金表现出浓厚兴趣。",
