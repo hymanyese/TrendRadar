@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T07:20:59.194819+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2025-11-20T09:41:19.729271+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 52,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -60,6 +60,17 @@
           "time_info": "[02时32分 ~ 07时20分]"
         },
         {
+          "title": "美国总统特朗普签署法案，批准公开爱泼斯坦档案。",
+          "url": "https://flash.jin10.com/detail/20251120092053901800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "马斯克出席特朗普与沙特王储晚宴",
           "url": "https://www.toutiao.com/trending/7573762239518228521/",
           "source": "今日头条",
@@ -75,6 +86,17 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
+          "title": "据美国能源部一位官员透露，美国总统特朗普计划周一在白宫签署的一项行政命令中，推出一项“创世使命”，以加强美国的人工智能发展。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3007558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "美国总统特朗普：今天有数十家公司将签署总价值2700亿美元的协议和销售合同。",
           "url": "https://flash.jin10.com/detail/20251120011240869800",
           "source": "金十数据",
@@ -84,6 +106,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "据NBC新闻：本周早些时候，美国总统特朗普已悄然批准了一项俄罗斯与乌克兰之间的和平计划。",
+          "url": "https://flash.jin10.com/detail/20251120091031141800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "特朗普将于11月21日会见纽约候任市长马姆达尼。",
+          "url": "https://wallstreetcn.com/livenews/3007555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "美国总统特朗普：正在努力批准向沙特阿拉伯出售飞机。",
@@ -299,6 +343,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "特朗普：应起诉鲍威尔",
+          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "马斯克：xAI和沙特正在与英伟达(NVDA.O)合作进行一个500兆瓦的项目。",
           "url": "https://flash.jin10.com/detail/20251120000958341800",
           "source": "金十数据",
@@ -352,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普称，他已经签署了公布爱泼斯坦文件的法案。",
+          "url": "https://wallstreetcn.com/livenews/3007541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "特朗普：美沙投资论坛签署2700亿美元巨额协议",
@@ -426,7 +492,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -462,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "特朗普政府宣布拆解教育部计划",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "美国总统特朗普：我们应该从能源中获利，而不是遭受损失。我们正在简化所有新能源和矿业项目的审批流程，显著缩短之前28天的时间。",
@@ -528,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "C罗在白宫自拍 与马斯克同框",
+          "url": "https://www.toutiao.com/trending/7573313879741038598/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "美国总统特朗普：（面对马斯克）我支持你。",
@@ -658,6 +746,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "快手员工曝团队每年组建筹委会给 +2 级领导庆生，费用由全体平摊，这是真的吗？如何看待这种职场风气？",
+          "url": "https://www.zhihu.com/question/1974499754890196831",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     }
