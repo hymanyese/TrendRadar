@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T21:32:21.800555+08:00",
-  "total_titles_processed": 1875,
+  "generated_at": "2025-11-20T22:22:44.106500+08:00",
+  "total_titles_processed": 1975,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 22时22分]"
         },
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -420,6 +421,18 @@
           "time_info": "[02时32分 ~ 03时18分]"
         },
         {
+          "title": "马斯克黄仁勋同台对话",
+          "url": "https://www.toutiao.com/trending/7574768353705725494/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时22分]"
+        },
+        {
           "title": "C罗随特朗普参观白宫开怀大笑",
           "url": "https://www.toutiao.com/trending/7573905925644340755/",
           "source": "今日头条",
@@ -690,7 +703,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -715,17 +728,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        },
-        {
-          "title": "马斯克黄仁勋同台对话",
-          "url": "https://www.toutiao.com/trending/7574768353705725494/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "美国总统特朗普：我坚决反对拜登旨在消除石油和天然气的激进议程，它们是不可或缺的能源来源。各国因风力涡轮机而遭受经济损失，这是一种灾难，损害了地方和环境。我呼吁财政困难的国家停止安装风力涡轮机，因为他们在这些项目上持续亏损。",
@@ -863,7 +865,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一图看懂 | 期货价格突破10万元 碳酸锂当前价格离历史高点还有多远?",
@@ -944,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "银行板块成“避风港”！两大行同创历史新高，目前估值处于什么位置？",
+          "url": "https://www.cls.cn/detail/2206437",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "金十图示：2025年11月20日（周四）富时中国A50指数成分股午盘收盘行情一览：银行板块大幅走强，中国银行、工商银行再创历史新高",
