@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-20T20:44:00.056609+08:00",
-  "total_titles_processed": 1784,
+  "generated_at": "2025-11-20T21:32:21.800555+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 21时32分]"
+        },
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
           "url": "https://wallstreetcn.com/articles/3759659",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 20时43分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -683,6 +684,17 @@
           "time_info": "19时20分"
         },
         {
+          "title": "特朗普又称“利用关税帮助解决了印巴冲突”，印媒吐槽：类似说法说了N遍",
+          "url": "https://wallstreetcn.com/livenews/3007958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美国总统特朗普：我们应该从能源中获利，而不是遭受损失。我们正在简化所有新能源和矿业项目的审批流程，显著缩短之前28天的时间。",
           "url": "https://flash.jin10.com/detail/20251120015210196800",
           "source": "金十数据",
@@ -703,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "马斯克黄仁勋同台对话",
+          "url": "https://www.toutiao.com/trending/7574768353705725494/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美国总统特朗普：我坚决反对拜登旨在消除石油和天然气的激进议程，它们是不可或缺的能源来源。各国因风力涡轮机而遭受经济损失，这是一种灾难，损害了地方和环境。我呼吁财政困难的国家停止安装风力涡轮机，因为他们在这些项目上持续亏损。",
@@ -950,11 +973,12 @@
             4,
             1,
             3,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时25分 ~ 20时43分]"
+          "appearance_count": 12,
+          "time_info": "[12时25分 ~ 21时32分]"
         },
         {
           "title": "你如何看待职场顺手牵羊行为",
@@ -992,11 +1016,12 @@
           "ranks": [
             7,
             12,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 21时32分]"
         },
         {
           "title": "德国财政部长克林贝伊尔：新加坡对德国投资基金表现出浓厚兴趣。",
