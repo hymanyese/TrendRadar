@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T19:20:03.501067+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2025-11-20T20:44:00.056609+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 20时43分]"
+        },
+        {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
           "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
           "source": "凤凰网",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 19时20分]"
         },
         {
           "title": "马斯克C罗现身白宫参加晚宴",
@@ -115,7 +115,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -678,7 +678,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -949,11 +949,12 @@
             14,
             4,
             1,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 20时43分]"
         },
         {
           "title": "你如何看待职场顺手牵羊行为",
@@ -963,11 +964,12 @@
             9,
             15,
             12,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时22分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[13时22分 ~ 20时43分]"
         },
         {
           "title": "快手员工曝团队每年组建筹委会给 +2 级领导庆生，费用由全体平摊，这是真的吗？如何看待这种职场风气？",
@@ -989,11 +991,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 20时43分]"
         },
         {
           "title": "德国财政部长克林贝伊尔：新加坡对德国投资基金表现出浓厚兴趣。",
