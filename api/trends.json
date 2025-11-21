@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T17:24:30.491735+08:00",
-  "total_titles_processed": 1592,
+  "generated_at": "2025-11-21T18:23:13.621958+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时41分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 18时23分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -59,18 +71,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 17时24分]"
         },
         {
           "title": "俄新社援引克里姆林宫消息称，莫斯科方面尚未获悉基辅已同意就特朗普的和平计划进行谈判。",
@@ -531,9 +531,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "鸣潮千咲故事中有多少动画梗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%8D%83%E5%92%B2%E6%95%85%E4%BA%8B%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%8A%A8%E7%94%BB%E6%A2%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 18时23分]"
         },
         {
           "title": "扎哈罗娃：日本应当汲取历史教训",
@@ -556,17 +567,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "鸣潮千咲故事中有多少动画梗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%8D%83%E5%92%B2%E6%95%85%E4%BA%8B%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%8A%A8%E7%94%BB%E6%A2%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "俄外交部发言人：日本应当汲取历史教训 遵守宪法和平条款",
