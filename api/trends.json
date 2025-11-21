@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T21:30:49.617614+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2025-11-21T22:22:07.087665+08:00",
+  "total_titles_processed": 2096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -28,11 +28,12 @@
           "ranks": [
             21,
             22,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时22分 ~ 21时30分]"
+          "appearance_count": 16,
+          "time_info": "[13时22分 ~ 22时22分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -78,11 +79,12 @@
           "url": "https://www.zhihu.com/question/1975115860181022671",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 22时22分]"
         },
         {
           "title": "俄新社援引克里姆林宫消息称，莫斯科方面尚未获悉基辅已同意就特朗普的和平计划进行谈判。",
@@ -343,6 +345,17 @@
           "time_info": "[09时41分 ~ 09时42分]"
         },
         {
+          "title": "白宫回应特朗普称女记者为“小猪”",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E4%B8%BA%E2%80%9C%E5%B0%8F%E7%8C%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
           "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
           "url": "https://flash.jin10.com/detail/20251121034506288800",
           "source": "金十数据",
@@ -514,7 +527,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -588,7 +601,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "鸣潮千咲故事中有多少动画梗",
@@ -597,11 +610,12 @@
           "ranks": [
             13,
             11,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时24分 ~ 21时30分]"
+          "appearance_count": 10,
+          "time_info": "[17时24分 ~ 22时22分]"
         },
         {
           "title": "银行板块成“避风港”！两大行同创历史新高，目前估值处于什么位置？",
@@ -637,6 +651,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "火山的女儿开发故事",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%B1%B1%E7%9A%84%E5%A5%B3%E5%84%BF%E5%BC%80%E5%8F%91%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股指本周跌约1.5%，埃及股指创历史新高后回落累涨约0.3%",
