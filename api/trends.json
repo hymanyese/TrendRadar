@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-21T14:34:40.132714+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2025-11-21T15:22:07.184116+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
       "match_count": 42,
       "titles": [
+        {
+          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
+          "url": "https://www.cls.cn/detail/2206817",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时41分 ~ 15时22分]"
+        },
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
           "url": "https://news.ifeng.com/c/8oRnabvaRvi",
@@ -34,20 +48,6 @@
           "time_info": "[04时26分 ~ 13时22分]"
         },
         {
-          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
-          "url": "https://www.cls.cn/detail/2206817",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 14时34分]"
-        },
-        {
           "title": "特朗普“化缘”21万亿美元意味着啥",
           "url": "https://www.toutiao.com/trending/7574747368273219114/",
           "source": "今日头条",
@@ -67,7 +67,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -129,6 +129,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 15时22分]"
         },
         {
           "title": "特朗普带C罗参观白宫",
@@ -283,18 +295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时34分]"
         },
         {
           "title": "特朗普：民主党的麻烦比共和党大得多",
@@ -498,7 +498,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "银行板块成“避风港”！两大行同创历史新高，目前估值处于什么位置？",
@@ -545,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "外国投资者周五净卖出价值2.82万亿韩元的韩国KOSPI指数股票，创下单日净卖出额历史新高。",
+          "url": "https://flash.jin10.com/detail/20251121144318411800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     },
@@ -568,8 +579,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 15时22分]"
         },
         {
           "title": "职场上，当你与领导意见冲突时，你会怎么办？",
