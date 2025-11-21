@@ -1,12 +1,38 @@
 {
-  "generated_at": "2025-11-21T12:26:05.089797+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2025-11-21T13:22:23.748264+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时26分 ~ 13时22分]"
+        },
+        {
+          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
+          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 13时22分]"
+        },
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
           "url": "https://www.toutiao.com/trending/7574747368273219114/",
@@ -21,42 +47,17 @@
           "time_info": "[05时21分 ~ 07时20分]"
         },
         {
-          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
-          "url": "https://wallstreetcn.com/articles/3759784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时26分 ~ 12时26分]"
-        },
-        {
-          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
-          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 12时26分]"
-        },
-        {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
           "url": "https://www.cls.cn/detail/2206817",
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 12时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 13时22分]"
         },
         {
           "title": "美国国会预算办公室下调关税收入预估 料难弥补特朗普减税影响",
@@ -415,6 +416,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "蓝色起源公司推出更大的 \"新格伦 \"火箭变体计划，与马斯克的SpaceX一较高下",
           "url": "https://wallstreetcn.com/livenews/3008079",
           "source": "华尔街见闻-快讯",
@@ -543,8 +555,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 12时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 13时22分]"
         },
         {
           "title": "职场上，当你与领导意见冲突时，你会怎么办？",
