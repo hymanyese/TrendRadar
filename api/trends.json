@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T05:19:49.651731+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2025-11-22T06:21:56.302008+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
@@ -27,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "DownDetector：一名用户报告称，马斯克旗下社交媒体平台X公司（原名推特）出现诸多故障。",
@@ -51,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普：需要与总部位于纽约的公用事业公司康爱迪生公司(Con Edison)会谈，以降低电价。",
-          "url": "https://wallstreetcn.com/livenews/3008908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
         },
         {
           "title": "美联储12月降息投票陷“僵局” 被特朗普施压的库克或成关键一票",
@@ -89,6 +78,18 @@
           "time_info": "[00时28分 ~ 02时29分]"
         },
         {
+          "title": "美国总统特朗普：需要与总部位于纽约的公用事业公司康爱迪生公司(Con Edison)会谈，以降低电价。",
+          "url": "https://wallstreetcn.com/livenews/3008908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时21分]"
+        },
+        {
           "title": "德国政府发言人：美国总统特朗普与德国总理默茨于周五晚间就美国的乌克兰和平计划进行了电话交谈。",
           "url": "https://flash.jin10.com/detail/20251122023534438800",
           "source": "金十数据",
@@ -97,8 +98,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 06时21分]"
         },
         {
           "title": "美国白宫：特朗普总统签署公告，为某些固定污染源提供“监管减免”，以促进美国焦炉加工的安全性。",
@@ -108,8 +109,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时19分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 06时21分]"
+        },
+        {
+          "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
+          "url": "https://flash.jin10.com/detail/20251122032426694800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
@@ -136,17 +148,6 @@
           "time_info": "[02时29分 ~ 03时18分]"
         },
         {
-          "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
-          "url": "https://flash.jin10.com/detail/20251122032426694800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时19分]"
-        },
-        {
           "title": "机构：数以千计的美国用户无法使用马斯克的X系统",
           "url": "https://wallstreetcn.com/livenews/3008809",
           "source": "华尔街见闻-快讯",
@@ -157,6 +158,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时29分]"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰总统泽连斯基将不得不批准（我的）和平计划。",
+          "url": "https://wallstreetcn.com/livenews/3008893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
@@ -239,17 +252,6 @@
           "time_info": "02时29分"
         },
         {
-          "title": "美国总统特朗普：乌克兰总统泽连斯基将不得不批准（我的）和平计划。",
-          "url": "https://wallstreetcn.com/livenews/3008893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
           "url": "https://flash.jin10.com/detail/20251122003317235800",
           "source": "金十数据",
@@ -267,7 +269,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -344,15 +346,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
+          "url": "https://wallstreetcn.com/livenews/3008916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "鸣潮千咲故事中有多少动画梗",
@@ -362,19 +375,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "受2026年关税押注影响，美国铜库存升至历史新高",
+          "url": "https://wallstreetcn.com/livenews/3008924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "罗斯百货（ROST）收涨8.4%，报174.00美元，创收盘历史新高。 最新业绩报告显示，经改善的全年指引好于市场预期。",
           "url": "https://wallstreetcn.com/livenews/3008905",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时21分]"
         },
         {
           "title": "【美国11月密歇根大学消费者信心指数降至历史最低水平的附近】美国11月密歇根大学消费者信心指数终值 51，预期 50.6，初值 50.3；10月终值53.6。 美国11月密歇根大学1年通胀预期终值 4.5%，初值 4.7%。 美国11月密歇根大学5年通胀预期终值 3.4%，预期 3.6%。 美国11月密歇根大学消费者现况指数终值 51.1，消费者对个人财务看法的悲观程度创2009年以来最高。",
