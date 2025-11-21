@@ -1,817 +1,182 @@
 {
-  "generated_at": "2025-11-21T23:20:40.487670+08:00",
-  "total_titles_processed": 2190,
+  "generated_at": "2025-11-22T00:28:00.346017+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 54,
+      "match_count": 13,
       "titles": [
         {
-          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
-          "url": "https://www.cls.cn/detail/2206817",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22,
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时22分 ~ 23时20分]"
-        },
-        {
-          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
-          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 14时34分]"
-        },
-        {
-          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
-          "url": "https://wallstreetcn.com/articles/3759784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时26分 ~ 13时22分]"
-        },
-        {
-          "title": "特朗普“化缘”21万亿美元意味着啥",
-          "url": "https://www.toutiao.com/trending/7574747368273219114/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时21分 ~ 07时20分]"
-        },
-        {
-          "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
-          "url": "https://www.zhihu.com/question/1975115860181022671",
-          "source": "知乎",
-          "ranks": [
-            3,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时29分 ~ 23时20分]"
-        },
-        {
-          "title": "俄新社援引克里姆林宫消息称，莫斯科方面尚未获悉基辅已同意就特朗普的和平计划进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251121141912217800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
-          "url": "https://wallstreetcn.com/livenews/3008796",
+          "title": "DownDetector：一名用户报告称，马斯克旗下社交媒体平台X公司（原名推特）出现诸多故障。",
+          "url": "https://wallstreetcn.com/livenews/3008809",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "00时28分"
         },
         {
-          "title": "美国国会预算办公室下调关税收入预估 料难弥补特朗普减税影响",
-          "url": "https://wallstreetcn.com/livenews/3008221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
-          "url": "https://wallstreetcn.com/livenews/3008792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "马斯克说金钱将无意义 黄仁勋惊了",
-          "url": "https://www.toutiao.com/trending/7574943921302982170/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时42分]"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX新款星舰（StarShip）的火箭助推器在地面测试时候爆炸。",
-          "url": "https://wallstreetcn.com/livenews/3008791",
+          "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
+          "url": "https://wallstreetcn.com/livenews/3008806",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "00时28分"
         },
         {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普签署命令 免除部分巴西农产品40%的关税",
-          "url": "https://flash.jin10.com/detail/20251121060251003800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "美国白宫：特朗普经常与马克龙交谈。",
-          "url": "https://flash.jin10.com/detail/20251121025918794800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普带C罗参观白宫",
-          "url": "https://www.douyin.com/hot/2311861",
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
           "source": "抖音",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普为何取消对巴西40%食品关税",
-          "url": "https://www.toutiao.com/trending/7575096459230449162/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时30分]"
-        },
-        {
-          "title": "特朗普政府重组能源部 取消清洁能源办公室",
-          "url": "https://flash.jin10.com/detail/20251121025822476800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时26分]"
-        },
-        {
-          "title": "美法官叫停特朗普政府在华盛顿特区部署国民警卫队计划",
-          "url": "https://flash.jin10.com/detail/20251121054813113800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "美国参议院一个委员会举行程序性投票，支持总统特朗普提名的商品期货交易委员会（CFTC）主席Selig。",
-          "url": "https://wallstreetcn.com/livenews/3008137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时26分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "美国白宫：我们相信乌克兰计划应为双方所接受，特朗普支持该计划，我们正就结束乌克兰冲突与双方进行良好的对话。",
-          "url": "https://flash.jin10.com/detail/20251121025425743800",
-          "source": "金十数据",
+          "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
+          "url": "https://www.zhihu.com/question/1975115860181022671",
+          "source": "知乎",
           "ranks": [
-            9,
-            23
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时26分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "特朗普晒与C罗在白宫踢球AI视频",
-          "url": "https://www.toutiao.com/trending/7574730776219369513/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
-        },
-        {
-          "title": "美国白宫：特朗普无意“处决”国会议员。",
-          "url": "https://flash.jin10.com/detail/20251121024653045800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时26分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望“处决”国会山成员。",
-          "url": "https://wallstreetcn.com/livenews/3008134",
+          "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
+          "url": "https://wallstreetcn.com/livenews/3008805",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时26分]"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普有意对贩毒集团采取进一步行动，国家安全团队正在讨论此类选项。",
-          "url": "https://flash.jin10.com/detail/20251121024517824800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时26分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普对继续打击毒贩“非常有兴趣”。",
-          "url": "https://wallstreetcn.com/livenews/3008133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时26分]"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普的这项命令将适用于11月13日之后进入美国的商品。",
-          "url": "https://flash.jin10.com/detail/20251121054227778800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "欧盟：我们接触马斯克旗下社交媒体平台X公司（原名推特），因为该公司有义务针对大模型Grok的相关风险采取行动。 Grok生成的内容与欧洲的基本权利和价值存在冲突。",
-          "url": "https://wallstreetcn.com/livenews/3008129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普修改对巴西商品关税范围",
-          "url": "https://wallstreetcn.com/livenews/3008195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普：民主党的麻烦比共和党大得多",
-          "url": "https://www.toutiao.com/trending/7574043619188277254/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
-        },
-        {
-          "title": "特朗普结束俄乌战争28点和平计划曝光",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%8928%E7%82%B9%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
-        },
-        {
-          "title": "白宫回应特朗普称女记者为“小猪”",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E4%B8%BA%E2%80%9C%E5%B0%8F%E7%8C%AA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
-        },
-        {
-          "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
-          "url": "https://flash.jin10.com/detail/20251121034506288800",
-          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "00时28分"
         },
         {
-          "title": "泽连斯基同意与美合作制定和平计划 并将在近期与特朗普会谈",
-          "url": "https://flash.jin10.com/detail/20251121005906259800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "特朗普政府的官员为上任一周年后可能进行的内阁调整做准备。",
-          "url": "https://flash.jin10.com/detail/20251121190554844800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "民主党籍联邦通信委员会（FCC）委员Anna Gomez表示，特朗普总统威胁吊销ABC广播执照的做法在法庭上将不会成功。",
-          "url": "https://flash.jin10.com/detail/20251121005609305800",
+          "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
+          "url": "https://flash.jin10.com/detail/20251121234321355800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "00时28分"
         },
         {
-          "title": "美国白宫：美国总统特朗普的命令还取消了对巴西飞机零部件进口征收的40%关税。",
-          "url": "https://flash.jin10.com/detail/20251121064419834800",
+          "title": "美国总统特朗普：如果事情进展顺利，倾向于延长截止日期。",
+          "url": "https://flash.jin10.com/detail/20251121234229867800",
           "source": "金十数据",
           "ranks": [
-            11
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "00时28分"
         },
         {
-          "title": "研究结果显示：特朗普“大漂亮法案”将提振增长，但美联储维持高利率恐令效果打折",
-          "url": "https://wallstreetcn.com/livenews/3008072",
+          "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
+          "url": "https://wallstreetcn.com/livenews/3008796",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "据英国每日电讯报：根据特朗普的乌克兰和平计划，俄罗斯将摆脱西方国家的制裁，重新加入七国集团（G7），并收回大部分被冻结的资产。",
-          "url": "https://flash.jin10.com/detail/20251121063623513800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "知情人士：由于美国政府停摆43天，以及今年夏天首批250亿美元拨款缺乏明确计划，美国总统特朗普主推的“金穹”导弹防御计划面临重大延误。",
-          "url": "https://flash.jin10.com/detail/20251121190142654800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普签署命令，修改对巴西政府关税的适用范围。",
-          "url": "https://flash.jin10.com/detail/20251121053841010800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国白宫：特朗普的行政令取消了对巴西牛肉、咖啡和橙汁的进口关税。",
-          "url": "https://flash.jin10.com/detail/20251121062734130800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "特朗普政府宣布油气开发新动作 多州强烈反对",
-          "url": "https://wallstreetcn.com/livenews/3008527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "美国白宫：总统特朗普针对巴西进口商品发布的行政令取消了7月30日宣布加征的关税。",
-          "url": "https://flash.jin10.com/detail/20251121062712464800",
-          "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "00时28分"
         },
         {
-          "title": "市场消息：乌克兰总统泽连斯基和特朗普将于下周讨论和平计划。",
-          "url": "https://flash.jin10.com/detail/20251121184349648800",
-          "source": "金十数据",
+          "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
+          "url": "https://wallstreetcn.com/livenews/3008792",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "00时28分"
         },
         {
-          "title": "泽连斯基已收到美和平计划草案 将与特朗普通话磋商",
-          "url": "https://wallstreetcn.com/livenews/3008104",
+          "title": "美国总统特朗普：下周四是就乌克兰计划达成共识的合适期限。",
+          "url": "https://flash.jin10.com/detail/20251121234058114800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX新款星舰（StarShip）的火箭助推器在地面测试时候爆炸。",
+          "url": "https://wallstreetcn.com/livenews/3008791",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "00时28分"
         },
         {
-          "title": "马斯克：实时视频的理解与生成是未来的趋势。",
-          "url": "https://flash.jin10.com/detail/20251121045030890800",
+          "title": "美国总统特朗普：不会取消对俄石油制裁。",
+          "url": "https://flash.jin10.com/detail/20251121233951186800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "00时28分"
         },
         {
-          "title": "特朗普的乌克兰和平计划包括以北约“第5条”为蓝本的安全保障，这将使美国和欧洲盟国将对乌克兰的攻击视为对“跨大西洋共同体”的攻击。",
-          "url": "https://flash.jin10.com/detail/20251121205930155800",
+          "title": "美国总统特朗普：乌克兰正在失去土地。俄罗斯总统普京并不寻求更多冲突。",
+          "url": "https://flash.jin10.com/detail/20251121233853972800",
           "source": "金十数据",
           "ranks": [
-            19
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "蓝色起源公司推出更大的 \"新格伦 \"火箭变体计划，与马斯克的SpaceX一较高下",
-          "url": "https://wallstreetcn.com/livenews/3008079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "特朗普重提：我对普京挺失望",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%EF%BC%9A%E6%88%91%E5%AF%B9%E6%99%AE%E4%BA%AC%E6%8C%BA%E5%A4%B1%E6%9C%9B",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "报道：特朗普悄然提名枪械管理局局长",
-          "url": "https://flash.jin10.com/detail/20251121014055857800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "美国副总统万斯：我认为就业报告让市场“痴狂”。 就业人口增长将汇集到美国公民（而不是总统特朗普正在攻击的移民）。",
-          "url": "https://wallstreetcn.com/livenews/3008053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "文件显示：特朗普政府正在准备一项计划，以减轻政府裁员的法律障碍。",
-          "url": "https://flash.jin10.com/detail/20251121013301455800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-21）",
-          "url": "https://flash.jin10.com/detail/20251121182645395800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "00时28分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
           "title": "鸣潮千咲故事中有多少动画梗",
           "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%8D%83%E5%92%B2%E6%95%85%E4%BA%8B%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%8A%A8%E7%94%BB%E6%A2%97",
           "source": "bilibili 热搜",
           "ranks": [
-            13,
-            11,
-            14,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时24分 ~ 23时20分]"
-        },
-        {
-          "title": "银行板块成“避风港”！两大行同创历史新高，目前估值处于什么位置？",
-          "url": "https://www.cls.cn/detail/2206437",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时25分 ~ 07时20分]"
-        },
-        {
-          "title": "印度卢比兑美元汇率跌破88.80，创下历史新低。",
-          "url": "https://flash.jin10.com/detail/20251121171003669800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "扎哈罗娃：日本应当汲取历史教训",
-          "url": "https://www.toutiao.com/trending/7573917041548066843/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
-        },
-        {
-          "title": "火山的女儿开发故事",
-          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%B1%B1%E7%9A%84%E5%A5%B3%E5%84%BF%E5%BC%80%E5%8F%91%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
           "title": "【美国11月密歇根大学消费者信心指数降至历史最低水平的附近】美国11月密歇根大学消费者信心指数终值 51，预期 50.6，初值 50.3；10月终值53.6。 美国11月密歇根大学1年通胀预期终值 4.5%，初值 4.7%。 美国11月密歇根大学5年通胀预期终值 3.4%，预期 3.6%。 美国11月密歇根大学消费者现况指数终值 51.1，消费者对个人财务看法的悲观程度创2009年以来最高。",
           "url": "https://wallstreetcn.com/livenews/3008789",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "中东股市收盘播报｜沙特股指本周跌约1.5%，埃及股指创历史新高后回落累涨约0.3%",
-          "url": "https://wallstreetcn.com/livenews/3008146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "印度周五宣布实施四项新法规，旨在简化和精简该国已有数十年历史的现行劳动法，这是一项旨在放宽投资条件的改革新尝试。",
-          "url": "https://flash.jin10.com/detail/20251121184249748800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰正面临其历史上最艰难的时期之一。",
-          "url": "https://flash.jin10.com/detail/20251121223934362800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "俄外交部发言人：日本应当汲取历史教训 遵守宪法和平条款",
-          "url": "https://flash.jin10.com/detail/20251120235626147800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "外国投资者周五净卖出价值2.82万亿韩元的韩国KOSPI指数股票，创下单日净卖出额历史新高。",
-          "url": "https://flash.jin10.com/detail/20251121144318411800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "职场上那个钝感力同事belike",
-          "url": "https://search.bilibili.com/all?keyword=%E8%81%8C%E5%9C%BA%E4%B8%8A%E9%82%A3%E4%B8%AA%E9%92%9D%E6%84%9F%E5%8A%9B%E5%90%8C%E4%BA%8Bbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            16,
-            23,
-            25,
-            19,
-            6,
-            9,
-            17,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 17时24分]"
-        },
-        {
-          "title": "职场上，当你与领导意见冲突时，你会怎么办？",
-          "url": "https://www.zhihu.com/question/1973680743159963830",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
-        },
-        {
-          "title": "如何看待职场上挑拨离间式的管理？",
-          "url": "https://www.zhihu.com/question/1934892043353691477",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "00时28分"
         }
       ]
     }
