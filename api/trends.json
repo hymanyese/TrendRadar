@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T16:31:02.234407+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-11-21T17:24:30.491735+08:00",
+  "total_titles_processed": 1592,
   "failed_sources": [],
   "trends": [
     {
@@ -69,8 +69,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 17时24分]"
         },
         {
           "title": "俄新社援引克里姆林宫消息称，莫斯科方面尚未获悉基辅已同意就特朗普的和平计划进行谈判。",
@@ -413,7 +413,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -509,7 +509,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "银行板块成“避风港”！两大行同创历史新高，目前估值处于什么位置？",
@@ -523,6 +523,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时25分 ~ 07时20分]"
+        },
+        {
+          "title": "印度卢比兑美元汇率跌破88.80，创下历史新低。",
+          "url": "https://flash.jin10.com/detail/20251121171003669800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "扎哈罗娃：日本应当汲取历史教训",
@@ -545,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "鸣潮千咲故事中有多少动画梗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%8D%83%E5%92%B2%E6%95%85%E4%BA%8B%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%8A%A8%E7%94%BB%E6%A2%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "俄外交部发言人：日本应当汲取历史教训 遵守宪法和平条款",
@@ -587,11 +609,12 @@
             6,
             9,
             17,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 15时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 17时24分]"
         },
         {
           "title": "职场上，当你与领导意见冲突时，你会怎么办？",
