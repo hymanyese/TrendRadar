@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T19:19:00.588076+08:00",
-  "total_titles_processed": 1801,
+  "generated_at": "2025-11-21T20:42:56.335001+08:00",
+  "total_titles_processed": 1925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -27,11 +27,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时22分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[13时22分 ~ 20时42分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -347,7 +348,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -402,7 +403,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -457,7 +458,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -482,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普为何取消对巴西40%食品关税",
+          "url": "https://www.toutiao.com/trending/7575096459230449162/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "蓝色起源公司推出更大的 \"新格伦 \"火箭变体计划，与马斯克的SpaceX一较高下",
@@ -545,7 +557,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
@@ -555,6 +567,19 @@
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
       "match_count": 8,
       "titles": [
+        {
+          "title": "鸣潮千咲故事中有多少动画梗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%8D%83%E5%92%B2%E6%95%85%E4%BA%8B%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%8A%A8%E7%94%BB%E6%A2%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 20时42分]"
+        },
         {
           "title": "银行板块成“避风港”！两大行同创历史新高，目前估值处于什么位置？",
           "url": "https://www.cls.cn/detail/2206437",
@@ -578,18 +603,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
-        },
-        {
-          "title": "鸣潮千咲故事中有多少动画梗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E5%8D%83%E5%92%B2%E6%95%85%E4%BA%8B%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%8A%A8%E7%94%BB%E6%A2%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 19时19分]"
         },
         {
           "title": "扎哈罗娃：日本应当汲取历史教训",
@@ -620,7 +633,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
