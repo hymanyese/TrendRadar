@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T09:42:15.698110+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2025-11-21T11:13:02.203386+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时21分 ~ 07时20分]"
+        },
+        {
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时26分 ~ 11时13分]"
         },
         {
           "title": "美国国会预算办公室下调关税收入预估 料难弥补特朗普减税影响",
@@ -42,19 +55,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 09时42分]"
-        },
-        {
-          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
-          "url": "https://wallstreetcn.com/articles/3759784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 09时42分]"
         },
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -81,6 +81,30 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
+          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 11时13分]"
+        },
+        {
+          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
+          "url": "https://www.cls.cn/detail/2206817",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 11时13分]"
+        },
+        {
           "title": "美国白宫：特朗普经常与马克龙交谈。",
           "url": "https://flash.jin10.com/detail/20251121025918794800",
           "source": "金十数据",
@@ -102,17 +126,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 07时20分]"
-        },
-        {
-          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
-          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
         },
         {
           "title": "特朗普政府重组能源部 取消清洁能源办公室",
@@ -149,17 +162,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时26分]"
-        },
-        {
-          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
-          "url": "https://www.cls.cn/detail/2206817",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
         },
         {
           "title": "美国白宫：我们相信乌克兰计划应为双方所接受，特朗普支持该计划，我们正就结束乌克兰冲突与双方进行良好的对话。",
@@ -525,11 +527,12 @@
             19,
             6,
             9,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 09时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 11时13分]"
         },
         {
           "title": "职场上，当你与领导意见冲突时，你会怎么办？",
