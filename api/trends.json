@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T07:20:54.760394+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2025-11-21T09:42:15.698110+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
@@ -27,9 +27,34 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "马斯克说金钱将无意义 黄仁勋惊了",
+          "url": "https://www.toutiao.com/trending/7574943921302982170/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时42分]"
+        },
+        {
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 09时42分]"
         },
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
@@ -56,18 +81,6 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
-          "url": "https://wallstreetcn.com/articles/3759784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时20分]"
-        },
-        {
           "title": "美国白宫：特朗普经常与马克龙交谈。",
           "url": "https://flash.jin10.com/detail/20251121025918794800",
           "source": "金十数据",
@@ -89,6 +102,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 07时20分]"
+        },
+        {
+          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
+          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
         },
         {
           "title": "特朗普政府重组能源部 取消清洁能源办公室",
@@ -125,6 +149,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时26分]"
+        },
+        {
+          "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
+          "url": "https://www.cls.cn/detail/2206817",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
         },
         {
           "title": "美国白宫：我们相信乌克兰计划应为双方所接受，特朗普支持该计划，我们正就结束乌克兰冲突与双方进行良好的对话。",
@@ -223,6 +258,28 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "特朗普：民主党的麻烦比共和党大得多",
+          "url": "https://www.toutiao.com/trending/7574043619188277254/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "特朗普结束俄乌战争28点和平计划曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%8928%E7%82%B9%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
           "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
           "url": "https://flash.jin10.com/detail/20251121034506288800",
           "source": "金十数据",
@@ -232,17 +289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "马斯克说金钱将无意义 黄仁勋惊了",
-          "url": "https://www.toutiao.com/trending/7574943921302982170/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
         },
         {
           "title": "泽连斯基同意与美合作制定和平计划 并将在近期与特朗普会谈",
@@ -273,7 +319,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -295,7 +341,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -317,7 +363,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -328,7 +374,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -413,7 +459,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "银行板块成“避风港”！两大行同创历史新高，目前估值处于什么位置？",
@@ -427,6 +473,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时25分 ~ 07时20分]"
+        },
+        {
+          "title": "扎哈罗娃：日本应当汲取历史教训",
+          "url": "https://www.toutiao.com/trending/7573917041548066843/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股指本周跌约1.5%，埃及股指创历史新高后回落累涨约0.3%",
@@ -454,7 +511,7 @@
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "职场上那个钝感力同事belike",
@@ -467,11 +524,23 @@
             25,
             19,
             6,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时42分]"
+        },
+        {
+          "title": "职场上，当你与领导意见冲突时，你会怎么办？",
+          "url": "https://www.zhihu.com/question/1973680743159963830",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
         },
         {
           "title": "如何看待职场上挑拨离间式的管理？",
@@ -480,7 +549,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
