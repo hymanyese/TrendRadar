@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T20:38:54.475302+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2025-11-22T21:26:07.641296+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时38分 ~ 20时38分]"
+          "appearance_count": 17,
+          "time_info": "[09时38分 ~ 21时26分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -56,8 +56,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时29分 ~ 20时38分]"
+          "appearance_count": 12,
+          "time_info": "[14时29分 ~ 21时26分]"
         },
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -70,6 +70,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 21时26分]"
         },
         {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
@@ -126,20 +141,6 @@
           "time_info": "[14时29分 ~ 17时20分]"
         },
         {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 20时38分]"
-        },
-        {
           "title": "昔日盟友格林辞职，特朗普：好啊",
           "url": "https://news.ifeng.com/c/8oUJFuvcoaX",
           "source": "凤凰网",
@@ -168,11 +169,23 @@
           "url": "https://flash.jin10.com/detail/20251122202749920800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时26分]"
+        },
+        {
+          "title": "纽约市长在特朗普面前言论“大变脸”",
+          "url": "https://wallstreetcn.com/livenews/3009006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时38分"
+          "time_info": "21时26分"
         },
         {
           "title": "DownDetector：一名用户报告称，马斯克旗下社交媒体平台X公司（原名推特）出现诸多故障。",
@@ -375,6 +388,30 @@
           "time_info": "[11时06分 ~ 13时20分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
+          "url": "https://flash.jin10.com/detail/20251122182640033800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时26分]"
+        },
+        {
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 21时26分]"
+        },
+        {
           "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
           "url": "https://wallstreetcn.com/livenews/3008805",
           "source": "华尔街见闻-快讯",
@@ -385,18 +422,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
-          "url": "https://flash.jin10.com/detail/20251122182640033800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时38分]"
         },
         {
           "title": "马斯克旗下特斯拉因为2023年美国华盛顿州发生致命的Model 3撞车事故而被起诉，诉状称“车门把手存在设计缺陷”。",
@@ -492,17 +517,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 04时25分]"
-        },
-        {
-          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -730,6 +744,18 @@
           "time_info": "[06时21分 ~ 12时25分]"
         },
         {
+          "title": "中国历史上为什么没有殖民地或者为什么不热衷于对外求索建立殖民地？",
+          "url": "https://www.zhihu.com/question/264883776",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 21时26分]"
+        },
+        {
           "title": "罗斯百货（ROST）收涨8.4%，报174.00美元，创收盘历史新高。 最新业绩报告显示，经改善的全年指引好于市场预期。",
           "url": "https://wallstreetcn.com/livenews/3008905",
           "source": "华尔街见闻-快讯",
@@ -755,18 +781,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时25分 ~ 15时20分]"
-        },
-        {
-          "title": "中国历史上为什么没有殖民地或者为什么不热衷于对外求索建立殖民地？",
-          "url": "https://www.zhihu.com/question/264883776",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 20时38分]"
         },
         {
           "title": "【美国11月密歇根大学消费者信心指数降至历史最低水平的附近】美国11月密歇根大学消费者信心指数终值 51，预期 50.6，初值 50.3；10月终值53.6。 美国11月密歇根大学1年通胀预期终值 4.5%，初值 4.7%。 美国11月密歇根大学5年通胀预期终值 3.4%，预期 3.6%。 美国11月密歇根大学消费者现况指数终值 51.1，消费者对个人财务看法的悲观程度创2009年以来最高。",
@@ -798,7 +812,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -819,6 +833,18 @@
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
       "match_count": 3,
       "titles": [
+        {
+          "title": "什么样的人在职场里最受欢迎？",
+          "url": "https://www.zhihu.com/question/1958566911857127857",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 21时26分]"
+        },
         {
           "title": "如何看待职场上「拿多少钱，办多少事，多做等于被压榨」这种观点？",
           "url": "https://www.zhihu.com/question/1960762900806369956",
@@ -843,17 +869,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时20分 ~ 19时16分]"
-        },
-        {
-          "title": "什么样的人在职场里最受欢迎？",
-          "url": "https://www.zhihu.com/question/1958566911857127857",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
         }
       ]
     }
