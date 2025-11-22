@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T22:18:45.973954+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-11-22T23:20:01.790867+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -27,11 +27,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时38分 ~ 22时18分]"
+          "appearance_count": 20,
+          "time_info": "[09时38分 ~ 23时20分]"
         },
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -45,8 +46,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 22时18分]"
+          "appearance_count": 9,
+          "time_info": "[15时20分 ~ 23时20分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -68,11 +69,12 @@
           "ranks": [
             16,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时29分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[14时29分 ~ 23时20分]"
         },
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -177,6 +179,19 @@
           "time_info": "[20时38分 ~ 21时26分]"
         },
         {
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时38分 ~ 23时20分]"
+        },
+        {
           "title": "DownDetector：一名用户报告称，马斯克旗下社交媒体平台X公司（原名推特）出现诸多故障。",
           "url": "https://wallstreetcn.com/livenews/3008809",
           "source": "华尔街见闻-快讯",
@@ -277,6 +292,19 @@
           "time_info": "[18时21分 ~ 20时38分]"
         },
         {
+          "title": "纽约市长在特朗普面前言论“大变脸”",
+          "url": "https://wallstreetcn.com/livenews/3009006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 23时20分]"
+        },
+        {
           "title": "美联储12月降息投票陷“僵局” 被特朗普施压的库克或成关键一票",
           "url": "https://flash.jin10.com/detail/20251122021918507800",
           "source": "金十数据",
@@ -287,18 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 03时18分]"
-        },
-        {
-          "title": "纽约市长在特朗普面前言论“大变脸”",
-          "url": "https://wallstreetcn.com/livenews/3009006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 22时18分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
@@ -326,18 +342,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时06分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 22时18分]"
         },
         {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
@@ -412,6 +416,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时16分 ~ 21时26分]"
+        },
+        {
+          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时20分]"
         },
         {
           "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
@@ -521,15 +537,15 @@
           "time_info": "[04时24分 ~ 04时25分]"
         },
         {
-          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009012",
-          "source": "华尔街见闻-快讯",
+          "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
+          "url": "https://flash.jin10.com/detail/20251122223224197800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "23时20分"
         },
         {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”完善”。（彭博）",
@@ -538,7 +554,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -552,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国总统特朗普：如果事情进展顺利，倾向于延长截止日期。",
@@ -626,7 +653,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -874,11 +901,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[20时38分 ~ 23时20分]"
         },
         {
           "title": "如何看待职场上「拿多少钱，办多少事，多做等于被压榨」这种观点？",
