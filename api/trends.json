@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-23T02:29:22.480905+08:00",
-  "total_titles_processed": 348,
+  "generated_at": "2025-11-23T03:16:51.906512+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
       "match_count": 9,
       "titles": [
-        {
-          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时29分]"
-        },
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
           "url": "https://wallstreetcn.com/articles/3759912",
@@ -27,8 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时16分]"
         },
         {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
@@ -39,8 +40,52 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时16分]"
+        },
+        {
+          "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
+          "url": "https://flash.jin10.com/detail/20251122223224197800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
+        },
+        {
+          "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
+        },
+        {
+          "title": "纽约市长在特朗普面前言论“大变脸”",
+          "url": "https://wallstreetcn.com/livenews/3009006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
@@ -52,50 +97,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
-          "url": "https://flash.jin10.com/detail/20251122223224197800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时29分]"
-        },
-        {
-          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时29分]"
-        },
-        {
-          "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时29分]"
-        },
-        {
-          "title": "纽约市长在特朗普面前言论“大变脸”",
-          "url": "https://wallstreetcn.com/livenews/3009006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -120,11 +121,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 03时16分]"
         }
       ]
     }
