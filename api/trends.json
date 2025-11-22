@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-23T06:20:45.385161+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-11-23T07:20:39.889796+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
       "match_count": 9,
       "titles": [
+        {
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
+        },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
           "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
@@ -21,18 +33,6 @@
           "time_info": "[00时24分 ~ 06时20分]"
         },
         {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
           "source": "澎湃新闻",
@@ -42,8 +42,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
@@ -64,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -86,8 +86,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
