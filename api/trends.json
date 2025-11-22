@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T18:21:39.215440+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-11-22T19:16:44.045088+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时38分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时38分 ~ 19时16分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -58,6 +58,18 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时29分 ~ 19时16分]"
+        },
+        {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
           "url": "https://www.zhihu.com/question/1975115860181022671",
           "source": "知乎",
@@ -82,17 +94,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时20分 ~ 17时20分]"
-        },
-        {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 18时21分]"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -147,15 +148,18 @@
           "time_info": "[13时20分 ~ 16时27分]"
         },
         {
-          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
-          "url": "https://flash.jin10.com/detail/20251122180507453800",
-          "source": "金十数据",
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            9,
+            7,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 19时16分]"
         },
         {
           "title": "DownDetector：一名用户报告称，马斯克旗下社交媒体平台X公司（原名推特）出现诸多故障。",
@@ -178,20 +182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 18时21分]"
         },
         {
           "title": "德国政府发言人：美国总统特朗普与德国总理默茨于周五晚间就美国的乌克兰和平计划进行了电话交谈。",
@@ -251,11 +241,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "美联储12月降息投票陷“僵局” 被特朗普施压的库克或成关键一票",
@@ -268,6 +259,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 03时18分]"
+        },
+        {
+          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
+          "url": "https://flash.jin10.com/detail/20251122180507453800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
@@ -465,6 +468,17 @@
           "time_info": "[04时24分 ~ 04时25分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
+          "url": "https://flash.jin10.com/detail/20251122182640033800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
           "url": "https://flash.jin10.com/detail/20251121234321355800",
           "source": "金十数据",
@@ -628,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普划红线 泽连斯基会接受吗",
+          "url": "https://www.toutiao.com/trending/7575475141363109395/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
@@ -706,6 +731,17 @@
           "time_info": "[12时25分 ~ 15时20分]"
         },
         {
+          "title": "中国历史上为什么没有殖民地或者为什么不热衷于对外求索建立殖民地？",
+          "url": "https://www.zhihu.com/question/264883776",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
+        },
+        {
           "title": "【美国11月密歇根大学消费者信心指数降至历史最低水平的附近】美国11月密歇根大学消费者信心指数终值 51，预期 50.6，初值 50.3；10月终值53.6。 美国11月密歇根大学1年通胀预期终值 4.5%，初值 4.7%。 美国11月密歇根大学5年通胀预期终值 3.4%，预期 3.6%。 美国11月密歇根大学消费者现况指数终值 51.1，消费者对个人财务看法的悲观程度创2009年以来最高。",
           "url": "https://wallstreetcn.com/livenews/3008789",
           "source": "华尔街见闻-快讯",
@@ -727,17 +763,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "中国历史上为什么没有殖民地或者为什么不热衷于对外求索建立殖民地？",
-          "url": "https://www.zhihu.com/question/264883776",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "福建代表团创全运会五个历史性突破",
@@ -774,11 +799,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
         }
       ]
     }
