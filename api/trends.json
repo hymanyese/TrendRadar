@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T12:34:31.127804+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2025-11-23T13:20:58.349620+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -39,11 +39,12 @@
           "ranks": [
             9,
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 12时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 13时20分]"
         },
         {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
@@ -67,11 +68,12 @@
           "ranks": [
             11,
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 12时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 13时20分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -80,11 +82,12 @@
           "ranks": [
             14,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 12时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 13时20分]"
         },
         {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
@@ -99,15 +102,40 @@
           "time_info": "[00时25分 ~ 09时54分]"
         },
         {
+          "title": "特朗普表示，那些煽动美军无视他命令的“叛徒”应该被关进监狱，而不是出现在假新闻上，试图为自己的行为辩解。",
+          "url": "https://flash.jin10.com/detail/20251123123342966800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 13时20分]"
+        },
+        {
           "title": "特朗普暗示“28点”计划方案有调整空间",
           "url": "https://flash.jin10.com/detail/20251123114108204800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时20分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
@@ -121,19 +149,6 @@
           "time_info": "[00时24分 ~ 01时18分]"
         },
         {
-          "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 12时34分]"
-        },
-        {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
           "source": "澎湃新闻",
@@ -142,8 +157,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 13时20分]"
         },
         {
           "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
@@ -151,11 +166,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 13时20分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -206,11 +222,12 @@
           "url": "https://www.toutiao.com/trending/7575724712769097266/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时20分]"
         }
       ]
     }
