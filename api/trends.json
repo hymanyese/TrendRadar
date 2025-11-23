@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T13:20:58.349620+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2025-11-23T14:31:35.462865+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 13时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 14时31分]"
         },
         {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
@@ -72,8 +72,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 13时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 14时31分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -86,8 +86,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 13时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 14时31分]"
         },
         {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
@@ -102,17 +102,6 @@
           "time_info": "[00时25分 ~ 09时54分]"
         },
         {
-          "title": "特朗普表示，那些煽动美军无视他命令的“叛徒”应该被关进监狱，而不是出现在假新闻上，试图为自己的行为辩解。",
-          "url": "https://flash.jin10.com/detail/20251123123342966800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
           "source": "澎湃新闻",
@@ -122,8 +111,20 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 14时31分]"
+        },
+        {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时54分 ~ 13时20分]"
+          "time_info": "[11时37分 ~ 14时31分]"
         },
         {
           "title": "特朗普暗示“28点”计划方案有调整空间",
@@ -131,11 +132,38 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 14时31分]"
+        },
+        {
+          "title": "特朗普表示，那些煽动美军无视他命令的“叛徒”应该被关进监狱，而不是出现在假新闻上，试图为自己的行为辩解。",
+          "url": "https://flash.jin10.com/detail/20251123123342966800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时20分]"
+          "time_info": "[13时20分 ~ 14时31分]"
+        },
+        {
+          "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
+          "url": "https://flash.jin10.com/detail/20251123100826752800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            12,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 14时31分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
@@ -147,31 +175,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 13时20分]"
-        },
-        {
-          "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
-          "url": "https://flash.jin10.com/detail/20251123100826752800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 13时20分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -200,7 +203,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "为什么感觉《唐诡 3》去天尺五这个单元的人物都看不上苏无名？",
@@ -228,6 +231,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 13时20分]"
+        },
+        {
+          "title": "霸王茶姬创始人张俊杰辟谣：此前从未有过婚姻，也从未有“茶叶富商残疾女儿”的任何故事，家人受到很大伤害，有必要站出来说话",
+          "url": "https://wallstreetcn.com/articles/3759927",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "82年前《开罗宣言》划下历史红线",
+          "url": "https://www.toutiao.com/trending/7575761944997740580/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "狂野时代讲了什么故事",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     }
