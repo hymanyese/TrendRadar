@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T21:25:19.615749+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2025-11-23T22:18:59.098907+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -75,11 +75,12 @@
             13,
             11,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时37分 ~ 21时25分]"
+          "appearance_count": 14,
+          "time_info": "[11时37分 ~ 22时18分]"
         },
         {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
@@ -133,8 +134,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 21时25分]"
+          "appearance_count": 8,
+          "time_info": "[16时26分 ~ 22时18分]"
         },
         {
           "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
@@ -145,8 +146,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 21时25分]"
+          "appearance_count": 8,
+          "time_info": "[16时26分 ~ 22时18分]"
         },
         {
           "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
@@ -162,18 +163,6 @@
           "time_info": "[09时54分 ~ 15时20分]"
         },
         {
-          "title": "二十国集团峰会：巴西总统卢拉表示，他对美国在加勒比地区的军事部署深感担忧，并打算与美国总统特朗普就此进行交谈。",
-          "url": "https://flash.jin10.com/detail/20251123201340417800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时25分]"
-        },
-        {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。我们的目标是每12个月将一种新的人工智能芯片设计投入批量生产。我们预计最终生产的芯片数量将超过所有其他人工智能芯片的总和。",
           "url": "https://flash.jin10.com/detail/20251123155316784800",
           "source": "金十数据",
@@ -186,6 +175,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时27分 ~ 19时17分]"
+        },
+        {
+          "title": "二十国集团峰会：巴西总统卢拉表示，他对美国在加勒比地区的军事部署深感担忧，并打算与美国总统特朗普就此进行交谈。",
+          "url": "https://flash.jin10.com/detail/20251123201340417800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时18分]"
         },
         {
           "title": "特朗普暗示“28点”计划方案有调整空间",
@@ -218,15 +220,26 @@
           "time_info": "[13时20分 ~ 17时21分]"
         },
         {
-          "title": "德国总理默茨：我不确定未来几天我们能否找到美国总统特朗普所期望的解决方案。",
-          "url": "https://flash.jin10.com/detail/20251123204843492800",
+          "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
+          "url": "https://flash.jin10.com/detail/20251123221310746800",
           "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3009125",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时25分"
+          "time_info": "22时18分"
         },
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
@@ -241,6 +254,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时27分 ~ 19时17分]"
+        },
+        {
+          "title": "德国总理默茨：我不确定未来几天我们能否找到美国总统特朗普所期望的解决方案。",
+          "url": "https://flash.jin10.com/detail/20251123204843492800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时18分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-23）",
@@ -285,11 +310,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时25分]"
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 22时18分]"
         },
         {
           "title": "特朗普强硬逼迫 泽连斯基会逃亡吗",
@@ -327,6 +353,17 @@
           "time_info": "[09时54分 ~ 11时38分]"
         },
         {
+          "title": "加拿大总理卡尼在二十国集团（G20）峰会期间表示：在美国缺席的情况下，这个世界仍然能在许多问题上取得进展。 尽管美国总统特朗普政府进行了抵制，但二十国集团领导人约翰内斯堡会议上达成的共识仍然具有分量。 宣布在与阿联酋总统谢赫·穆罕默德·本·扎耶德会晤后，阿拉伯联合酋长国承诺向加拿大投资700亿加元。 我不会让自己的议程受特朗普摆布，当重要时刻到来、当美国希望就贸易方面进行讨论时，我会再次与总统对话。",
+          "url": "https://wallstreetcn.com/livenews/3009111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "特朗普为何突然施压泽连斯基停火",
           "url": "https://www.toutiao.com/trending/7575859447281487401/",
           "source": "今日头条",
@@ -336,6 +373,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "芬兰总统斯图布：美国总统特朗普正在非常努力地寻求解决俄乌冲突的方案。",
+          "url": "https://flash.jin10.com/detail/20251123214049380800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "特朗普向乌克兰下最后通牒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "泽连斯基只能答应特朗普28条吗",
@@ -355,20 +414,6 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "王毅：有权利对日本历史罪行再清算",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E6%9C%89%E6%9D%83%E5%88%A9%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%8E%86%E5%8F%B2%E7%BD%AA%E8%A1%8C%E5%86%8D%E6%B8%85%E7%AE%97",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            1,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 21时25分]"
-        },
-        {
           "title": "狂野时代讲了什么故事",
           "url": "https://search.bilibili.com/all?keyword=%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88%E6%95%85%E4%BA%8B",
           "source": "bilibili 热搜",
@@ -382,8 +427,23 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 22时18分]"
+        },
+        {
+          "title": "王毅：有权利对日本历史罪行再清算",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E6%9C%89%E6%9D%83%E5%88%A9%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%8E%86%E5%8F%B2%E7%BD%AA%E8%A1%8C%E5%86%8D%E6%B8%85%E7%AE%97",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            1,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[14时31分 ~ 21时25分]"
+          "time_info": "[15时20分 ~ 22时18分]"
         },
         {
           "title": "为什么感觉《唐诡 3》去天尺五这个单元的人物都看不上苏无名？",
