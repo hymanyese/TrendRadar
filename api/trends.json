@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T11:38:06.257414+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2025-11-23T12:34:31.127804+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -42,8 +42,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 11时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 12时34分]"
         },
         {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
@@ -70,8 +70,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 11时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 12时34分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -83,8 +83,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 11时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 12时34分]"
         },
         {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 09时54分]"
+        },
+        {
+          "title": "特朗普暗示“28点”计划方案有调整空间",
+          "url": "https://flash.jin10.com/detail/20251123114108204800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
@@ -115,11 +126,36 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 12时34分]"
+        },
+        {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时54分 ~ 11时38分]"
+          "time_info": "[11时37分 ~ 12时34分]"
+        },
+        {
+          "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
+          "url": "https://flash.jin10.com/detail/20251123100826752800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时34分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -143,34 +179,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 11时38分]"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 11时38分]"
-        },
-        {
-          "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
-          "url": "https://flash.jin10.com/detail/20251123100826752800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么感觉《唐诡 3》去天尺五这个单元的人物都看不上苏无名？",
@@ -186,6 +200,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时17分 ~ 05时19分]"
+        },
+        {
+          "title": "女子100米栏冠军刘景扬的成长故事",
+          "url": "https://www.toutiao.com/trending/7575724712769097266/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     }
