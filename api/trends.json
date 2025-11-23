@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T16:27:12.885048+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2025-11-23T17:21:17.425062+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
             17,
             18,
             19,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 16时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 17时21分]"
         },
         {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
@@ -73,11 +74,12 @@
             19,
             20,
             21,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 16时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 17时21分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -114,11 +116,12 @@
             17,
             15,
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时37分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时37分 ~ 17时21分]"
         },
         {
           "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
@@ -138,11 +141,12 @@
           "url": "https://flash.jin10.com/detail/20251123155316784800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时21分]"
         },
         {
           "title": "特朗普暗示“28点”计划方案有调整空间",
@@ -160,17 +164,6 @@
           "time_info": "[12时34分 ~ 16时27分]"
         },
         {
-          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
-          "url": "https://wallstreetcn.com/livenews/3009047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "特朗普表示，那些煽动美军无视他命令的“叛徒”应该被关进监狱，而不是出现在假新闻上，试图为自己的行为辩解。",
           "url": "https://flash.jin10.com/detail/20251123123342966800",
           "source": "金十数据",
@@ -178,11 +171,24 @@
             3,
             10,
             20,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 17时21分]"
+        },
+        {
+          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
+          "url": "https://wallstreetcn.com/livenews/3009047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时21分]"
         },
         {
           "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
@@ -217,8 +223,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时21分]"
+        },
+        {
+          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
+          "url": "https://www.zhihu.com/question/1975522293208876150",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时21分]"
+        },
+        {
+          "title": "特朗普强硬逼迫 泽连斯基会逃亡吗",
+          "url": "https://www.toutiao.com/trending/7575790761845722667/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时21分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -232,17 +262,6 @@
           "time_info": "[00时25分 ~ 01时18分]"
         },
         {
-          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
-          "url": "https://www.zhihu.com/question/1975522293208876150",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        },
-        {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
           "url": "https://flash.jin10.com/detail/20251123082037157800",
           "source": "金十数据",
@@ -253,17 +272,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 11时38分]"
-        },
-        {
-          "title": "特朗普强硬逼迫 泽连斯基会逃亡吗",
-          "url": "https://www.toutiao.com/trending/7575790761845722667/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
         }
       ]
     },
@@ -295,8 +303,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时21分]"
         },
         {
           "title": "狂野时代讲了什么故事",
@@ -305,11 +313,12 @@
           "ranks": [
             26,
             13,
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 17时21分]"
         },
         {
           "title": "霸王茶姬创始人张俊杰辟谣：此前从未有过婚姻，也从未有“茶叶富商残疾女儿”的任何故事，家人受到很大伤害，有必要站出来说话",
