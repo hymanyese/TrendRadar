@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T11:26:15.747401+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2025-11-24T12:36:08.668919+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "泽连斯基：感谢美国，感谢特朗普",
+          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 12时36分]"
         },
         {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
@@ -113,18 +125,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "泽连斯基：感谢美国，感谢特朗普",
-          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时26分]"
-        },
-        {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
           "url": "https://wallstreetcn.com/articles/3759963",
           "source": "华尔街见闻",
@@ -133,8 +133,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 11时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 12时36分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国代表进行对话是件好事，有迹象表明，美国总统特朗普的团队“听到了我们的声音”。",
@@ -210,6 +210,17 @@
           "time_info": "[05时19分 ~ 06时20分]"
         },
         {
+          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
+          "url": "https://www.cls.cn/detail/2208561",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
           "title": "特朗普称乌克兰领导层对美方努力“毫无感激之情”",
           "url": "https://wallstreetcn.com/livenews/3009128",
           "source": "华尔街见闻-快讯",
@@ -261,7 +272,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -310,11 +321,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 11时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 12时36分]"
         },
         {
           "title": "狂野时代讲了什么故事",
