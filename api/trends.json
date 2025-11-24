@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T15:22:20.880130+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2025-11-24T16:31:56.612101+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 16时31分]"
         },
         {
           "title": "泽连斯基：感谢美国，感谢特朗普",
@@ -89,6 +89,19 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
+          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
+          "url": "https://www.cls.cn/detail/2208561",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 16时31分]"
+        },
+        {
           "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
           "url": "https://flash.jin10.com/detail/20251123221720269800",
           "source": "金十数据",
@@ -113,19 +126,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时19分 ~ 07时20分]"
-        },
-        {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 15时22分]"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
@@ -212,6 +212,17 @@
           "time_info": "[00时25分 ~ 03时17分]"
         },
         {
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时31分]"
+        },
+        {
           "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3009125",
           "source": "华尔街见闻-快讯",
@@ -237,17 +248,6 @@
           "time_info": "[05时19分 ~ 06时20分]"
         },
         {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时22分]"
-        },
-        {
           "title": "特朗普称乌克兰领导层对美方努力“毫无感激之情”",
           "url": "https://wallstreetcn.com/livenews/3009128",
           "source": "华尔街见闻-快讯",
@@ -269,6 +269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 13时24分]"
+        },
+        {
+          "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
+          "url": "https://wallstreetcn.com/articles/3759972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "特朗普：“囤货”现象即将结束 关税收入将激增",
@@ -362,7 +373,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价人类历史上首部官方证实外星人存在的纪录片《揭露时代》？",
@@ -374,11 +385,12 @@
             2,
             7,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 15时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 16时31分]"
         },
         {
           "title": "狂野时代讲了什么故事",
@@ -436,6 +448,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时18分]"
+        },
+        {
+          "title": "杨瀚森常规赛总分达到 28 分，超越周琦成为中国 NBA 历史第五人，仅次于三大中锋 + 阿联，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1976231413029233528",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "印尼指标股指一度上涨1%，创下8,499.716点的历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3009439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
