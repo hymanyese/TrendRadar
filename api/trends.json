@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T02:33:27.307357+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-11-25T03:16:19.294439+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -70,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -79,11 +79,23 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
+        },
+        {
+          "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
+          "url": "https://flash.jin10.com/detail/20251125024713901800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "曝特朗普最后一刻才知28点计划内容",
@@ -95,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
@@ -107,19 +119,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "特朗普政府将裁减约31.7万名雇员，超过原来的预估",
           "url": "https://wallstreetcn.com/livenews/3009712",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时16分]"
+        },
+        {
+          "title": "美国联邦法官驳回了针对特朗普政治对手的起诉",
+          "url": "https://flash.jin10.com/detail/20251125015856912800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时16分]"
         },
         {
           "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
@@ -133,24 +158,13 @@
           "time_info": "00时25分"
         },
         {
-          "title": "美国联邦法官驳回了针对特朗普政治对手的起诉",
-          "url": "https://flash.jin10.com/detail/20251125015856912800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
           "title": "专家：马斯克撕破西方的假仁假义",
           "url": "https://www.toutiao.com/trending/7576240890289606163/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -168,8 +182,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
         },
         {
           "title": "杨瀚森常规赛总分达到 28 分，超越周琦成为中国 NBA 历史第五人，仅次于三大中锋 + 阿联，对此你怎么看？",
@@ -177,11 +191,38 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
+        },
+        {
+          "title": "美国芝加哥商业交易所（CME）集团：美国国债未平仓合约达到3500万合约，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3009701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时33分]"
+          "time_info": "[01时21分 ~ 03时16分]"
+        },
+        {
+          "title": "入冬了该唱依兰爱情故事了",
+          "url": "https://www.douyin.com/hot/2315611",
+          "source": "抖音",
+          "ranks": [
+            28,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时16分]"
         },
         {
           "title": "毛宁用日文转发王毅表态：有权利对日本的历史罪行进行再清算",
@@ -207,18 +248,6 @@
           "time_info": "[01时21分 ~ 02时33分]"
         },
         {
-          "title": "美国芝加哥商业交易所（CME）集团：美国国债未平仓合约达到3500万合约，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3009701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时33分]"
-        },
-        {
           "title": "非洲股市收盘播报｜周一（11月24日），南非富时/JSE非洲领先40可交易指数收涨0.37%，报10.3万点。 日线图上，南非股指自11月13日涨至10.8万点创盘中历史新高、按10.7万点创收盘历史新高以来，持续回调。",
           "url": "https://wallstreetcn.com/livenews/3009679",
           "source": "华尔街见闻-快讯",
@@ -229,18 +258,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时21分]"
-        },
-        {
-          "title": "入冬了该唱依兰爱情故事了",
-          "url": "https://www.douyin.com/hot/2315611",
-          "source": "抖音",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时33分]"
         },
         {
           "title": "芝商所（CME）：11月21日，CME利率期货和期权产品组合共成交44,839,732份合约，创下历史第二高的日成交量。",
