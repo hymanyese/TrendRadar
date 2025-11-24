@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T09:49:30.385646+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2025-11-24T11:26:15.747401+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -102,17 +102,6 @@
           "time_info": "[00时25分 ~ 05时19分]"
         },
         {
-          "title": "泽连斯基：感谢美国，感谢特朗普",
-          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
           "title": "特朗普抨击乌克兰领导层",
           "url": "https://wallstreetcn.com/livenews/3009162",
           "source": "华尔街见闻-快讯",
@@ -122,6 +111,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "泽连斯基：感谢美国，感谢特朗普",
+          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 11时26分]"
+        },
+        {
+          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
+          "url": "https://wallstreetcn.com/articles/3759963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 11时26分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国代表进行对话是件好事，有迹象表明，美国总统特朗普的团队“听到了我们的声音”。",
@@ -209,17 +222,6 @@
           "time_info": "[01时18分 ~ 02时29分]"
         },
         {
-          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
-          "url": "https://wallstreetcn.com/articles/3759963",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
           "title": "特朗普拟推出新方案以修正奥巴马医改补贴政策",
           "url": "https://flash.jin10.com/detail/20251124062541114800",
           "source": "金十数据",
@@ -253,13 +255,24 @@
           "time_info": "07时20分"
         },
         {
+          "title": "美国工会提起诉讼 要求特朗普政府为CFPB提供资金",
+          "url": "https://flash.jin10.com/detail/20251124104858513800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
           "url": "https://m.thepaper.cn/newsDetail_forward_32025122",
           "source": "澎湃新闻",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -281,7 +294,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
@@ -300,8 +313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时26分]"
         },
         {
           "title": "狂野时代讲了什么故事",
