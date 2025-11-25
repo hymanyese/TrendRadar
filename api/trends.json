@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T20:45:48.491831+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2025-11-25T21:35:55.332276+08:00",
+  "total_titles_processed": 1865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时20分 ~ 20时45分]"
+          "appearance_count": 16,
+          "time_info": "[07时20分 ~ 21时35分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -72,8 +72,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 20时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 21时35分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -118,8 +118,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时16分 ~ 20时45分]"
+          "appearance_count": 14,
+          "time_info": "[11时16分 ~ 21时35分]"
         },
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -173,11 +173,12 @@
             4,
             8,
             17,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 20时45分]"
+          "appearance_count": 12,
+          "time_info": "[12时28分 ~ 21时35分]"
         },
         {
           "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
@@ -222,8 +223,21 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 21时35分]"
+        },
+        {
+          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            8,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时35分 ~ 19时20分]"
+          "time_info": "[16时30分 ~ 21时35分]"
         },
         {
           "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
@@ -249,19 +263,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时43分 ~ 11时17分]"
-        },
-        {
-          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时30分 ~ 20时45分]"
         },
         {
           "title": "特朗普：将于明年4月访华",
@@ -301,6 +302,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时16分 ~ 13时23分]"
+        },
+        {
+          "title": "马斯克将用AI挑战顶尖LOL战队",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时35分]"
+        },
+        {
+          "title": "马斯克下战书!AI对决LOL冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时35分]"
         },
         {
           "title": "与特朗普通话谈及涉台言论？高市回应",
@@ -354,17 +377,6 @@
           "time_info": "[14时35分 ~ 18时27分]"
         },
         {
-          "title": "马斯克将用AI挑战顶尖LOL战队",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
           "title": "特朗普在孟菲斯成立的特别工作组已逮捕数千人",
           "url": "https://flash.jin10.com/detail/20251125105041252800",
           "source": "金十数据",
@@ -408,17 +420,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
-        },
-        {
-          "title": "马斯克下战书!AI对决LOL冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "高市早苗回应与特朗普通话",
@@ -638,6 +639,18 @@
           "time_info": "[05时21分 ~ 06时21分]"
         },
         {
+          "title": "特朗普主动和高市通话所为何事",
+          "url": "https://www.toutiao.com/trending/7576615764908576275/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时35分]"
+        },
+        {
           "title": "美乌和谈现突破后压力传至莫斯科 俄方拒接方案或再遭特朗普指责",
           "url": "https://flash.jin10.com/detail/20251125055012060800",
           "source": "金十数据",
@@ -734,6 +747,17 @@
           "time_info": "[12时28分 ~ 13时23分]"
         },
         {
+          "title": "台评论员称高市可能被特朗普骂了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时35分]"
+        },
+        {
           "title": "乌克兰国家安全负责人：此访旨在“完成”与美国总统特朗普的和平协议的“最后阶段”。",
           "url": "https://flash.jin10.com/detail/20251125171039971800",
           "source": "金十数据",
@@ -776,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普很有可能在12月25日之前宣布美联储主席人选。 五位非常优秀的候选人，都给我留下了深刻的印象。 债券市场迎来自2020年以来最好的一年。 政府关门使美国GDP减少了1.5%，至少损失了110亿美元。 美联储理事们似乎倾向于降息。 美联储应当如过去那样退居幕后。 就金融系统中的准备金是否真正保持充足而言，该制度似乎正开始显现裂痕。 我认为我们需要适当简化现有政策框架。",
+          "url": "https://wallstreetcn.com/livenews/3010244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯欢迎美国最初的和平方案，但如果经修改的临时方案未能体现普京与特朗普会谈的精神和内容，那将是一种“截然不同的情况”。",
@@ -842,17 +877,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
-        },
-        {
-          "title": "特朗普主动和高市通话所为何事",
-          "url": "https://www.toutiao.com/trending/7576615764908576275/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -954,15 +978,15 @@
           "time_info": "05时21分"
         },
         {
-          "title": "台评论员称高市可能被特朗普骂了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "美国财长贝森特：总统特朗普在圣诞节（12月25日）前宣布美联储新任主席人选的可能性非常大。",
+          "url": "https://flash.jin10.com/detail/20251125210641313800",
+          "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "21时35分"
         }
       ]
     },
@@ -1023,6 +1047,18 @@
           "time_info": "[01时21分 ~ 04时26分]"
         },
         {
+          "title": "警惕高市复刻危险的历史剧本",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%83%95%E9%AB%98%E5%B8%82%E5%A4%8D%E5%88%BB%E5%8D%B1%E9%99%A9%E7%9A%84%E5%8E%86%E5%8F%B2%E5%89%A7%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时35分]"
+        },
+        {
           "title": "美国芝加哥商业交易所（CME）集团：美国国债未平仓合约达到3500万合约，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3009701",
           "source": "华尔街见闻-快讯",
@@ -1034,18 +1070,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时16分]"
-        },
-        {
-          "title": "警惕高市复刻危险的历史剧本",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%83%95%E9%AB%98%E5%B8%82%E5%A4%8D%E5%88%BB%E5%8D%B1%E9%99%A9%E7%9A%84%E5%8E%86%E5%8F%B2%E5%89%A7%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时45分]"
         },
         {
           "title": "毛宁用日文转发王毅表态：有权利对日本的历史罪行进行再清算",
@@ -1179,7 +1203,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
