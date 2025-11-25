@@ -1,257 +1,55 @@
 {
-  "generated_at": "2025-11-25T23:25:47.672232+08:00",
-  "total_titles_processed": 2052,
+  "generated_at": "2025-11-26T00:30:50.507698+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 84,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 11时17分]"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.toutiao.com/trending/7576299047473397779/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时43分]"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时43分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://www.douyin.com/hot/2316851",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时43分]"
-        },
-        {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32033959",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时20分 ~ 23时25分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3760029",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 22时23分]"
-        },
-        {
-          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 17时26分]"
-        },
-        {
-          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
-          "url": "https://www.cls.cn/detail/2209653",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 18时27分]"
-        },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            6,
-            4,
-            5,
-            3,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时16分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
-          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
-          "url": "https://wallstreetcn.com/articles/3759963",
-          "source": "华尔街见闻",
+          "title": "乌克兰总统泽连斯基希望尽快会见美国总统特朗普。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3010321",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普要求与高市早苗通话",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1,
-            2,
-            10,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时16分 ~ 18时27分]"
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
           "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            8,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时30分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
-          "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
-          "url": "https://wallstreetcn.com/articles/3760011",
-          "source": "华尔街见闻",
+          "title": "据AXIOS网站：乌克兰总统泽连斯基希望尽快与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251126001302280800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7,
-            5,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 18时27分]"
-        },
-        {
-          "title": "特朗普与高市早苗通话",
-          "url": "https://www.douyin.com/hot/2317172",
-          "source": "抖音",
-          "ranks": [
-            15,
-            9,
-            7,
-            4,
-            8,
-            17,
-            23,
-            22,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时28分 ~ 23时25分]"
-        },
-        {
-          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
-          "url": "https://www.cls.cn/detail/2209616",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 17时26分]"
-        },
-        {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9,
-            7,
-            6,
-            20,
-            14,
-            24,
-            15,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 15时21分]"
-        },
-        {
-          "title": "马斯克将用AI挑战顶尖LOL战队",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时45分 ~ 23时25分]"
-        },
-        {
-          "title": "特朗普称明年四月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%9B%9B%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时35分 ~ 21时35分]"
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -261,541 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时45分 ~ 23时25分]"
-        },
-        {
-          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
-          "url": "https://www.cls.cn/detail/2209531",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 15时21分]"
-        },
-        {
-          "title": "日媒：特朗普要求与高市早苗通话",
-          "url": "https://www.toutiao.com/trending/7576254631207043118/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时17分]"
-        },
-        {
-          "title": "特朗普：将于明年4月访华",
-          "url": "https://www.toutiao.com/trending/7575503024580431379/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 12时28分]"
-        },
-        {
-          "title": "特朗普：将于明年4月访华",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B44%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 12时28分]"
-        },
-        {
-          "title": "特朗普要求跟高市早苗通话",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E8%B7%9F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 13时23分]"
-        },
-        {
-          "title": "与特朗普通话谈及涉台言论？高市回应",
-          "url": "https://www.toutiao.com/trending/7576495986903089178/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            5,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时21分]"
-        },
-        {
-          "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
-          "url": "https://flash.jin10.com/detail/20251125024713901800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "美国非洲事务顾问：特朗普正努力解决包括俄罗斯与乌克兰在内的多起冲突。",
-          "url": "https://flash.jin10.com/detail/20251125181601455800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "高市早苗回应与特朗普通话",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            11,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 18时27分]"
-        },
-        {
-          "title": "特朗普在孟菲斯成立的特别工作组已逮捕数千人",
-          "url": "https://flash.jin10.com/detail/20251125105041252800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
-          "url": "https://wallstreetcn.com/livenews/3010309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "与特朗普通话是否谈及涉台言论？高市早苗回应",
-          "url": "https://news.ifeng.com/c/8oZ8o93y559",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时21分]"
-        },
-        {
-          "title": "特朗普要求与高市早苗通话",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时17分]"
-        },
-        {
-          "title": "高市早苗与特朗普通话",
-          "url": "https://www.toutiao.com/trending/7576254631207043118/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "高市早苗回应与特朗普通话",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时31分]"
-        },
-        {
-          "title": "特朗普主动和高市通话所为何事",
-          "url": "https://www.toutiao.com/trending/7576615764908576275/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            9,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时45分 ~ 23时25分]"
-        },
-        {
-          "title": "台评论员称高市可能被特朗普骂了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时45分 ~ 23时25分]"
-        },
-        {
-          "title": "美对委“炮舰外交”或现缓和信号 特朗普计划与马杜罗直接对话",
-          "url": "https://flash.jin10.com/detail/20251125061314901800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普签署行政命令，以推动人工智能加速创新，并指示构建人工智能平台，以利用联邦科学数据集。",
-          "url": "https://flash.jin10.com/detail/20251125060430409800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普：将于明年4月访华",
-          "url": "https://www.douyin.com/hot/2316962",
-          "source": "抖音",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 12时28分]"
-        },
-        {
-          "title": "高市早苗回应与特朗普通话",
-          "url": "https://www.douyin.com/hot/2317187",
-          "source": "抖音",
-          "ranks": [
-            30,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时27分]"
-        },
-        {
-          "title": "据AXIOS网站：美国总统特朗普已告知其顾问，他正计划直接与委内瑞拉总统马杜罗对话。",
-          "url": "https://flash.jin10.com/detail/20251125060154130800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "美国总统特朗普告诉他的顾问们，他打算与委内瑞拉总统马杜罗通电话。 相关计划仍然处于“筹备阶段”。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3009781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普 25 日要求与高市早苗通话，高市早苗通话后回应「细节不便透露」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976581502214107178",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普暗示乌克兰危机将有重大进展：或许要有好事发生",
-          "url": "https://news.ifeng.com/c/8oYqBjfSzd0",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时17分]"
-        },
-        {
-          "title": "特朗普政府将裁减约31.7万名雇员，超过原来的预估",
-          "url": "https://wallstreetcn.com/livenews/3009712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时33分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普签令启动“创世纪计划”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E4%BB%A4%E5%90%AF%E5%8A%A8%E2%80%9C%E5%88%9B%E4%B8%96%E7%BA%AA%E8%AE%A1%E5%88%92%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时17分]"
-        },
-        {
-          "title": "高市回应与特朗普通话是否涉台",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E5%90%A6%E6%B6%89%E5%8F%B0%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时31分]"
-        },
-        {
-          "title": "泽连斯基发文感谢特朗普",
-          "url": "https://www.douyin.com/hot/2316213",
-          "source": "抖音",
-          "ranks": [
-            23,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 09时43分]"
-        },
-        {
-          "title": "日媒：特朗普要求与高市通话",
-          "url": "https://www.douyin.com/hot/2316989",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时17分]"
-        },
-        {
-          "title": "打还是不打？美媒曝特朗普打算和马杜罗直接谈",
-          "url": "https://news.ifeng.com/c/8oZVH3UgMjK",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时20分]"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普签署了与人工智能研究相关的行政命令。",
-          "url": "https://flash.jin10.com/detail/20251125055922632800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普政府力阻马斯克为“解散美国国际开发署”案出庭作证",
-          "url": "https://flash.jin10.com/detail/20251125055653747800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普一直在对俄罗斯总统普京和乌克兰总统泽连斯基施加压力。",
-          "url": "https://wallstreetcn.com/livenews/3009755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "美乌和谈现突破后压力传至莫斯科 俄方拒接方案或再遭特朗普指责",
-          "url": "https://flash.jin10.com/detail/20251125055012060800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "美国联邦法官驳回了针对特朗普政治对手的起诉",
-          "url": "https://flash.jin10.com/detail/20251125015856912800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时16分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国与乌克兰在上周末进行了富有成效的会谈。 美国总统特朗普仍然对达成俄乌和平协议的可能性持乐观态度。 在乌克兰（和平协议）问题上，只剩下几点分歧了。 美国向北约出售成吨的武器，不能永远那样做。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3009752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "美国白宫发言人：特朗普在俄乌冲突中偏袒一方的说法不属实。",
-          "url": "https://flash.jin10.com/detail/20251125044304075800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "如何看待特朗普主动致电高市早苗",
-          "url": "https://www.toutiao.com/trending/7576569600238685738/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时27分]"
-        },
-        {
-          "title": "美国白宫：特朗普启动程序，将部分穆斯林兄弟会分支机构列为外国恐怖主义组织和特别指定的全球恐怖分子。",
-          "url": "https://flash.jin10.com/detail/20251125051834696800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "美国白宫发言人：特朗普对打击“贩毒恐怖分子”的行动感到满意。",
-          "url": "https://flash.jin10.com/detail/20251125043457425800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "与特朗普通话是否谈及涉台言论？高市早苗：细节不便透露",
-          "url": "https://wallstreetcn.com/livenews/3009949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时23分]"
-        },
-        {
-          "title": "乌克兰国家安全负责人：此访旨在“完成”与美国总统特朗普的和平协议的“最后阶段”。",
-          "url": "https://flash.jin10.com/detail/20251125171039971800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "高市早苗回应与特朗普通话",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "time_info": "00时30分"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -804,521 +69,87 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-25）",
-          "url": "https://flash.jin10.com/detail/20251125190351498800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "00时30分"
         },
         {
-          "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
-          "url": "https://wallstreetcn.com/articles/3759972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "美国财长贝森特：特朗普很有可能在12月25日之前宣布美联储主席人选。 五位非常优秀的候选人，都给我留下了深刻的印象。 债券市场迎来自2020年以来最好的一年。 政府关门使美国GDP减少了1.5%，至少损失了110亿美元。 美联储理事们似乎倾向于降息。 美联储应当如过去那样退居幕后。 就金融系统中的准备金是否真正保持充足而言，该制度似乎正开始显现裂痕。 我认为我们需要适当简化现有政策框架。",
-          "url": "https://wallstreetcn.com/livenews/3010244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "俄罗斯外长拉夫罗夫：俄罗斯欢迎美国最初的和平方案，但如果经修改的临时方案未能体现普京与特朗普会谈的精神和内容，那将是一种“截然不同的情况”。",
-          "url": "https://flash.jin10.com/detail/20251125180707295800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "特朗普下令启动“创世使命” 计划 大力推动AI科研革命",
-          "url": "https://flash.jin10.com/detail/20251125061520606800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "美国白宫发言人：本周未安排特朗普与泽连斯基的会晤。",
-          "url": "https://flash.jin10.com/detail/20251125043443628800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普将于北京时间今天凌晨五点左右在椭圆形办公室签署一项行政命令。",
-          "url": "https://flash.jin10.com/detail/20251125031849084800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "美国白宫发言人：总统特朗普一直在向普京和泽连斯基施加压力。",
-          "url": "https://flash.jin10.com/detail/20251125043414683800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "邵永灵：特朗普成了“第二个拜登”",
-          "url": "https://www.toutiao.com/trending/7576447344028159524/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "日媒：特朗普要求与高市早苗通话",
-          "url": "https://wallstreetcn.com/livenews/3009848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "乌克兰官员：乌克兰支持日内瓦会谈后和平协议框架的核心内容。总统泽连斯基与特朗普将讨论框架中最敏感的问题。",
-          "url": "https://flash.jin10.com/detail/20251125215004251800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "【外交部：中美元首通话是美方发起的，通话氛围是积极的、友好的、建设性的】在11月25日外交部例行记者会上，有记者提问称，根据中方发布的消息，昨晚中美元首通了电话，请问这次通话是由中方主动提议，还是应美方邀请进行？另外这次通话持续了多长时间？中方如何评价这次通话的成果？对此，发言人毛宁表示，特朗普总统第二任期以来，中美元首保持着经常性的交往。据我了解，此次通话是美方发起的，通话的氛围是积极的、友好的、建设性的。两国元首就共同关心的问题进行沟通，对中美关系稳定发展十分重要。（环球网）",
-          "url": "https://wallstreetcn.com/livenews/3010059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "据日本富士新闻网：日本首相高市早苗和美国总统特朗普计划今日进行通话。",
-          "url": "https://flash.jin10.com/detail/20251125082528479800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普的和平计划是在迈阿密与克里姆林宫内部人士及乌克兰官员共同起草的，据悉该计划大部分由特朗普的助手撰写。",
-          "url": "https://flash.jin10.com/detail/20251125082424778800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "美国白宫发言人：美国总统特朗普对达成协议持乐观态度。",
-          "url": "https://flash.jin10.com/detail/20251125042651353800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普签署行政令，启动AI“创世纪计划”",
-          "url": "https://wallstreetcn.com/livenews/3009778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "专家：马斯克撕破西方的假仁假义",
-          "url": "https://www.toutiao.com/trending/7576240890289606163/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "美国政府内部备忘录显示，美国总统特朗普政府下令对所有在前总统拜登任内入境的难民进行全面审查，拜登时期的难民绿卡申请处理程序已被冻结。",
-          "url": "https://flash.jin10.com/detail/20251125042430186800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "泽连斯基：结束俄乌冲突步骤清单趋近可行 将与特朗普商讨敏感议题",
-          "url": "https://flash.jin10.com/detail/20251125041922730800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国财长贝森特：总统特朗普在圣诞节（12月25日）前宣布美联储新任主席人选的可能性非常大。",
-          "url": "https://flash.jin10.com/detail/20251125210641313800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "高市早苗谬论背后的日本干涉台湾问题黑历史：警惕日本借台遏华图谋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32030010",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 17时26分]"
-        },
-        {
-          "title": "杨瀚森常规赛总分达到 28 分，超越周琦成为中国 NBA 历史第五人，仅次于三大中锋 + 阿联，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1976231413029233528",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "警惕高市复刻危险的历史剧本",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%83%95%E9%AB%98%E5%B8%82%E5%A4%8D%E5%88%BB%E5%8D%B1%E9%99%A9%E7%9A%84%E5%8E%86%E5%8F%B2%E5%89%A7%E6%9C%AC",
+          "title": "马斯克将用AI挑战顶尖LOL战队",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 23时25分]"
-        },
-        {
-          "title": "蔚来三季度营收217.9亿元，四季度营收指引同比增长66%至73%，创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3010155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "00时30分"
         },
         {
-          "title": "入冬了该唱依兰爱情故事了",
-          "url": "https://www.douyin.com/hot/2315611",
+          "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
+          "url": "https://wallstreetcn.com/livenews/3010309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "特朗普与高市早苗通话",
+          "url": "https://www.douyin.com/hot/2317172",
           "source": "抖音",
-          "ranks": [
-            28,
-            25,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 04时26分]"
-        },
-        {
-          "title": "美国芝加哥商业交易所（CME）集团：美国国债未平仓合约达到3500万合约，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3009701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时16分]"
-        },
-        {
-          "title": "毛宁用日文转发王毅表态：有权利对日本的历史罪行进行再清算",
-          "url": "https://news.ifeng.com/c/8oXsL61mzbX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时21分]"
-        },
-        {
-          "title": "芝商所美国国债未平仓合约创3,500万份历史新高",
-          "url": "https://flash.jin10.com/detail/20251125004845020800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时33分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（11月24日），南非富时/JSE非洲领先40可交易指数收涨0.37%，报10.3万点。 日线图上，南非股指自11月13日涨至10.8万点创盘中历史新高、按10.7万点创收盘历史新高以来，持续回调。",
-          "url": "https://wallstreetcn.com/livenews/3009679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时21分]"
-        },
-        {
-          "title": "新华时评丨警惕高市复刻危险的历史剧本",
-          "url": "https://wallstreetcn.com/livenews/3010106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时27分]"
-        },
-        {
-          "title": "《天龙八部》有一种说法：原本没有虚竹这个人物，这个人物的剧情原本是属于段誉的，这说法的出处在哪？",
-          "url": "https://www.zhihu.com/question/451571648",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时21分]"
-        },
-        {
-          "title": "有哪些人物是你心中的意难平？",
-          "url": "https://www.zhihu.com/question/378046251",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
-        },
-        {
-          "title": "学历史有什么用?",
-          "url": "https://www.zhihu.com/question/658502500",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)盘前涨近7%，公司三季度营收创历史新高。",
-          "url": "https://flash.jin10.com/detail/20251125181212962800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "芝商所（CME）：11月21日，CME利率期货和期权产品组合共成交44,839,732份合约，创下历史第二高的日成交量。",
-          "url": "https://flash.jin10.com/detail/20251125004414418800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "市场消息：芝商所（CME）美国国债未平仓合约创下3500万份的历史新高。",
-          "url": "https://flash.jin10.com/detail/20251125004034380800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "巴西副总统Alckmin：巴西今年的外国直接投资可能创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20251125034117015800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "标普500医疗保健板块创下历史新高，最新上涨1.3%。",
-          "url": "https://flash.jin10.com/detail/20251125225044942800",
-          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时30分"
         },
         {
-          "title": "中国五千年历史中，除了四大发明，还有什么拿得出手的发明创造吗？",
-          "url": "https://www.zhihu.com/question/1960846615767132063",
-          "source": "知乎",
+          "title": "台评论员称高市可能被特朗普骂了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "蔚来三季度营收217.9亿元，Q4营收和交付指引均创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3010155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "乌克兰央行设定周三格里夫纳官方汇率为1美元兑换42.40格里夫纳，创下历史新低。",
-          "url": "https://flash.jin10.com/detail/20251125214833002800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "00时30分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "职场中，如何从底层杀出？",
-          "url": "https://www.zhihu.com/question/634286415",
-          "source": "知乎",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时21分]"
-        },
-        {
-          "title": "职场人，如何提升个人的表达能力？",
-          "url": "https://www.zhihu.com/question/1904359828702335932",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
         {
           "title": "有哪些数码知识，数码爱好者以为是常识，但非数码爱好者很少有人知道的？",
           "url": "https://www.zhihu.com/question/1975704330272277788",
           "source": "知乎",
           "ranks": [
-            17
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "警惕高市复刻危险的历史剧本",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%83%95%E9%AB%98%E5%B8%82%E5%A4%8D%E5%88%BB%E5%8D%B1%E9%99%A9%E7%9A%84%E5%8E%86%E5%8F%B2%E5%89%A7%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         }
       ]
     }
