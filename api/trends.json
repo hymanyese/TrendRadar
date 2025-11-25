@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T03:19:25.231666+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2025-11-26T04:25:46.970206+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时25分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时25分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -39,19 +39,45 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时25分]"
         },
         {
-          "title": "特朗普考虑罢免卡什·帕特尔的FBI局长职务",
-          "url": "https://flash.jin10.com/detail/20251126030058119800",
-          "source": "金十数据",
+          "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
+          "url": "https://news.ifeng.com/c/8oZtlTWZHWZ",
+          "source": "凤凰网",
           "ranks": [
-            1
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时25分]"
+        },
+        {
+          "title": "马斯克将用AI挑战顶尖LOL战队",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            16,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时25分]"
+        },
+        {
+          "title": "特朗普与高市早苗通话",
+          "url": "https://www.douyin.com/hot/2317172",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时25分]"
         },
         {
           "title": "特朗普：我们准备进军芝加哥，我们可以在4周内让芝加哥成为一座安全的城市。",
@@ -65,17 +91,6 @@
           "time_info": "01时22分"
         },
         {
-          "title": "据MS NOW：特朗普考虑罢免卡什·帕特尔的FBI局长职务。",
-          "url": "https://flash.jin10.com/detail/20251126025659614800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
           "title": "据AXIOS网站：乌克兰总统泽连斯基希望尽快与特朗普会面。",
           "url": "https://flash.jin10.com/detail/20251126001302280800",
           "source": "金十数据",
@@ -87,52 +102,48 @@
           "time_info": "00时30分"
         },
         {
-          "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
-          "url": "https://news.ifeng.com/c/8oZtlTWZHWZ",
-          "source": "凤凰网",
+          "title": "特朗普：俄乌和平计划只剩少数争议点 特使将赴莫斯科与普京会谈",
+          "url": "https://flash.jin10.com/detail/20251126034622447800",
+          "source": "金十数据",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
-          "title": "特朗普：俄乌和平协议已“非常接近达成”",
-          "url": "https://wallstreetcn.com/livenews/3010364",
+          "title": "特朗普：已指派美官员与俄乌双方就和平计划展开磋商",
+          "url": "https://wallstreetcn.com/livenews/3010379",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时25分"
         },
         {
-          "title": "马斯克将用AI挑战顶尖LOL战队",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普：陆军部长德里斯科尔将与乌克兰人会面。",
+          "url": "https://flash.jin10.com/detail/20251126033731178800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            16,
-            9,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
-          "title": "特朗普与高市早苗通话",
-          "url": "https://www.douyin.com/hot/2317172",
-          "source": "抖音",
+          "title": "美国总统特朗普的特使Witkoff向俄罗斯总统普京建议，宜在乌克兰总统泽连斯基11月27日前往美国之前与特朗普通话。 Witkoff向普京建议，应赞赏特朗普主张的加沙“和平协议”。 11月14日，Witkoff与普京顾问Ushakov通电话。",
+          "url": "https://wallstreetcn.com/livenews/3010377",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            18
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "特朗普：想派国民警卫队进驻芝加哥。",
@@ -147,6 +158,18 @@
           "time_info": "[01时22分 ~ 02时33分]"
         },
         {
+          "title": "特朗普考虑罢免卡什·帕特尔的FBI局长职务",
+          "url": "https://flash.jin10.com/detail/20251126030058119800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时25分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基希望尽快会见美国总统特朗普。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3010321",
           "source": "华尔街见闻-快讯",
@@ -157,6 +180,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时22分]"
+        },
+        {
+          "title": "据MS NOW：特朗普考虑罢免卡什·帕特尔的FBI局长职务。",
+          "url": "https://flash.jin10.com/detail/20251126025659614800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时25分]"
+        },
+        {
+          "title": "特朗普：俄乌和平协议已“非常接近达成”",
+          "url": "https://wallstreetcn.com/livenews/3010364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时25分]"
         },
         {
           "title": "泽连斯基拟于27日与特朗普会面，以达成和平协议",
@@ -209,6 +256,18 @@
           "time_info": "[02时33分 ~ 03时19分]"
         },
         {
+          "title": "特朗普主动和高市通话所为何事",
+          "url": "https://www.toutiao.com/trending/7576615764908576275/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 04时25分]"
+        },
+        {
           "title": "台评论员称高市可能被特朗普骂了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -232,6 +291,50 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国总统特朗普：为了促成这项和平计划的最终达成，我已指示中东问题特使威特科夫前往莫斯科与俄罗斯总统普京会面。",
+          "url": "https://flash.jin10.com/detail/20251126033648402800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
+          "url": "https://wallstreetcn.com/livenews/3010375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：由美国起草的最初的28点和平计划经过双方的进一步完善，目前仅剩少数几个分歧点。",
+          "url": "https://flash.jin10.com/detail/20251126033621704800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：期待能尽快与泽连斯基和普京会面，但前提是结束这场战争的协议已经敲定或处于最后阶段。",
+          "url": "https://flash.jin10.com/detail/20251126033601685800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "报道称，白宫官员表示，泽连斯基和特朗普之间尚未安排会晤。",
           "url": "https://flash.jin10.com/detail/20251126011635996800",
           "source": "金十数据",
@@ -241,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普：将于明年4月访华",
+          "url": "https://www.douyin.com/hot/2316962",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰已准备好在与特朗普和欧洲的和平协议框架下向前迈进。",
@@ -285,17 +399,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "特朗普主动和高市通话所为何事",
-          "url": "https://www.toutiao.com/trending/7576615764908576275/",
-          "source": "今日头条",
+          "title": "警惕高市复刻危险的历史剧本",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%83%95%E9%AB%98%E5%B8%82%E5%A4%8D%E5%88%BB%E5%8D%B1%E9%99%A9%E7%9A%84%E5%8E%86%E5%8F%B2%E5%89%A7%E6%9C%AC",
+          "source": "bilibili 热搜",
           "ranks": [
-            29
+            15,
+            11,
+            13
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时25分]"
+        },
+        {
+          "title": "纽约可可较历史最高位已回撤超46%",
+          "url": "https://wallstreetcn.com/livenews/3010380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "04时25分"
         }
       ]
     },
@@ -314,25 +447,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "警惕高市复刻危险的历史剧本",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%83%95%E9%AB%98%E5%B8%82%E5%A4%8D%E5%88%BB%E5%8D%B1%E9%99%A9%E7%9A%84%E5%8E%86%E5%8F%B2%E5%89%A7%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
         }
       ]
     }
