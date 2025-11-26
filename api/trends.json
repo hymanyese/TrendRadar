@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T18:25:42.587218+08:00",
-  "total_titles_processed": 1587,
+  "generated_at": "2025-11-26T19:20:09.835018+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -20,6 +20,21 @@
           "time_info": "[00时30分 ~ 07时20分]"
         },
         {
+          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[06时21分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普电话后，日本沮丧了三次",
           "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
           "source": "凤凰网",
@@ -29,22 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 18时25分]"
-        },
-        {
-          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时21分 ~ 18时25分]"
+          "appearance_count": 14,
+          "time_info": "[09时43分 ~ 19时20分]"
         },
         {
           "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
@@ -118,6 +119,18 @@
           "time_info": "[00时30分 ~ 09时43分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 19时20分]"
+        },
+        {
           "title": "马斯克宣布旗下 AI 将在尽可能模拟真人习惯的限定条件下挑战《英雄联盟》最强人类战队，你觉得谁会赢？",
           "url": "https://www.zhihu.com/question/1976705955216516456",
           "source": "知乎",
@@ -129,8 +142,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时16分 ~ 19时20分]"
+        },
+        {
+          "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
+          "url": "https://news.ifeng.com/c/8oZtlTWZHWZ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[11时16分 ~ 18时25分]"
+          "time_info": "[00时30分 ~ 07时20分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -143,22 +167,12 @@
             10,
             12,
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 18时25分]"
-        },
-        {
-          "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
-          "url": "https://news.ifeng.com/c/8oZtlTWZHWZ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -174,6 +188,19 @@
           "time_info": "[00时30分 ~ 07时20分]"
         },
         {
+          "title": "中方回应是否请特朗普向高市传口信",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普：俄乌和平协议已“非常接近达成”",
           "url": "https://www.cls.cn/detail/2210903",
           "source": "财联社热门",
@@ -187,30 +214,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时20分 ~ 15时21分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 18时25分]"
-        },
-        {
-          "title": "中方回应是否请特朗普向高市传口信",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%AB%98%E5%B8%82%E4%BC%A0%E5%8F%A3%E4%BF%A1",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 18时25分]"
         },
         {
           "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
@@ -292,6 +295,18 @@
           "time_info": "[11时16分 ~ 15时21分]"
         },
         {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普：我们准备进军芝加哥，我们可以在4周内让芝加哥成为一座安全的城市。",
           "url": "https://flash.jin10.com/detail/20251126011951511800",
           "source": "金十数据",
@@ -347,6 +362,18 @@
           "time_info": "17时26分"
         },
         {
+          "title": "马斯克开始用Grok替代员工了！最惨部门裁员90%",
+          "url": "https://wallstreetcn.com/articles/3760101",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 19时20分]"
+        },
+        {
           "title": "美国总统特朗普：陆军部长德里斯科尔将与乌克兰人会面。",
           "url": "https://flash.jin10.com/detail/20251126033731178800",
           "source": "金十数据",
@@ -369,17 +396,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时21分 ~ 17时26分]"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 18时25分]"
         },
         {
           "title": "特朗普：想派国民警卫队进驻芝加哥。",
@@ -480,18 +496,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 06时22分]"
-        },
-        {
-          "title": "马斯克开始用Grok替代员工了！最惨部门裁员90%",
-          "url": "https://wallstreetcn.com/articles/3760101",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 18时25分]"
         },
         {
           "title": "泽连斯基拟于27日与特朗普会面，以达成和平协议",
@@ -627,6 +631,17 @@
           "time_info": "[11时16分 ~ 11时17分]"
         },
         {
+          "title": "特朗普宣布“特赦”，火鸡突然大叫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32045220",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普主动和高市通话所为何事",
           "url": "https://www.toutiao.com/trending/7576615764908576275/",
           "source": "今日头条",
@@ -693,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "特朗普亲信哈塞特或将执掌美联储？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251126184003836800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "刚见面不久特朗普为何急着和中方通话",
@@ -767,7 +793,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
