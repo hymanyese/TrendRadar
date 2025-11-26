@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T21:36:25.656420+08:00",
-  "total_titles_processed": 1922,
+  "generated_at": "2025-11-26T22:23:46.690595+08:00",
+  "total_titles_processed": 2005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 76,
+      "match_count": 78,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -48,6 +48,18 @@
           "time_info": "[09时43分 ~ 19时20分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时30分 ~ 22时23分]"
+        },
+        {
           "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
           "url": "https://news.ifeng.com/c/8oaUqYk7kJR",
           "source": "凤凰网",
@@ -84,18 +96,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时43分 ~ 15时21分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时30分 ~ 21时36分]"
         },
         {
           "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
@@ -169,11 +169,12 @@
             12,
             14,
             16,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时30分 ~ 21时36分]"
+          "appearance_count": 28,
+          "time_info": "[00时30分 ~ 22时23分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -377,6 +378,17 @@
           "time_info": "[15时21分 ~ 19时20分]"
         },
         {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%AA%E6%9C%89%E6%B2%89%E9%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "美国总统特朗普：陆军部长德里斯科尔将与乌克兰人会面。",
           "url": "https://flash.jin10.com/detail/20251126033731178800",
           "source": "金十数据",
@@ -501,6 +513,19 @@
           "time_info": "[04时25分 ~ 06时22分]"
         },
         {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 22时23分]"
+        },
+        {
           "title": "泽连斯基拟于27日与特朗普会面，以达成和平协议",
           "url": "https://wallstreetcn.com/livenews/3010336",
           "source": "华尔街见闻-快讯",
@@ -524,6 +549,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时43分 ~ 11时17分]"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 22时23分]"
         },
         {
           "title": "报道：哈塞特成为特朗普美联储主席人选的领跑者",
@@ -599,18 +637,6 @@
           "time_info": "[17时26分 ~ 18时25分]"
         },
         {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 21时36分]"
-        },
-        {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
           "url": "https://wallstreetcn.com/livenews/3010309",
           "source": "华尔街见闻-快讯",
@@ -655,18 +681,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时19分 ~ 19时20分]"
-        },
-        {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 21时36分]"
         },
         {
           "title": "特朗普主动和高市通话所为何事",
@@ -768,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "特朗普力推,尖峰时刻4要来了?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347542&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%2C%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB4%E8%A6%81%E6%9D%A5%E4%BA%86%3F",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "报道称，白宫官员表示，泽连斯基和特朗普之间尚未安排会晤。",
@@ -1018,6 +1043,35 @@
       ]
     },
     {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "有哪些数码知识，数码爱好者以为是常识，但非数码爱好者很少有人知道的？",
+          "url": "https://www.zhihu.com/question/1975704330272277788",
+          "source": "知乎",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时21分]"
+        },
+        {
+          "title": "你在职场中，最大的感悟是什么？",
+          "url": "https://www.zhihu.com/question/13888063522",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ===== 科技发展 ===== 芯片 光刻机",
       "match_count": 1,
       "titles": [
@@ -1031,24 +1085,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "有哪些数码知识，数码爱好者以为是常识，但非数码爱好者很少有人知道的？",
-          "url": "https://www.zhihu.com/question/1975704330272277788",
-          "source": "知乎",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
         }
       ]
     }
