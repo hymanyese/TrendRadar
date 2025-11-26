@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T14:34:29.994826+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2025-11-26T15:21:37.205094+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -28,8 +28,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时21分 ~ 14时34分]"
+          "appearance_count": 11,
+          "time_info": "[06时21分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
+          "url": "https://news.ifeng.com/c/8oaUqYk7kJR",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 15时21分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -46,19 +59,6 @@
           "time_info": "[00时30分 ~ 12时29分]"
         },
         {
-          "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
-          "url": "https://news.ifeng.com/c/8oaUqYk7kJR",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 14时34分]"
-        },
-        {
           "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
           "url": "https://www.cls.cn/detail/2210938",
           "source": "财联社热门",
@@ -66,8 +66,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普电话后，日本沮丧了三次",
+          "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 15时21分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -88,18 +100,6 @@
           "time_info": "[00时30分 ~ 09时43分]"
         },
         {
-          "title": "特朗普电话后，日本沮丧了三次",
-          "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 14时34分]"
-        },
-        {
           "title": "马斯克下战书!AI对决LOL冠军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
           "source": "贴吧",
@@ -108,11 +108,12 @@
             8,
             11,
             10,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 14时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 15时21分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -146,11 +147,12 @@
             11,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 14时34分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 15时21分]"
         },
         {
           "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
@@ -162,8 +164,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时16分 ~ 15时21分]"
+        },
+        {
+          "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
+          "url": "https://www.cls.cn/detail/2210885",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 15时21分]"
+        },
+        {
+          "title": "2026年11月深圳的APEC会议，特朗普要来了？",
+          "url": "https://news.ifeng.com/c/8oZweOPfKbO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 15时21分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -179,19 +205,6 @@
           "time_info": "[09时43分 ~ 13时22分]"
         },
         {
-          "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
-          "url": "https://www.cls.cn/detail/2210885",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 14时34分]"
-        },
-        {
           "title": "特朗普电话后 日本沮丧了三次",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B5%E8%AF%9D%E5%90%8E+%E6%97%A5%E6%9C%AC%E6%B2%AE%E4%B8%A7%E4%BA%86%E4%B8%89%E6%AC%A1",
           "source": "百度热搜",
@@ -205,15 +218,18 @@
           "time_info": "[09时43分 ~ 13时22分]"
         },
         {
-          "title": "2026年11月深圳的APEC会议，特朗普要来了？",
-          "url": "https://news.ifeng.com/c/8oZweOPfKbO",
-          "source": "凤凰网",
+          "title": "马斯克宣布旗下 AI 将在尽可能模拟真人习惯的限定条件下挑战《英雄联盟》最强人类战队，你觉得谁会赢？",
+          "url": "https://www.zhihu.com/question/1976705955216516456",
+          "source": "知乎",
           "ranks": [
-            9
+            14,
+            11,
+            12,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时43分 ~ 14时34分]"
+          "time_info": "[11时16分 ~ 15时21分]"
         },
         {
           "title": "特朗普在白宫赦免火鸡 引全场爆笑",
@@ -231,30 +247,18 @@
           "time_info": "[09时43分 ~ 14时34分]"
         },
         {
-          "title": "马斯克宣布旗下 AI 将在尽可能模拟真人习惯的限定条件下挑战《英雄联盟》最强人类战队，你觉得谁会赢？",
-          "url": "https://www.zhihu.com/question/1976705955216516456",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 14时34分]"
-        },
-        {
           "title": "美财长：特朗普明年或两次访华",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E5%B9%B4%E6%88%96%E4%B8%A4%E6%AC%A1%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
           "ranks": [
             15,
             22,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时16分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时16分 ~ 15时21分]"
         },
         {
           "title": "特朗普：我们准备进军芝加哥，我们可以在4周内让芝加哥成为一座安全的城市。",
@@ -274,7 +278,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -599,6 +603,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "刚见面不久特朗普为何急着和中方通话",
+          "url": "https://www.toutiao.com/trending/7575911692447055908/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "美国总统特朗普：期待能尽快与泽连斯基和普京会面，但前提是结束这场战争的协议已经敲定或处于最后阶段。",
           "url": "https://flash.jin10.com/detail/20251126033601685800",
           "source": "金十数据",
@@ -619,6 +634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "马斯克开始用Grok替代员工了！最惨部门裁员90%",
+          "url": "https://wallstreetcn.com/articles/3760101",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美印关系紧张下，特朗普将芬太尼指控引向至印度",
@@ -734,11 +760,12 @@
             11,
             13,
             12,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 14时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 15时21分]"
         },
         {
           "title": "纽约可可较历史最高位已回撤超46%",
