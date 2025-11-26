@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T00:29:05.809533+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-27T01:20:35.037146+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
           "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -48,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -59,8 +60,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "特朗普称不再给乌克兰设最后期限",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -68,17 +81,6 @@
           "source": "抖音",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
-        },
-        {
-          "title": "特朗普称不再给乌克兰设最后期限",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -106,11 +108,12 @@
           "url": "https://www.cls.cn/detail/2211657",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "智利IPSA股票指数突破1万点，创盘中历史新高，日内当前涨幅超过0.4%。",
@@ -119,7 +122,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
         }
