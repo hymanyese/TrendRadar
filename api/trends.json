@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T07:20:41.685730+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2025-11-26T09:43:28.265744+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 40,
+      "match_count": 52,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -14,17 +14,6 @@
           "ranks": [
             1,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时20分]"
-        },
-        {
-          "title": "马斯克下战书!AI对决LOL冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -41,8 +30,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时43分]"
+        },
+        {
+          "title": "马斯克下战书!AI对决LOL冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时43分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -55,11 +56,12 @@
             6,
             2,
             3,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时43分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -90,11 +92,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[06时21分 ~ 09时43分]"
         },
         {
           "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
@@ -103,9 +106,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时43分]"
+        },
+        {
+          "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
+          "url": "https://www.cls.cn/detail/2210938",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普电话后，日本沮丧了三次",
+          "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "特朗普：我们准备进军芝加哥，我们可以在4周内让芝加哥成为一座安全的城市。",
@@ -150,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "特朗普电话后日本沮丧了三次",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B5%E8%AF%9D%E5%90%8E%E6%97%A5%E6%9C%AC%E6%B2%AE%E4%B8%A7%E4%BA%86%E4%B8%89%E6%AC%A1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "特朗普：想派国民警卫队进驻芝加哥。",
@@ -289,6 +325,18 @@
           "time_info": "[04时25分 ~ 05时21分]"
         },
         {
+          "title": "特朗普：俄乌和平协议已“非常接近达成”",
+          "url": "https://www.cls.cn/detail/2210903",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时43分]"
+        },
+        {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
           "url": "https://wallstreetcn.com/livenews/3010309",
           "source": "华尔街见闻-快讯",
@@ -359,6 +407,28 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普想重启成龙电影尖峰时刻",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E9%87%8D%E5%90%AF%E6%88%90%E9%BE%99%E7%94%B5%E5%BD%B1%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
+          "url": "https://www.cls.cn/detail/2210885",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "美国总统特朗普：由美国起草的最初的28点和平计划经过双方的进一步完善，目前仅剩少数几个分歧点。",
           "url": "https://flash.jin10.com/detail/20251126033621704800",
           "source": "金十数据",
@@ -381,6 +451,28 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普：俄乌和平协议非常接近达成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E9%9D%9E%E5%B8%B8%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "2026年11月深圳的APEC会议，特朗普要来了？",
+          "url": "https://news.ifeng.com/c/8oZweOPfKbO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "报道称，白宫官员表示，泽连斯基和特朗普之间尚未安排会晤。",
           "url": "https://flash.jin10.com/detail/20251126011635996800",
           "source": "金十数据",
@@ -392,15 +484,48 @@
           "time_info": "01时22分"
         },
         {
-          "title": "特朗普：俄乌和平协议已“非常接近达成”",
-          "url": "https://www.cls.cn/detail/2210903",
-          "source": "财联社热门",
+          "title": "特朗普：俄乌和平协议已非常接近达成",
+          "url": "https://www.toutiao.com/trending/7576122161153281599/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "美印关系紧张下，特朗普将芬太尼指控引向至印度",
+          "url": "https://flash.jin10.com/detail/20251126092036686800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普电话后 日本沮丧了三次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B5%E8%AF%9D%E5%90%8E+%E6%97%A5%E6%9C%AC%E6%B2%AE%E4%B8%A7%E4%BA%86%E4%B8%89%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普在白宫赦免火鸡 引全场爆笑",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E8%B5%A6%E5%85%8D%E7%81%AB%E9%B8%A1+%E5%BC%95%E5%85%A8%E5%9C%BA%E7%88%86%E7%AC%91",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "美国白宫：美国总统特朗普不考虑直接延长两年补贴，将在近期提出医改政策改进建议。",
@@ -409,7 +534,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -434,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "唐湘龙：特朗普的沉默重创日本",
+          "url": "https://www.toutiao.com/trending/7576350523666726958/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "市场消息：英国、法国、德国领导人在出席“意愿联盟”会议后，重申支持美国总统特朗普为结束俄乌冲突所作的努力，并强调任何解决方案都必须充分吸纳乌克兰参与。",
@@ -496,8 +632,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时43分]"
         },
         {
           "title": "纽约可可较历史最高位已回撤超46%",
