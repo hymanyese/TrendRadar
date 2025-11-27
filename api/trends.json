@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T17:25:44.574429+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2025-11-27T18:25:40.551104+08:00",
+  "total_titles_processed": 1658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -71,11 +71,12 @@
             13,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 17时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 18时25分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -112,6 +113,22 @@
           "time_info": "[00时28分 ~ 17时25分]"
         },
         {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时13分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1976945155765465978",
           "source": "知乎",
@@ -121,23 +138,23 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时13分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时13分 ~ 18时25分]"
         },
         {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
           "ranks": [
             19,
-            17,
-            16,
+            7,
+            11,
             15,
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时13分 ~ 17时25分]"
+          "time_info": "[11时13分 ~ 18时25分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -153,21 +170,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时41分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7,
-            11,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 17时25分]"
         },
         {
           "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
@@ -247,6 +249,17 @@
           "time_info": "[00时28分 ~ 05时20分]"
         },
         {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "白宫发言人：美国总统特朗普已获悉两名国民警卫队成员遭枪击的事件。",
           "url": "https://flash.jin10.com/detail/20251127035707574800",
           "source": "金十数据",
@@ -313,11 +326,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 18时25分]"
         },
         {
           "title": "特朗普与高市通话说了啥？郭正亮蔡正元异口同声：高市早苗挨骂了",
