@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T22:22:26.747884+08:00",
-  "total_titles_processed": 1929,
+  "generated_at": "2025-11-27T23:23:06.161440+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -19,6 +19,21 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时25分 ~ 23时23分]"
+        },
+        {
           "title": "特朗普一通电话后 高市早苗只有沉默",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%AA%E6%9C%89%E6%B2%89%E9%BB%98",
           "source": "百度热搜",
@@ -29,20 +44,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 09时41分]"
-        },
-        {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时25分 ~ 22时22分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -72,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时41分 ~ 22时22分]"
+          "appearance_count": 17,
+          "time_info": "[09时41分 ~ 23时23分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -90,8 +91,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时13分 ~ 22时22分]"
+          "appearance_count": 16,
+          "time_info": "[11时13分 ~ 23时23分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -125,8 +126,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时13分 ~ 22时22分]"
+          "appearance_count": 17,
+          "time_info": "[11时13分 ~ 23时23分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -174,6 +175,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时13分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            24,
+            21,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时19分 ~ 23时23分]"
+        },
+        {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 23时23分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -255,33 +284,6 @@
           "time_info": "[11时13分 ~ 15时22分]"
         },
         {
-          "title": "特朗普所有刑事指控已终结",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            24,
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时19分 ~ 22时22分]"
-        },
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 19时20分]"
-        },
-        {
           "title": "美财长：特朗普明年或将两次访华",
           "url": "https://www.douyin.com/hot/2318105",
           "source": "抖音",
@@ -293,6 +295,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 05时20分]"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251127231258735800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "白宫发言人：美国总统特朗普已获悉两名国民警卫队成员遭枪击的事件。",
@@ -506,6 +519,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时35分 ~ 15时22分]"
+        },
+        {
+          "title": "德国总理默茨：我将设法劝说美国（总统特朗普），进而让南非获得参与2026年（由美方轮值主办的）二十国集团（G20）峰会。",
+          "url": "https://wallstreetcn.com/livenews/3011582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "马斯克在社交媒体称，更新你的X应用程序，然后查看您的“关注者”动态页面。您关注的人的帖子现在会由Grok 进行排序。如果你愿意，仍然可以访问未经过滤的原始时间线内容。",
