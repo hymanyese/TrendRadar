@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T07:20:52.587848+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2025-11-27T09:41:51.592906+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -23,11 +23,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%AA%E6%9C%89%E6%B2%89%E9%BB%98",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时41分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -35,11 +36,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时41分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -49,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时41分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -77,8 +79,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时41分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -106,6 +108,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普电话后日本沮丧了三次",
+          "url": "https://www.toutiao.com/trending/7576542938412007450/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "白宫发言人：美国总统特朗普已获悉两名国民警卫队成员遭枪击的事件。",
@@ -203,6 +216,50 @@
           "time_info": "[05时20分 ~ 06时21分]"
         },
         {
+          "title": "要乌方让出的土地太多？特朗普回应",
+          "url": "https://www.toutiao.com/trending/7577171506048912906/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时41分]"
+        },
+        {
+          "title": "特朗普与高市通话说了啥？郭正亮蔡正元异口同声：高市早苗挨骂了",
+          "url": "https://news.ifeng.com/c/8obT9y20KVI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.toutiao.com/trending/7576971637803716150/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
+          "url": "https://news.ifeng.com/c/8obnIsox9nT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "美国总统特朗普：我们将立即停止向他们支付所有款项和补贴。",
           "url": "https://flash.jin10.com/detail/20251127034310737800",
           "source": "金十数据",
@@ -236,6 +293,28 @@
           "time_info": "04时24分"
         },
         {
+          "title": "特朗普宣布“特赦”，火鸡突然大叫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32045220",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "美国总统特朗普：两名国民警卫队成员情况危急，嫌疑人也受了重伤。",
           "url": "https://flash.jin10.com/detail/20251127042659606800",
           "source": "金十数据",
@@ -247,17 +326,6 @@
           "time_info": "05时20分"
         },
         {
-          "title": "要乌方让出的土地太多？特朗普回应",
-          "url": "https://www.toutiao.com/trending/7577171506048912906/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
           "title": "美国佐治亚州法官斯科特·麦卡菲周三宣布驳回针对特朗普涉嫌干预2020年选举的全部剩余刑事指控，为这起因检察官不当行为而夭折的诉讼画上句号。",
           "url": "https://flash.jin10.com/detail/20251127021445354800",
           "source": "金十数据",
@@ -267,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "美高官密集造访加勒比 特朗普：可能会与马杜罗对话",
+          "url": "https://wallstreetcn.com/livenews/3011111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
