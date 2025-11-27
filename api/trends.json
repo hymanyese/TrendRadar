@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T16:31:20.073447+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2025-11-27T17:25:44.574429+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
             2,
             9,
             5,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 16时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 17时25分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -69,11 +70,12 @@
             12,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 16时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 17时25分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -102,11 +104,40 @@
             25,
             26,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 16时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976945155765465978",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 17时25分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 17时25分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -124,32 +155,19 @@
           "time_info": "[09时41分 ~ 14时35分]"
         },
         {
-          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976945155765465978",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 16时31分]"
-        },
-        {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
           "ranks": [
             19,
-            17,
-            16,
+            7,
+            11,
             15,
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时13分 ~ 16时31分]"
+          "time_info": "[11时13分 ~ 17时25分]"
         },
         {
           "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
@@ -164,6 +182,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时41分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普下令增兵：行凶者必付出代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时27分 ~ 17时25分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -191,20 +220,6 @@
           "time_info": "[09时41分 ~ 14时35分]"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 16时31分]"
-        },
-        {
           "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
           "url": "https://www.cls.cn/detail/2212154",
           "source": "财联社热门",
@@ -217,17 +232,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时13分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普下令增兵：行凶者必付出代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 16时31分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -302,6 +306,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 14时35分]"
+        },
+        {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时25分]"
         },
         {
           "title": "特朗普与高市通话说了啥？郭正亮蔡正元异口同声：高市早苗挨骂了",
@@ -420,17 +436,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时41分 ~ 11时13分]"
-        },
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时31分]"
         },
         {
           "title": "要乌方让出的土地太多？特朗普回应",
