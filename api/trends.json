@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T12:27:38.547056+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2025-11-27T13:23:05.323258+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 12时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 13时23分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -54,8 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 12时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 13时23分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -84,8 +84,34 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 12时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.toutiao.com/trending/7576971637803716150/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普电话后日本沮丧了三次",
+          "url": "https://www.toutiao.com/trending/7576542938412007450/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 13时23分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -102,19 +128,6 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
-          "title": "特朗普电话后日本沮丧了三次",
-          "url": "https://www.toutiao.com/trending/7576542938412007450/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 12时27分]"
-        },
-        {
           "title": "美财长：特朗普明年或将两次访华",
           "url": "https://www.douyin.com/hot/2318105",
           "source": "抖音",
@@ -128,16 +141,26 @@
           "time_info": "[00时28分 ~ 05时20分]"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.toutiao.com/trending/7576971637803716150/",
-          "source": "今日头条",
+          "title": "特朗普称对国民警卫队成员的袭击是“恐怖行为”",
+          "url": "https://wallstreetcn.com/livenews/3011273",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            2
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
+          "url": "https://news.ifeng.com/c/8obnIsox9nT",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 13时23分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已获悉两名国民警卫队成员遭枪击的事件。",
@@ -151,15 +174,113 @@
           "time_info": "04时24分"
         },
         {
-          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
-          "url": "https://news.ifeng.com/c/8obnIsox9nT",
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 13时23分]"
+        },
+        {
+          "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
+          "url": "https://www.cls.cn/detail/2212154",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 13时23分]"
+        },
+        {
+          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
+          "url": "https://www.cls.cn/detail/2212089",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976945155765465978",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 13时23分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 13时23分]"
+        },
+        {
+          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普为何称明年G20峰会不邀请南非",
+          "url": "https://www.toutiao.com/trending/7577192276787465747/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 13时23分]"
+        },
+        {
+          "title": "高市早苗与特朗普通话内容曝光",
+          "url": "https://news.ifeng.com/c/8ocSbqgk7N4",
           "source": "凤凰网",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时41分 ~ 12时27分]"
+          "time_info": "[12时27分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普下令增兵：行凶者必付出代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时23分]"
         },
         {
           "title": "特朗普与高市通话说了啥？郭正亮蔡正元异口同声：高市早苗挨骂了",
@@ -183,18 +304,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
         },
         {
           "title": "关系持续恶化 特朗普宣称将南非排除出明年的迈阿密G20峰会",
@@ -221,30 +330,6 @@
           "time_info": "[05时20分 ~ 06时21分]"
         },
         {
-          "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
-          "url": "https://www.cls.cn/detail/2212154",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
-        },
-        {
-          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
-          "url": "https://www.cls.cn/detail/2212089",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
-        },
-        {
           "title": "加拿大总理卡尼：周二与美国总统特朗普进行了简短交谈。",
           "url": "https://flash.jin10.com/detail/20251127044356842800",
           "source": "金十数据",
@@ -255,18 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976945155765465978",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
         },
         {
           "title": "美国国防部长赫格塞思：美国总统特朗普已要求向华盛顿特区增派500名士兵，此前已有两名国民警卫队成员遭枪击。",
@@ -317,18 +390,6 @@
           "time_info": "[11时13分 ~ 12时27分]"
         },
         {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
-        },
-        {
           "title": "特朗普宣布“特赦”，火鸡突然大叫",
           "url": "https://m.thepaper.cn/newsDetail_forward_32045220",
           "source": "澎湃新闻",
@@ -340,29 +401,6 @@
           "time_info": "[09时41分 ~ 11时13分]"
         },
         {
-          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 12时27分]"
-        },
-        {
-          "title": "特朗普为何称明年G20峰会不邀请南非",
-          "url": "https://www.toutiao.com/trending/7577192276787465747/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时27分]"
-        },
-        {
           "title": "要乌方让出的土地太多？特朗普回应",
           "url": "https://www.toutiao.com/trending/7577171506048912906/",
           "source": "今日头条",
@@ -372,17 +410,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 09时41分]"
-        },
-        {
-          "title": "高市早苗与特朗普通话内容曝光",
-          "url": "https://news.ifeng.com/c/8ocSbqgk7N4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "美国总统特朗普：我们将立即停止向他们支付所有款项和补贴。",
@@ -416,17 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "特朗普下令增兵：行凶者必付出代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "美国总统特朗普：两名国民警卫队成员情况危急，嫌疑人也受了重伤。",
@@ -465,7 +481,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "总市值站上6000亿！CPO龙头股价历史新高，通信系ETF集体爆发，目前估值什么位置？",
@@ -481,15 +497,15 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
-          "title": "印度Nifty 50指数最高上涨0.30%，创下26,284.2点的历史新高。",
-          "url": "https://flash.jin10.com/detail/20251127115308160800",
-          "source": "金十数据",
+          "title": "丰田10月全球销量同比增长3%，创下该月历史最高销量纪录",
+          "url": "https://wallstreetcn.com/livenews/3011274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "13时23分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.57万亿美元，创历史新高。",
@@ -502,6 +518,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时20分]"
+        },
+        {
+          "title": "印度Nifty 50指数最高上涨0.30%，创下26,284.2点的历史新高。",
+          "url": "https://flash.jin10.com/detail/20251127115308160800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时23分]"
         },
         {
           "title": "强生（JNJ）收涨0.43%，报207.56美元，连续13个交易日创收盘历史新高（期间累计上涨超11%），收盘市值首次突破5000亿美元。",
@@ -526,6 +554,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 12时27分]"
+        },
+        {
+          "title": "印度Sensex指数最高上涨0.45%，创下85,992.4点的历史新高。",
+          "url": "https://flash.jin10.com/detail/20251127123702327800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "有哪些人物在正史上没有记录，却通过考古发现了生平故事？",
