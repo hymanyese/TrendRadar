@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T18:24:50.171657+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2025-11-28T19:20:23.807385+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -39,6 +39,21 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 19时20分]"
+        },
+        {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
           "source": "澎湃新闻",
@@ -49,6 +64,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时41分 ~ 19时20分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -62,35 +91,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 11时13分]"
-        },
-        {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时34分 ~ 18时24分]"
-        },
-        {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时41分 ~ 18时24分]"
         },
         {
           "title": "特朗普：将对委内瑞拉展开地面行动",
@@ -321,6 +321,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "特朗普叫停接收所谓第三世界移民",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AB%E5%81%9C%E6%8E%A5%E6%94%B6%E6%89%80%E8%B0%93%E7%AC%AC%E4%B8%89%E4%B8%96%E7%95%8C%E7%A7%BB%E6%B0%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "白宫因枪击封锁 特朗普下令增兵",
           "url": "https://www.douyin.com/hot/2319279",
           "source": "抖音",
@@ -330,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "特朗普能否影响高市改善中日关系",
+          "url": "https://www.toutiao.com/trending/7577703090468425243/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "深扒特朗普关税操盘手卢特尼克",
@@ -357,7 +379,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "暖心故事烂尾,杜克一哥分道扬镳",
@@ -372,8 +394,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时18分 ~ 18时24分]"
+          "appearance_count": 21,
+          "time_info": "[01时18分 ~ 19时20分]"
         },
         {
           "title": "王毅：日本现职领导人公然开历史倒车",
@@ -399,8 +421,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时41分 ~ 18时24分]"
+          "appearance_count": 12,
+          "time_info": "[09时41分 ~ 19时20分]"
         },
         {
           "title": "查理·芒格晚年未曾公开的故事曝光",
@@ -440,6 +462,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "消息人士：智利国家铜业公司向美国客户提供的2026年铜金属价格，在伦敦金属交易所价格的基础上，溢价超过每吨500美元，创下了历史新高。",
+          "url": "https://flash.jin10.com/detail/20251128190304374800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "再见爱人现实版玫瑰的故事",
           "url": "https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E7%8E%B0%E5%AE%9E%E7%89%88%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -461,8 +494,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时20分]"
         },
         {
           "title": "日本学者：高市涉台错误言论暴露其缺乏历史认知",
@@ -471,9 +504,20 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
+          "title": "白银爆发逼近历史新高，是机会还是风险丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251128185014783800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "19时20分"
         },
         {
           "title": "据Kpler船舶追踪预测数据，美国液化天然气出口量预计将在本月创下历史新高，预计美国11月份船舶出货量将达到1070万吨，比去年同期增长约40%。",
