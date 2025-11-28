@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T16:31:17.209312+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2025-11-28T17:23:58.824086+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -89,8 +89,22 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 17时23分]"
+        },
+        {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 17时23分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -101,8 +115,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 17时23分]"
         },
         {
           "title": "中方回应特朗普要求高市降低声调",
@@ -128,19 +142,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时41分 ~ 14时34分]"
-        },
-        {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 16时31分]"
         },
         {
           "title": "特朗普：将永久暂停来自“第三世界国家”的移民",
@@ -239,6 +240,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "特朗普封杀移民？这次的风暴，会撕裂美国就业市场丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251128164740683800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "丹麦设立“守夜人” 专盯特朗普的一举一动",
@@ -353,11 +365,12 @@
             5,
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时18分 ~ 16时31分]"
+          "appearance_count": 19,
+          "time_info": "[01时18分 ~ 17时23分]"
         },
         {
           "title": "王毅：日本现职领导人公然开历史倒车",
@@ -383,8 +396,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时41分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时41分 ~ 17时23分]"
         },
         {
           "title": "查理·芒格晚年未曾公开的故事曝光",
@@ -428,22 +441,24 @@
           "url": "https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E7%8E%B0%E5%AE%9E%E7%89%88%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时23分]"
         },
         {
           "title": "历史新高！私募总规模突破22万亿",
           "url": "https://www.cls.cn/detail/2213696",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时23分]"
         },
         {
           "title": "据Kpler船舶追踪预测数据，美国液化天然气出口量预计将在本月创下历史新高，预计美国11月份船舶出货量将达到1070万吨，比去年同期增长约40%。",
