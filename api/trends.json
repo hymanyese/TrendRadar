@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T22:22:18.863646+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2025-11-28T23:22:49.456116+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -76,8 +76,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时41分 ~ 22时22分]"
+          "appearance_count": 15,
+          "time_info": "[09时41分 ~ 23时22分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -255,6 +255,17 @@
           "time_info": "17时23分"
         },
         {
+          "title": "外媒：特朗普沉默加剧日方紧张情绪",
+          "url": "https://www.toutiao.com/trending/7577677708164186166/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "丹麦设立“守夜人” 专盯特朗普的一举一动",
           "url": "https://flash.jin10.com/detail/20251128133301169800",
           "source": "金十数据",
@@ -343,13 +354,24 @@
           "time_info": "09时41分"
         },
         {
+          "title": "特朗普：将永久停止第三世界国家移民",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E6%B0%B8%E4%B9%85%E5%81%9C%E6%AD%A2%E7%AC%AC%E4%B8%89%E4%B8%96%E7%95%8C%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美国国土安全部在被问及特朗普认为哪些国家属于“第三世界”时，提到了旅行禁令中列出的19个国家。",
           "url": "https://flash.jin10.com/detail/20251128212638656800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -390,7 +412,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "暖心故事烂尾,杜克一哥分道扬镳",
@@ -402,11 +424,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时18分 ~ 22时22分]"
+          "appearance_count": 26,
+          "time_info": "[01时18分 ~ 23时22分]"
         },
         {
           "title": "王毅：日本现职领导人公然开历史倒车",
@@ -521,6 +544,17 @@
           "time_info": "[18时24分 ~ 20时44分]"
         },
         {
+          "title": "LME期铜涨2.5%，至11210美元/吨附近，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3012300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "白银爆发逼近历史新高，是机会还是风险丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20251128185014783800",
           "source": "金十数据",
@@ -541,6 +575,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "国际现货白银历史性攻破55美元，年内涨幅已超90%",
+          "url": "https://flash.jin10.com/detail/20251128224919460800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "现货白银涨穿55美元继续创历史新高，金银矿业股盘初走高",
+          "url": "https://wallstreetcn.com/livenews/3012298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "沪银续创历史新高",
+          "url": "https://flash.jin10.com/detail/20251128223504331800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "现货白银创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3012288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）三个月期铜上涨2.4%，达到每吨11,205美元的历史新高。",
+          "url": "https://flash.jin10.com/detail/20251128223215826800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "现货白银创历史新高",
+          "url": "https://flash.jin10.com/detail/20251128221129294800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
