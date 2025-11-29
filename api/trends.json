@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T15:20:39.531828+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2025-11-29T16:28:25.457964+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
@@ -268,7 +268,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "暖心故事烂尾,杜克一哥分道扬镳",
@@ -282,8 +282,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 15时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 16时28分]"
         },
         {
           "title": "无视芝商所宕机，标普五连涨，白银飙涨6%创历史新高",
@@ -297,6 +297,31 @@
           "time_info": "07时20分"
         },
         {
+          "title": "铜供应“史上最紧张”！金属溢价飙至纪录，伦铜创历史新高",
+          "url": "https://wallstreetcn.com/articles/3760343",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 16时28分]"
+        },
+        {
+          "title": "现货白银价格单日涨超5% 突破上月纪录创历史新高",
+          "url": "https://www.cls.cn/detail/2214637",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 16时28分]"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国9月原油产量达到1380万桶/日，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3012349",
           "source": "华尔街见闻-快讯",
@@ -308,31 +333,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时17分]"
-        },
-        {
-          "title": "铜供应“史上最紧张”！金属溢价飙至纪录，伦铜创历史新高",
-          "url": "https://wallstreetcn.com/articles/3760343",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时20分]"
-        },
-        {
-          "title": "现货白银价格单日涨超5% 突破上月纪录创历史新高",
-          "url": "https://www.cls.cn/detail/2214637",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时20分]"
         },
         {
           "title": "纽约期银周五涨约6.5%突破57美元创历史新高，11月累涨16%",
@@ -383,6 +383,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 12时26分]"
+        },
+        {
+          "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
+          "url": "https://www.cls.cn/detail/2214775",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "为何日本右翼势力至今仍无法正视历史",
