@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:28:25.457964+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2025-11-29T17:22:00.653743+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -282,19 +282,21 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 16时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 17时22分]"
         },
         {
-          "title": "无视芝商所宕机，标普五连涨，白银飙涨6%创历史新高",
-          "url": "https://wallstreetcn.com/articles/3760330",
-          "source": "华尔街见闻",
+          "title": "现货白银价格单日涨超5% 突破上月纪录创历史新高",
+          "url": "https://www.cls.cn/detail/2214637",
+          "source": "财联社热门",
           "ranks": [
-            5
+            13,
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时22分]"
         },
         {
           "title": "铜供应“史上最紧张”！金属溢价飙至纪录，伦铜创历史新高",
@@ -306,20 +308,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 17时22分]"
         },
         {
-          "title": "现货白银价格单日涨超5% 突破上月纪录创历史新高",
-          "url": "https://www.cls.cn/detail/2214637",
-          "source": "财联社热门",
+          "title": "无视芝商所宕机，标普五连涨，白银飙涨6%创历史新高",
+          "url": "https://wallstreetcn.com/articles/3760330",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时28分]"
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "美国能源信息署（EIA）：美国9月原油产量达到1380万桶/日，创历史新高。",
@@ -347,6 +348,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时41分 ~ 13时21分]"
+        },
+        {
+          "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
+          "url": "https://www.cls.cn/detail/2214775",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时22分]"
         },
         {
           "title": "东南亚股市收盘播报｜越南股市11月累涨超3.1%，印尼股指累涨超4.2%大概守住历史最高位",
@@ -383,17 +396,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 12时26分]"
-        },
-        {
-          "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
-          "url": "https://www.cls.cn/detail/2214775",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "为何日本右翼势力至今仍无法正视历史",
