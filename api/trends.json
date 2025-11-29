@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T12:26:27.447471+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2025-11-29T13:21:57.507950+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -147,11 +147,12 @@
           "ranks": [
             2,
             9,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
@@ -237,6 +238,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "特朗普废除拜登用自动签名笔签的文件",
+          "url": "https://www.toutiao.com/trending/7577899454150279187/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美媒称特朗普上周与马杜罗通话",
+          "url": "https://www.toutiao.com/trending/7577943079517683766/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
@@ -255,8 +278,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 12时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 13时21分]"
         },
         {
           "title": "无视芝商所宕机，标普五连涨，白银飙涨6%创历史新高",
@@ -289,11 +312,36 @@
           "ranks": [
             10,
             17,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 13时21分]"
+        },
+        {
+          "title": "铜供应“史上最紧张”！金属溢价飙至纪录，伦铜创历史新高",
+          "url": "https://wallstreetcn.com/articles/3760343",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时21分]"
+        },
+        {
+          "title": "现货白银价格单日涨超5% 突破上月纪录创历史新高",
+          "url": "https://www.cls.cn/detail/2214637",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时21分]"
         },
         {
           "title": "东南亚股市收盘播报｜越南股市11月累涨超3.1%，印尼股指累涨超4.2%大概守住历史最高位",
@@ -330,28 +378,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 12时26分]"
-        },
-        {
-          "title": "铜供应“史上最紧张”！金属溢价飙至纪录，伦铜创历史新高",
-          "url": "https://wallstreetcn.com/articles/3760343",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "现货白银价格单日涨超5% 突破上月纪录创历史新高",
-          "url": "https://www.cls.cn/detail/2214637",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
         },
         {
           "title": "为何日本右翼势力至今仍无法正视历史",
