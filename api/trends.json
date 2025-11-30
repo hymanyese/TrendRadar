@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T19:17:51.311914+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2025-11-30T20:40:54.536212+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -33,6 +33,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时26分 ~ 16时27分]"
+        },
+        {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 20时40分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -92,18 +104,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时53分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时33分 ~ 19时17分]"
         },
         {
           "title": "特朗普向委内瑞拉发出威胁信号",
@@ -178,9 +178,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时40分]"
+        },
+        {
+          "title": "特朗普与委总统通话 直接要求其下台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时40分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -188,11 +199,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -210,7 +222,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "历史重演,石破茂预警日本偷袭中国",
@@ -222,8 +234,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时35分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[12时35分 ~ 20时40分]"
         },
         {
           "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
@@ -234,8 +246,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 19时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 20时40分]"
         },
         {
           "title": "历史上的中国刺客排名",
@@ -262,8 +274,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时35分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[12时35分 ~ 20时40分]"
         },
         {
           "title": "暖心故事烂尾,杜克一哥分道扬镳",
@@ -279,8 +291,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 19时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 20时40分]"
         },
         {
           "title": "Adobe：消费者在黑色星期五的线上消费创下历史新高，达118亿美元，较去年同期增长9.1%，高于Adobe的最初预测。",
@@ -329,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时20分]"
+        },
+        {
+          "title": "博主：调整中的A股静待新故事爆发",
+          "url": "https://www.toutiao.com/trending/7578466413241699866/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
