@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T07:20:51.490860+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-11-30T09:53:53.430686+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "特朗普称委内瑞拉空域应被视为关闭",
+          "url": "https://wallstreetcn.com/livenews/3012482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时53分]"
+        },
+        {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
           "url": "https://news.ifeng.com/c/8og9MLOfFoi",
           "source": "凤凰网",
@@ -28,6 +40,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
+          "url": "https://flash.jin10.com/detail/20251129220829620800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时53分]"
         },
         {
           "title": "大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美",
@@ -42,48 +66,28 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "特朗普称委内瑞拉空域应被视为关闭",
-          "url": "https://wallstreetcn.com/livenews/3012482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
-          "url": "https://flash.jin10.com/detail/20251129220829620800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
           "url": "https://flash.jin10.com/detail/20251129211916234800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时53分]"
         },
         {
           "title": "美国总统特朗普：因为我为美国争取到了最惠国待遇，药品价格正以前所未有的速度下降，降幅高达500%、600%、700%甚至更多。没有哪位总统能做到这一点，但我做到了。",
           "url": "https://flash.jin10.com/detail/20251129211849546800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时53分]"
         },
         {
           "title": "特朗普向委内瑞拉发出威胁信号",
@@ -158,18 +162,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "历史上的中国刺客排名",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%88%BA%E5%AE%A2%E6%8E%92%E5%90%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
           "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
           "url": "https://www.cls.cn/detail/2214775",
           "source": "财联社热门",
@@ -177,8 +169,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时53分]"
+        },
+        {
+          "title": "历史上的中国刺客排名",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%88%BA%E5%AE%A2%E6%8E%92%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时53分]"
         },
         {
           "title": "暖心故事烂尾,杜克一哥分道扬镳",
@@ -186,11 +191,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时53分]"
         },
         {
           "title": "Adobe：消费者在黑色星期五的线上消费创下历史新高，达118亿美元，较去年同期增长9.1%，高于Adobe的最初预测。",
@@ -244,11 +250,12 @@
             13,
             30,
             17,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时53分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -256,11 +263,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 07时20分]"
+          "appearance_count": 6,
+          "time_info": "[03时17分 ~ 09时53分]"
         }
       ]
     }
