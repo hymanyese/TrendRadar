@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T21:28:32.969515+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2025-11-30T22:19:39.238270+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 21时28分]"
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 22时19分]"
         },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 22时19分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -104,17 +115,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时53分]"
-        },
-        {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时28分]"
         },
         {
           "title": "特朗普向委内瑞拉发出威胁信号",
@@ -183,17 +183,6 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
-          "url": "https://flash.jin10.com/detail/20251130201511290800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
           "url": "https://flash.jin10.com/detail/20251130174813876800",
           "source": "金十数据",
@@ -213,11 +202,24 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
+        },
+        {
+          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
+          "url": "https://flash.jin10.com/detail/20251130201511290800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时28分]"
+          "time_info": "[21时28分 ~ 22时19分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -236,11 +238,12 @@
           "url": "https://www.toutiao.com/trending/7578459169896795667/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时19分]"
         }
       ]
     },
@@ -261,20 +264,6 @@
           "time_info": "[00时26分 ~ 21时28分]"
         },
         {
-          "title": "历史重演,石破茂预警日本偷袭中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347601&amp;topic_name=%E5%8E%86%E5%8F%B2%E9%87%8D%E6%BC%94%2C%E7%9F%B3%E7%A0%B4%E8%8C%82%E9%A2%84%E8%AD%A6%E6%97%A5%E6%9C%AC%E5%81%B7%E8%A2%AD%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时35分 ~ 21时28分]"
-        },
-        {
           "title": "历史上的中国刺客排名",
           "url": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%88%BA%E5%AE%A2%E6%8E%92%E5%90%8D",
           "source": "bilibili 热搜",
@@ -288,6 +277,21 @@
           "time_info": "[00时26分 ~ 13时21分]"
         },
         {
+          "title": "历史重演,石破茂预警日本偷袭中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347601&amp;topic_name=%E5%8E%86%E5%8F%B2%E9%87%8D%E6%BC%94%2C%E7%9F%B3%E7%A0%B4%E8%8C%82%E9%A2%84%E8%AD%A6%E6%97%A5%E6%9C%AC%E5%81%B7%E8%A2%AD%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时35分 ~ 22时19分]"
+        },
+        {
           "title": "盘点2025年离谱历史谣言",
           "url": "https://www.douyin.com/hot/2321843",
           "source": "抖音",
@@ -296,11 +300,12 @@
             8,
             11,
             14,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时35分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时35分 ~ 22时19分]"
         },
         {
           "title": "暖心故事烂尾,杜克一哥分道扬镳",
@@ -317,8 +322,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 21时28分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 22时19分]"
         },
         {
           "title": "Adobe：消费者在黑色星期五的线上消费创下历史新高，达118亿美元，较去年同期增长9.1%，高于Adobe的最初预测。",
@@ -369,6 +374,17 @@
           "time_info": "[20时40分 ~ 21时28分]"
         },
         {
+          "title": "为什么蝙蝠侠有这么严重的故事情节漏洞还能继续连载?",
+          "url": "https://www.zhihu.com/question/1958925929414891096",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时19分]"
+        },
+        {
           "title": "西班牙专家：日本从未承认过历史真相",
           "url": "https://www.toutiao.com/trending/7578011465299673114/",
           "source": "今日头条",
@@ -379,17 +395,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时20分]"
-        },
-        {
-          "title": "为什么蝙蝠侠有这么严重的故事情节漏洞还能继续连载?",
-          "url": "https://www.zhihu.com/question/1958925929414891096",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         }
       ]
     },
