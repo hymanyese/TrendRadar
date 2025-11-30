@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T18:21:40.538348+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2025-11-30T19:17:51.311914+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -94,6 +94,18 @@
           "time_info": "[00时26分 ~ 09时53分]"
         },
         {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普向委内瑞拉发出威胁信号",
           "url": "https://flash.jin10.com/detail/20251129210108575800",
           "source": "金十数据",
@@ -160,27 +172,27 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 18时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
           "url": "https://flash.jin10.com/detail/20251130174813876800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时17分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -210,8 +222,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时35分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[12时35分 ~ 19时17分]"
         },
         {
           "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
@@ -222,8 +234,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 18时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时26分 ~ 19时17分]"
         },
         {
           "title": "历史上的中国刺客排名",
@@ -246,11 +258,12 @@
             9,
             8,
             11,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时35分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[12时35分 ~ 19时17分]"
         },
         {
           "title": "暖心故事烂尾,杜克一哥分道扬镳",
@@ -266,8 +279,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 18时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时26分 ~ 19时17分]"
         },
         {
           "title": "Adobe：消费者在黑色星期五的线上消费创下历史新高，达118亿美元，较去年同期增长9.1%，高于Adobe的最初预测。",
