@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T00:31:54.659869+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-02T01:24:11.970412+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
         },
         {
           "title": "特朗普：美国对叙利亚取得的成果感到非常满意",
           "url": "https://flash.jin10.com/detail/20251202000727981800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
         },
         {
           "title": "马斯克：我应该少碰政治",
@@ -37,52 +38,67 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "美国总统特朗普：任何事情都不应妨碍叙利亚的改变。",
-          "url": "https://flash.jin10.com/detail/20251201235818685800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "美国总统特朗普：美国对叙利亚的成果非常满意。",
-          "url": "https://flash.jin10.com/detail/20251201235744690800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "美国总统特朗普：以色列与叙利亚保持强大而真诚的对话非常重要。",
-          "url": "https://flash.jin10.com/detail/20251201235722550800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时24分]"
         },
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普对马杜罗下最后通牒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时24分]"
+        },
+        {
+          "title": "美国总统特朗普：任何事情都不应妨碍叙利亚的改变。",
+          "url": "https://flash.jin10.com/detail/20251201235818685800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
+        },
+        {
+          "title": "美国总统特朗普：美国对叙利亚的成果非常满意。",
+          "url": "https://flash.jin10.com/detail/20251201235744690800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
+        },
+        {
+          "title": "美国总统特朗普：以色列与叙利亚保持强大而真诚的对话非常重要。",
+          "url": "https://flash.jin10.com/detail/20251201235722550800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
         },
         {
           "title": "乌克兰总统泽连斯基：我们预计将与特朗普就关键计划问题进行讨论。",
@@ -116,17 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "特朗普对马杜罗下最后通牒",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
         }
       ]
     },
@@ -135,6 +140,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32075101",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时24分]"
+        },
+        {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
           "url": "https://wallstreetcn.com/articles/3760415",
           "source": "华尔街见闻",
@@ -142,19 +159,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32075101",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
         },
         {
           "title": "历史重演,石破茂预警日本偷袭中国",
@@ -178,11 +184,12 @@
           "url": "https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%B8%AA%E7%83%A7%E9%92%B1%E4%B8%94%E5%B0%8F%E4%BC%97%E7%9A%84%E7%88%B1%E5%A5%BD&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时24分]"
         }
       ]
     }
