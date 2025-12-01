@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T16:34:55.129811+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2025-12-01T17:31:39.897348+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -38,11 +38,12 @@
             13,
             7,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 17时31分]"
         },
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -53,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时57分 ~ 17时31分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
@@ -284,6 +285,17 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "特朗普与委总统通话，直接要求对方下台！",
+          "url": "https://wallstreetcn.com/articles/3760404",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 17时31分]"
+        },
+        {
           "title": "美国总统特朗普：相信洪都拉斯前总统埃尔南德斯在毒品走私指控上是被设局陷害的。",
           "url": "https://flash.jin10.com/detail/20251201054526929800",
           "source": "金十数据",
@@ -308,15 +320,15 @@
           "time_info": "[14时36分 ~ 15时25分]"
         },
         {
-          "title": "特朗普与委总统通话，直接要求对方下台！",
-          "url": "https://wallstreetcn.com/articles/3760404",
-          "source": "华尔街见闻",
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "17时31分"
         },
         {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
@@ -410,7 +422,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知",
@@ -422,6 +434,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时01分 ~ 15时25分]"
+        },
+        {
+          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
+          "url": "https://www.cls.cn/detail/2215253",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时57分 ~ 17时31分]"
         },
         {
           "title": "历史重演,石破茂预警日本偷袭中国",
@@ -437,8 +463,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 16时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 17时31分]"
         },
         {
           "title": "为什么蝙蝠侠有这么严重的故事情节漏洞还能继续连载?",
@@ -465,19 +491,6 @@
           "time_info": "[00时25分 ~ 10时01分]"
         },
         {
-          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
-          "url": "https://www.cls.cn/detail/2215253",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时57分 ~ 16时34分]"
-        },
-        {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
           "url": "https://wallstreetcn.com/articles/3760415",
           "source": "华尔街见闻",
@@ -486,11 +499,23 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时57分 ~ 17时31分]"
+        },
+        {
+          "title": "印度Nifty汽车指数创历史新高，现涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20251201170412970800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "现货白银历史首次触及57美元/盎司，日内涨1.13%。",
@@ -524,8 +549,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 17时31分]"
         },
         {
           "title": "一件元青花成就一段历史级双向奔赴",
@@ -535,8 +560,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 16时34分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 17时31分]"
         },
         {
           "title": "金十期货整理 | 沪银再创历史新高，期货公司如何看待本轮行情？",
@@ -615,6 +640,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "短剧暗潮涌动细节里的抗战历史",
+          "url": "https://www.toutiao.com/trending/7578137768191148083/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "印度卢比兑美元一度跌至89.7575的历史低位。有交易员称，印度央行可能在抛售美元，以抑制卢比跌势。",
