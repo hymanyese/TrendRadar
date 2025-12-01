@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T03:24:15.876907+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2025-12-02T04:23:36.217939+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "马斯克：我应该少碰政治",
@@ -26,8 +26,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时23分]"
+        },
+        {
+          "title": "特朗普对马杜罗下最后通牒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
@@ -39,32 +53,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时24分]"
-        },
-        {
-          "title": "特朗普对马杜罗下最后通牒",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时24分]"
-        },
-        {
-          "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
-          "url": "https://flash.jin10.com/detail/20251202025230331800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "特朗普：美国对叙利亚取得的成果感到非常满意",
@@ -79,6 +69,66 @@
           "time_info": "[00时31分 ~ 01时24分]"
         },
         {
+          "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
+          "url": "https://flash.jin10.com/detail/20251202025230331800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时23分]"
+        },
+        {
+          "title": "美国白宫：（回应特朗普核磁共振检查结果）检查系出于预防性目的，心脏影像检查结果正常，未发现动脉狭窄的迹象，腹部影像亦正常，特朗普整体健康状况仍然极佳。",
+          "url": "https://flash.jin10.com/detail/20251202025217269800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时23分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3013186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时23分]"
+        },
+        {
+          "title": "法国总统马克龙在与美国总统特朗普的会谈中强调，对乌克兰所需的安全保障具有核心重要性。",
+          "url": "https://flash.jin10.com/detail/20251202024624684800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时23分]"
+        },
+        {
+          "title": "法国总统马克龙与美国总统特朗普就实现乌克兰持久和平的条件，以及美国所开展的斡旋工作的下一步举措交换了意见。",
+          "url": "https://flash.jin10.com/detail/20251202024618091800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时23分]"
+        },
+        {
           "title": "美国总统特朗普：任何事情都不应妨碍叙利亚的改变。",
           "url": "https://flash.jin10.com/detail/20251201235818685800",
           "source": "金十数据",
@@ -89,6 +139,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时24分]"
+        },
+        {
+          "title": "美国白宫：总统特朗普正积极重新审查所有来自阿富汗的移民，任何威胁国家安全的个人都将被移除，完成大规模驱逐行动比以往任何时候都更加重要。",
+          "url": "https://flash.jin10.com/detail/20251202024219703800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时23分]"
         },
         {
           "title": "美国总统特朗普：美国对叙利亚的成果非常满意。",
@@ -103,6 +165,18 @@
           "time_info": "[00时31分 ~ 01时24分]"
         },
         {
+          "title": "美国白宫：将就特朗普账户发表声明。",
+          "url": "https://flash.jin10.com/detail/20251202023639798800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时23分]"
+        },
+        {
           "title": "以色列总理办公室：以色列总理内塔尼亚胡与美国总统特朗普讨论了致力于解除哈马斯武装、实现加沙非军事化，以及扩大和平协议的问题。",
           "url": "https://flash.jin10.com/detail/20251202012755977800",
           "source": "金十数据",
@@ -113,6 +187,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时24分]"
+        },
+        {
+          "title": "爱丽舍宫：法国总统马克龙刚刚与美国总统特朗普就乌克兰局势进行了会谈。",
+          "url": "https://flash.jin10.com/detail/20251202023557571800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时23分]"
         },
         {
           "title": "美国总统特朗普：以色列与叙利亚保持强大而真诚的对话非常重要。",
@@ -139,92 +225,28 @@
           "time_info": "[02时37分 ~ 03时24分]"
         },
         {
-          "title": "美国白宫：（回应特朗普核磁共振检查结果）检查系出于预防性目的，心脏影像检查结果正常，未发现动脉狭窄的迹象，腹部影像亦正常，特朗普整体健康状况仍然极佳。",
-          "url": "https://flash.jin10.com/detail/20251202025217269800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
-          "url": "https://wallstreetcn.com/livenews/3013186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "法国总统马克龙在与美国总统特朗普的会谈中强调，对乌克兰所需的安全保障具有核心重要性。",
-          "url": "https://flash.jin10.com/detail/20251202024624684800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "法国总统马克龙与美国总统特朗普就实现乌克兰持久和平的条件，以及美国所开展的斡旋工作的下一步举措交换了意见。",
-          "url": "https://flash.jin10.com/detail/20251202024618091800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国白宫：总统特朗普正积极重新审查所有来自阿富汗的移民，任何威胁国家安全的个人都将被移除，完成大规模驱逐行动比以往任何时候都更加重要。",
-          "url": "https://flash.jin10.com/detail/20251202024219703800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国白宫：将就特朗普账户发表声明。",
-          "url": "https://flash.jin10.com/detail/20251202023639798800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "爱丽舍宫：法国总统马克龙刚刚与美国总统特朗普就乌克兰局势进行了会谈。",
-          "url": "https://flash.jin10.com/detail/20251202023557571800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
           "title": "美国白宫：周四，美国总统特朗普将接待卢旺达和刚果总统，签署协议。",
           "url": "https://flash.jin10.com/detail/20251202023547665800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时23分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于周二召开内阁会议。",
+          "url": "https://flash.jin10.com/detail/20251202023527171800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时23分]"
         },
         {
           "title": "据以色列媒体报道，以色列总理与美国总统特朗普通话。",
@@ -236,17 +258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普将于周二召开内阁会议。",
-          "url": "https://flash.jin10.com/detail/20251202023527171800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
         },
         {
           "title": "乌克兰总统泽连斯基：我们预计将与特朗普就关键计划问题进行讨论。",
@@ -297,8 +308,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
@@ -308,19 +319,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "报道：Jane Street和城堡证券全年交易业务收入迈向历史新高",
           "url": "https://wallstreetcn.com/livenews/3013183",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时23分]"
         },
         {
           "title": "历史重演,石破茂预警日本偷袭中国",
@@ -350,8 +362,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时23分]"
         }
       ]
     }
