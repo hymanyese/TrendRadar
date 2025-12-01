@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T20:47:48.163698+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2025-12-01T21:37:14.527737+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时57分 ~ 20时47分]"
+          "appearance_count": 11,
+          "time_info": "[11时57分 ~ 21时37分]"
         },
         {
           "title": "“特朗普交易”遭重创",
@@ -94,6 +94,18 @@
           "time_info": "[10时01分 ~ 15时25分]"
         },
         {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普：俄乌和平协议“很有可能”达成",
           "url": "https://news.ifeng.com/c/8oikvl8KaCy",
           "source": "凤凰网",
@@ -117,6 +129,18 @@
           "time_info": "18时27分"
         },
         {
+          "title": "马斯克震撼预言：AI将在三年内终结美国“债务危机”！",
+          "url": "https://www.cls.cn/detail/2215716",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
           "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
           "source": "凤凰网",
@@ -128,16 +152,16 @@
           "time_info": "[11时57分 ~ 13时31分]"
         },
         {
-          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
-          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
-          "source": "凤凰网",
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.douyin.com/hot/2322761",
+          "source": "抖音",
           "ranks": [
             8,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时47分]"
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 21时37分]"
         },
         {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
@@ -249,18 +273,6 @@
           "time_info": "[10时01分 ~ 12时54分]"
         },
         {
-          "title": "马斯克震撼预言：AI将在三年内终结美国“债务危机”！",
-          "url": "https://www.cls.cn/detail/2215716",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时47分]"
-        },
-        {
           "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
           "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
           "source": "凤凰网",
@@ -309,6 +321,17 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "马斯克：我应该少碰政治",
+          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
+        },
+        {
           "title": "美国总统特朗普：我们会调查有关对毒品船只发动第二次打击的报道。我不希望发生那种事，但国防部长赫格塞思所说的第二次打击并没有发生。",
           "url": "https://flash.jin10.com/detail/20251201054736615800",
           "source": "金十数据",
@@ -354,17 +377,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 15时25分]"
-        },
-        {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.douyin.com/hot/2322761",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         },
         {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
@@ -472,7 +484,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         }
@@ -480,7 +492,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知",
@@ -506,8 +518,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时57分 ~ 20时47分]"
+          "appearance_count": 11,
+          "time_info": "[11时57分 ~ 21时37分]"
         },
         {
           "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
@@ -538,8 +550,23 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时25分 ~ 20时47分]"
+          "appearance_count": 28,
+          "time_info": "[00时25分 ~ 21时37分]"
+        },
+        {
+          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32075101",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时36分 ~ 21时37分]"
         },
         {
           "title": "为什么蝙蝠侠有这么严重的故事情节漏洞还能继续连载?",
@@ -564,21 +591,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时25分 ~ 10时01分]"
-        },
-        {
-          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32075101",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 20时47分]"
         },
         {
           "title": "印度Nifty汽车指数创历史新高，现涨0.8%。",
@@ -637,6 +649,17 @@
           "time_info": "[17时31分 ~ 18时27分]"
         },
         {
+          "title": "日方对自身在台湾问题上的立场一再含糊其辞，外交部：某些人从未真正汲取历史教训",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32076869",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 21时37分]"
+        },
+        {
           "title": "金十期货整理 | 沪银再创历史新高，期货公司如何看待本轮行情？",
           "url": "https://flash.jin10.com/detail/20251201112017325800",
           "source": "金十数据",
@@ -647,6 +670,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 12时54分]"
+        },
+        {
+          "title": "中方：日本某些势力从未汲取历史教训",
+          "url": "https://www.toutiao.com/trending/7578256051871662086/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "现货白银亚市盘初逼近57美元/盎司关口，创历史新高。",
@@ -724,17 +758,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
-        },
-        {
-          "title": "日方对自身在台湾问题上的立场一再含糊其辞，外交部：某些人从未真正汲取历史教训",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32076869",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         }
       ]
     },
