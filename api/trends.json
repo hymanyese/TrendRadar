@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T15:25:32.586175+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-12-01T16:34:55.129811+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
+          "url": "https://wallstreetcn.com/articles/3760417",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 16时34分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
-          "url": "https://wallstreetcn.com/articles/3760417",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 15时25分]"
         },
         {
           "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
@@ -228,11 +228,12 @@
           "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
@@ -432,11 +433,12 @@
             18,
             20,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 15时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 16时34分]"
         },
         {
           "title": "为什么蝙蝠侠有这么严重的故事情节漏洞还能继续连载?",
@@ -472,8 +474,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时57分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 16时34分]"
         },
         {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
@@ -487,8 +489,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 16时34分]"
         },
         {
           "title": "现货白银历史首次触及57美元/盎司，日内涨1.13%。",
@@ -514,6 +516,29 @@
           "time_info": "[14时36分 ~ 15时25分]"
         },
         {
+          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32075101",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时34分]"
+        },
+        {
+          "title": "一件元青花成就一段历史级双向奔赴",
+          "url": "https://www.douyin.com/hot/2323166",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时34分]"
+        },
+        {
           "title": "金十期货整理 | 沪银再创历史新高，期货公司如何看待本轮行情？",
           "url": "https://flash.jin10.com/detail/20251201112017325800",
           "source": "金十数据",
@@ -524,28 +549,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 12时54分]"
-        },
-        {
-          "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32075101",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时25分]"
-        },
-        {
-          "title": "一件元青花成就一段历史级双向奔赴",
-          "url": "https://www.douyin.com/hot/2323166",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "现货白银亚市盘初逼近57美元/盎司关口，创历史新高。",
@@ -576,7 +579,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -609,7 +612,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -620,7 +623,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
