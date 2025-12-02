@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T00:32:19.387207+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-03T01:25:05.084667+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 2,
+      "match_count": 22,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时25分]"
         },
         {
           "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
@@ -26,8 +26,228 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时25分]"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰局势并不简单，真是乱成一团。",
+          "url": "https://flash.jin10.com/detail/20251203011418257800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普将于明年初宣布美联储主席人选",
+          "url": "https://flash.jin10.com/detail/20251203011403459800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普：我的体检全部得了A。",
+          "url": "https://flash.jin10.com/detail/20251203011020121800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普：将用关税收入发放退款。",
+          "url": "https://flash.jin10.com/detail/20251203010635367800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普：医疗保健问题上将发生一些事，（但进展可能）不会太容易。",
+          "url": "https://wallstreetcn.com/livenews/3013844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
+          "url": "https://flash.jin10.com/detail/20251203010547676800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "巴西总统府：卢拉感谢特朗普决定取消咖啡、牛肉等产品的关税。",
+          "url": "https://flash.jin10.com/detail/20251203010532977800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普：将于明年初宣布美联储主席人选。“可能”在明年初宣布。继续批评鲍威尔（现任美联储主席）。",
+          "url": "https://wallstreetcn.com/livenews/3013842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普：医保领域将有新动向，但这不会一帆风顺。与民主党人就医保进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251203010418509800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "巴西总统府：巴西总统卢拉与美国总统特朗普就贸易、经济及打击有组织犯罪进行了会谈。",
+          "url": "https://flash.jin10.com/detail/20251203010009669800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "巴西总统府：巴西总统卢拉与美国总统特朗普通话40分钟，会谈非常富有成效。",
+          "url": "https://flash.jin10.com/detail/20251203005842959800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席应该降息。",
+          "url": "https://flash.jin10.com/detail/20251203005837291800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普重申对鲍威尔的批评，特朗普表示连摩根大通CEO戴蒙都说鲍威尔应该降低利率。",
+          "url": "https://flash.jin10.com/detail/20251203005821190800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "巴西总统府：巴西总统卢拉周二与美国总统特朗普通了电话。",
+          "url": "https://flash.jin10.com/detail/20251203005736487800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普：将于明年年初宣布新任美联储主席，贝森特不想要美联储的工作。",
+          "url": "https://flash.jin10.com/detail/20251203005722605800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "金十提示：特朗普开始在白宫内阁会议上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251203005635949800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "市场消息：普京开始与美国特使维特科夫以及特朗普的女婿库什纳举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251203004907808800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "市场消息：特朗普将于周三宣布拟对汽车燃油经济性法规进行调整，通用汽车和福特汽车的高管将出席白宫会议。",
+          "url": "https://flash.jin10.com/detail/20251203004623208800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普拟放宽里程规定，以遏制汽车价格上涨。",
+          "url": "https://flash.jin10.com/detail/20251203004601375800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "首位美籍教皇利奥十四世敦促特朗普政府不要试图通过军事手段推翻委内瑞拉总统马杜罗，利奥十四世表示，如果华盛顿寻求变革，与其采取对抗，不如尝试对话或施加经济压力。",
+          "url": "https://flash.jin10.com/detail/20251203003259046800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         }
       ]
     },
@@ -45,6 +265,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "乌克兰总统泽连斯基：我从谈判的速度以及美国对这一进程的兴趣中看到了一些乐观迹象。",
+          "url": "https://flash.jin10.com/detail/20251203011424190800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         }
       ]
     }
