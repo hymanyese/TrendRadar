@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T12:32:51.737247+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2025-12-02T13:22:47.191826+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -58,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时22分]"
         },
         {
           "title": "美国总统特朗普：看起来洪都拉斯似乎正试图篡改其总统选举结果。如果他们这么做了，他们会付出惨重代价。选举委员会必须完成计票工作。",
@@ -97,6 +97,17 @@
           "time_info": "[03时24分 ~ 05时19分]"
         },
         {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时22分]"
+        },
+        {
           "title": "特朗普：美国对叙利亚取得的成果感到非常满意",
           "url": "https://flash.jin10.com/detail/20251202000727981800",
           "source": "金十数据",
@@ -107,17 +118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时24分]"
-        },
-        {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时32分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -386,12 +386,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "特朗普面临支持率“大麻烦”",
+          "url": "https://www.toutiao.com/trending/7578565783584784438/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
@@ -426,8 +437,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时22分]"
+        },
+        {
+          "title": "印度卢比测试历史新低 贸易协议僵局使90关口面临风险",
+          "url": "https://flash.jin10.com/detail/20251202130228488800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日方对自身在台湾问题上的立场一再含糊其辞，外交部：某些人从未真正汲取历史教训",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32076869",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时22分]"
         },
         {
           "title": "报道：Jane Street和城堡证券全年交易业务收入迈向历史新高",
@@ -441,18 +475,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时24分 ~ 05时19分]"
-        },
-        {
-          "title": "日方对自身在台湾问题上的立场一再含糊其辞，外交部：某些人从未真正汲取历史教训",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32076869",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时32分]"
         },
         {
           "title": "周一（12月1日）纽约尾盘，现货白银涨2.67%，报58.0014美元/盎司，北京时间00:46涨至58.8434美元刷新日高。 COMEX白银期货涨2.27%，报68.460美元/盎司，00:46涨至59.435美元创盘中历史新高。 COMEX铜期货大致持平，报5.2725美元/磅。 现货铂金跌0.33%，报1665.64美元/盎司；现货钯金跌1.81%，报1427.12美元/盎司。",
