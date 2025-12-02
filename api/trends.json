@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T20:48:19.739565+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2025-12-02T21:38:53.632335+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -110,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "与特朗普家族有关联的比特币矿商American Bitcoin盘前大跌22%",
+          "url": "https://wallstreetcn.com/livenews/3013757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "特朗普明日凌晨3点将发表重大声明",
@@ -398,6 +409,28 @@
           "time_info": "05时19分"
         },
         {
+          "title": "特朗普敦促共和党州长采用纸质选票。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "美国总统特朗普敦促共和党州长采用纸质选票。",
+          "url": "https://flash.jin10.com/detail/20251202205510063800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "特朗普政府将入股芯片初创公司XLIGHT，投资至多1.5亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3013337",
           "source": "华尔街见闻-快讯",
@@ -420,6 +453,17 @@
           "time_info": "11时20分"
         },
         {
+          "title": "戴尔夫妇捐赠62.5亿美元为针对儿童的“特朗普账户”提供资金。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "据以色列媒体报道，以色列总理与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20251202011542425800",
           "source": "金十数据",
@@ -429,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "市场消息：戴尔夫妇捐赠62.5亿美元为针对儿童的\"特朗普账户\"提供资金。",
+          "url": "https://flash.jin10.com/detail/20251202204735212800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "乌克兰总统泽连斯基：我们预计将与特朗普就关键计划问题进行讨论。",
@@ -459,7 +514,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -514,7 +569,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         }
@@ -522,7 +577,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
@@ -596,17 +651,6 @@
           "time_info": "19时21分"
         },
         {
-          "title": "贵金属衍生品交易激增 助推芝商所11月日均交易量创历史次高",
-          "url": "https://flash.jin10.com/detail/20251202204131813800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
           "title": "印度卢比测试历史新低 贸易协议僵局使90关口面临风险",
           "url": "https://flash.jin10.com/detail/20251202130228488800",
           "source": "金十数据",
@@ -617,6 +661,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 14时35分]"
+        },
+        {
+          "title": "贵金属衍生品交易激增 助推芝商所11月日均交易量创历史次高",
+          "url": "https://flash.jin10.com/detail/20251202204131813800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时38分]"
         },
         {
           "title": "报道：Jane Street和城堡证券全年交易业务收入迈向历史新高",
@@ -644,6 +700,18 @@
           "time_info": "[16时32分 ~ 17时29分]"
         },
         {
+          "title": "芝商所（CME）月度成交量创历史次高纪录。",
+          "url": "https://flash.jin10.com/detail/20251202203112985800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时38分]"
+        },
+        {
           "title": "周一（12月1日）纽约尾盘，现货白银涨2.67%，报58.0014美元/盎司，北京时间00:46涨至58.8434美元刷新日高。 COMEX白银期货涨2.27%，报68.460美元/盎司，00:46涨至59.435美元创盘中历史新高。 COMEX铜期货大致持平，报5.2725美元/磅。 现货铂金跌0.33%，报1665.64美元/盎司；现货钯金跌1.81%，报1427.12美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3013228",
           "source": "华尔街见闻-快讯",
@@ -656,15 +724,15 @@
           "time_info": "[06时31分 ~ 07时21分]"
         },
         {
-          "title": "芝商所（CME）月度成交量创历史次高纪录。",
-          "url": "https://flash.jin10.com/detail/20251202203112985800",
-          "source": "金十数据",
+          "title": "你们最喜欢《唐诡 3》的哪个故事？",
+          "url": "https://www.zhihu.com/question/1973105059630958270",
+          "source": "知乎",
           "ranks": [
-            7
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时38分]"
         },
         {
           "title": "华侨银行股价创历史新高 财富管理业务助推优异表现",
@@ -678,6 +746,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "芝商所（CME）月度成交量创历史次高。",
+          "url": "https://wallstreetcn.com/livenews/3013727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "A股算力硬件股盘中回暖，赛微电子涨超14%，续创历史新高，特发信息、天孚通信、胜宏科技、工业富联、中富电路跟涨。",
           "url": "https://wallstreetcn.com/livenews/3013406",
           "source": "华尔街见闻-快讯",
@@ -687,17 +766,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        },
-        {
-          "title": "你们最喜欢《唐诡 3》的哪个故事？",
-          "url": "https://www.zhihu.com/question/1973105059630958270",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "英国央行金融稳定报告：信贷利差仍低于历史水平。",
@@ -759,11 +827,12 @@
           "url": "https://www.zhihu.com/question/499452895",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时38分]"
         }
       ]
     }
