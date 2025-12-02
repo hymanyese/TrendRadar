@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T14:35:41.564991+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2025-12-02T15:24:25.765915+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -59,8 +59,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时35分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时24分]"
+        },
+        {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 15时24分]"
         },
         {
           "title": "美国总统特朗普：看起来洪都拉斯似乎正试图篡改其总统选举结果。如果他们这么做了，他们会付出惨重代价。选举委员会必须完成计票工作。",
@@ -72,28 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        },
-        {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 14时35分]"
-        },
-        {
-          "title": "马斯克：人类活在虚拟世界概率极高",
-          "url": "https://www.toutiao.com/trending/7579074233024646666/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "特朗普明日凌晨3点将发表重大声明",
@@ -118,6 +107,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时24分 ~ 05时19分]"
+        },
+        {
+          "title": "马斯克：人类活在虚拟世界概率极高",
+          "url": "https://www.toutiao.com/trending/7579074233024646666/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时24分]"
         },
         {
           "title": "特朗普：美国对叙利亚取得的成果感到非常满意",
@@ -410,12 +411,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "特朗普将自己画像与华盛顿并列",
+          "url": "https://www.toutiao.com/trending/7578655836017311798/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
@@ -437,8 +449,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 15时24分]"
         },
         {
           "title": "人民日报钟声：日本所谓“台湾地位未定”论，是对历史的无知和现实的误判",
@@ -463,8 +475,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 15时24分]"
         },
         {
           "title": "印度卢比测试历史新低 贸易协议僵局使90关口面临风险",
@@ -510,7 +522,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -524,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "英国央行金融稳定报告：信贷利差仍低于历史水平。",
+          "url": "https://flash.jin10.com/detail/20251202150602956800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "30年期日债收益率上涨2个基点，报3.410%，创历史新高。",
