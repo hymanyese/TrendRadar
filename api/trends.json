@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T05:20:50.734181+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2025-12-04T06:25:17.884163+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 34,
+      "match_count": 52,
       "titles": [
         {
           "title": "高市早苗又现眼 日本网民惊呆了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "如何理解高市早苗涉台最新表态？专家：只是后退一小步",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "胡锡进：高市早苗涉台表态有所软化，但更像是挤牙膏式的软化",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "高市早苗称日本政府对台立场没改变",
@@ -60,11 +60,12 @@
             16,
             19,
             25,
-            21
+            21,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "日专家：高市早苗或被发国际逮捕令",
@@ -74,11 +75,12 @@
             8,
             19,
             15,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "高市早苗终于不嘴硬了",
@@ -89,8 +91,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -100,8 +102,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "高市早苗涉台最新表态",
@@ -113,8 +115,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -125,8 +127,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 06时25分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -147,7 +149,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -169,9 +171,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "据知情人士透露，美国总统特朗普的“身边人”探讨让贝森特兼任财政部长和国家经济委员会主任。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3014655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美国总统特朗普：我相信我们的汽车工业规模将会比以前更大。",
@@ -180,20 +193,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
         {
-          "title": "美国总统特朗普赞赏福特汽车的F-150车型。",
-          "url": "https://wallstreetcn.com/livenews/3014623",
-          "source": "华尔街见闻-快讯",
+          "title": "美墨加协定将到期 特朗普：要么失效 要么达成新协议",
+          "url": "https://flash.jin10.com/detail/20251204055451717800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "06时25分"
         },
         {
           "title": "美国总统特朗普认为超小型汽车在美国是一个巨大的市场。",
@@ -202,9 +215,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "据美联社：特朗普助手将于周四在迈阿密与乌克兰高级谈判代表会面，就俄乌和平谈判展开进一步磋商。",
+          "url": "https://flash.jin10.com/detail/20251204055124710800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
@@ -213,18 +237,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美国总统特朗普建议对乘用车下调燃油效率标准。",
-          "url": "https://wallstreetcn.com/livenews/3014620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -265,6 +278,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 03时20分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏福特汽车的F-150车型。",
+          "url": "https://wallstreetcn.com/livenews/3014623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时25分]"
+        },
+        {
+          "title": "美国总统特朗普建议对乘用车下调燃油效率标准。",
+          "url": "https://wallstreetcn.com/livenews/3014620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时25分]"
         },
         {
           "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
@@ -358,9 +395,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "特朗普：美特使与普京的会面相当不错",
+          "url": "https://flash.jin10.com/detail/20251204053618515800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
@@ -369,9 +417,152 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "美国总统特朗普的智囊团将在周四会见到访的乌克兰首席代表。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3014646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普结束在白宫的讲话。",
+          "url": "https://flash.jin10.com/detail/20251204052715528800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们要么让美墨加协定到期失效，要么与墨西哥和加拿大另行达成协议。",
+          "url": "https://flash.jin10.com/detail/20251204052449950800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：或许会与墨西哥和加拿大达成另外一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3014640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普重申将很快对毒品恐怖分子发动陆地打击。",
+          "url": "https://flash.jin10.com/detail/20251204052252756800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：加沙停火协议的第二阶段正在推进，很快就会实现。",
+          "url": "https://flash.jin10.com/detail/20251204052139386800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普支持击沉运毒船只的决定。",
+          "url": "https://flash.jin10.com/detail/20251204051916571800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "周三（12月3日），降息赢家指数涨1.00%，报100.28点，美股盘初显著走高，后续持续高位震荡。 “特朗普关税输家”指数涨1.78%，报109.06点，走势与降息赢家指数类似。 散户抱团概念股指数/迷因股（meme stock）指数涨1.48%。",
+          "url": "https://wallstreetcn.com/livenews/3014637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：与英伟达CEO黄仁勋进行了对话。",
+          "url": "https://flash.jin10.com/detail/20251204051858619800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：将公布所有可获得的“船袭”事件相关视频。",
+          "url": "https://flash.jin10.com/detail/20251204051559558800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "周三（12月3日），彭博电动汽车价格回报指数跌0.47%，报3387.48点。 北京时间10:00前后显著下挫，全天绝大部分时间低位震荡，美国总统特朗普宣布汽车燃油效率“新政”之际并无显著波动。",
+          "url": "https://wallstreetcn.com/livenews/3014633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京想要结束战争。",
+          "url": "https://flash.jin10.com/detail/20251204051440162800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：（谈威特科夫、库什纳与普京的会面）相当不错的会面。我们会看到将发生什么。这次会面的结果我不能透露。",
+          "url": "https://flash.jin10.com/detail/20251204051433183800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "福特汽车(F.N)CEO：今日将与美国总统特朗普和交通部长达菲会面。",
@@ -405,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普提议大幅降低乘用车燃油效率标准",
+          "url": "https://flash.jin10.com/detail/20251204050402626800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         }
       ]
     },
@@ -421,8 +623,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         }
       ]
     }
