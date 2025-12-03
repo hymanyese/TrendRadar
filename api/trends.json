@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T13:22:08.894236+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2025-12-03T14:35:58.832899+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 85,
+      "match_count": 86,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -38,11 +38,12 @@
             13,
             6,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时20分 ~ 13时22分]"
+          "appearance_count": 10,
+          "time_info": "[07时20分 ~ 14时35分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -52,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 14时35分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -61,11 +62,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 14时35分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -77,8 +79,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 14时35分]"
         },
         {
           "title": "国台办回应高市早苗至今拒不收回涉台错误言论",
@@ -89,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 14时35分]"
         },
         {
           "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
@@ -125,6 +127,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "高市早苗老家奈良凉了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%80%81%E5%AE%B6%E5%A5%88%E8%89%AF%E5%87%89%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 14时35分]"
         },
         {
           "title": "特朗普宣布拜登时期文件全部作废",
@@ -277,18 +291,6 @@
           "time_info": "[04时28分 ~ 05时22分]"
         },
         {
-          "title": "高市早苗老家奈良凉了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%80%81%E5%AE%B6%E5%A5%88%E8%89%AF%E5%87%89%E4%BA%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 13时22分]"
-        },
-        {
           "title": "美国总统特朗普：我的体检全部得了A。",
           "url": "https://flash.jin10.com/detail/20251203011020121800",
           "source": "金十数据",
@@ -361,6 +363,18 @@
           "time_info": "[03时21分 ~ 04时28分]"
         },
         {
+          "title": "日专家：高市早苗或被发国际逮捕令",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%96%E8%A2%AB%E5%8F%91%E5%9B%BD%E9%99%85%E9%80%AE%E6%8D%95%E4%BB%A4",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时35分]"
+        },
+        {
           "title": "美特使与特朗普女婿漫步莫斯科红场",
           "url": "https://www.toutiao.com/trending/7579132126877548586/",
           "source": "今日头条",
@@ -420,17 +434,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时22分]"
-        },
-        {
-          "title": "日专家：高市早苗或被发国际逮捕令",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%96%E8%A2%AB%E5%8F%91%E5%9B%BD%E9%99%85%E9%80%AE%E6%8D%95%E4%BB%A4",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "巴西总统府：卢拉感谢特朗普决定取消咖啡、牛肉等产品的关税。",
@@ -709,7 +712,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -987,6 +990,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普在内阁会议上睡眼惺忪",
+          "url": "https://www.toutiao.com/trending/7579102119777828918/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "首位美籍教皇利奥十四世敦促特朗普政府不要试图通过军事手段推翻委内瑞拉总统马杜罗，利奥十四世表示，如果华盛顿寻求变革，与其采取对抗，不如尝试对话或施加经济压力。",
