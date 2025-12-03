@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T20:48:59.561733+08:00",
-  "total_titles_processed": 1807,
+  "generated_at": "2025-12-03T21:37:41.144202+08:00",
+  "total_titles_processed": 1901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 113,
+      "match_count": 116,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时45分 ~ 20时48分]"
+          "appearance_count": 12,
+          "time_info": "[09时45分 ~ 21时37分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -83,6 +83,17 @@
           "time_info": "[11时19分 ~ 16时31分]"
         },
         {
+          "title": "特朗普签署法律以加深美台联系，外交部回应",
+          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
           "url": "https://www.cls.cn/detail/2217685",
           "source": "财联社热门",
@@ -96,17 +107,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时20分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普签署法律以加深美台联系，外交部回应",
-          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
         },
         {
           "title": "日专家：高市早苗或被发国际逮捕令",
@@ -132,36 +132,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
-        },
-        {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            9,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 20时48分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时37分]"
         },
         {
           "title": "特朗普点名日本",
@@ -174,8 +146,76 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时37分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4,
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时37分]"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9,
+            1,
+            2,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
+          "time_info": "[17时27分 ~ 21时37分]"
+        },
+        {
+          "title": "高市早苗老家奈良凉了",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%80%81%E5%AE%B6%E5%A5%88%E8%89%AF%E5%87%89%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            19,
+            10,
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时37分]"
+        },
+        {
+          "title": "引用中日联合声明，高市早苗涉台最新表态",
+          "url": "https://news.ifeng.com/c/8omhuK5QXkt",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时37分]"
+        },
+        {
+          "title": "涉高市早苗，两家日媒杠上了",
+          "url": "https://news.ifeng.com/c/8omYxklZH8N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时37分]"
         },
         {
           "title": "高市早苗老家奈良凉了",
@@ -191,63 +231,15 @@
           "time_info": "[12时30分 ~ 16时31分]"
         },
         {
-          "title": "高市早苗老家奈良凉了",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%80%81%E5%AE%B6%E5%A5%88%E8%89%AF%E5%87%89%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            19,
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
-        },
-        {
-          "title": "引用中日联合声明，高市早苗涉台最新表态",
-          "url": "https://news.ifeng.com/c/8omhuK5QXkt",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
-        },
-        {
-          "title": "涉高市早苗，两家日媒杠上了",
-          "url": "https://news.ifeng.com/c/8omYxklZH8N",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
-        },
-        {
           "title": "高市早苗称日本政府对台立场没改变",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%8F%B0%E7%AB%8B%E5%9C%BA%E6%B2%A1%E6%94%B9%E5%8F%98",
           "source": "百度热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
-          "url": "https://flash.jin10.com/detail/20251203092512692800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时37分]"
         },
         {
           "title": "日专家：高市早苗或被发国际逮捕令",
@@ -261,8 +253,32 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时37分]"
+        },
+        {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时48分]"
+          "time_info": "[17时27分 ~ 21时37分]"
+        },
+        {
+          "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
+          "url": "https://flash.jin10.com/detail/20251203092512692800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "马斯克首次详谈伴侣身世：有印度血统",
@@ -299,6 +315,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "特朗普政府考虑明年对机器人实施行政令。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3014468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "高市早苗涉台最新表态",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -308,18 +335,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
-        },
-        {
-          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
-          "url": "https://www.cls.cn/detail/2218308",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 20时48分]"
         },
         {
           "title": "特朗普开嘲：许多盟友敲美国竹杠，我不点名…比如日韩",
@@ -614,6 +629,19 @@
           "time_info": "[02时36分 ~ 04时28分]"
         },
         {
+          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
+          "url": "https://www.cls.cn/detail/2218431",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普开会被拍到多次闭眼",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
           "source": "百度热搜",
@@ -769,16 +797,27 @@
           "time_info": "[05时22分 ~ 06时20分]"
         },
         {
-          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
-          "url": "https://www.cls.cn/detail/2218431",
-          "source": "财联社热门",
+          "title": "高市早苗终于不嘴硬了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%BB%88%E4%BA%8E%E4%B8%8D%E5%98%B4%E7%A1%AC%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时37分]"
+        },
+        {
+          "title": "高市早苗又现眼 日本网民惊呆了",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E7%8E%B0%E7%9C%BC+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E6%83%8A%E5%91%86%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             13,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时48分]"
+          "time_info": "[20时48分 ~ 21时37分]"
         },
         {
           "title": "美国总统特朗普：美联储主席应该降息。",
@@ -988,17 +1027,6 @@
           "time_info": "16时31分"
         },
         {
-          "title": "高市早苗终于不嘴硬了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%BB%88%E4%BA%8E%E4%B8%8D%E5%98%B4%E7%A1%AC%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
           "title": "民主党州拒交数据 特朗普政府威胁停SNAP经费",
           "url": "https://flash.jin10.com/detail/20251203174227734800",
           "source": "金十数据",
@@ -1019,17 +1047,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "高市早苗又现眼 日本网民惊呆了",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E7%8E%B0%E7%9C%BC+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E6%83%8A%E5%91%86%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "特朗普积极暗示哈塞特为下任美联储主席，美国很快将对贩毒集团进行陆地打击，普京威胁切断乌克兰海上通道，亚马逊推出定制AI芯片......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1274,6 +1291,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "据Politico：特朗普政府考虑明年对机器人实施行政令。",
+          "url": "https://flash.jin10.com/detail/20251203210410043800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "中方回应特朗普签属涉台法律",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%B1%9E%E6%B6%89%E5%8F%B0%E6%B3%95%E5%BE%8B",
           "source": "百度热搜",
@@ -1294,6 +1322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "高市早苗涉台最新表态",
+          "url": "https://www.douyin.com/hot/2325167",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "特朗普支持的共和党人在田纳西州险胜 中期选举前景堪忧",
@@ -1343,8 +1382,19 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "沪铜期货主力合约站上9万元/吨大关，现涨超1%，创历史新高！",
+          "url": "https://wallstreetcn.com/livenews/3014467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
         {
           "title": "印度卢比兑美元短暂跌至90.14，创历史新低。",
           "url": "https://flash.jin10.com/detail/20251203115215694800",
@@ -1363,11 +1413,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时37分]"
         },
         {
           "title": "伦铜日内涨幅达2%，现报11375.60美元/吨，续创历史新高。",
@@ -1438,6 +1489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "沪铜期货主力合约站上9万元/吨大关，现涨超1%，创历史新高！",
+          "url": "https://flash.jin10.com/detail/20251203210154968800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
