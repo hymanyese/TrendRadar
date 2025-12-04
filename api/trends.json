@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T22:24:41.325512+08:00",
-  "total_titles_processed": 1923,
+  "generated_at": "2025-12-04T23:29:07.260319+08:00",
+  "total_titles_processed": 2019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 98,
+      "match_count": 105,
       "titles": [
         {
           "title": "高市早苗又现眼 日本网民惊呆了",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时32分 ~ 07时20分]"
+        },
+        {
+          "title": "高市早苗被控涉嫌违规收受企业政治捐款",
+          "url": "https://news.ifeng.com/c/8ooRjXLew3o",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时27分 ~ 23时29分]"
         },
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -40,6 +51,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[15时23分 ~ 21时40分]"
+        },
+        {
+          "title": "外交部回应高市早苗最新言论：只是用立场没有变化来敷衍搪塞，中方对此不能接受",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32102903",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时27分 ~ 23时29分]"
         },
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -66,15 +92,18 @@
           "time_info": "[00时32分 ~ 09时46分]"
         },
         {
-          "title": "高市早苗被控涉嫌违规收受企业政治捐款",
-          "url": "https://news.ifeng.com/c/8ooRjXLew3o",
-          "source": "凤凰网",
+          "title": "中方：绝不接受高市早苗敷衍搪塞",
+          "url": "https://www.toutiao.com/trending/7579061598464655369/",
+          "source": "今日头条",
           "ranks": [
-            3
+            14,
+            2,
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时27分 ~ 22时24分]"
+          "appearance_count": 11,
+          "time_info": "[16时32分 ~ 23时29分]"
         },
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -87,21 +116,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时33分 ~ 22时24分]"
-        },
-        {
-          "title": "中方：绝不接受高市早苗敷衍搪塞",
-          "url": "https://www.toutiao.com/trending/7579061598464655369/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时32分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[12时33分 ~ 23时29分]"
         },
         {
           "title": "冥顽不灵！麻生太郎妄称：高市早苗涉台言论“无害”",
@@ -126,21 +142,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时32分 ~ 21时40分]"
-        },
-        {
-          "title": "外交部回应高市早苗最新言论：只是用立场没有变化来敷衍搪塞，中方对此不能接受",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102903",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时27分 ~ 22时24分]"
         },
         {
           "title": "外交部：高市早苗用“立场没有变化”来敷衍搪塞，中方绝不接受",
@@ -183,6 +184,23 @@
           "time_info": "[00时32分 ~ 07时20分]"
         },
         {
+          "title": "高市早苗称日本对台湾立场“与《中日联合声明》一样”是战略欺骗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32102272",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            14,
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[15时23分 ~ 23时29分]"
+        },
+        {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
           "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
           "source": "澎湃新闻",
@@ -197,8 +215,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时32分 ~ 22时24分]"
+          "appearance_count": 16,
+          "time_info": "[12时32分 ~ 23时29分]"
         },
         {
           "title": "日专家：高市早苗或被发国际逮捕令",
@@ -215,22 +233,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时32分 ~ 07时20分]"
-        },
-        {
-          "title": "高市早苗称日本对台湾立场“与《中日联合声明》一样”是战略欺骗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102272",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            14,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时23分 ~ 22时24分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -300,6 +302,30 @@
           "time_info": "[11时21分 ~ 16时32分]"
         },
         {
+          "title": "高市早苗最新涉台表态，一起看看她多会避实就虚耍滑头",
+          "url": "https://v.ifeng.com/c/8onxry2QUjq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时24分 ~ 23时29分]"
+        },
+        {
+          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
+          "url": "https://news.ifeng.com/c/8oohPdXia4u",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时48分 ~ 23时29分]"
+        },
+        {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
           "url": "https://wallstreetcn.com/articles/3760565",
           "source": "华尔街见闻",
@@ -321,6 +347,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[18时27分 ~ 22时24分]"
+        },
+        {
+          "title": "德国又给高市早苗上了一课",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%8F%88%E7%BB%99%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
         },
         {
           "title": "高市早苗被控涉嫌违规收受企业捐款",
@@ -371,17 +408,6 @@
           "time_info": "02时35分"
         },
         {
-          "title": "高市早苗最新涉台表态，一起看看她多会避实就虚耍滑头",
-          "url": "https://v.ifeng.com/c/8onxry2QUjq",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
           "url": "https://flash.jin10.com/detail/20251204044658236800",
           "source": "金十数据",
@@ -415,18 +441,6 @@
           "time_info": "05时20分"
         },
         {
-          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
-          "url": "https://news.ifeng.com/c/8oohPdXia4u",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时48分 ~ 22时24分]"
-        },
-        {
           "title": "美国总统特朗普认为超小型汽车在美国是一个巨大的市场。",
           "url": "https://flash.jin10.com/detail/20251204044411173800",
           "source": "金十数据",
@@ -436,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "俄罗斯总统普京：美国总统特朗普的顾问们认为，实施关税政策最终将有利于美国经济。",
+          "url": "https://flash.jin10.com/detail/20251204230725794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
@@ -472,6 +497,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 02时35分]"
+        },
+        {
+          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
+          "url": "https://www.cls.cn/detail/2219893",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时29分]"
         },
         {
           "title": "英伟达CEO黄仁勋：刚刚会见了美国总统特朗普。",
@@ -562,6 +600,18 @@
           "time_info": "[14时35分 ~ 17时27分]"
         },
         {
+          "title": "日民众要求高市早苗撤回涉台错误言论",
+          "url": "https://www.toutiao.com/trending/7579218404624597055/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时24分 ~ 23时29分]"
+        },
+        {
           "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
           "url": "https://wallstreetcn.com/livenews/3014596",
           "source": "华尔街见闻-快讯",
@@ -575,16 +625,15 @@
           "time_info": "[03时20分 ~ 05时20分]"
         },
         {
-          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
-          "url": "https://www.cls.cn/detail/2219893",
-          "source": "财联社热门",
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了(图)",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            11
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时24分]"
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
         },
         {
           "title": "特朗普提议大幅削减燃油经济性要求",
@@ -859,6 +908,17 @@
           "time_info": "[21时39分 ~ 21时40分]"
         },
         {
+          "title": "赖岳谦：高市早苗越来越被孤立",
+          "url": "https://www.toutiao.com/trending/7579249932863881252/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-04）",
           "url": "https://flash.jin10.com/detail/20251204183019208800",
           "source": "金十数据",
@@ -887,20 +947,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
         {
-          "title": "日民众要求高市早苗撤回涉台错误言论",
-          "url": "https://www.toutiao.com/trending/7579218404624597055/",
-          "source": "今日头条",
+          "title": "俄罗斯总统普京：特朗普有自己的议程，有自己的目标，而我们则专注于我们自己的。",
+          "url": "https://flash.jin10.com/detail/20251204230543003800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "俄罗斯总统普京：（谈及美国总统特朗普可能的反应）尽管有外部压力，我和莫迪都没有合作对付某人。",
+          "url": "https://flash.jin10.com/detail/20251204230529976800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "23时29分"
         },
         {
           "title": "外交部：高市早苗用“立场没有变化”来敷衍搪塞 中方绝不接受",
@@ -1024,6 +1095,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "富达国际：特朗普政策下的降息与弱美元 正为2026年新兴市场“大行情”铺路",
+          "url": "https://flash.jin10.com/detail/20251204225744626800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "专家：高市早苗没看清局势",
           "url": "https://www.toutiao.com/trending/7579549218371108870/",
           "source": "今日头条",
@@ -1041,7 +1123,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1218,8 +1300,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时32分 ~ 22时24分]"
+          "appearance_count": 16,
+          "time_info": "[12时32分 ~ 23时29分]"
         },
         {
           "title": "地球升温速度远超历史大灭绝",
