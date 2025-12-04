@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T15:23:32.375331+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2025-12-04T16:32:25.098500+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 71,
+      "match_count": 78,
       "titles": [
         {
           "title": "高市早苗又现眼 日本网民惊呆了",
@@ -132,8 +132,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时24分 ~ 15时23分]"
+          "appearance_count": 20,
+          "time_info": "[01时24分 ~ 16时32分]"
         },
         {
           "title": "高市早苗涉台最新表态",
@@ -149,6 +149,21 @@
           "time_info": "[00时32分 ~ 11时21分]"
         },
         {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 16时32分]"
+        },
+        {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
           "url": "https://wallstreetcn.com/articles/3760565",
           "source": "华尔街见闻",
@@ -161,18 +176,15 @@
           "time_info": "[00时33分 ~ 04时27分]"
         },
         {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
+          "title": "外交部：中方绝不接受高市早苗的敷衍搪塞",
+          "url": "https://news.ifeng.com/c/8ooIsyYtta0",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            6,
-            7,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 15时23分]"
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时32分]"
         },
         {
           "title": "高市早苗盯上中亚5国",
@@ -184,17 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "外交部：中方绝不接受高市早苗的敷衍搪塞",
-          "url": "https://news.ifeng.com/c/8ooIsyYtta0",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
         },
         {
           "title": "美国总统特朗普：美国将允许生产微型汽车。",
@@ -217,6 +218,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 16时32分]"
         },
         {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
@@ -263,6 +279,18 @@
           "time_info": "05时20分"
         },
         {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 16时32分]"
+        },
+        {
           "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
           "url": "https://flash.jin10.com/detail/20251204043927981800",
           "source": "金十数据",
@@ -284,20 +312,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 02时35分]"
-        },
-        {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 15时23分]"
         },
         {
           "title": "英伟达CEO黄仁勋：刚刚会见了美国总统特朗普。",
@@ -362,17 +376,6 @@
           "time_info": "[06时25分 ~ 07时20分]"
         },
         {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时23分]"
-        },
-        {
           "title": "美国总统特朗普建议对乘用车下调燃油效率标准。",
           "url": "https://wallstreetcn.com/livenews/3014620",
           "source": "华尔街见闻-快讯",
@@ -383,6 +386,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普：将很快在拉美开展地面打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%BE%88%E5%BF%AB%E5%9C%A8%E6%8B%89%E7%BE%8E%E5%BC%80%E5%B1%95%E5%9C%B0%E9%9D%A2%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 16时32分]"
         },
         {
           "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
@@ -398,15 +413,17 @@
           "time_info": "[03时20分 ~ 05时20分]"
         },
         {
-          "title": "特朗普：将很快在拉美开展地面打击",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%BE%88%E5%BF%AB%E5%9C%A8%E6%8B%89%E7%BE%8E%E5%BC%80%E5%B1%95%E5%9C%B0%E9%9D%A2%E6%89%93%E5%87%BB",
+          "title": "高市早苗最新表态还想耍滑头",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%E8%BF%98%E6%83%B3%E8%80%8D%E6%BB%91%E5%A4%B4",
           "source": "百度热搜",
           "ranks": [
-            10
+            28,
+            26,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时23分]"
+          "time_info": "[14时35分 ~ 16时32分]"
         },
         {
           "title": "特朗普提议大幅削减燃油经济性要求",
@@ -515,6 +532,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时20分]"
+        },
+        {
+          "title": "高市早苗称日本对台湾立场“与《中日联合声明》一样”是战略欺骗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32102272",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时32分]"
         },
         {
           "title": "美国总统特朗普：我们要么让美墨加协定到期失效，要么与墨西哥和加拿大另行达成协议。",
@@ -635,18 +664,6 @@
           "time_info": "[13时22分 ~ 14时35分]"
         },
         {
-          "title": "高市早苗最新表态还想耍滑头",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%E8%BF%98%E6%83%B3%E8%80%8D%E6%BB%91%E5%A4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时23分]"
-        },
-        {
           "title": "美国总统特朗普：美国将授权生产Ultra compact car（超紧凑型汽车）。 这种车估计会在美国拥有庞大的市场。 相信美国汽车产业将比以往更加庞大。 允许人们对汽车贷款扣除利息。",
           "url": "https://wallstreetcn.com/livenews/3014619",
           "source": "华尔街见闻-快讯",
@@ -658,13 +675,46 @@
           "time_info": "05时20分"
         },
         {
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "外交部：高市早苗用“立场没有变化”来敷衍搪塞，中方绝不接受",
+          "url": "https://www.cls.cn/detail/2219546",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "特朗普政府All in！据称考虑明年发机器人行政令，iRobot盘中飙涨近80%",
+          "url": "https://wallstreetcn.com/articles/3760664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "外交部：高市早苗用“立场没有变化”来敷衍搪塞 中方绝不接受",
           "url": "https://wallstreetcn.com/livenews/3014978",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -691,6 +741,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "中方：绝不接受高市早苗敷衍搪塞",
+          "url": "https://www.toutiao.com/trending/7579061598464655369/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "报道：特朗普亲信探讨哈塞特接掌美联储后的人事安排，贝森特或兼任NEC主任",
           "url": "https://wallstreetcn.com/livenews/3014655",
           "source": "华尔街见闻-快讯",
@@ -700,17 +761,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "高市早苗称日本对台湾立场“与《中日联合声明》一样”是战略欺骗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102272",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
         },
         {
           "title": "美国“小非农”爆冷，白银创新高后快速回落！贝森特或将兼任国家经济委员会主任一职，特朗普政府考虑明年加速机器人行业发展......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -755,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "专家：高市早苗没看清局势",
+          "url": "https://www.toutiao.com/trending/7579549218371108870/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "福特汽车(F.N)CEO：今日将与美国总统特朗普和交通部长达菲会面。",
@@ -807,9 +868,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "马斯克：星链（Starlink）服务现已在韩国推出。",
+          "url": "https://wallstreetcn.com/livenews/3015007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "特朗普提议大幅降低乘用车燃油效率标准",
@@ -843,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "特朗普谈美俄会谈：普京想结束战争",
+          "url": "https://www.toutiao.com/trending/7579804080663449130/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -867,11 +950,23 @@
           "url": "https://wallstreetcn.com/articles/3760641",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 16时32分]"
+        },
+        {
+          "title": "他用急诊故事为你上救命一课",
+          "url": "https://www.douyin.com/hot/2325695",
+          "source": "抖音",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时46分 ~ 15时23分]"
+          "time_info": "[12时32分 ~ 16时32分]"
         },
         {
           "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
@@ -887,17 +982,6 @@
           "time_info": "[11时21分 ~ 15时23分]"
         },
         {
-          "title": "他用急诊故事为你上救命一课",
-          "url": "https://www.douyin.com/hot/2325695",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 15时23分]"
-        },
-        {
           "title": "地球升温速度远超历史大灭绝",
           "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E5%8D%87%E6%B8%A9%E9%80%9F%E5%BA%A6%E8%BF%9C%E8%B6%85%E5%8E%86%E5%8F%B2%E5%A4%A7%E7%81%AD%E7%BB%9D",
           "source": "百度热搜",
@@ -908,8 +992,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 15时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 16时32分]"
         },
         {
           "title": "印度卢比兑美元日内跌0.3%，报90.4175，刷新历史低点。",
@@ -966,6 +1050,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "职场最重要的能力是什么？",
+          "url": "https://www.zhihu.com/question/508168208",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     }
