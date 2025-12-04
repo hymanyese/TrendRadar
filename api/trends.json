@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T11:21:47.933716+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2025-12-04T12:33:02.538793+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "高市早苗又现眼 日本网民惊呆了",
@@ -92,11 +92,12 @@
             16,
             15,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 11时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 12时33分]"
         },
         {
           "title": "高市早苗终于不嘴硬了",
@@ -119,8 +120,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时24分 ~ 11时21分]"
+          "appearance_count": 16,
+          "time_info": "[01时24分 ~ 12时33分]"
         },
         {
           "title": "高市早苗涉台最新表态",
@@ -144,8 +145,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 11时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 12时33分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -332,6 +333,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 12时33分]"
         },
         {
           "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
@@ -539,6 +552,17 @@
           "time_info": "[06时25分 ~ 07时20分]"
         },
         {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
           "title": "内塔尼亚胡为赦免请特朗普“帮帮忙”",
           "url": "https://www.toutiao.com/trending/7579542336116657700/",
           "source": "今日头条",
@@ -573,15 +597,15 @@
           "time_info": "05时20分"
         },
         {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "12时33分"
         },
         {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
@@ -601,7 +625,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -623,7 +647,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -722,7 +746,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
@@ -730,7 +754,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "CPO龙头股价7连涨！融资余额创历史新高，近日连涨热股扫描，这些方向占比较高",
@@ -752,8 +776,42 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时33分]"
+        },
+        {
+          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2219026",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 12时33分]"
+        },
+        {
+          "title": "他用急诊故事为你上救命一课",
+          "url": "https://www.douyin.com/hot/2325695",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时21分]"
+          "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
+          "title": "地球升温速度远超历史大灭绝",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E5%8D%87%E6%B8%A9%E9%80%9F%E5%BA%A6%E8%BF%9C%E8%B6%85%E5%8E%86%E5%8F%B2%E5%A4%A7%E7%81%AD%E7%BB%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
         },
         {
           "title": "A股机器人概念股开盘领涨，睿能科技6天5板，骏亚科技、龙溪股份涨停，日盈电子、斯菱股份创历史新高，长盈精密、恒立液压、方正电机、襄阳轴承涨幅靠前，消息面上，特斯拉Optimus官方发布“擎天柱”人形机器人跑步视频，并配文称在实验室刷新了个人纪录。",
@@ -767,15 +825,15 @@
           "time_info": "09时46分"
         },
         {
-          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2219026",
-          "source": "财联社热门",
+          "title": "印度卢比兑美元日内跌0.3%，报90.4175，刷新历史低点。",
+          "url": "https://wallstreetcn.com/livenews/3014876",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "12时33分"
         },
         {
           "title": "30年期日债收益率突破历史极值 加息恐慌与财政担忧双重施压",
@@ -784,9 +842,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "印度卢比兑美元盘初续刷历史新低，报90.41，日内下跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20251204113559831800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     }
