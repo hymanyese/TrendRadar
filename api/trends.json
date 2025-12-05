@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T03:19:03.170455+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2025-12-06T04:26:02.993702+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "高市早苗食言，自民党为加速军扩计划增税，日本网民强烈不满",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "日本冲绳举行集会要求高市早苗谢罪",
@@ -25,11 +25,12 @@
           "ranks": [
             15,
             19,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -42,19 +43,30 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
-          "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
-          "url": "https://wallstreetcn.com/livenews/3016099",
+          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
+          "url": "https://wallstreetcn.com/livenews/3016109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "马斯克旗下SpaceX告诉投资者，该公司考虑2026年后期/年底IPO。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3016108",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
@@ -109,6 +121,18 @@
           "time_info": "[01时21分 ~ 03时19分]"
         },
         {
+          "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
+          "url": "https://wallstreetcn.com/livenews/3016099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
           "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
           "url": "https://flash.jin10.com/detail/20251206004830012800",
           "source": "金十数据",
@@ -120,6 +144,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时19分]"
+        },
+        {
+          "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
+          "url": "https://wallstreetcn.com/livenews/3016084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时26分]"
+        },
+        {
+          "title": "美国参议院银行委员会民主党成员们向总统特朗普的共和党阵营施压。 他们要求联邦住房金融局(FHFA)局长Bill Pulte在2026年1月（底）之前出席听证会。",
+          "url": "https://wallstreetcn.com/livenews/3016079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时26分]"
+        },
+        {
+          "title": "Anthropic的高管Amodei周四会见了美国总统特朗普的政府官员们，并会见了国会参议院的跨党派团体。",
+          "url": "https://wallstreetcn.com/livenews/3016074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时26分]"
         },
         {
           "title": "美国上诉法庭：总统特朗普可以“毫无根据”地解雇劳工与就业委员会成员。",
@@ -158,16 +221,16 @@
           "time_info": "[01时21分 ~ 02时31分]"
         },
         {
-          "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
-          "url": "https://wallstreetcn.com/livenews/3016084",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
+          "url": "https://flash.jin10.com/detail/20251206022018049800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            16
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时19分]"
+          "time_info": "[03时19分 ~ 04时26分]"
         },
         {
           "title": "美元兑瑞郎跌约0.2%，刷新日低至0.8054。 瑞士政府公布的一份谈判授权草案显示，瑞士愿意向美国做出更多让步，如果能够换取特朗普政府更低的关税，以敲定11月达成的初步协议。",
@@ -194,18 +257,6 @@
           "time_info": "[01时21分 ~ 02时31分]"
         },
         {
-          "title": "美国参议院银行委员会民主党成员们向总统特朗普的共和党阵营施压。 他们要求联邦住房金融局(FHFA)局长Bill Pulte在2026年1月（底）之前出席听证会。",
-          "url": "https://wallstreetcn.com/livenews/3016079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时19分]"
-        },
-        {
           "title": "美国总统特朗普：将与墨西哥总统辛鲍姆讨论贸易、移民等问题。",
           "url": "https://wallstreetcn.com/livenews/3016055",
           "source": "华尔街见闻-快讯",
@@ -216,18 +267,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时31分]"
-        },
-        {
-          "title": "Anthropic的高管Amodei周四会见了美国总统特朗普的政府官员们，并会见了国会参议院的跨党派团体。",
-          "url": "https://wallstreetcn.com/livenews/3016074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时19分]"
         },
         {
           "title": "马斯克考虑1月份能够将X（原名推特）的代码库开源。",
@@ -254,15 +293,26 @@
           "time_info": "[00时29分 ~ 01时21分]"
         },
         {
-          "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
-          "url": "https://flash.jin10.com/detail/20251206022018049800",
+          "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
+          "url": "https://flash.jin10.com/detail/20251206033944574800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
+          "url": "https://flash.jin10.com/detail/20251206033847426800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时26分"
         },
         {
           "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
@@ -279,7 +329,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -290,8 +340,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时26分]"
+        },
+        {
+          "title": "全球今年并购交易量已达3.3万亿美元，受奈飞等大型交易推动，逼近历史峰值",
+          "url": "https://wallstreetcn.com/livenews/3016111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "奈飞收购华纳兄弟，推动全球今年并购交易量逼近2021年历史峰值",
+          "url": "https://flash.jin10.com/detail/20251206040202822800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "25-26 赛季开赛至今 20 胜 1 负的雷霆，能否超越 73 胜勇士成为 NBA 历史第一常规赛球队？",
