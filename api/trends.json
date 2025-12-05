@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T12:31:29.622841+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2025-12-05T13:22:56.871967+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 12时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 13时22分]"
         },
         {
           "title": "德国又给高市早苗上了一课",
@@ -165,8 +165,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 13时22分]"
         },
         {
           "title": "美国总统特朗普：赞赏国务卿卢比奥在撮合卢旺达与刚果和平进程中发挥的作用。",
@@ -294,6 +294,18 @@
           "time_info": "[03时20分 ~ 05时22分]"
         },
         {
+          "title": "推动加息，日本央行如何“巧取”高市早苗",
+          "url": "https://wallstreetcn.com/articles/3760719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 13时22分]"
+        },
+        {
           "title": "据CBS记者报道，美国总统特朗普将于周五在华盛顿与墨西哥和加拿大就贸易问题进行会谈。（金十注：此前加方表示加拿大总理卡尼不打算与特朗普进行贸易会谈。）",
           "url": "https://flash.jin10.com/detail/20251205011146149800",
           "source": "金十数据",
@@ -340,18 +352,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时21分]"
-        },
-        {
-          "title": "推动加息，日本央行如何“巧取”高市早苗",
-          "url": "https://wallstreetcn.com/articles/3760719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时31分]"
         },
         {
           "title": "据AXIOS，美国官员和消息人士透露，特朗普计划在圣诞节前宣布加沙和平进程进入第二阶段，并公布成立加沙政府、和平委员会的新治理结构。",
@@ -408,7 +408,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -460,8 +460,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 13时22分]"
         },
         {
           "title": "美股收盘：小盘股指数再创历史新高",
@@ -473,8 +473,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 12时31分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 13时22分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -523,6 +523,17 @@
           "time_info": "[05时21分 ~ 05时22分]"
         },
         {
+          "title": "当我翻到对象的黑历史",
+          "url": "https://www.douyin.com/hot/2326751",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时22分]"
+        },
+        {
           "title": "现代汽车股价涨超7%，触及历史新高。",
           "url": "https://flash.jin10.com/detail/20251205092414780800",
           "source": "金十数据",
@@ -532,17 +543,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "当我翻到对象的黑历史",
-          "url": "https://www.douyin.com/hot/2326751",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         }
       ]
     }
