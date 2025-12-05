@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T09:46:49.743984+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2025-12-05T11:21:17.174064+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "高市早苗被控涉嫌违规收受企业政治捐款",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 09时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 11时21分]"
         },
         {
           "title": "德国又给高市早苗上了一课",
@@ -48,11 +48,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 09时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 11时21分]"
         },
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -100,8 +101,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 09时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 11时21分]"
         },
         {
           "title": "中方：绝不接受高市早苗敷衍搪塞",
@@ -156,6 +157,17 @@
           "time_info": "[01时24分 ~ 07时21分]"
         },
         {
+          "title": "专家：麻生太郎是高市早苗的“后台老板”",
+          "url": "https://news.ifeng.com/c/8opO2mnjtd2",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
           "title": "美国总统特朗普：赞赏国务卿卢比奥在撮合卢旺达与刚果和平进程中发挥的作用。",
           "url": "https://wallstreetcn.com/livenews/3015319",
           "source": "华尔街见闻-快讯",
@@ -165,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "马斯克感谢万斯为“X”发声",
+          "url": "https://flash.jin10.com/detail/20251205105914023800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "加拿大总理卡尼不打算在国际足联活动上与特朗普讨论贸易问题",
@@ -366,13 +389,35 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
+          "title": "推动加息，日本央行如何“巧取”高市早苗",
+          "url": "https://wallstreetcn.com/articles/3760719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "美初请数据创三年新低，现货白银大幅回调！美官员称特朗普考虑明年退出美墨加协定，日本央行12月加息几成定局......美油卖出信号持续保持强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251205103316073800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "据福克斯新闻：美国国土安全部长诺姆表示，特朗普政府将旅行禁令适用国家扩大至30多个。",
           "url": "https://flash.jin10.com/detail/20251205085517265800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
@@ -398,11 +443,12 @@
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时21分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -416,6 +462,18 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 11时21分]"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场资产7.65万亿美元，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3015346",
           "source": "华尔街见闻-快讯",
@@ -426,18 +484,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时21分]"
-        },
-        {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 09时46分]"
         },
         {
           "title": "中东股市收盘播报｜埃及股市连续两天创收盘历史新高，本周涨超3.6%",
@@ -469,7 +515,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
