@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T05:19:14.654411+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-12-07T06:20:50.469389+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "马斯克：欧盟应当被废除，主权应归还给各个国家，这样政府就能更好地代表其民众了。",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "高市早苗被曝自身难保",
@@ -39,11 +39,12 @@
             2,
             7,
             18,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -53,8 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -64,19 +65,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1979961793922167510",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "马斯克称欧盟应该被废除",
@@ -86,8 +88,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
@@ -101,6 +103,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时29分]"
+        },
+        {
+          "title": "高市早苗欲成立日本版中情局",
+          "url": "https://www.douyin.com/hot/2328057",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     },
@@ -113,11 +126,12 @@
           "url": "https://www.cls.cn/detail/2221687",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "深圳机场国际及地区客运航线数量恢复至历史峰值水平",
@@ -127,8 +141,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "深圳机场国际及地区客运航线数量恢复至历史峰值水平",
@@ -138,8 +152,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时20分]"
         }
       ]
     },
@@ -155,8 +169,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         }
       ]
     }
