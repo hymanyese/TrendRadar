@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T17:21:21.912299+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2025-12-07T18:20:56.496171+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -109,11 +109,12 @@
             24,
             25,
             26,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时54分 ~ 18时20分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -127,8 +128,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时38分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时38分 ~ 18时20分]"
         },
         {
           "title": "高市早苗被曝自身难保，或提前下台",
@@ -138,8 +139,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时20分]"
         },
         {
           "title": "日本学者：高市早苗应被停职处理",
@@ -149,8 +150,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时20分]"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -168,6 +169,18 @@
           "time_info": "[11时38分 ~ 15时21分]"
         },
         {
+          "title": "马斯克：Grok 4.20将在3至4周内发布。",
+          "url": "https://wallstreetcn.com/livenews/3016385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时20分]"
+        },
+        {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
           "url": "https://flash.jin10.com/detail/20251207124750348800",
           "source": "金十数据",
@@ -183,15 +196,15 @@
           "time_info": "[13时20分 ~ 17时21分]"
         },
         {
-          "title": "马斯克：Grok 4.20将在3至4周内发布。",
-          "url": "https://flash.jin10.com/detail/20251207164105417800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
+          "url": "https://flash.jin10.com/detail/20251207175156547800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "18时20分"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -207,17 +220,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时20分 ~ 17时21分]"
-        },
-        {
-          "title": "马斯克：Grok 4.20将在3至4周内发布。",
-          "url": "https://wallstreetcn.com/livenews/3016385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
@@ -246,6 +248,18 @@
           "time_info": "[09时54分 ~ 12时34分]"
         },
         {
+          "title": "马斯克：Grok 4.20将在3至4周内发布。",
+          "url": "https://flash.jin10.com/detail/20251207164105417800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时20分]"
+        },
+        {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1980618656774894195",
           "source": "知乎",
@@ -272,6 +286,19 @@
           "time_info": "[09时54分 ~ 12时34分]"
         },
         {
+          "title": "马斯克公开呼吁：废除欧盟",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E5%91%BC%E5%90%81%EF%BC%9A%E5%BA%9F%E9%99%A4%E6%AC%A7%E7%9B%9F",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时20分]"
+        },
+        {
           "title": "年终总结特朗普重返白宫",
           "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB",
           "source": "bilibili 热搜",
@@ -295,16 +322,15 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "马斯克公开呼吁：废除欧盟",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E5%91%BC%E5%90%81%EF%BC%9A%E5%BA%9F%E9%99%A4%E6%AC%A7%E7%9B%9F",
-          "source": "百度热搜",
+          "title": "日本籍八路军老战士后代批高市早苗",
+          "url": "https://www.toutiao.com/trending/7581015240683552795/",
+          "source": "今日头条",
           "ranks": [
-            23,
-            14
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "马斯克抨击欧盟对社交媒体平台X巨额罚款",
@@ -329,6 +355,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "特朗普称其主持典礼会比吉米做得更好",
           "url": "https://www.toutiao.com/trending/7580414475011047451/",
           "source": "今日头条",
@@ -338,6 +375,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "特朗普威胁封锁委领空 马杜罗咋办",
+          "url": "https://www.toutiao.com/trending/7581027611489340991/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "周锡玮：高市早苗从没走过正确台阶",
+          "url": "https://www.toutiao.com/trending/7580362626229764106/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
@@ -355,8 +414,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 17时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 18时20分]"
         },
         {
           "title": "深圳机场国际及地区客运航线数量恢复至历史峰值水平",
@@ -390,11 +449,12 @@
           "source": "贴吧",
           "ranks": [
             30,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时20分]"
         },
         {
           "title": "国家药监局：今年我国批准创新药数量已创历史新高",
