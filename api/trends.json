@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T21:27:31.054753+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2025-12-07T22:19:40.946273+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -19,6 +19,30 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "高市早苗被曝自身难保，或提前下台",
+          "url": "https://news.ifeng.com/c/8otJRMgw24C",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 22时19分]"
+        },
+        {
+          "title": "日本学者：高市早苗应被停职处理",
+          "url": "https://v.ifeng.com/c/8osF3a6FiWg",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 22时19分]"
         },
         {
           "title": "马斯克：欧盟应当被废除，主权应归还给各个国家，这样政府就能更好地代表其民众了。",
@@ -47,30 +71,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "高市早苗被曝自身难保，或提前下台",
-          "url": "https://news.ifeng.com/c/8otJRMgw24C",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 21时27分]"
-        },
-        {
-          "title": "日本学者：高市早苗应被停职处理",
-          "url": "https://v.ifeng.com/c/8osF3a6FiWg",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 21时27分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -110,8 +110,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时38分 ~ 21时27分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 22时19分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -199,6 +199,17 @@
           "time_info": "[11时38分 ~ 15时21分]"
         },
         {
+          "title": "特朗普获国际足联和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时19分]"
+        },
+        {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
           "url": "https://flash.jin10.com/detail/20251207124750348800",
           "source": "金十数据",
@@ -229,15 +240,15 @@
           "time_info": "[13时20分 ~ 17时21分]"
         },
         {
-          "title": "特朗普获国际足联和平奖",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
-          "source": "bilibili 热搜",
+          "title": "据英国《金融时报》7日援引多名美方高层的消息称，日本首相高市早苗在发表涉台错误言论后，并没有如期望的那样得到美国的公开支持，这让日本政府感到沮丧和恐慌。（环球网）",
+          "url": "https://wallstreetcn.com/livenews/3016423",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时27分"
+          "time_info": "22时19分"
         },
         {
           "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
@@ -251,6 +262,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时54分 ~ 14时31分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 22时19分]"
         },
         {
           "title": "马斯克：Grok 4.20将在3至4周内发布。",
@@ -292,19 +317,6 @@
           "time_info": "[18时20分 ~ 20时40分]"
         },
         {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 21时27分]"
-        },
-        {
           "title": "周锡玮：高市早苗从没走过正确台阶",
           "url": "https://www.toutiao.com/trending/7580362626229764106/",
           "source": "今日头条",
@@ -329,6 +341,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时29分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
+          "url": "https://flash.jin10.com/detail/20251207194238247800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
@@ -356,16 +381,30 @@
           "time_info": "[18时20分 ~ 20时40分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
-          "url": "https://flash.jin10.com/detail/20251207194238247800",
+          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20251207193951591800",
           "source": "金十数据",
           "ranks": [
-            7,
-            9
+            8,
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时27分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -391,30 +430,6 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20251207193951591800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时27分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251207192532766800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时27分]"
-        },
-        {
           "title": "特朗普威胁封锁委领空 马杜罗咋办",
           "url": "https://www.toutiao.com/trending/7581027611489340991/",
           "source": "今日头条",
@@ -425,6 +440,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
+          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
+          "url": "https://news.ifeng.com/c/8otTJGl9zCA",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "马斯克抨击欧盟对社交媒体平台X巨额罚款",
@@ -494,6 +520,23 @@
           "time_info": "[00时26分 ~ 12时34分]"
         },
         {
+          "title": "约书亚万KO夺冠!创亚洲历史",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347780&amp;topic_name=%E7%BA%A6%E4%B9%A6%E4%BA%9A%E4%B8%87KO%E5%A4%BA%E5%86%A0%21%E5%88%9B%E4%BA%9A%E6%B4%B2%E5%8E%86%E5%8F%B2",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            7,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时20分 ~ 22时19分]"
+        },
+        {
           "title": "深圳机场国际及地区客运航线数量恢复至历史峰值水平",
           "url": "https://flash.jin10.com/detail/20251206213713871800",
           "source": "金十数据",
@@ -504,22 +547,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时54分]"
-        },
-        {
-          "title": "约书亚万KO夺冠!创亚洲历史",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347780&amp;topic_name=%E7%BA%A6%E4%B9%A6%E4%BA%9A%E4%B8%87KO%E5%A4%BA%E5%86%A0%21%E5%88%9B%E4%BA%9A%E6%B4%B2%E5%8E%86%E5%8F%B2",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            7,
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 21时27分]"
         },
         {
           "title": "国家药监局：今年我国批准创新药数量已创历史新高",
