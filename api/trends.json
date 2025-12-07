@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T09:54:19.541285+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2025-12-07T11:38:21.496691+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -49,6 +49,19 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "马斯克称欧盟应该被废除",
+          "url": "https://wallstreetcn.com/livenews/3016320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 11时38分]"
+        },
+        {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
           "url": "https://news.ifeng.com/c/8os5vGpW9R1",
           "source": "凤凰网",
@@ -83,38 +96,28 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "马斯克称欧盟应该被废除",
-          "url": "https://wallstreetcn.com/livenews/3016320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 09时54分]"
-        },
-        {
           "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
           "url": "https://flash.jin10.com/detail/20251207091937087800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时38分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
           "url": "https://wallstreetcn.com/livenews/3016330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时38分]"
         },
         {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
@@ -130,6 +133,30 @@
           "time_info": "[00时26分 ~ 02时29分]"
         },
         {
+          "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
+          "url": "https://wallstreetcn.com/articles/3760842",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时38分]"
+        },
+        {
+          "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
+          "url": "https://flash.jin10.com/detail/20251207083014951800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时38分]"
+        },
+        {
           "title": "高市早苗欲成立日本版中情局",
           "url": "https://www.douyin.com/hot/2328057",
           "source": "抖音",
@@ -142,26 +169,15 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
-          "url": "https://flash.jin10.com/detail/20251207083014951800",
-          "source": "金十数据",
+          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+          "url": "https://www.cls.cn/detail/2221851",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
-          "url": "https://wallstreetcn.com/articles/3760842",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "11时38分"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -170,15 +186,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "美国发生特大诈骗案 特朗普怒批",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "监事会正退出A股历史舞台，42家上市券商已进行监事会撤销",
@@ -186,11 +213,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时38分]"
         },
         {
           "title": "深圳机场国际及地区客运航线数量恢复至历史峰值水平",
@@ -198,11 +226,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 09时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 11时38分]"
         },
         {
           "title": "深圳机场国际及地区客运航线数量恢复至历史峰值水平",
@@ -215,6 +244,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时54分]"
+        },
+        {
+          "title": "国家药监局：今年我国批准创新药数量已创历史新高",
+          "url": "https://flash.jin10.com/detail/20251207100617234800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         }
       ]
     },
@@ -230,8 +270,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时38分]"
         }
       ]
     }
