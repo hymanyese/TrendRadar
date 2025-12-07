@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T06:20:21.625699+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-12-08T07:20:13.933258+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "特朗普获国际足联和平奖",
@@ -28,11 +28,12 @@
             11,
             9,
             18,
-            26
+            26,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
@@ -42,8 +43,34 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+          "url": "https://www.cls.cn/detail/2221851",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "据英国《金融时报》7日援引多名美方高层的消息称，日本首相高市早苗在发表涉台错误言论后，并没有如期望的那样得到美国的公开支持，这让日本政府感到沮丧和恐慌。（环球网）",
@@ -61,40 +88,15 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
-          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
-          "url": "https://www.cls.cn/detail/2221851",
-          "source": "财联社热门",
+          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
+          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "特朗普政府免除西南航空公司1100万美元罚款",
-          "url": "https://flash.jin10.com/detail/20251208053436110800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "appearance_count": 5,
+          "time_info": "[04时23分 ~ 07时20分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -130,15 +132,16 @@
           "time_info": "[00时25分 ~ 04时23分]"
         },
         {
-          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
-          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
-          "source": "凤凰网",
+          "title": "特朗普政府免除西南航空公司1100万美元罚款",
+          "url": "https://flash.jin10.com/detail/20251208053436110800",
+          "source": "金十数据",
           "ranks": [
-            7
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 06时20分]"
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
         },
         {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
@@ -146,11 +149,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 07时20分]"
         },
         {
           "title": "特朗普：美国还有其他方式征收关税 目前的方法要直接得多",
@@ -158,33 +162,36 @@
           "source": "金十数据",
           "ranks": [
             7,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 07时20分]"
         },
         {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
           "url": "https://flash.jin10.com/detail/20251208051409167800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
         },
         {
           "title": "内塔尼亚胡：加沙停火第二阶段很快开始，将于本月与特朗普会面",
           "url": "https://flash.jin10.com/detail/20251208050814205800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
         }
       ]
     },
@@ -201,8 +208,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美收跌0.4%，埃及股指涨超0.6%连续三天创收盘历史新高",
@@ -210,11 +217,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 07时20分]"
         }
       ]
     },
@@ -235,8 +243,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时20分]"
         }
       ]
     }
