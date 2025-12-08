@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T13:25:45.098688+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2025-12-08T14:38:12.857167+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "高市早苗被曝自身难保，或提前下台",
@@ -33,11 +33,29 @@
             17,
             10,
             22,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时38分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            16,
+            17,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时38分]"
         },
         {
           "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
@@ -50,22 +68,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 09时47分]"
-        },
-        {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            16,
-            17,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时25分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -92,6 +94,40 @@
           "time_info": "[04时23分 ~ 11时23分]"
         },
         {
+          "title": "特朗普：我对泽连斯基有点失望",
+          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时38分]"
+        },
+        {
+          "title": "中日军机事件发酵，高市早苗政府仍在狡辩",
+          "url": "https://news.ifeng.com/c/8ouuEXpLq55",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "以总统拒绝特朗普“求情”",
+          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时38分]"
+        },
+        {
           "title": "据英国《金融时报》7日援引多名美方高层的消息称，日本首相高市早苗在发表涉台错误言论后，并没有如期望的那样得到美国的公开支持，这让日本政府感到沮丧和恐慌。（环球网）",
           "url": "https://wallstreetcn.com/livenews/3016423",
           "source": "华尔街见闻-快讯",
@@ -105,6 +141,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时20分]"
+        },
+        {
+          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32125452",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时38分]"
         },
         {
           "title": "市场消息：美国总统特朗普计划于当地时间周一宣布一项价值120亿美元的农业援助计划。",
@@ -129,41 +179,15 @@
           "time_info": "12时35分"
         },
         {
-          "title": "特朗普：我对泽连斯基有点失望",
-          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "title": "网飞与华纳达成收购协议，特朗普警告",
+          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
           "source": "凤凰网",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时25分]"
-        },
-        {
-          "title": "以总统拒绝特朗普“求情”",
-          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时25分]"
-        },
-        {
-          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32125452",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时25分]"
+          "time_info": "[11时23分 ~ 14时38分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -223,6 +247,18 @@
           "time_info": "[11时23分 ~ 12时35分]"
         },
         {
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时38分]"
+        },
+        {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
           "url": "https://flash.jin10.com/detail/20251208041940775800",
           "source": "金十数据",
@@ -249,17 +285,6 @@
           "time_info": "[05时18分 ~ 07时20分]"
         },
         {
-          "title": "网飞与华纳达成收购协议，特朗普警告",
-          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时25分]"
-        },
-        {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
           "url": "https://flash.jin10.com/detail/20251208051409167800",
           "source": "金十数据",
@@ -282,18 +307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时25分]"
         },
         {
           "title": "特朗普将于美国东部时间周一下午2点（北京时间次日凌晨3点）参加圆桌会议。",
@@ -357,8 +370,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时38分]"
         },
         {
           "title": "半条命2讲了什么故事",
@@ -368,11 +381,12 @@
             5,
             21,
             23,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时38分]"
         },
         {
           "title": "印尼基准股指涨0.7%，创下8694.907点的历史新高。",
