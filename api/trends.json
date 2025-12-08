@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T20:47:11.367601+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2025-12-08T21:36:44.262798+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 43,
+      "match_count": 53,
       "titles": [
         {
           "title": "高市早苗被曝自身难保，或提前下台",
@@ -84,8 +84,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时26分 ~ 20时47分]"
+          "appearance_count": 11,
+          "time_info": "[15时26分 ~ 21时36分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -113,11 +113,12 @@
             18,
             10,
             21,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时35分 ~ 20时47分]"
+          "appearance_count": 15,
+          "time_info": "[12时35分 ~ 21时36分]"
         },
         {
           "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
@@ -191,6 +192,17 @@
           "time_info": "[09时46分 ~ 15时26分]"
         },
         {
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时36分]"
+        },
+        {
           "title": "据英国《金融时报》7日援引多名美方高层的消息称，日本首相高市早苗在发表涉台错误言论后，并没有如期望的那样得到美国的公开支持，这让日本政府感到沮丧和恐慌。（环球网）",
           "url": "https://wallstreetcn.com/livenews/3016423",
           "source": "华尔街见闻-快讯",
@@ -217,17 +229,6 @@
           "time_info": "[18时26分 ~ 18时27分]"
         },
         {
-          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
-          "url": "https://news.ifeng.com/c/8ov552jltTT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
-        },
-        {
           "title": "市场消息：美国总统特朗普计划于当地时间周一宣布一项价值120亿美元的农业援助计划。",
           "url": "https://flash.jin10.com/detail/20251208111302850800",
           "source": "金十数据",
@@ -237,6 +238,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 21时36分]"
         },
         {
           "title": "网飞与华纳达成收购协议，特朗普警告",
@@ -261,6 +274,28 @@
           "time_info": "12时35分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普将公布大量利好经济消息。",
+          "url": "https://flash.jin10.com/detail/20251208212413479800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（谈特朗普的人工智能“单一规则”）：该行政命令将帮助人工智能公司明确规则是什么。",
+          "url": "https://wallstreetcn.com/livenews/3017019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-08）",
           "url": "https://flash.jin10.com/detail/20251208180135739800",
           "source": "金十数据",
@@ -272,16 +307,37 @@
           "time_info": "18时27分"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
+          "title": "美国白宫国家经济委员会主任哈塞特暗示特朗普本周将传达有关经济的信息。",
+          "url": "https://flash.jin10.com/detail/20251208212334315800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 20时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们要继续在人工智能领域保持领先，必须只有一套规则手册。",
+          "url": "https://flash.jin10.com/detail/20251208212300357800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/livenews/3017015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "特朗普政府战略调整，赖清德当局战略冒进",
@@ -481,13 +537,35 @@
           "time_info": "18时27分"
         },
         {
+          "title": "美国总统特朗普：我本周将发布一项关于人工智能的单一规则行政命令。",
+          "url": "https://flash.jin10.com/detail/20251208212154914800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（谈美联储）：特朗普有很多不错的选择。 如果我必须成为那个选择，我会很高兴帮助他。",
+          "url": "https://wallstreetcn.com/livenews/3017012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "特朗普就美国与加拿大贸易争端最新发声",
           "url": "https://wallstreetcn.com/livenews/3016981",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -503,6 +581,28 @@
           "time_info": "09时47分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的美联储人选）美国总统特朗普有很多不错的选择。",
+          "url": "https://flash.jin10.com/detail/20251208211824210800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的美联储人选）如果非让我来担任这一人选，我将非常乐意为他效力。",
+          "url": "https://flash.jin10.com/detail/20251208211748147800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "特朗普责成高级顾问应对牛肉价格飙涨",
           "url": "https://flash.jin10.com/detail/20251208091017126800",
           "source": "金十数据",
@@ -512,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "起底高市早苗背后的“金主”",
+          "url": "https://www.toutiao.com/trending/7580571845783666707/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "波音：特朗普的政府参股计划不适用于美国大型国防企业",
@@ -539,7 +650,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "半条命2讲了什么故事",
@@ -580,11 +691,12 @@
           "ranks": [
             11,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时26分 ~ 20时47分]"
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 21时36分]"
         },
         {
           "title": "印尼基准股指涨0.7%，创下8694.907点的历史新高。",
@@ -621,6 +733,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时33分 ~ 17时31分]"
+        },
+        {
+          "title": "闹鬼酒店亚巴顿人物拆解",
+          "url": "https://search.bilibili.com/all?keyword=%E9%97%B9%E9%AC%BC%E9%85%92%E5%BA%97%E4%BA%9A%E5%B7%B4%E9%A1%BF%E4%BA%BA%E7%89%A9%E6%8B%86%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "A股算力硬件股涨势扩大，东田微20cm涨停，天孚通信涨超18%，源杰科技涨超10%，长光华芯、仕佳光子、中际旭创、永鼎股份涨超7%，股价均创出历史新高。",
@@ -666,8 +789,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 20时47分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 21时36分]"
         }
       ]
     }
