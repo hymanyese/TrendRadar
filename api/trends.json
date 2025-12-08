@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T05:19:36.420628+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2025-12-09T06:22:07.920455+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "马斯克回应被罚1.2亿欧元",
@@ -17,8 +17,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 06时22分]"
+        },
+        {
+          "title": "“蝎形”包围圈：日本高市早苗内阁遏华地缘战略初露端倪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -32,40 +46,18 @@
           "time_info": "[00时31分 ~ 03时19分]"
         },
         {
-          "title": "“蝎形”包围圈：日本高市早苗内阁遏华地缘战略初露端倪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130139",
-          "source": "澎湃新闻",
+          "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
+          "url": "https://www.zhihu.com/question/1980922285369094626",
+          "source": "知乎",
           "ranks": [
-            20,
-            19,
+            11,
+            13,
             18,
-            17
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
-        },
-        {
-          "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
-          "url": "https://wallstreetcn.com/livenews/3017166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "特朗普政府希望航空公司和机场提供更健康的食品。",
-          "url": "https://flash.jin10.com/detail/20251209044608287800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "伊拉克West Qurna 2油田将在正常水平的基础上增产石油，从而弥补（特朗普政府对俄罗斯制裁）造成的的停产（损失）。",
@@ -79,17 +71,6 @@
           "time_info": "00时31分"
         },
         {
-          "title": "特朗普女婿库什纳参与派拉蒙对华纳兄弟的竞购",
-          "url": "https://flash.jin10.com/detail/20251209043702412800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
           "url": "https://flash.jin10.com/detail/20251209003933561800",
           "source": "金十数据",
@@ -99,17 +80,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "市场消息：特朗普表示欧洲正朝着一些不好的方向发展。",
-          "url": "https://flash.jin10.com/detail/20251209043642647800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
         },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -135,6 +105,18 @@
           "time_info": "[04时27分 ~ 05时19分]"
         },
         {
+          "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
+          "url": "https://wallstreetcn.com/livenews/3017166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
           "title": "美国总统特朗普：我们将取消那些规定，并希望降低农用设备的价格。",
           "url": "https://flash.jin10.com/detail/20251209034843942800",
           "source": "金十数据",
@@ -145,6 +127,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时19分]"
+        },
+        {
+          "title": "特朗普政府希望航空公司和机场提供更健康的食品。",
+          "url": "https://flash.jin10.com/detail/20251209044608287800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普的政府支持伊拉克“将俄罗斯石油公司LukOil PJSC在West Qurna 2油田的资产转让给美国公司”的计划。",
@@ -183,6 +177,30 @@
           "time_info": "[04时27分 ~ 05时19分]"
         },
         {
+          "title": "特朗普女婿库什纳参与派拉蒙对华纳兄弟的竞购",
+          "url": "https://flash.jin10.com/detail/20251209043702412800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "市场消息：特朗普表示欧洲正朝着一些不好的方向发展。",
+          "url": "https://flash.jin10.com/detail/20251209043642647800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。 针对拖拉机行业撤销环境监管。 立即对卡车行业降低环境限制。 拖拉机行业必须立即降价。",
           "url": "https://wallstreetcn.com/livenews/3017134",
           "source": "华尔街见闻-快讯",
@@ -193,19 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时19分]"
-        },
-        {
-          "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
-          "url": "https://www.zhihu.com/question/1980922285369094626",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时19分]"
         },
         {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
@@ -237,22 +242,132 @@
           "url": "https://flash.jin10.com/detail/20251209042938587800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普：我想做正确的事。奈飞和派拉蒙都不是我的朋友。我得看看奈飞和派拉蒙的市场份额占比。",
           "url": "https://flash.jin10.com/detail/20251209042850771800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普谈疫苗：我们正在研究很多方面。",
+          "url": "https://flash.jin10.com/detail/20251209042735171800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
+          "url": "https://flash.jin10.com/detail/20251209042652565800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
+          "url": "https://flash.jin10.com/detail/20251209042439691800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "美国驻加拿大大使：特朗普不想终止美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20251209042238279800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：如果我们不得不这么做，我们将最终对来自加拿大的化肥征收高额关税。",
+          "url": "https://flash.jin10.com/detail/20251209041854398800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我对Paramount敌意收购华纳兄弟探索公司的情况了解得不够多。 必须看看Paramount的市场份额。 还没有与库什纳讨论过Paramount的交易问题。 奈飞和Paramount都不是我的好朋友。",
+          "url": "https://wallstreetcn.com/livenews/3017148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为欧盟对X（原推特）罚款是不对的。 欧洲必须非常谨慎（小心）。 “稍晚”将谈及欧盟这个罚款问题。",
+          "url": "https://wallstreetcn.com/livenews/3017147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普：希望人们有钱购买医疗保险。",
+          "url": "https://wallstreetcn.com/livenews/3017146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普：美国不会出现通缩",
+          "url": "https://wallstreetcn.com/livenews/3017143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
         },
         {
           "title": "美国最高法院暗示支持特朗普解雇机构领导人",
@@ -277,17 +392,6 @@
           "time_info": "04时27分"
         },
         {
-          "title": "美国总统特朗普谈疫苗：我们正在研究很多方面。",
-          "url": "https://flash.jin10.com/detail/20251209042735171800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
           "title": "美国总统特朗普：美国将拿出一小部分关税收入，用于补贴农民。",
           "url": "https://flash.jin10.com/detail/20251209033505565800",
           "source": "金十数据",
@@ -297,17 +401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
-          "url": "https://flash.jin10.com/detail/20251209042652565800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
         },
         {
           "title": "美国总统特朗普：正采取行动保护农民。",
@@ -321,92 +414,26 @@
           "time_info": "04时27分"
         },
         {
-          "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
-          "url": "https://flash.jin10.com/detail/20251209042439691800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "美国驻加拿大大使：特朗普不想终止美墨加协定。",
-          "url": "https://flash.jin10.com/detail/20251209042238279800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "美国总统特朗普：如果我们不得不这么做，我们将最终对来自加拿大的化肥征收高额关税。",
-          "url": "https://flash.jin10.com/detail/20251209041854398800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "美国总统特朗普：我对Paramount敌意收购华纳兄弟探索公司的情况了解得不够多。 必须看看Paramount的市场份额。 还没有与库什纳讨论过Paramount的交易问题。 奈飞和Paramount都不是我的好朋友。",
-          "url": "https://wallstreetcn.com/livenews/3017148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "美国总统特朗普：我认为欧盟对X（原推特）罚款是不对的。 欧洲必须非常谨慎（小心）。 “稍晚”将谈及欧盟这个罚款问题。",
-          "url": "https://wallstreetcn.com/livenews/3017147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "美国总统特朗普：希望人们有钱购买医疗保险。",
-          "url": "https://wallstreetcn.com/livenews/3017146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
           "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
           "url": "https://flash.jin10.com/detail/20251209041301695800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
         {
-          "title": "特朗普：美国不会出现通缩",
-          "url": "https://wallstreetcn.com/livenews/3017143",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫高级官员表示，美国总统特朗普致力于持续停止暴力，并期望柬埔寨和泰国政府充分履行其结束这场冲突的承诺。",
+          "url": "https://flash.jin10.com/detail/20251209045331690800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时19分"
+          "time_info": "06时22分"
         },
         {
           "title": "美国总统特朗普声称，如有必要，“我们将对加拿大化肥加征关税”。 威胁要对加拿大化肥加征“严厉的”关税。 Nutrien跌幅扩大至2.3%。",
@@ -415,7 +442,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -455,8 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "梁文锋入选《自然》年度十大科学人物",
@@ -465,11 +492,12 @@
           "ranks": [
             16,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
@@ -479,19 +507,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 05时19分]"
-        },
-        {
-          "title": "Carvana Co.收涨12%，创收盘历史新高，该公司被纳入标普500指数。",
-          "url": "https://wallstreetcn.com/livenews/3017161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 06时22分]"
         },
         {
           "title": "闹鬼酒店亚巴顿人物拆解",
@@ -500,11 +517,24 @@
           "ranks": [
             15,
             27,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 06时22分]"
+        },
+        {
+          "title": "Carvana Co.收涨12%，创收盘历史新高，该公司被纳入标普500指数。",
+          "url": "https://wallstreetcn.com/livenews/3017161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时22分]"
         },
         {
           "title": "半条命2讲了什么故事",
@@ -515,8 +545,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 06时22分]"
         }
       ]
     },
@@ -532,8 +562,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时22分]"
         }
       ]
     }
