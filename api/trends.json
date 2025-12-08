@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T15:26:21.674264+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2025-12-08T16:34:16.196886+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "高市早苗被曝自身难保，或提前下台",
@@ -70,6 +70,33 @@
           "time_info": "[00时25分 ~ 09时47分]"
         },
         {
+          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32125452",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 16时34分]"
+        },
+        {
+          "title": "中日军机事件发酵，高市早苗政府仍在狡辩",
+          "url": "https://news.ifeng.com/c/8ouuEXpLq55",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 16时34分]"
+        },
+        {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
           "url": "https://www.cls.cn/detail/2221851",
           "source": "财联社热门",
@@ -105,37 +132,12 @@
           "time_info": "[04时23分 ~ 11时23分]"
         },
         {
-          "title": "中日军机事件发酵，高市早苗政府仍在狡辩",
-          "url": "https://news.ifeng.com/c/8ouuEXpLq55",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 15时26分]"
-        },
-        {
           "title": "以总统拒绝特朗普“求情”",
           "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
           "source": "凤凰网",
           "ranks": [
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 15时26分]"
-        },
-        {
-          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32125452",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16,
-            14
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -155,6 +157,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时20分]"
+        },
+        {
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 16时34分]"
         },
         {
           "title": "市场消息：美国总统特朗普计划于当地时间周一宣布一项价值120亿美元的农业援助计划。",
@@ -188,18 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 15时26分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -285,6 +287,30 @@
           "time_info": "[05时18分 ~ 07时20分]"
         },
         {
+          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
+          "url": "https://www.cls.cn/detail/2222429",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 16时34分]"
+        },
+        {
+          "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
+          "url": "https://www.zhihu.com/question/1980922285369094626",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 16时34分]"
+        },
+        {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
           "url": "https://flash.jin10.com/detail/20251208051409167800",
           "source": "金十数据",
@@ -295,6 +321,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "波兰外长怒怼马斯克“废除欧盟”言论：飞火星去吧",
+          "url": "https://news.ifeng.com/c/8otJRMgw1sN",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "内塔尼亚胡：加沙停火第二阶段很快开始，将于本月与特朗普会面",
@@ -309,6 +346,28 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普要求高市早苗不要挑衅中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8D%E8%A6%81%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
           "title": "特朗普将于美国东部时间周一下午2点（北京时间次日凌晨3点）参加圆桌会议。",
           "url": "https://flash.jin10.com/detail/20251208093150812800",
           "source": "金十数据",
@@ -320,15 +379,15 @@
           "time_info": "09时47分"
         },
         {
-          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
-          "url": "https://www.cls.cn/detail/2222429",
-          "source": "财联社热门",
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "16时34分"
         },
         {
           "title": "美媒：特朗普称泽连斯基尚未阅读美方提出的乌克兰危机最新解决方案，对此“有点失望”",
@@ -340,17 +399,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
-          "url": "https://www.zhihu.com/question/1980922285369094626",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
         },
         {
           "title": "特朗普责成高级顾问应对牛肉价格飙涨",
@@ -381,7 +429,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         }
@@ -389,7 +437,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "约书亚万KO夺冠!创亚洲历史",
@@ -445,6 +493,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 07时20分]"
+        },
+        {
+          "title": "【午报】创业板指放量涨超3%，算力硬件方向再度爆发，天孚通信20CM涨停创历史新高",
+          "url": "https://www.cls.cn/detail/2222481",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "A股算力硬件股涨势扩大，东田微20cm涨停，天孚通信涨超18%，源杰科技涨超10%，长光华芯、仕佳光子、中际旭创、永鼎股份涨超7%，股价均创出历史新高。",
