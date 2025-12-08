@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T19:21:07.924310+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2025-12-08T20:47:11.367601+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "高市早苗被曝自身难保，或提前下台",
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
+          "url": "https://www.cls.cn/detail/2222429",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 20时47分]"
         },
         {
           "title": "特朗普获国际足联和平奖",
@@ -57,6 +72,22 @@
           "time_info": "[09时46分 ~ 18时27分]"
         },
         {
+          "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
+          "url": "https://www.zhihu.com/question/1980922285369094626",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19,
+            16,
+            9,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 20时47分]"
+        },
+        {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
           "source": "澎湃新闻",
@@ -85,8 +116,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时35分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[12时35分 ~ 20时47分]"
         },
         {
           "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
@@ -111,21 +142,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时37分 ~ 16时34分]"
-        },
-        {
-          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
-          "url": "https://www.cls.cn/detail/2222429",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时26分 ~ 19时21分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -175,21 +191,6 @@
           "time_info": "[09时46分 ~ 15时26分]"
         },
         {
-          "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
-          "url": "https://www.zhihu.com/question/1980922285369094626",
-          "source": "知乎",
-          "ranks": [
-            14,
-            19,
-            16,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时26分 ~ 19时21分]"
-        },
-        {
           "title": "据英国《金融时报》7日援引多名美方高层的消息称，日本首相高市早苗在发表涉台错误言论后，并没有如期望的那样得到美国的公开支持，这让日本政府感到沮丧和恐慌。（环球网）",
           "url": "https://wallstreetcn.com/livenews/3016423",
           "source": "华尔街见闻-快讯",
@@ -214,6 +215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时26分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "市场消息：美国总统特朗普计划于当地时间周一宣布一项价值120亿美元的农业援助计划。",
@@ -260,15 +272,16 @@
           "time_info": "18时27分"
         },
         {
-          "title": "日媒：日本前外交官、学者等要求高市早苗撤回错误言论，敦促高市政府“不要装成受害者”",
-          "url": "https://wallstreetcn.com/livenews/3016964",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 20时47分]"
         },
         {
           "title": "特朗普政府战略调整，赖清德当局战略冒进",
@@ -351,16 +364,16 @@
           "time_info": "[17时31分 ~ 18时27分]"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
+          "title": "日媒：日本前外交官、学者等要求高市早苗撤回错误言论，敦促高市政府“不要装成受害者”",
+          "url": "https://wallstreetcn.com/livenews/3016964",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 19时21分]"
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时47分]"
         },
         {
           "title": "波兰外长怒怼马斯克“废除欧盟”言论：飞火星去吧",
@@ -435,6 +448,17 @@
           "time_info": "[16时33分 ~ 16时34分]"
         },
         {
+          "title": "柬泰再交火 特朗普还会出手吗",
+          "url": "https://www.toutiao.com/trending/7581406828559339014/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 20时47分]"
+        },
+        {
           "title": "特朗普将于美国东部时间周一下午2点（北京时间次日凌晨3点）参加圆桌会议。",
           "url": "https://flash.jin10.com/detail/20251208093150812800",
           "source": "金十数据",
@@ -455,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "特朗普就美国与加拿大贸易争端最新发声",
+          "url": "https://wallstreetcn.com/livenews/3016981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "美媒：特朗普称泽连斯基尚未阅读美方提出的乌克兰危机最新解决方案，对此“有点失望”",
@@ -539,6 +574,19 @@
           "time_info": "[00时25分 ~ 15时26分]"
         },
         {
+          "title": "【焦点复盘】创指3连阳收复30日线，多只CPO概念股齐创历史新高，福建本地股再现批量涨停",
+          "url": "https://www.cls.cn/detail/2222898",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 20时47分]"
+        },
+        {
           "title": "印尼基准股指涨0.7%，创下8694.907点的历史新高。",
           "url": "https://flash.jin10.com/detail/20251208111034198800",
           "source": "金十数据",
@@ -548,18 +596,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
-        },
-        {
-          "title": "【焦点复盘】创指3连阳收复30日线，多只CPO概念股齐创历史新高，福建本地股再现批量涨停",
-          "url": "https://www.cls.cn/detail/2222898",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 19时21分]"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美收跌0.4%，埃及股指涨超0.6%连续三天创收盘历史新高",
@@ -626,11 +662,12 @@
           "url": "https://www.zhihu.com/question/642841803",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 20时47分]"
         }
       ]
     }
