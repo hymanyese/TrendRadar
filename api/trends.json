@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T07:22:02.644394+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2025-12-09T09:46:43.724080+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 43,
+      "match_count": 50,
       "titles": [
         {
           "title": "马斯克回应被罚1.2亿欧元",
@@ -28,11 +28,12 @@
             20,
             19,
             18,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时46分]"
         },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -61,13 +62,36 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 09时46分]"
+        },
+        {
+          "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
+          "url": "https://flash.jin10.com/detail/20251209092634488800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "美国初创公司申请收回“推特”商标，称马斯克已弃用",
           "url": "https://flash.jin10.com/detail/20251209065515367800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -83,6 +107,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "特朗普：允许英伟达对华出售H200芯片",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%81%E8%AE%B8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
           "url": "https://flash.jin10.com/detail/20251209003933561800",
           "source": "金十数据",
@@ -94,15 +129,15 @@
           "time_info": "01时22分"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
+          "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3017264",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -389,7 +424,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -433,7 +468,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -455,9 +490,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美国法官驳回特朗普政府暂停风能许可的决定",
+          "url": "https://flash.jin10.com/detail/20251209084650898800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
+          "url": "https://wallstreetcn.com/livenews/3017247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
@@ -493,6 +550,28 @@
           "time_info": "05时19分"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
+          "url": "https://wallstreetcn.com/livenews/3017241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "特朗普：允许对华出售H200芯片",
+          "url": "https://www.douyin.com/hot/2331063",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
           "url": "https://flash.jin10.com/detail/20251209025903477800",
           "source": "金十数据",
@@ -518,7 +597,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【焦点复盘】创指3连阳收复30日线，多只CPO概念股齐创历史新高，福建本地股再现批量涨停",
@@ -594,6 +673,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 06时22分]"
+        },
+        {
+          "title": "王毅：日本战后仍未彻底反省侵略历史",
+          "url": "https://www.toutiao.com/trending/7581317692118204442/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
