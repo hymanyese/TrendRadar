@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T09:46:43.724080+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2025-12-09T11:21:13.766038+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "马斯克回应被罚1.2亿欧元",
@@ -29,11 +29,12 @@
             19,
             18,
             17,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 09时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 11时21分]"
         },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -67,11 +68,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 09时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 11时21分]"
+        },
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
         },
         {
           "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
@@ -80,7 +93,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -113,7 +126,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -129,15 +142,15 @@
           "time_info": "01时22分"
         },
         {
-          "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3017264",
+          "title": "特朗普威胁墨西哥：如不“立即放水”，再加征5%关税",
+          "url": "https://wallstreetcn.com/livenews/3017324",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "11时21分"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -261,6 +274,18 @@
           "time_info": "[04时27分 ~ 05时19分]"
         },
         {
+          "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3017264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时21分]"
+        },
+        {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
           "url": "https://wallstreetcn.com/livenews/3017101",
           "source": "华尔街见闻-快讯",
@@ -272,6 +297,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1981651554999169255",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
@@ -320,6 +356,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "美议员急了：特朗普你得拉一把日本啊",
+          "url": "https://news.ifeng.com/c/8owI9R84r47",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
         },
         {
           "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
@@ -501,7 +548,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -512,7 +559,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -556,7 +603,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -567,7 +614,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -681,7 +728,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
