@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-09T13:22:49.976956+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2025-12-09T14:36:12.260752+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 63,
+      "match_count": 72,
       "titles": [
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时20分 ~ 14时36分]"
+        },
         {
           "title": "马斯克回应被罚1.2亿欧元",
           "url": "https://www.douyin.com/hot/2330565",
@@ -33,20 +46,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 13时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 14时36分]"
         },
         {
-          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-          "url": "https://www.cls.cn/detail/2223487",
-          "source": "财联社热门",
+          "title": "日本强震 高市早苗神色慌张一路小跑",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E4%B8%80%E8%B7%AF%E5%B0%8F%E8%B7%91",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            4
+            4,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时20分 ~ 13时22分]"
+          "time_info": "[12时30分 ~ 14时36分]"
         },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -58,6 +72,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 03时19分]"
+        },
+        {
+          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
+          "url": "https://news.ifeng.com/c/8owNK695xvD",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时36分]"
         },
         {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
@@ -75,18 +100,6 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
-          "title": "日本强震 高市早苗神色慌张一路小跑",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E4%B8%80%E8%B7%AF%E5%B0%8F%E8%B7%91",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 13时22分]"
-        },
-        {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
           "url": "https://wallstreetcn.com/articles/3760897",
           "source": "华尔街见闻",
@@ -98,17 +111,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 11时21分]"
-        },
-        {
-          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
-          "url": "https://news.ifeng.com/c/8owNK695xvD",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
         },
         {
           "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
@@ -128,7 +130,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -139,7 +141,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -308,6 +310,18 @@
           "time_info": "[04时27分 ~ 05时19分]"
         },
         {
+          "title": "日本发生7.5级强震后 高市早苗发声",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%BC%BA%E9%9C%87%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时36分]"
+        },
+        {
           "title": "特朗普女婿库什纳参与派拉蒙对华纳兄弟的竞购",
           "url": "https://flash.jin10.com/detail/20251209043702412800",
           "source": "金十数据",
@@ -356,6 +370,28 @@
           "time_info": "[09时46分 ~ 11时21分]"
         },
         {
+          "title": "特朗普女婿，“杀回来了”",
+          "url": "https://news.ifeng.com/c/8owSp96lgRc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时36分]"
+        },
+        {
+          "title": "日本近海突发强震，高市早苗“神色慌张”一路小跑进入官邸",
+          "url": "https://news.ifeng.com/c/8owQ4vbmjuV",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时36分]"
+        },
+        {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
           "url": "https://wallstreetcn.com/livenews/3017101",
           "source": "华尔街见闻-快讯",
@@ -391,18 +427,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时22分]"
-        },
-        {
-          "title": "日本发生7.5级强震后 高市早苗发声",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%BC%BA%E9%9C%87%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时22分]"
         },
         {
           "title": "美国总统特朗普：我想做正确的事。奈飞和派拉蒙都不是我的朋友。我得看看奈飞和派拉蒙的市场份额占比。",
@@ -548,26 +572,15 @@
           "time_info": "[05时19分 ~ 06时22分]"
         },
         {
-          "title": "特朗普女婿，“杀回来了”",
-          "url": "https://news.ifeng.com/c/8owSp96lgRc",
-          "source": "凤凰网",
+          "title": "特朗普：是否公布视频由美防长决定",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
+          "source": "百度热搜",
           "ranks": [
-            6
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "日本近海突发强震，高市早苗“神色慌张”一路小跑进入官邸",
-          "url": "https://news.ifeng.com/c/8owQ4vbmjuV",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
@@ -647,6 +660,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "日本首相高市早苗：不就与植田和男的会谈发表评论，货币政策具体细节由日本央行决定。 日本央行需要与政府沟通。 期待日本央行实施适当的货币政策以实现物价目标。 政府对宏观经济政策负有最终责任。",
+          "url": "https://wallstreetcn.com/livenews/3017427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "美国法官驳回特朗普政府暂停风能许可的决定",
           "url": "https://flash.jin10.com/detail/20251209084650898800",
           "source": "金十数据",
@@ -724,6 +748,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "日本首相高市早苗：（在被问及下一次日本央行会议讨论加息时将如何应对时表示）不便置评。",
+          "url": "https://flash.jin10.com/detail/20251209135229213800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
           "url": "https://flash.jin10.com/detail/20251209025903477800",
           "source": "金十数据",
@@ -735,6 +770,50 @@
           "time_info": "04时27分"
         },
         {
+          "title": "日本首相高市早苗：政府对宏观经济政策负有最终责任。",
+          "url": "https://flash.jin10.com/detail/20251209135145125800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "日本首相高市早苗：预计日本央行将实施适当的货币政策以实现其物价目标。",
+          "url": "https://flash.jin10.com/detail/20251209135110534800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "日本首相高市早苗：将在适当的时候，综合考虑利率、外汇和物价等因素，作出恰当的经济与财政决策。 汇率以反映经济基本面的稳定方式波动至关重要。 密切关注市场动向。 如有必要，将在汇率上采取合适的政策。 难以单独界定财政政策对利率及外汇市场的影响，因为二者是由多重因素共同决定的。",
+          "url": "https://wallstreetcn.com/livenews/3017404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "日本首相高市早苗：日本央行需要与政府沟通，但货币政策的具体细节应由日本央行自行决定。",
+          "url": "https://flash.jin10.com/detail/20251209135036424800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "起底高市早苗背后的“金主”",
           "url": "https://www.toutiao.com/trending/7580571845783666707/",
           "source": "今日头条",
@@ -744,12 +823,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "日本首相高市早苗：不评论与日本央行行长植田和男的会谈。",
+          "url": "https://flash.jin10.com/detail/20251209135025115800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "日本首相高市早苗：货币政策的具体内容将由日本央行决定。",
+          "url": "https://flash.jin10.com/detail/20251209135016214800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "【焦点复盘】创指3连阳收复30日线，多只CPO概念股齐创历史新高，福建本地股再现批量涨停",
@@ -789,6 +890,18 @@
           "time_info": "[01时22分 ~ 07时22分]"
         },
         {
+          "title": "苏炳添宣布退役，如何评价他的职业生涯？他的哪个瞬间或故事让你最难忘？",
+          "url": "https://www.zhihu.com/question/1981668042552386109",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 14时36分]"
+        },
+        {
           "title": "闹鬼酒店亚巴顿人物拆解",
           "url": "https://search.bilibili.com/all?keyword=%E9%97%B9%E9%AC%BC%E9%85%92%E5%BA%97%E4%BA%9A%E5%B7%B4%E9%A1%BF%E4%BA%BA%E7%89%A9%E6%8B%86%E8%A7%A3",
           "source": "bilibili 热搜",
@@ -801,18 +914,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 06时22分]"
-        },
-        {
-          "title": "苏炳添宣布退役，如何评价他的职业生涯？他的哪个瞬间或故事让你最难忘？",
-          "url": "https://www.zhihu.com/question/1981668042552386109",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 13时22分]"
         },
         {
           "title": "Carvana Co.收涨12%，创收盘历史新高，该公司被纳入标普500指数。",
@@ -837,6 +938,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 06时22分]"
+        },
+        {
+          "title": "盘点日本历史上的“灾难级大地震”",
+          "url": "https://www.toutiao.com/trending/7581690198775074345/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
+          "url": "https://www.zhihu.com/question/1981658527434053567",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "A股商业航天概念股午后再度走强，航天机电涨停，走出8天5板，乾照光电涨近10%，创出历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3017407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "王毅：日本战后仍未彻底反省侵略历史",
