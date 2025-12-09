@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T03:17:50.050238+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-12-10T04:28:47.320095+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "韩国硬刚高市早苗",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "韩总统府回应高市早苗：将对日方不当领土主张坚决回应",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -51,8 +51,60 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
+          "url": "https://www.cls.cn/detail/2224247",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "高市早苗被要求辞职",
+          "url": "https://www.douyin.com/hot/2331196",
+          "source": "抖音",
+          "ranks": [
+            27,
+            17,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18,
+            16,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "高市早苗被要求辞职",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E8%A6%81%E6%B1%82%E8%BE%9E%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -67,56 +119,6 @@
           "time_info": "[00时30分 ~ 03时17分]"
         },
         {
-          "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
-          "url": "https://www.cls.cn/detail/2224247",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时17分]"
-        },
-        {
-          "title": "高市早苗被要求辞职",
-          "url": "https://www.douyin.com/hot/2331196",
-          "source": "抖音",
-          "ranks": [
-            27,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时17分]"
-        },
-        {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            18,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时17分]"
-        },
-        {
-          "title": "高市早苗被要求辞职",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E8%A6%81%E6%B1%82%E8%BE%9E%E8%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时17分]"
-        },
-        {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
           "url": "https://www.zhihu.com/question/1981659657740234762",
           "source": "知乎",
@@ -125,20 +127,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 03时17分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 04时28分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -149,8 +139,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "据英国金融时报，美国总统特朗普在回应和平计划方面向乌克兰总统泽连斯基提供了“几天时间”。",
@@ -158,22 +161,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时28分]"
         },
         {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
           "url": "https://news.ifeng.com/c/8ox4f6sWwBR",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时30分 ~ 04时28分]"
         },
         {
           "title": "欧盟重罚X平台遭特朗普抨击",
@@ -200,6 +205,17 @@
           "time_info": "[01时23分 ~ 02时31分]"
         },
         {
+          "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
+          "url": "https://news.ifeng.com/c/8oxUGggjWaR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "据福克斯新闻：以为知情人士透露，美国总统特朗普尚未与司法部反垄断部门会面，就派拉蒙天舞、奈飞(NFLX.O)和华纳兄弟探索公司(WBD.O)之间的交易问题表达其意见。",
           "url": "https://flash.jin10.com/detail/20251210020446643800",
           "source": "金十数据",
@@ -209,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "壳牌：墨西哥湾（美国总统特朗普称“美国湾”）石油平台因Hoops输油管道故障停运而关闭。",
+          "url": "https://wallstreetcn.com/livenews/3017862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "据华尔街日报：被美国总统特朗普赦免的洪都拉斯前总统在本国面临逮捕令。",
@@ -228,7 +255,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -250,7 +277,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -294,7 +321,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -326,8 +353,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "现货白银涨幅扩大至4%，刷新历史高位，逼近60.50美元。 内盘沪银夜盘涨超3.6%，最高达到14149元人民币/千克。",
@@ -349,8 +376,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时30分 ~ 04时28分]"
         },
         {
           "title": "现货白银突破60美元整数位心理关口，创历史新高，交易员押注利率走低。",
@@ -415,7 +442,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         }
@@ -423,7 +450,7 @@
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
@@ -434,8 +461,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "洲际交易所（ICE，纽交所控股方）：半数的客户对预测市场感兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3017868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     }
