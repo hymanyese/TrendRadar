@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T22:25:57.563082+08:00",
-  "total_titles_processed": 1991,
+  "generated_at": "2025-12-09T23:32:26.114914+08:00",
+  "total_titles_processed": 2098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 101,
+      "match_count": 109,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -67,6 +67,21 @@
           "time_info": "[00时31分 ~ 19时22分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时24分 ~ 23时32分]"
+        },
+        {
           "title": "日本发生7.5级强震后 高市早苗发声",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%BC%BA%E9%9C%87%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -104,21 +119,6 @@
           "time_info": "[00时31分 ~ 03时19分]"
         },
         {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时24分 ~ 22时25分]"
-        },
-        {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
           "url": "https://www.zhihu.com/question/1980922285369094626",
           "source": "知乎",
@@ -145,6 +145,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 11时21分]"
+        },
+        {
+          "title": "韩总统府回应高市早苗：将对日方不当领土主张坚决回应",
+          "url": "https://news.ifeng.com/c/8owyJ6XrdqT",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时32分]"
         },
         {
           "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
@@ -202,13 +213,24 @@
           "time_info": "00时31分"
         },
         {
+          "title": "韩国硬刚高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A1%AC%E5%88%9A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "匈牙利外长西雅尔多表示，匈牙利总理欧尔班与美国总统特朗普已同意就一种新型金融合作展开谈判，这种合作有望提供金融保障。",
           "url": "https://flash.jin10.com/detail/20251209215314638800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -219,7 +241,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -244,17 +266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "韩总统府回应高市早苗：将对日方不当领土主张坚决回应",
-          "url": "https://news.ifeng.com/c/8owyJ6XrdqT",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
         },
         {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
@@ -300,6 +311,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时20分 ~ 13时22分]"
+        },
+        {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时48分 ~ 23时32分]"
         },
         {
           "title": "特朗普女婿，“杀回来了”",
@@ -469,18 +493,6 @@
           "time_info": "[09时46分 ~ 11时21分]"
         },
         {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时48分 ~ 22时25分]"
-        },
-        {
           "title": "高市早苗被要求辞职",
           "url": "https://www.douyin.com/hot/2331196",
           "source": "抖音",
@@ -489,8 +501,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时25分]"
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 23时32分]"
         },
         {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
@@ -516,6 +528,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时35分 ~ 15时24分]"
+        },
+        {
+          "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
+          "url": "https://news.ifeng.com/c/8owt7VBi7fc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时32分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
@@ -743,17 +766,6 @@
           "time_info": "[05时19分 ~ 06时22分]"
         },
         {
-          "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
-          "url": "https://news.ifeng.com/c/8owt7VBi7fc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-09）",
           "url": "https://flash.jin10.com/detail/20251209181308403800",
           "source": "金十数据",
@@ -776,6 +788,17 @@
           "time_info": "19时22分"
         },
         {
+          "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
+          "url": "https://news.ifeng.com/c/8ox8rZbN56k",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
           "url": "https://flash.jin10.com/detail/20251209063630862800",
           "source": "金十数据",
@@ -793,7 +816,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -853,6 +876,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
+          "url": "https://wallstreetcn.com/articles/3761018",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国总统特朗普：正采取行动保护农民。",
           "url": "https://flash.jin10.com/detail/20251209033225909800",
           "source": "金十数据",
@@ -908,6 +942,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
+          "url": "https://www.cls.cn/detail/2224247",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国法官驳回特朗普政府暂停风能许可的决定",
           "url": "https://flash.jin10.com/detail/20251209084650898800",
           "source": "金十数据",
@@ -917,6 +962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普政府停摆事件对数据有太多的影响。 在正常情况下，政府关门会造成信心崩塌。 总统特朗普会陈述经济的实情。",
+          "url": "https://wallstreetcn.com/livenews/3017769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
@@ -963,6 +1019,17 @@
           "time_info": "20时48分"
         },
         {
+          "title": "“影子美联储主席”哈塞特：无论特朗普提出什么要求，我都照做",
+          "url": "https://wallstreetcn.com/livenews/3017765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "白宫新闻秘书莱维特表示，美国总统特朗普今日将在宾州发表利好经济的讲话。",
           "url": "https://flash.jin10.com/detail/20251209204946258800",
           "source": "金十数据",
@@ -996,6 +1063,17 @@
           "time_info": "21时38分"
         },
         {
+          "title": "特朗普接受美媒采访谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
+          "url": "https://wallstreetcn.com/livenews/3017764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
           "url": "https://wallstreetcn.com/livenews/3017241",
           "source": "华尔街见闻-快讯",
@@ -1016,6 +1094,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "高市早苗被要求辞职",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E8%A6%81%E6%B1%82%E8%BE%9E%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "日本首相高市早苗：（在被问及下一次日本央行会议讨论加息时将如何应对时表示）不便置评。",
@@ -1167,7 +1256,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -1322,11 +1411,12 @@
           "url": "https://www.zhihu.com/question/1981511843768968003",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时32分]"
         },
         {
           "title": "铜价从历史高位回落 投资者等待美联储信号",
@@ -1380,8 +1470,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时24分 ~ 22时25分]"
+          "appearance_count": 12,
+          "time_info": "[15时24分 ~ 23时32分]"
         },
         {
           "title": "职场人如何能识别同事之间的虚情假意？",
