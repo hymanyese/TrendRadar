@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T20:49:58.655385+08:00",
-  "total_titles_processed": 1879,
+  "generated_at": "2025-12-10T21:39:09.611781+08:00",
+  "total_titles_processed": 1959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 97,
+      "match_count": 100,
       "titles": [
         {
           "title": "韩国硬刚高市早苗",
@@ -77,8 +77,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 20时49分]"
+          "appearance_count": 20,
+          "time_info": "[00时30分 ~ 21时39分]"
+        },
+        {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时31分 ~ 21时39分]"
         },
         {
           "title": "韩国回怼高市早苗",
@@ -94,8 +107,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时48分 ~ 20时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时48分 ~ 21时39分]"
         },
         {
           "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
@@ -147,19 +160,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时36分 ~ 17时27分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时49分]"
         },
         {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
@@ -359,15 +359,37 @@
           "time_info": "09时48分"
         },
         {
+          "title": "德国总理默茨：我们希望美国未来成为我们的伙伴，这一点我已向美国总统特朗普表明。",
+          "url": "https://flash.jin10.com/detail/20251210211820992800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "美媒：特朗普政府拟调整反洗钱规则 财政部寻求强化主导权",
           "url": "https://flash.jin10.com/detail/20251210202149381800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
+        },
+        {
+          "title": "德国总理默茨：我下次见到美国总统特朗普时，会告诉他，我们在移民政策上取得了成功。",
+          "url": "https://flash.jin10.com/detail/20251210211806034800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
@@ -379,6 +401,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时39分]"
         },
         {
           "title": "高市早苗承认中日关系恶化冲击经济",
@@ -490,6 +525,17 @@
           "time_info": "[04时28分 ~ 06时22分]"
         },
         {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 21时39分]"
+        },
+        {
           "title": "特朗普称泽连斯基赚走拜登3500亿美元",
           "url": "https://www.toutiao.com/trending/7581084674962473014/",
           "source": "今日头条",
@@ -515,17 +561,28 @@
           "time_info": "[02时30分 ~ 03时17分]"
         },
         {
-          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
-          "source": "澎湃新闻",
+          "title": "特朗普演讲中低俗调侃议员老婆",
+          "url": "https://www.toutiao.com/trending/7581732466420973574/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            19,
-            18
+            26,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时49分]"
+          "time_info": "[20时49分 ~ 21时39分]"
+        },
+        {
+          "title": "特朗普夸白宫发言人漂亮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 21时39分]"
         },
         {
           "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
@@ -641,17 +698,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
         },
         {
           "title": "日本首相高市早苗：日元疲软有利有弊。",
@@ -1017,6 +1063,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "英国首相新闻秘书：美国总统特朗普对伦敦市长萨迪克·汗的评论是错误的。",
+          "url": "https://flash.jin10.com/detail/20251210205554791800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "美国总统特朗普称，他听说拜登使用自动签字笔签署了美联储理事会一些民主党成员的任命，并建议他可以挑战这些任命的合法性。",
           "url": "https://wallstreetcn.com/livenews/3017994",
           "source": "华尔街见闻-快讯",
@@ -1028,24 +1085,13 @@
           "time_info": "09时48分"
         },
         {
-          "title": "特朗普演讲中低俗调侃议员老婆",
-          "url": "https://www.toutiao.com/trending/7581732466420973574/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
           "title": "瑞士选举帕尔梅兰为2026年总统 将主持达沃斯论坛再迎特朗普",
           "url": "https://flash.jin10.com/detail/20251210193900379800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1081,17 +1127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
-        },
-        {
-          "title": "特朗普夸白宫发言人漂亮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
         },
         {
           "title": "英媒：特朗普“施压”泽连斯基几日内回应和平提议 盼圣诞前达成协议",
@@ -1289,6 +1324,18 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "上海港前11月进出国际航行船舶数量创历史同期新高",
+          "url": "https://wallstreetcn.com/livenews/3018437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 21时39分]"
+        },
+        {
           "title": "10小时了解闪耀中国历史的女性",
           "url": "https://www.douyin.com/hot/2330510",
           "source": "抖音",
@@ -1375,17 +1422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "上海港前11月进出国际航行船舶数量创历史同期新高",
-          "url": "https://wallstreetcn.com/livenews/3018437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
         },
         {
           "title": "外交部：日本侵略历史不容翻案",
