@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T05:25:05.317150+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2025-12-12T06:23:40.942716+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 06时23分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -27,19 +27,30 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 06时23分]"
         },
         {
-          "title": "周四（12月11日，美联储降息次日），降息赢家指数涨0.91%，报101.10点。 “特朗普关税输家”指数涨1.72%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3019416",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普政府在加州边境建立新的军事化区域",
+          "url": "https://flash.jin10.com/detail/20251212061317117800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时25分"
+          "time_info": "06时23分"
+        },
+        {
+          "title": "印第安纳州否决选区重划方案，特朗普遭遇重大打击",
+          "url": "https://flash.jin10.com/detail/20251212061240422800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "马斯克暗示SpaceX将上市",
@@ -66,6 +77,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时25分]"
+        },
+        {
+          "title": "周四（12月11日，美联储降息次日），降息赢家指数涨0.91%，报101.10点。 “特朗普关税输家”指数涨1.72%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.11%。",
+          "url": "https://wallstreetcn.com/livenews/3019416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时23分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天稍晚将签署法案和行政命令。",
@@ -300,9 +323,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
+          "url": "https://flash.jin10.com/detail/20251212054106500800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩表示，特朗普不应该干涉欧洲的民主制度。",
@@ -311,7 +345,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -396,7 +430,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "我发贴吧年度热榜人物,你来打分",
@@ -406,8 +440,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 06时23分]"
         },
         {
           "title": "《时代》周刊2025年度人物公布",
@@ -418,11 +452,12 @@
             15,
             12,
             20,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 06时23分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.655万亿美元，创历史新高。",
@@ -430,11 +465,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时23分]"
         },
         {
           "title": "道指上涨444点，涨幅超过0.9%，刷新盘中历史高位至48500点上方（涨穿11月12日盘中最高位48431.57点）。 标普500指数目前仍然跌0.2%，纳指跌185点跌幅0.78%，半导体指数跌2.1%，银行指数涨0.8%。",
@@ -455,9 +491,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "标普500指数收涨14.32点，涨幅0.21%，报6901.00点，突破10月28日所创收盘历史最高位6890.89点，逼近10月29日所创盘中历史最高位6920.34点。 道琼斯工业平均指数收涨646.26点，涨幅1.34%，报48704.01点，突破11月12日所创收盘历史最高位48254.82点、尾盘刷新盘中历史最高位至48756.34点。 纳斯达克综合指数（纳指）收跌60.30点，跌幅0.26%，报23593.855点。 纳斯达克100指数收跌89.753点，跌幅0.35%，报25686.685点。",
+          "url": "https://wallstreetcn.com/livenews/3019406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         }
       ]
     }
