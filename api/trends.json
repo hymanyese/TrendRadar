@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T11:27:06.463708+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2025-12-11T12:37:27.487727+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -62,11 +62,12 @@
           "url": "https://www.zhihu.com/question/1982111618621007519",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 12时37分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
+          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -188,11 +200,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 12时37分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -653,7 +666,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如果看待这一趋势？",
@@ -677,8 +690,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 12时37分]"
         },
         {
           "title": "2028年的货已经卖光！美国电力设备龙头强势突破历史新高",
@@ -690,8 +703,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 11时27分]"
+          "appearance_count": 6,
+          "time_info": "[06时22分 ~ 12时37分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -702,8 +715,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时27分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时37分]"
         },
         {
           "title": "黑石集团总裁Jon Gray：美国经济一直都具有“不错的韧性”。 企业并购增多，但仍然低于历史水平。",
@@ -817,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "水银体温计为何“退出历史舞台”",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E9%93%B6%E4%BD%93%E6%B8%A9%E8%AE%A1%E4%B8%BA%E4%BD%95%E2%80%9C%E9%80%80%E5%87%BA%E5%8E%86%E5%8F%B2%E8%88%9E%E5%8F%B0%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         }
       ]
     },
