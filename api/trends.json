@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T19:21:53.444455+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2025-12-11T20:51:27.395028+08:00",
+  "total_titles_processed": 1964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 76,
+      "match_count": 78,
       "titles": [
         {
           "title": "马斯克称短视频「腐蚀人们的大脑」，如何看待这一说法？",
@@ -15,11 +15,12 @@
             5,
             4,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时26分 ~ 19时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时26分 ~ 20时51分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -105,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时51分]"
         },
         {
           "title": "特朗普：被扣押油轮上的石油归美国了",
@@ -197,6 +198,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "马斯克：若重来，不会领导“政府效率部”",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时51分]"
+        },
+        {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
           "url": "https://wallstreetcn.com/livenews/3018662",
           "source": "华尔街见闻-快讯",
@@ -220,6 +232,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 03时20分]"
+        },
+        {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时51分]"
         },
         {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
@@ -246,28 +269,6 @@
           "time_info": "[14时36分 ~ 15时27分]"
         },
         {
-          "title": "马斯克：若重来，不会领导“政府效率部”",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEh",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时21分]"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时21分]"
-        },
-        {
           "title": "美威胁国际刑事法院：不要调查特朗普",
           "url": "https://www.toutiao.com/trending/7582367829178269750/",
           "source": "今日头条",
@@ -278,6 +279,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时26分 ~ 16时32分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时51分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -314,18 +327,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时22分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时21分]"
         },
         {
           "title": "“特朗普黄金卡”开始接受申请",
@@ -426,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "北约秘书长吕特：美国总统特朗普是唯一能让俄罗斯总统普京坐上谈判桌的人。",
+          "url": "https://flash.jin10.com/detail/20251211203322354800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
@@ -613,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "诺贝尔奖得主马查多：美国总统特朗普在委内瑞拉问题上的行动“果断有力”。",
+          "url": "https://flash.jin10.com/detail/20251211201426682800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "特朗普继续批评鲍威尔，声称美联储降息幅度本来可以翻倍的",
@@ -933,8 +956,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时51分]"
         },
         {
           "title": "水银体温计为何“退出历史舞台”",
