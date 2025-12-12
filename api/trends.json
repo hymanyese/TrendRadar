@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T13:24:29.914547+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-12-12T14:36:35.728253+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -40,19 +40,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 14时36分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时36分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -72,9 +73,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 14时36分]"
         },
         {
           "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
@@ -223,28 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时24分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -413,6 +414,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "白宫：特朗普跟中日都能搞好关系",
+          "url": "https://www.toutiao.com/trending/7582430336525828123/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "市场消息：美国财政部计划扩大特朗普政府为企业提供的税收减免，该方案将扩大研发企业税收减免的适用范围。",
           "url": "https://flash.jin10.com/detail/20251212032152670800",
           "source": "金十数据",
@@ -523,6 +535,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "专家：白宫表态打破高市早苗幻想",
+          "url": "https://www.toutiao.com/trending/7582801128618724918/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
           "url": "https://flash.jin10.com/detail/20251212014134428800",
           "source": "金十数据",
@@ -543,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "泰国外交部：与美国国务卿鲁比奥的通话为美国总统特朗普与泰国总理通话做准备。",
+          "url": "https://flash.jin10.com/detail/20251212132635026800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "特朗普称美对委行动很快将延伸至陆地",
@@ -603,7 +637,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "我发贴吧年度热榜人物,你来打分",
@@ -613,11 +647,12 @@
             1,
             10,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时34分 ~ 14时36分]"
         },
         {
           "title": "《时代》周刊2025年度人物公布",
@@ -635,6 +670,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时21分]"
+        },
+        {
+          "title": "LME铜突破每吨11906美元，创下历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3019665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.655万亿美元，创历史新高。",
@@ -693,7 +739,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
