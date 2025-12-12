@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T15:26:01.272982+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2025-12-12T16:33:02.109172+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -39,11 +39,24 @@
           "ranks": [
             3,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 16时33分]"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 16时33分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时36分 ~ 15时26分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时25分 ~ 15时26分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -191,6 +192,18 @@
           "time_info": "[03时21分 ~ 05时25分]"
         },
         {
+          "title": "特朗普：只有泽连斯基不喜欢和平计划",
+          "url": "https://news.ifeng.com/c/8p1VFhun2fI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 16时33分]"
+        },
+        {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
           "url": "https://flash.jin10.com/detail/20251212035647732800",
           "source": "金十数据",
@@ -274,15 +287,26 @@
           "time_info": "[09时48分 ~ 11时26分]"
         },
         {
-          "title": "特朗普：只有泽连斯基不喜欢和平计划",
-          "url": "https://news.ifeng.com/c/8p1VFhun2fI",
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时26分]"
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
@@ -295,6 +319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时25分]"
+        },
+        {
+          "title": "学者：特朗普想在中日博弈中两头渔利",
+          "url": "https://www.toutiao.com/trending/7582834886818401855/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -343,6 +378,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时25分]"
+        },
+        {
+          "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
+          "url": "https://www.cls.cn/detail/2227456",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "美国白宫就委内瑞拉问题表态称，美国总统特朗普认为，扣押油轮是落实美国制裁政策的举措。",
@@ -663,11 +709,12 @@
             12,
             13,
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 15时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时34分 ~ 16时33分]"
         },
         {
           "title": "《时代》周刊2025年度人物公布",
@@ -693,7 +740,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
