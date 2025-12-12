@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T02:35:14.368653+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2025-12-13T03:19:33.799626+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "高市早苗挑衅内幕被曝光",
@@ -15,41 +15,79 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时19分]"
         },
         {
-          "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
-          "url": "https://flash.jin10.com/detail/20251213021141343800",
-          "source": "金十数据",
+          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
+          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
+          "source": "凤凰网",
           "ranks": [
-            3
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时19分]"
         },
         {
-          "title": "马斯克旗下社交媒体平台“X”在成本高昂的转型下实现营收增长",
-          "url": "https://flash.jin10.com/detail/20251213021021499800",
-          "source": "金十数据",
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
           "ranks": [
-            4
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时19分]"
         },
         {
-          "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
-          "url": "https://wallstreetcn.com/livenews/3020109",
+          "title": "高市早苗挑衅内幕被曝光",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8C%91%E8%A1%85%E5%86%85%E5%B9%95%E8%A2%AB%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时19分]"
+        },
+        {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时19分]"
+        },
+        {
+          "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
+          "url": "https://wallstreetcn.com/livenews/3020090",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1,
+            20,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时19分]"
+        },
+        {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
+          "url": "https://wallstreetcn.com/livenews/3020087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时19分]"
         },
         {
           "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
@@ -64,85 +102,77 @@
           "time_info": "[01时21分 ~ 02时35分]"
         },
         {
-          "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
-          "url": "https://wallstreetcn.com/livenews/3020090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时35分]"
-        },
-        {
-          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
-          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时35分]"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
-          "url": "https://wallstreetcn.com/livenews/3020087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时35分]"
-        },
-        {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3020086",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            23
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时19分]"
+        },
+        {
+          "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
+          "url": "https://wallstreetcn.com/livenews/3020109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时35分]"
+          "time_info": "[02时35分 ~ 03时19分]"
         },
         {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
+          "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
+          "url": "https://flash.jin10.com/detail/20251213021141343800",
+          "source": "金十数据",
           "ranks": [
-            9
+            3,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时19分]"
         },
         {
-          "title": "高市早苗挑衅内幕被曝光",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8C%91%E8%A1%85%E5%86%85%E5%B9%95%E8%A2%AB%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
+          "title": "马斯克旗下社交媒体平台“X”在成本高昂的转型下实现营收增长",
+          "url": "https://flash.jin10.com/detail/20251213021021499800",
+          "source": "金十数据",
           "ranks": [
-            12
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时19分]"
         },
         {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
+          "title": "特朗普称泰柬同意全面停火",
+          "url": "https://wallstreetcn.com/livenews/3020102",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            14
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时19分]"
+        },
+        {
+          "title": "美国总统特朗普：与柬埔寨总理和泰国总理通电话，交谈情况不错。",
+          "url": "https://wallstreetcn.com/livenews/3020098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时19分]"
         },
         {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
@@ -154,28 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "特朗普称泰柬同意全面停火",
-          "url": "https://wallstreetcn.com/livenews/3020102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "美国总统特朗普：与柬埔寨总理和泰国总理通电话，交谈情况不错。",
-          "url": "https://wallstreetcn.com/livenews/3020098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
         },
         {
           "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
@@ -206,9 +214,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
+          "url": "https://flash.jin10.com/detail/20251213022744229800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         },
         {
           "title": "马斯克旗下X公司（原名推特）2025年1-9月收入超过20亿美元，同比增长大约18%。 该公司三季度净亏损5.77亿美元。 三季度EBITDA同比增长16%，季环比增长9%。",
@@ -239,7 +258,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -261,7 +280,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -272,7 +291,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -301,8 +320,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时19分]"
         },
         {
           "title": "我发贴吧年度热榜人物,你来打分",
@@ -313,8 +332,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时19分]"
         },
         {
           "title": "双轨故事逻辑",
@@ -325,8 +344,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 03时19分]"
         },
         {
           "title": "有哪些有趣的历史小故事呢？",
