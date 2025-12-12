@@ -1,107 +1,12 @@
 {
-  "generated_at": "2025-12-12T23:25:44.561603+08:00",
-  "total_titles_processed": 2184,
+  "generated_at": "2025-12-13T00:28:48.326226+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 69,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
-          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 11时26分]"
-        },
-        {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            4,
-            6,
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时24分 ~ 23时25分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时32分 ~ 23时25分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时32分 ~ 23时25分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时25分 ~ 20时48分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时21分]"
-        },
-        {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 15时26分]"
-        },
         {
           "title": "高市早苗挑衅内幕被曝光",
           "url": "https://news.ifeng.com/c/8p26BnKZie6",
@@ -109,933 +14,136 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "泰国总理：美国总统特朗普不太可能将冲突与贸易关税挂钩。",
-          "url": "https://flash.jin10.com/detail/20251212231656213800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "Tilray Brands Inc.涨40%，媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
-          "url": "https://wallstreetcn.com/livenews/3020048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
-          "url": "https://flash.jin10.com/detail/20251212062505540800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "00时28分"
         },
         {
-          "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
-          "url": "https://flash.jin10.com/detail/20251212124015260800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "泰国总理：我已请求美国总统特朗普敦促柬埔寨停止敌对行动。",
-          "url": "https://flash.jin10.com/detail/20251212231047745800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
+          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
           "source": "凤凰网",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 14时36分]"
-        },
-        {
-          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 13时24分]"
-        },
-        {
-          "title": "马斯克暗示SpaceX将上市",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BASpaceX%E5%B0%86%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            22,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普政府在加州边境建立新的军事化区域",
-          "url": "https://flash.jin10.com/detail/20251212061317117800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时21分]"
-        },
-        {
-          "title": "印第安纳州否决选区重划方案，特朗普遭遇重大打击",
-          "url": "https://flash.jin10.com/detail/20251212061240422800",
-          "source": "金十数据",
-          "ranks": [
-            2,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时21分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
-          "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
-          "url": "https://flash.jin10.com/detail/20251212040044595800",
+          "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
+          "url": "https://flash.jin10.com/detail/20251213000409005800",
           "source": "金十数据",
           "ranks": [
-            1,
-            23
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时25分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
-          "title": "周四（12月11日，美联储降息次日），降息赢家指数涨0.91%，报101.10点。 “特朗普关税输家”指数涨1.72%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3019416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时23分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普今天稍晚将签署法案和行政命令。",
-          "url": "https://wallstreetcn.com/livenews/3019384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 05时25分]"
-        },
-        {
-          "title": "特朗普：只有泽连斯基不喜欢和平计划",
-          "url": "https://news.ifeng.com/c/8p1VFhun2fI",
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
           "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 16时33分]"
-        },
-        {
-          "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
-          "url": "https://flash.jin10.com/detail/20251212035647732800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时25分]"
-        },
-        {
-          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
-          "url": "https://flash.jin10.com/detail/20251212111451238800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
-        },
-        {
-          "title": "高市早苗所属自民党支部被曝资金流动混乱",
-          "url": "https://wallstreetcn.com/livenews/3019328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
-        },
-        {
-          "title": "特朗普政府据悉计划加大企业减税力度",
-          "url": "https://flash.jin10.com/detail/20251212035256895800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时25分]"
-        },
-        {
-          "title": "美媒：特朗普计划制裁马杜罗的侄子及多个运送委内瑞拉石油的公司",
-          "url": "https://flash.jin10.com/detail/20251212030051169800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "泰国总理给特朗普“泼冷水”",
-          "url": "https://www.toutiao.com/trending/7582421562226655268/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时34分]"
-        },
-        {
-          "title": "加州州长再批特朗普：最具破坏性总统",
-          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时26分]"
-        },
-        {
-          "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
-          "url": "https://www.cls.cn/detail/2227456",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时27分]"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时22分]"
-        },
-        {
-          "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
-          "url": "https://wallstreetcn.com/livenews/3019392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时25分]"
-        },
-        {
-          "title": "学者：特朗普想在中日博弈中两头渔利",
-          "url": "https://www.toutiao.com/trending/7582834886818401855/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
-          "title": "莫迪同特朗普就贸易和能源等问题通电话",
-          "url": "https://wallstreetcn.com/livenews/3019357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时21分]"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普今天稍晚时候将签署法案和行政令。",
-          "url": "https://flash.jin10.com/detail/20251212025601886800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，（美联储）应该在降息方面做得更多。",
-          "url": "https://wallstreetcn.com/livenews/3019377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "美国财政部计划增加特朗普时期对企业的税收优惠",
-          "url": "https://wallstreetcn.com/livenews/3019389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时25分]"
-        },
-        {
-          "title": "美国白宫就委内瑞拉问题表态称，美国总统特朗普认为，扣押油轮是落实美国制裁政策的举措。",
-          "url": "https://flash.jin10.com/detail/20251212025211680800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国特使Witkoff和团队继续与乌克兰和俄罗斯磋商。 乌克兰问题久拖不决让总统特朗普“感到极端受挫”。",
-          "url": "https://wallstreetcn.com/livenews/3019375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
-          "url": "https://flash.jin10.com/detail/20251212054106500800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时21分]"
-        },
-        {
-          "title": "美国白宫：自会面以来，特朗普已经与日本首相高市早苗有过几次交谈。",
-          "url": "https://flash.jin10.com/detail/20251212024525907800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普抱怨从拜登处继承了烂摊子 质疑其取得的成就何时能取得认可",
-          "url": "https://flash.jin10.com/detail/20251212024314875800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "美国总统特朗普：关税带来了数千亿美元的收入，我们作为一个国家再次受到尊重。",
-          "url": "https://flash.jin10.com/detail/20251212024049720800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "火速任命地方联储主席，特朗普不能随心所欲了？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20251212184015295800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1982382778923365984",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "白宫：特朗普跟中日都能搞好关系",
-          "url": "https://www.toutiao.com/trending/7582430336525828123/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "市场消息：美国财政部计划扩大特朗普政府为企业提供的税收减免，该方案将扩大研发企业税收减免的适用范围。",
-          "url": "https://flash.jin10.com/detail/20251212032152670800",
-          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "泰国政府官员：泰国代理总理定于周五晚些时候与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20251212110213966800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "泰国总理：美国总统特朗普担心与柬埔寨交战，希望恢复停火。",
-          "url": "https://flash.jin10.com/detail/20251212230515326800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "马斯克称短视频「腐蚀人们的大脑」，如何看待这一说法？",
-          "url": "https://www.zhihu.com/question/1982111618621007519",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "据AXIOS网站报道，预计美国高级官员将于周六在巴黎与乌克兰、法国、德国和英国的国家安全顾问会面，讨论特朗普的俄乌和平计划。白宫新闻秘书莱维特称，如果总统认为值得花费时间，美国将于周六派代表团参加在巴黎举行的会谈。",
-          "url": "https://flash.jin10.com/detail/20251212032018653800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "泰国总理：与美国总统特朗普的通话气氛良好。",
-          "url": "https://flash.jin10.com/detail/20251212230459244800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
-          "url": "https://flash.jin10.com/detail/20251212045820378800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美联储Hammack：美国总统特朗普推行的政策将在2026年带来“得体的”刺激。",
-          "url": "https://wallstreetcn.com/livenews/3020034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时28分"
         },
         {
           "title": "高市早苗挑衅内幕被曝光",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8C%91%E8%A1%85%E5%86%85%E5%B9%95%E8%A2%AB%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "特朗普下令SEC审查代理咨询机构规则",
-          "url": "https://flash.jin10.com/detail/20251212084323146800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "00时28分"
         },
         {
-          "title": "欧盟委员会主席冯德莱恩表示，特朗普不应该干涉欧洲的民主制度。",
-          "url": "https://flash.jin10.com/detail/20251212042709736800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美国总统特朗普：但现在，情况完全不同了，能源、石油和汽油的价格正在快速下跌，跌至五年来的最低点，而股票市场今天刚刚创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20251212024024441800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国总统特朗普：我从拜登政府那里继承了一个烂摊子——历史上最严重的通货膨胀和我国有史以来最高的物价。",
-          "url": "https://flash.jin10.com/detail/20251212024001002800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
-          "url": "https://wallstreetcn.com/livenews/3019493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "专家：白宫表态打破高市早苗幻想",
-          "url": "https://www.toutiao.com/trending/7582801128618724918/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "莫迪同特朗普就贸易和能源等问题通电话",
-          "url": "https://flash.jin10.com/detail/20251212014134428800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
-          "title": "美国白宫就美联储的行动表态称，总统特朗普认为还应采取更多措施。",
-          "url": "https://flash.jin10.com/detail/20251212023539059800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "泰国外交部：与美国国务卿鲁比奥的通话为美国总统特朗普与泰国总理通话做准备。",
-          "url": "https://flash.jin10.com/detail/20251212132635026800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "特朗普称美对委行动很快将延伸至陆地",
-          "url": "https://www.toutiao.com/trending/7582515717653315611/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普已了解乌克兰的最新提议。",
-          "url": "https://flash.jin10.com/detail/20251212023406084800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普称赞股市再创新高",
-          "url": "https://flash.jin10.com/detail/20251211234650410800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "石破茂再批高市早苗错误言论",
-          "url": "https://www.toutiao.com/trending/7582182946498281518/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "美国白宫就乌克兰问题表态称，特朗普政府将继续与双方对话，如果确实存在签署和平协议的机会，将派代表前往谈判。",
-          "url": "https://flash.jin10.com/detail/20251212023333199800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "我发贴吧年度热榜人物,你来打分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347890&amp;topic_name=%E6%88%91%E5%8F%91%E8%B4%B4%E5%90%A7%E5%B9%B4%E5%BA%A6%E7%83%AD%E6%A6%9C%E4%BA%BA%E7%89%A9%2C%E4%BD%A0%E6%9D%A5%E6%89%93%E5%88%86",
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
           "ranks": [
-            1,
-            10,
-            12,
-            13,
-            15,
-            14,
-            16,
-            18,
-            19,
-            20,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时34分 ~ 23时25分]"
-        },
-        {
-          "title": "《时代》周刊2025年度人物公布",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%97%B6%E4%BB%A3%E3%80%8B%E5%91%A8%E5%88%8A2025%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            15,
-            12,
-            20,
-            24,
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时21分]"
-        },
-        {
-          "title": "LME三个月期铜升至11,952美元/吨，再创历史新高。",
-          "url": "https://flash.jin10.com/detail/20251212144607114800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "00时28分"
         },
         {
-          "title": "LME铜突破每吨11906美元，创下历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3019665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.655万亿美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3019396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时23分]"
-        },
-        {
-          "title": "黄仁勋奥特曼等八人获《时代》年度人物：人类将共同决定AI未来形态",
-          "url": "https://wallstreetcn.com/livenews/3019584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时24分]"
-        },
-        {
-          "title": "新加坡基准股指一度上涨1.2%，创下4576.09点的历史新高。",
-          "url": "https://flash.jin10.com/detail/20251212121105827800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时24分]"
-        },
-        {
-          "title": "道指上涨444点，涨幅超过0.9%，刷新盘中历史高位至48500点上方（涨穿11月12日盘中最高位48431.57点）。 标普500指数目前仍然跌0.2%，纳指跌185点跌幅0.78%，半导体指数跌2.1%，银行指数涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3019317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
-        },
-        {
-          "title": "为什么说台湾回归是历史大势",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%BD%92%E6%98%AF%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%8A%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "中方绝不允许日本右翼势力开历史倒车",
-          "url": "https://www.toutiao.com/trending/7582572241867882532/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "交易员称，印度央行可能抛售美元以帮助卢比避免进一步贬值。印度卢比兑美元触及历史新低90.55。",
-          "url": "https://wallstreetcn.com/livenews/3019632",
+          "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3020054",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "00时28分"
         },
         {
-          "title": "据美国投资公司协会（ICI）统计，美国货币市场基金资产规模创下7.655万亿美元的历史新高。",
-          "url": "https://flash.jin10.com/detail/20251212042925196800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "标普500指数收涨14.32点，涨幅0.21%，报6901.00点，突破10月28日所创收盘历史最高位6890.89点，逼近10月29日所创盘中历史最高位6920.34点。 道琼斯工业平均指数收涨646.26点，涨幅1.34%，报48704.01点，突破11月12日所创收盘历史最高位48254.82点、尾盘刷新盘中历史最高位至48756.34点。 纳斯达克综合指数（纳指）收跌60.30点，跌幅0.26%，报23593.855点。 纳斯达克100指数收跌89.753点，跌幅0.35%，报25686.685点。",
-          "url": "https://wallstreetcn.com/livenews/3019406",
+          "title": "Tilray Brands Inc.涨40%，AdvisorShares Cannabis ETF涨35%，创2022年以来最大盘中涨幅。 媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
+          "url": "https://wallstreetcn.com/livenews/3020048",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "00时28分"
         },
         {
-          "title": "随着银价创下历史新高，美股银矿股股价飙升，恩迪沃银业上涨0.3%，西尔科金属上涨0.6%，赫克拉矿业上涨3.5%，科埃尔矿业上涨2.5%，赫克拉矿业上涨3.5%，科埃尔矿业上涨2.5%。",
-          "url": "https://flash.jin10.com/detail/20251212223502098800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "中石油研究部：中国新增燃气发电装机容量将于2025年达到超过20吉瓦的历史新高。",
-          "url": "https://flash.jin10.com/detail/20251212104542197800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "现货白银突破64美元，一度攀升至每盎司64.32美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3019808",
+          "title": "美国克利夫兰联储主席哈玛克（2026年FOMC票委）：美国总统特朗普推行的政策将在2026年带来“得体的”刺激。",
+          "url": "https://wallstreetcn.com/livenews/3020034",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "00时28分"
         }
       ]
     },
     {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
+      "match_count": 3,
       "titles": [
         {
-          "title": "为什么职场中越有经验的人，反而越不爱说话？",
-          "url": "https://www.zhihu.com/question/1970096993280987393",
-          "source": "知乎",
+          "title": "为什么说台湾回归是历史大势",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%BD%92%E6%98%AF%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%8A%BF",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时26分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "有哪些有趣的历史小故事呢？",
+          "url": "https://www.zhihu.com/question/1938910770944513406",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "我发贴吧年度热榜人物,你来打分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347890&amp;topic_name=%E6%88%91%E5%8F%91%E8%B4%B4%E5%90%A7%E5%B9%B4%E5%BA%A6%E7%83%AD%E6%A6%9C%E4%BA%BA%E7%89%A9%2C%E4%BD%A0%E6%9D%A5%E6%89%93%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     }
