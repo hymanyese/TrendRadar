@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T11:26:11.316647+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2025-12-12T12:36:22.052934+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -33,15 +33,15 @@
           "time_info": "[00时34分 ~ 07时21分]"
         },
         {
-          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
-          "url": "https://flash.jin10.com/detail/20251212111451238800",
-          "source": "金十数据",
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "12时36分"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -142,6 +142,18 @@
           "time_info": "[04时26分 ~ 05时25分]"
         },
         {
+          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
+          "url": "https://flash.jin10.com/detail/20251212111451238800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时36分]"
+        },
+        {
           "title": "高市早苗所属自民党支部被曝资金流动混乱",
           "url": "https://wallstreetcn.com/livenews/3019328",
           "source": "华尔街见闻-快讯",
@@ -178,6 +190,19 @@
           "time_info": "[03时21分 ~ 04时26分]"
         },
         {
+          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时36分]"
+        },
+        {
           "title": "泰国总理给特朗普“泼冷水”",
           "url": "https://www.toutiao.com/trending/7582421562226655268/",
           "source": "今日头条",
@@ -201,16 +226,26 @@
           "time_info": "[09时48分 ~ 11时26分]"
         },
         {
-          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
-          "source": "澎湃新闻",
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
           "ranks": [
-            17,
-            18
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时26分]"
+          "time_info": "[11时25分 ~ 12时36分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 12时36分]"
         },
         {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
@@ -297,28 +332,6 @@
           "time_info": "[03时21分 ~ 04时26分]"
         },
         {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
           "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
           "url": "https://flash.jin10.com/detail/20251212054106500800",
           "source": "金十数据",
@@ -395,7 +408,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -510,6 +523,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "特朗普称美对委行动很快将延伸至陆地",
+          "url": "https://www.toutiao.com/trending/7582515717653315611/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普已了解乌克兰的最新提议。",
           "url": "https://flash.jin10.com/detail/20251212023406084800",
           "source": "金十数据",
@@ -532,6 +556,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "石破茂再批高市早苗错误言论",
+          "url": "https://www.toutiao.com/trending/7582182946498281518/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "美国白宫就乌克兰问题表态称，特朗普政府将继续与双方对话，如果确实存在签署和平协议的机会，将派代表前往谈判。",
           "url": "https://flash.jin10.com/detail/20251212023333199800",
           "source": "金十数据",
@@ -546,7 +581,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "我发贴吧年度热榜人物,你来打分",
@@ -554,11 +589,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 11时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时36分]"
         },
         {
           "title": "《时代》周刊2025年度人物公布",
@@ -578,15 +614,15 @@
           "time_info": "[00时34分 ~ 07时21分]"
         },
         {
-          "title": "黄仁勋奥特曼等八人获《时代》年度人物：人类将共同决定AI未来形态",
-          "url": "https://wallstreetcn.com/livenews/3019584",
-          "source": "华尔街见闻-快讯",
+          "title": "新加坡基准股指一度上涨1.2%，创下4576.09点的历史新高。",
+          "url": "https://flash.jin10.com/detail/20251212121105827800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "12时36分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.655万亿美元，创历史新高。",
@@ -600,6 +636,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时26分 ~ 06时23分]"
+        },
+        {
+          "title": "黄仁勋奥特曼等八人获《时代》年度人物：人类将共同决定AI未来形态",
+          "url": "https://wallstreetcn.com/livenews/3019584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时36分]"
         },
         {
           "title": "道指上涨444点，涨幅超过0.9%，刷新盘中历史高位至48500点上方（涨穿11月12日盘中最高位48431.57点）。 标普500指数目前仍然跌0.2%，纳指跌185点跌幅0.78%，半导体指数跌2.1%，银行指数涨0.8%。",
@@ -642,7 +690,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
