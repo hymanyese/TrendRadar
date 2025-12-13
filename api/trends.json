@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T12:28:55.626114+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2025-12-13T13:23:31.378761+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "高市早苗挑衅内幕被曝光",
@@ -63,8 +63,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 12时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火，泰方否认",
+          "url": "https://news.ifeng.com/c/8p2to1Pzvac",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 13时23分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -79,16 +91,18 @@
           "time_info": "[07时21分 ~ 09时43分]"
         },
         {
-          "title": "特朗普称泰柬已同意停火，泰方否认",
-          "url": "https://news.ifeng.com/c/8p2to1Pzvac",
-          "source": "凤凰网",
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://www.douyin.com/hot/2334474",
+          "source": "抖音",
           "ranks": [
-            2,
-            3
+            7,
+            19,
+            15,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 12时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时23分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -103,27 +117,29 @@
           "time_info": "[04时26分 ~ 09时43分]"
         },
         {
+          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20251213111612295800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时23分]"
+        },
+        {
           "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
           "url": "https://flash.jin10.com/detail/20251213102355663800",
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时28分]"
-        },
-        {
-          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
-          "url": "https://flash.jin10.com/detail/20251213111612295800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时23分]"
         },
         {
           "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
@@ -152,19 +168,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时35分 ~ 05时21分]"
-        },
-        {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://www.douyin.com/hot/2334474",
-          "source": "抖音",
-          "ranks": [
-            7,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时28分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
@@ -223,11 +226,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
@@ -269,6 +273,19 @@
           "time_info": "[07时21分 ~ 11时18分]"
         },
         {
+          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
+          "url": "https://flash.jin10.com/detail/20251213092310404800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时23分]"
+        },
+        {
           "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
           "url": "https://flash.jin10.com/detail/20251213011411174800",
           "source": "金十数据",
@@ -306,18 +323,6 @@
           "time_info": "[02时35分 ~ 03时19分]"
         },
         {
-          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
-          "url": "https://flash.jin10.com/detail/20251213092310404800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时28分]"
-        },
-        {
           "title": "马斯克旗下社交媒体平台“X”在成本高昂的转型下实现营收增长",
           "url": "https://flash.jin10.com/detail/20251213021021499800",
           "source": "金十数据",
@@ -328,6 +333,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时19分]"
+        },
+        {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 13时23分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -367,18 +384,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时35分 ~ 05时21分]"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 12时28分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -426,6 +431,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时42分 ~ 09时43分]"
+        },
+        {
+          "title": "爱泼斯坦案新影像曝光，有特朗普照片",
+          "url": "https://news.ifeng.com/c/8p315VNzI20",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
@@ -527,6 +543,17 @@
           "time_info": "02时35分"
         },
         {
+          "title": "特朗普回应与爱泼斯坦同框照片被公布",
+          "url": "https://www.toutiao.com/trending/7582957093125636122/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "据日经新闻：日本首相高市早苗将于12月20日与哈萨克斯坦、乌兹别克斯坦、吉尔吉斯斯坦、塔吉克斯坦和土库曼斯坦的领导人举行会晤。",
           "url": "https://flash.jin10.com/detail/20251213012745632800",
           "source": "金十数据",
@@ -552,8 +579,21 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "12 月 13 日是第十二个国家公祭日，这一天，我们在纪念什么？为什么这段历史需要不断被提起、被讲述？",
+          "url": "https://www.zhihu.com/question/1982805501038327148",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时23分]"
+        },
         {
           "title": "为什么说台湾回归是历史大势",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%BD%92%E6%98%AF%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%8A%BF",
@@ -565,8 +605,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 12时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时23分]"
         },
         {
           "title": "我发贴吧年度热榜人物,你来打分",
@@ -579,21 +619,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 12时28分]"
-        },
-        {
-          "title": "12 月 13 日是第十二个国家公祭日，这一天，我们在纪念什么？为什么这段历史需要不断被提起、被讲述？",
-          "url": "https://www.zhihu.com/question/1982805501038327148",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时23分]"
         },
         {
           "title": "铭记历史 吾辈自强",
@@ -629,6 +656,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "记住历史 记住他们",
+          "url": "https://www.douyin.com/hot/2335218",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "12 月 13 日是第十二个国家公祭日，面对南京大屠杀不断被揭示的细节，该如何守护不容篡改的历史真相？",
+          "url": "https://www.zhihu.com/question/1982776721892720907",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美国华盛顿州连日暴雨，至少四条河流发生“历史性”洪水",
