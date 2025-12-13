@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T19:18:15.752066+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2025-12-13T20:42:08.396520+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "高市早苗挑衅内幕被曝光",
@@ -19,6 +19,17 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
+          "title": "高市早苗极有可能参拜靖国神社，绝不能等闲视之",
+          "url": "https://news.ifeng.com/c/8p3Fa5CtUhG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 20时42分]"
+        },
+        {
           "title": "特朗普称泰柬已同意停火，泰方否认",
           "url": "https://news.ifeng.com/c/8p2to1Pzvac",
           "source": "凤凰网",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时17分 ~ 15时24分]"
-        },
-        {
-          "title": "高市早苗极有可能参拜靖国神社，绝不能等闲视之",
-          "url": "https://news.ifeng.com/c/8p3Fa5CtUhG",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时18分]"
         },
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -74,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时17分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[11时17分 ~ 20时42分]"
         },
         {
           "title": "高市早苗挑衅内幕被曝光",
@@ -100,11 +100,12 @@
             19,
             20,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时28分 ~ 19时18分]"
+          "appearance_count": 28,
+          "time_info": "[00时28分 ~ 20时42分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -122,6 +123,20 @@
           "time_info": "[09时42分 ~ 14时32分]"
         },
         {
+          "title": "马斯克批评欧盟「接受 cookie」弹窗是浪费时间，是这样吗？cookie 弹窗功能有必要存在吗？",
+          "url": "https://www.zhihu.com/question/1981317694012814649",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 20时42分]"
+        },
+        {
           "title": "特朗普称泰柬同意全面停火",
           "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
           "source": "凤凰网",
@@ -132,6 +147,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时21分 ~ 09时43分]"
+        },
+        {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 20时42分]"
+        },
+        {
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 20时42分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -213,43 +256,17 @@
           "time_info": "[15时23分 ~ 15时24分]"
         },
         {
-          "title": "马斯克批评欧盟「接受 cookie」弹窗是浪费时间，是这样吗？cookie 弹窗功能有必要存在吗？",
-          "url": "https://www.zhihu.com/question/1981317694012814649",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时18分]"
-        },
-        {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            13,
-            11
+            20,
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时18分]"
-        },
-        {
-          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时18分]"
+          "time_info": "[18时21分 ~ 20时42分]"
         },
         {
           "title": "特朗普称泰柬已同意停火 泰方否认",
@@ -350,11 +367,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时42分]"
         },
         {
           "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
@@ -368,6 +386,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时21分 ~ 11时18分]"
+        },
+        {
+          "title": "马斯克或成全球首位万亿美元富豪",
+          "url": "https://wallstreetcn.com/livenews/3020224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时42分]"
         },
         {
           "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
@@ -409,6 +440,19 @@
           "time_info": "[07时21分 ~ 11时18分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-13）",
+          "url": "https://flash.jin10.com/detail/20251213180026791800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时42分]"
+        },
+        {
           "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
           "url": "https://flash.jin10.com/detail/20251213092310404800",
           "source": "金十数据",
@@ -434,18 +478,6 @@
           "time_info": "[01时21分 ~ 02时35分]"
         },
         {
-          "title": "马斯克或成全球首位万亿美元富豪",
-          "url": "https://wallstreetcn.com/livenews/3020224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时18分]"
-        },
-        {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3020086",
           "source": "华尔街见闻-快讯",
@@ -469,18 +501,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时19分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-13）",
-          "url": "https://flash.jin10.com/detail/20251213180026791800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时18分]"
         },
         {
           "title": "马斯克旗下社交媒体平台“X”在成本高昂的转型下实现营收增长",
@@ -534,18 +554,6 @@
           "time_info": "[02时35分 ~ 05时21分]"
         },
         {
-          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 19时18分]"
-        },
-        {
           "title": "爱泼斯坦案新影像曝光，有特朗普照片",
           "url": "https://news.ifeng.com/c/8p315VNzI20",
           "source": "凤凰网",
@@ -566,6 +574,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
+          "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
+          "url": "https://wallstreetcn.com/livenews/3020226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时42分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -615,17 +635,6 @@
           "time_info": "[09时42分 ~ 09时43分]"
         },
         {
-          "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
-          "url": "https://wallstreetcn.com/livenews/3020226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
           "url": "https://flash.jin10.com/detail/20251213000409005800",
           "source": "金十数据",
@@ -635,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
+          "url": "https://wallstreetcn.com/articles/3761314",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
