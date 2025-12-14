@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T17:22:49.204480+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2025-12-14T18:22:06.401342+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "高市早苗极有可能参拜靖国神社，绝不能等闲视之",
@@ -257,6 +257,17 @@
           "time_info": "[00时27分 ~ 03时18分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时22分]"
+        },
+        {
           "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
           "url": "https://wallstreetcn.com/livenews/3020317",
           "source": "华尔街见闻-快讯",
@@ -305,15 +316,15 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
-          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
+          "title": "冲绳教授说高市早苗违宪应该辞职",
+          "url": "https://www.toutiao.com/trending/7583245423960522806/",
+          "source": "今日头条",
           "ranks": [
-            6
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "特朗普的“新五常”计划可行吗",
@@ -411,6 +422,19 @@
           "time_info": "[00时26分 ~ 11时40分]"
         },
         {
+          "title": "你认可奥沙利文是斯诺克历史第一吗",
+          "url": "https://www.toutiao.com/trending/7583259384861884422/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时22分]"
+        },
+        {
           "title": "2025年度时尚封面人物",
           "url": "https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E5%BA%A6%E6%97%B6%E5%B0%9A%E5%B0%81%E9%9D%A2%E4%BA%BA%E7%89%A9%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -436,18 +460,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时40分 ~ 14时33分]"
-        },
-        {
-          "title": "你认可奥沙利文是斯诺克历史第一吗",
-          "url": "https://www.toutiao.com/trending/7583259384861884422/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 17时22分]"
         },
         {
           "title": "早期互联网，是否是一个现代版的「巴别塔」故事？",
