@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T13:22:27.231513+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2025-12-14T14:33:10.969519+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "高市早苗极有可能参拜靖国神社，绝不能等闲视之",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 14时33分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -126,17 +137,6 @@
           "time_info": "[00时27分 ~ 09时54分]"
         },
         {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 13时22分]"
-        },
-        {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
           "url": "https://wallstreetcn.com/livenews/3020265",
           "source": "华尔街见闻-快讯",
@@ -148,6 +148,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时19分 ~ 09时54分]"
+        },
+        {
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 14时33分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -196,15 +207,40 @@
           "time_info": "[00时27分 ~ 04时23分]"
         },
         {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时54分 ~ 13时22分]"
+          "time_info": "[11时40分 ~ 14时33分]"
+        },
+        {
+          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
+          "url": "https://flash.jin10.com/detail/20251214100231761800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 14时33分]"
         },
         {
           "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
@@ -218,40 +254,6 @@
           "time_info": "[00时27分 ~ 03时18分]"
         },
         {
-          "title": "特朗普对其经济政策能否助力中期选举存疑",
-          "url": "https://flash.jin10.com/detail/20251214101831272800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 13时22分]"
-        },
-        {
-          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
-          "url": "https://flash.jin10.com/detail/20251214100231761800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 13时22分]"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 13时22分]"
-        },
-        {
           "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
           "url": "https://wallstreetcn.com/livenews/3020317",
           "source": "华尔街见闻-快讯",
@@ -263,6 +265,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时40分 ~ 13时22分]"
+        },
+        {
+          "title": "高市早苗谬论影响正在日本各地显现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B0%AC%E8%AE%BA%E5%BD%B1%E5%93%8D%E6%AD%A3%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%90%84%E5%9C%B0%E6%98%BE%E7%8E%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "特朗普说中国团结一心干大事",
@@ -346,7 +359,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "泰国华人：泰柬冲突更像是政治人物的矛盾，不是两国人民的仇恨",
@@ -367,11 +380,23 @@
           "ranks": [
             13,
             17,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 14时33分]"
+        },
+        {
+          "title": "2025年度时尚封面人物",
+          "url": "https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E5%BA%A6%E6%97%B6%E5%B0%9A%E5%B0%81%E9%9D%A2%E4%BA%BA%E7%89%A9%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "早期互联网，是否是一个现代版的「巴别塔」故事？",
