@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T15:21:21.378532+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2025-12-14T16:28:57.897918+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "高市早苗极有可能参拜靖国神社，绝不能等闲视之",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时54分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 16时28分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -144,8 +144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时54分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 16时28分]"
         },
         {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
@@ -166,11 +166,38 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 16时28分]"
+        },
+        {
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时40分 ~ 15时21分]"
+          "time_info": "[11时40分 ~ 16时28分]"
+        },
+        {
+          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
+          "url": "https://flash.jin10.com/detail/20251214100231761800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 16时28分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -208,18 +235,6 @@
           "time_info": "09时54分"
         },
         {
-          "title": "特朗普对其经济政策能否助力中期选举存疑",
-          "url": "https://flash.jin10.com/detail/20251214101831272800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 15时21分]"
-        },
-        {
           "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
           "url": "https://wallstreetcn.com/articles/3761314",
           "source": "华尔街见闻",
@@ -229,18 +244,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 04时23分]"
-        },
-        {
-          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
-          "url": "https://flash.jin10.com/detail/20251214100231761800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 15时21分]"
         },
         {
           "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
@@ -301,6 +304,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "柬埔寨称泰军向柬境内投掷数枚炸弹，泰方暂无回应，此前特朗普称双方已同意停火，双方局势将如何发展？",
+          "url": "https://www.zhihu.com/question/1983101482518668094",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "泰柬无视特朗普发文继续打",
           "url": "https://www.toutiao.com/trending/7582072617088548873/",
           "source": "今日头条",
@@ -340,7 +354,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -411,6 +425,18 @@
           "time_info": "[14时32分 ~ 15时21分]"
         },
         {
+          "title": "你认可奥沙利文是斯诺克历史第一吗",
+          "url": "https://www.toutiao.com/trending/7583259384861884422/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时28分]"
+        },
+        {
           "title": "早期互联网，是否是一个现代版的「巴别塔」故事？",
           "url": "https://www.zhihu.com/question/1981821714674521730",
           "source": "知乎",
@@ -432,17 +458,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时27分]"
-        },
-        {
-          "title": "你认可奥沙利文是斯诺克历史第一吗",
-          "url": "https://www.toutiao.com/trending/7583259384861884422/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         },
         {
           "title": "残特奥赛场故事值得更多人看见",
