@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T22:20:31.487744+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2025-12-14T23:21:08.368514+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "高市早苗极有可能参拜靖国神社，绝不能等闲视之",
@@ -125,6 +125,17 @@
           "time_info": "[00时26分 ~ 09时54分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时21分]"
+        },
+        {
           "title": "3名美方人员遇袭死亡，特朗普誓言报复",
           "url": "https://www.cls.cn/detail/2228813",
           "source": "财联社热门",
@@ -172,17 +183,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时19分 ~ 09时54分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 22时20分]"
         },
         {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
@@ -292,6 +292,18 @@
           "time_info": "[11时40分 ~ 13时22分]"
         },
         {
+          "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
+          "url": "https://flash.jin10.com/detail/20251214211648647800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时21分]"
+        },
+        {
           "title": "柬埔寨称泰军向柬境内投掷数枚炸弹，泰方暂无回应，此前特朗普称双方已同意停火，双方局势将如何发展？",
           "url": "https://www.zhihu.com/question/1983101482518668094",
           "source": "知乎",
@@ -302,6 +314,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 17时22分]"
+        },
+        {
+          "title": "特朗普调停泰柬冲突无果 白宫发声",
+          "url": "https://www.toutiao.com/trending/7583174954114629668/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
         },
         {
           "title": "高市早苗谬论影响正在日本各地显现",
@@ -358,17 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
-          "url": "https://flash.jin10.com/detail/20251214211648647800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "泰柬无视特朗普发文继续打",
@@ -561,11 +573,12 @@
           "url": "https://www.toutiao.com/trending/7583672141867450387/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 23时21分]"
         }
       ]
     }
