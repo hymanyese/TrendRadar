@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T19:18:31.501265+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2025-12-14T20:42:28.222437+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "高市早苗极有可能参拜靖国神社，绝不能等闲视之",
@@ -246,6 +246,17 @@
           "time_info": "[00时27分 ~ 04时23分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
           "url": "https://news.ifeng.com/c/8p51GzC9IVg",
           "source": "凤凰网",
@@ -377,7 +388,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -442,8 +453,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 20时42分]"
         },
         {
           "title": "2025年度时尚封面人物",
