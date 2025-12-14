@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T14:33:10.969519+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2025-12-14T15:21:21.378532+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "高市早苗极有可能参拜靖国神社，绝不能等闲视之",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 15时21分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -137,6 +137,17 @@
           "time_info": "[00时27分 ~ 09时54分]"
         },
         {
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 15时21分]"
+        },
+        {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
           "url": "https://wallstreetcn.com/livenews/3020265",
           "source": "华尔街见闻-快讯",
@@ -150,15 +161,16 @@
           "time_info": "[05时19分 ~ 09时54分]"
         },
         {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时54分 ~ 14时33分]"
+          "time_info": "[11时40分 ~ 15时21分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -196,6 +208,18 @@
           "time_info": "09时54分"
         },
         {
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 15时21分]"
+        },
+        {
           "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
           "url": "https://wallstreetcn.com/articles/3761314",
           "source": "华尔街见闻",
@@ -207,30 +231,6 @@
           "time_info": "[00时27分 ~ 04时23分]"
         },
         {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 14时33分]"
-        },
-        {
-          "title": "特朗普对其经济政策能否助力中期选举存疑",
-          "url": "https://flash.jin10.com/detail/20251214101831272800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 14时33分]"
-        },
-        {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
           "url": "https://flash.jin10.com/detail/20251214100231761800",
           "source": "金十数据",
@@ -239,8 +239,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 15时21分]"
         },
         {
           "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
@@ -334,6 +334,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "特朗普的和平梦要在东南亚碎了吗",
+          "url": "https://www.toutiao.com/trending/7583581680191933971/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "李胜峰：高市早苗就是麻烦制造者",
           "url": "https://www.toutiao.com/trending/7582487376539336767/",
           "source": "今日头条",
@@ -359,7 +370,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "泰国华人：泰柬冲突更像是政治人物的矛盾，不是两国人民的仇恨",
@@ -392,11 +403,12 @@
           "url": "https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E5%BA%A6%E6%97%B6%E5%B0%9A%E5%B0%81%E9%9D%A2%E4%BA%BA%E7%89%A9%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时21分]"
         },
         {
           "title": "早期互联网，是否是一个现代版的「巴别塔」故事？",
@@ -420,6 +432,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时27分]"
+        },
+        {
+          "title": "你认可奥沙利文是斯诺克历史第一吗",
+          "url": "https://www.toutiao.com/trending/7583259384861884422/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "残特奥赛场故事值得更多人看见",
