@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T16:35:41.302705+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2025-12-15T17:35:13.946409+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 17时35分]"
         },
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -56,8 +56,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 17时35分]"
+        },
+        {
+          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -166,8 +177,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时35分]"
+        },
+        {
+          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
+          "url": "https://news.ifeng.com/c/8p6WipSN2un",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时35分]"
+          "time_info": "[16时35分 ~ 17时35分]"
         },
         {
           "title": "高市早苗称目前拟将个税起征点定为168万日元",
@@ -179,17 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
-        },
-        {
-          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
-          "url": "https://news.ifeng.com/c/8p6WipSN2un",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "马斯克：太阳是天空中一个巨大的、免费的聚变反应堆。在地球上建造小型反应堆简直愚蠢至极。",
@@ -206,7 +217,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中东股市收盘播报｜沙特股市收跌约1.2%，埃及股指涨约0.1%创收盘历史新高",
@@ -246,6 +257,17 @@
           "time_info": "11时44分"
         },
         {
+          "title": "西班牙IBEX35指数触及历史新高，日内涨幅超1%。",
+          "url": "https://flash.jin10.com/detail/20251215165656545800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "日本民众：政府妄图掩盖历史真相",
           "url": "https://www.toutiao.com/trending/7583183877731942406/",
           "source": "今日头条",
@@ -276,8 +298,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 17时35分]"
         },
         {
           "title": "职场中不被尊重怎么办",
