@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T11:22:14.942013+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-12-17T12:35:35.718341+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "被质询涉台言论，高市早苗遭嘘声和起立抗议(图)",
@@ -33,8 +33,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 11时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 12时35分]"
         },
         {
           "title": "高市早苗国会现场遭痛斥：卖国弃民",
@@ -90,8 +90,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 11时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 12时35分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -138,6 +138,39 @@
           "time_info": "[01时25分 ~ 07时22分]"
         },
         {
+          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
+          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时35分]"
+        },
+        {
+          "title": "特朗普签署公告，进一步限制外国公民入境美国",
+          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时35分]"
+        },
+        {
+          "title": "特朗普政府宣布对40国实施入境限制",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 12时35分]"
+        },
+        {
           "title": "地球上造小型核反应堆“愚蠢至极”，马斯克：太阳才是“免费终极核反应堆”",
           "url": "https://wallstreetcn.com/articles/3761459",
           "source": "华尔街见闻",
@@ -150,39 +183,6 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
-          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
-          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时22分]"
-        },
-        {
-          "title": "特朗普签署公告，进一步限制外国公民入境美国",
-          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时22分]"
-        },
-        {
-          "title": "特朗普政府宣布对40国实施入境限制",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 11时22分]"
-        },
-        {
           "title": "马斯克身家6770亿美元打破人类纪录",
           "url": "https://www.toutiao.com/trending/7584625559204826666/",
           "source": "今日头条",
@@ -192,6 +192,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "国台办回应高市早苗妄称台湾问题应通过对话和平解决",
+          "url": "https://news.ifeng.com/c/8p9cDh2KPNu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -214,17 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
-          "url": "https://flash.jin10.com/detail/20251217111048852800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普周三晚的讲话将着重介绍政绩。",
@@ -258,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "国台办回应高市早苗再谈台湾问题",
+          "url": "https://www.toutiao.com/trending/7583598453100675126/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普将谈论未来展望，或许会预告新年政策。",
@@ -308,6 +319,18 @@
           "time_info": "[02时35分 ~ 04时27分]"
         },
         {
+          "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
+          "url": "https://flash.jin10.com/detail/20251217111048852800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时35分]"
+        },
+        {
           "title": "周二（12月16日），降息赢家指数跌0.36%，“特朗普关税输家”指数跌0.46%，散户抱团概念股指数/迷因股（meme stock）指数涨4.26%。",
           "url": "https://wallstreetcn.com/livenews/3021908",
           "source": "华尔街见闻-快讯",
@@ -318,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普下令封锁所有受制裁委油轮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时35分]"
         },
         {
           "title": "高市早苗连遭3次质询涉台言论",
@@ -333,15 +367,16 @@
           "time_info": "[01时25分 ~ 05时23分]"
         },
         {
-          "title": "特朗普下令封锁所有受制裁委油轮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
+          "title": "特朗普称已下令封锁进出委受制裁油轮",
+          "url": "https://www.toutiao.com/trending/7584624870806277638/",
+          "source": "今日头条",
           "ranks": [
-            17
+            16,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时22分]"
+          "time_info": "[11时21分 ~ 12时35分]"
         },
         {
           "title": "评论员：特朗普越来越像拜登",
@@ -376,6 +411,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时26分]"
+        },
+        {
+          "title": "高市早苗妄称台湾问题应通过对话和平解决 国台办回应",
+          "url": "https://wallstreetcn.com/livenews/3022087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时35分]"
         },
         {
           "title": "美国州政府官员们终止关于马斯克在特朗普政府担职的案件",
@@ -450,17 +497,6 @@
           "time_info": "[00时32分 ~ 01时26分]"
         },
         {
-          "title": "特朗普称已下令封锁进出委受制裁油轮",
-          "url": "https://www.toutiao.com/trending/7584624870806277638/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 11时22分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
           "url": "https://wallstreetcn.com/livenews/3021803",
           "source": "华尔街见闻-快讯",
@@ -482,17 +518,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时21分 ~ 11时22分]"
-        },
-        {
-          "title": "高市早苗妄称台湾问题应通过对话和平解决 国台办回应",
-          "url": "https://wallstreetcn.com/livenews/3022087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "据英国金融时报：特朗普政府在关键会议前抨击世贸组织。",
@@ -611,7 +636,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -666,7 +691,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -686,19 +711,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 11时22分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 12时35分]"
         },
         {
           "title": "王毅：当年日本发动侵略的历史教训决不能重演",
           "url": "https://news.ifeng.com/c/8p8wEjptyR4",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时35分]"
         },
         {
           "title": "沪银期货续创历史新高！年内价格翻一番",
@@ -707,7 +733,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -731,8 +757,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时35分]"
+        },
+        {
+          "title": "王毅：当年日本以“存亡危机事态”为幌子发动侵略 历史教训决不能重演",
+          "url": "https://www.cls.cn/detail/2231622",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时22分]"
+          "time_info": "[11时21分 ~ 12时35分]"
         },
         {
           "title": "美国银行调查结果显示：投资者全面押注（all in）股市，现金头寸创历史新低。",
@@ -770,17 +807,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时21分]"
-        },
-        {
-          "title": "王毅：当年日本以“存亡危机事态”为幌子发动侵略 历史教训决不能重演",
-          "url": "https://www.cls.cn/detail/2231622",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 11时22分]"
         },
         {
           "title": "特斯拉涨2.8%，报489.53美元，突破2024年12月创盘中历史最高位488.54美元。",
