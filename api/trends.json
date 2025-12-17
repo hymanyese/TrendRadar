@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:25:10.223346+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2025-12-17T16:33:34.715287+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "被质询涉台言论，高市早苗遭嘘声和起立抗议(图)",
@@ -391,6 +391,31 @@
           "time_info": "[13时25分 ~ 14时36分]"
         },
         {
+          "title": "高市早苗妄称台湾问题应通过对话和平解决，国台办答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193902",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 16时33分]"
+        },
+        {
           "title": "高市早苗连遭3次质询涉台言论",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%BF%9E%E9%81%AD3%E6%AC%A1%E8%B4%A8%E8%AF%A2%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA",
           "source": "百度热搜",
@@ -402,29 +427,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时25分 ~ 05时23分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时25分]"
-        },
-        {
-          "title": "高市早苗妄称台湾问题应通过对话和平解决，国台办答澎湃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193902",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时25分]"
         },
         {
           "title": "特朗普称已下令封锁进出委受制裁油轮",
@@ -533,6 +535,18 @@
           "time_info": "[04时27分 ~ 05时23分]"
         },
         {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 16时33分]"
+        },
+        {
           "title": "特朗普签署公告 进一步限制外国公民入境美国",
           "url": "https://flash.jin10.com/detail/20251217040248349800",
           "source": "金十数据",
@@ -592,6 +606,17 @@
           "time_info": "[11时21分 ~ 11时22分]"
         },
         {
+          "title": "白宫幕僚长尖锐点评特朗普、马斯克等人，却获白宫力挺",
+          "url": "https://news.ifeng.com/c/8p9nCXu9FDv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "据英国金融时报：特朗普政府在关键会议前抨击世贸组织。",
           "url": "https://flash.jin10.com/detail/20251216235247580800",
           "source": "金十数据",
@@ -601,17 +626,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         },
         {
           "title": "美国总统特朗普：提名Troy Edgar为下一任美国驻萨尔瓦多大使。",
@@ -782,7 +796,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
@@ -816,11 +830,12 @@
           "ranks": [
             10,
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时44分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 16时33分]"
         },
         {
           "title": "王毅：当年日本以“存亡危机事态”为幌子发动侵略 历史教训决不能重演",
@@ -828,11 +843,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 16时33分]"
         },
         {
           "title": "国际能源署（IEA）：全球煤炭需求预计在2025年达到88.5亿吨的历史新高。",
@@ -915,6 +931,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
+          "title": "成毅长安二十四计人物主题曲",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A1%E4%BA%BA%E7%89%A9%E4%B8%BB%E9%A2%98%E6%9B%B2%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
