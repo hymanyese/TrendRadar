@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T14:36:44.386868+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2025-12-18T15:24:54.767709+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "日本女议员怒批高市早苗：生孩子不是为了送上战场",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时45分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时45分 ~ 15时24分]"
         },
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -53,11 +53,12 @@
             9,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 14时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 15时24分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -109,8 +110,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时45分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时45分 ~ 15时24分]"
         },
         {
           "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
@@ -123,8 +124,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 15时24分]"
+        },
+        {
+          "title": "马斯克携巨款重投共和党意欲何为",
+          "url": "https://www.toutiao.com/trending/7585021017584569899/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -296,6 +308,17 @@
           "time_info": "[04时28分 ~ 05时22分]"
         },
         {
+          "title": "特朗普全国讲话未提及委内瑞拉",
+          "url": "https://news.ifeng.com/c/8pBVKVnZZtZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
           "url": "https://flash.jin10.com/detail/20251218010257604800",
           "source": "金十数据",
@@ -316,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "特朗普：我接手了一个烂摊子",
+          "url": "https://www.toutiao.com/trending/7584554052525080639/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "桥水基金创始人达利欧：达利欧慈善基金会将支持为儿童设立的“特朗普账户”（Trump Accounts for Children）。",
@@ -390,7 +424,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -640,7 +674,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "今年全球最大IPO亮相 白银再创历史新高 | 今夜看点",
@@ -759,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "瑞郎兑日元日内涨0.6%至195.96，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20251218145630389800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "重排历史前五的摇滚乐队，披头士、滚石、齐柏林飞艇、平克·弗洛伊德和皇后应该怎么排序？",
