@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T03:19:24.372295+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2025-12-19T04:23:24.533774+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 23,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时23分]"
         },
         {
           "title": "高市早苗5秒变脸",
@@ -26,22 +26,23 @@
             5,
             8,
             19,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时23分]"
         },
         {
-          "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
-          "url": "https://flash.jin10.com/detail/20251219030836021800",
-          "source": "金十数据",
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
           "ranks": [
-            1
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时23分]"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
@@ -55,28 +56,6 @@
           "time_info": "00时34分"
         },
         {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时19分]"
-        },
-        {
-          "title": "特朗普将签署命令，重新归类大麻",
-          "url": "https://wallstreetcn.com/livenews/3023303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
           "title": "5秒变脸 高市早苗被质问后瞬间冷脸",
           "url": "https://www.baidu.com/s?wd=5%E7%A7%92%E5%8F%98%E8%84%B8+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E8%B4%A8%E9%97%AE%E5%90%8E%E7%9E%AC%E9%97%B4%E5%86%B7%E8%84%B8",
           "source": "百度热搜",
@@ -86,8 +65,41 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时23分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
+          "url": "https://flash.jin10.com/detail/20251219035207198800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普将签署命令，重新归类大麻",
+          "url": "https://wallstreetcn.com/livenews/3023303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署关于联邦（薪酬）支付范围的命令。",
+          "url": "https://wallstreetcn.com/livenews/3023327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -95,11 +107,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时23分]"
+        },
+        {
+          "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
+          "url": "https://flash.jin10.com/detail/20251219030836021800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时19分]"
+          "time_info": "[03时19分 ~ 04时23分]"
         },
         {
           "title": "加拿大总理卡尼：加拿大将继续支持乳业供应管理。 美国墨西哥加拿大贸易协议（USMCA）首脑们为评估USMCA提出了广泛的尺度。 （美墨加三方）不可能达成行业协议，磋商将深入USMCA。 我们准备（与美国）达成一份关于森林产品的协议。 只要加拿大方面还存在顾虑，（与美国总统特朗普的）钢铁协议仍然在谈判桌上。",
@@ -122,8 +147,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时23分]"
         },
         {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
@@ -185,15 +210,81 @@
           "time_info": "00时34分"
         },
         {
+          "title": "美国总统特朗普：美联储理事鲍曼很棒。",
+          "url": "https://flash.jin10.com/detail/20251219032212060800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
+          "url": "https://wallstreetcn.com/livenews/3023318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
+          "url": "https://flash.jin10.com/detail/20251219032026571800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
+          "url": "https://flash.jin10.com/detail/20251219031834867800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
           "title": "美媒：特朗普拟设平安夜及圣诞节次日为联邦假日",
           "url": "https://flash.jin10.com/detail/20251219025540619800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "美国总统特朗普：将在未来几周内宣布美联储主席人选。",
+          "url": "https://flash.jin10.com/detail/20251219031746582800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
+          "url": "https://wallstreetcn.com/livenews/3023314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "据AXIOS：美国总统特朗普考虑宣布平安夜和12月26日为假日。",
@@ -202,9 +293,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "美国总统特朗普被问及肯尼迪中心被更名，宣称：我备感荣幸。 将设法让国会山为肯尼迪中心（更名后为“特朗普-肯尼迪中心”）拨款。",
+          "url": "https://wallstreetcn.com/livenews/3023313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "美国总统特朗普：大麻行政命令绝不会以任何方式使大麻合法化。",
@@ -213,9 +315,53 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "美国总统特朗普：现在实际上并没有通胀问题。",
+          "url": "https://wallstreetcn.com/livenews/3023312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：（关于乌克兰会晤）他们正在接近达成某种协议，但我希望乌克兰能迅速采取行动。",
+          "url": "https://flash.jin10.com/detail/20251219031631118800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普：考虑就住房问题宣布国家紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3023311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：向国会通报任何可能对委内瑞拉发动的攻击都没问题。",
+          "url": "https://flash.jin10.com/detail/20251219031625456800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "美国高级政府官员：特朗普将于周四签署行政命令，旨在加速将大麻重新归类为第三类管制物质。",
@@ -224,9 +370,42 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "美国总统特朗普：我想维护房价，也想帮助人们买房。",
+          "url": "https://flash.jin10.com/detail/20251219031446683800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普赞扬沃勒和鲍曼，称将在未来几周内公布美联储主席人选",
+          "url": "https://wallstreetcn.com/livenews/3023309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：现在几乎没有通货膨胀。",
+          "url": "https://flash.jin10.com/detail/20251219031427538800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "巴西总统卢拉：已告诉美国总统特朗普，南美洲是和平的地区。",
@@ -257,9 +436,53 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "美国总统特朗普：正在考虑就住房问题宣布国家紧急状态。",
+          "url": "https://flash.jin10.com/detail/20251219031203675800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普签署命令，放宽美国联邦政府对大麻的限制",
+          "url": "https://wallstreetcn.com/livenews/3023303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：将很快就美联储主席人选做出决定。",
+          "url": "https://flash.jin10.com/detail/20251219031128693800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美国总统特朗普：（关于美联储面试）昨天见了美联储理事沃勒，他很棒。正在与三四个人交谈。",
+          "url": "https://flash.jin10.com/detail/20251219031012439800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "巴西总统卢拉：已告知马杜罗和特朗普，巴西愿意帮助防止拉丁美洲地区发生武装对抗。",
@@ -271,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普为何既要日本管住嘴又让迈开腿",
+          "url": "https://www.toutiao.com/trending/7584332222707793963/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     },
@@ -286,8 +520,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时23分]"
         },
         {
           "title": "受美国制裁和通货膨胀影响，伊朗里亚尔跌至历史新低",
