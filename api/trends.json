@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T11:23:10.602840+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2025-12-18T12:36:14.774760+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "日本女议员怒批高市早苗：生孩子不是为了送上战场",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 11时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 12时36分]"
         },
         {
           "title": "高市早苗妄称台湾问题应通过对话和平解决，国台办答澎湃",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 11时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 12时36分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -75,6 +75,17 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
+          "title": "拿台海问题玩火，高市早苗诡辩难掩祸心",
+          "url": "https://news.ifeng.com/c/8pB2bIusQHq",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 12时36分]"
+        },
+        {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
           "url": "https://wallstreetcn.com/articles/3761525",
           "source": "华尔街见闻",
@@ -87,15 +98,28 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
-          "title": "拿台海问题玩火，高市早苗诡辩难掩祸心",
-          "url": "https://news.ifeng.com/c/8pB2bIusQHq",
-          "source": "凤凰网",
+          "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
+          "url": "https://flash.jin10.com/detail/20251218121134659800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 11时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 12时36分]"
         },
         {
           "title": "亿万富翁Jared Isaacman被国会山确认为美国国家航空航天局（NASA）局长。 Isaacman是马斯克旗下SpaceX的宇航员，也是Shift4 Payments Inc.的创始人。",
@@ -160,6 +184,19 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 12时36分]"
+        },
+        {
           "title": "KPI暴增10倍 特朗普政府拟加码撤销入籍公民身份",
           "url": "https://flash.jin10.com/detail/20251218055750070800",
           "source": "金十数据",
@@ -182,30 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
-        },
-        {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 11时23分]"
-        },
-        {
-          "title": "特朗普对马杜罗下狠手",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 11时23分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -254,6 +267,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时22分]"
+        },
+        {
+          "title": "特朗普发表演讲称接手了一个烂摊子",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E6%8E%A5%E6%89%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
         },
         {
           "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
@@ -344,6 +368,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "美国总统特朗普预计将于美东时间下午1点30分（北京时间次日02:30）签署行政命令。另外，特朗普将于美东时间下午6点（北京时间次日07:00）签署《国防授权法案》。",
+          "url": "https://flash.jin10.com/detail/20251218120122593800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉把我们的公司赶走了，我们要把它们拿回来。",
           "url": "https://flash.jin10.com/detail/20251218050033008800",
           "source": "金十数据",
@@ -372,7 +407,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -438,7 +473,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -482,7 +517,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -504,7 +539,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -537,7 +572,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -548,7 +583,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -559,7 +594,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -604,6 +639,18 @@
           "time_info": "04时28分"
         },
         {
+          "title": "姚明之下，亚洲篮球历史第二人应该是谁？",
+          "url": "https://www.zhihu.com/question/7286329784",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 12时36分]"
+        },
+        {
           "title": "美光科技(MU.O)：第二财季展望反映出收入、毛利率、每股收益和自由现金流均创下历史新高。",
           "url": "https://flash.jin10.com/detail/20251218050527480800",
           "source": "金十数据",
@@ -627,18 +674,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时23分]"
-        },
-        {
-          "title": "姚明之下，亚洲篮球历史第二人应该是谁？",
-          "url": "https://www.zhihu.com/question/7286329784",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 11时23分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
