@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T16:33:02.639839+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2025-12-18T17:29:45.559647+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "日本女议员怒批高市早苗：生孩子不是为了送上战场",
@@ -57,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 16时33分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 17时29分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -87,18 +87,6 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时22分]"
-        },
-        {
           "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
           "url": "https://wallstreetcn.com/articles/3761566",
           "source": "华尔街见闻",
@@ -109,8 +97,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 17时29分]"
+        },
+        {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时22分 ~ 16时33分]"
+          "time_info": "[00时32分 ~ 07时22分]"
         },
         {
           "title": "特朗普对马杜罗下狠手",
@@ -128,6 +128,19 @@
           "time_info": "[09时45分 ~ 15时24分]"
         },
         {
+          "title": "特朗普：我接手了一个烂摊子",
+          "url": "https://www.toutiao.com/trending/7584554052525080639/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 17时29分]"
+        },
+        {
           "title": "马斯克携巨款重投共和党意欲何为",
           "url": "https://www.toutiao.com/trending/7585021017584569899/",
           "source": "今日头条",
@@ -137,18 +150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "特朗普：我接手了一个烂摊子",
-          "url": "https://www.toutiao.com/trending/7584554052525080639/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时33分]"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -249,6 +250,29 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 17时29分]"
+        },
+        {
+          "title": "特朗普账户宣传存1千可涨至60万",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E5%AE%A3%E4%BC%A0%E5%AD%981%E5%8D%83%E5%8F%AF%E6%B6%A8%E8%87%B360%E4%B8%87&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 17时29分]"
+        },
+        {
           "title": "特朗普发表演讲称接手了一个烂摊子",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E6%8E%A5%E6%89%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90",
           "source": "百度热搜",
@@ -258,17 +282,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时35分 ~ 13时25分]"
-        },
-        {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -331,17 +344,6 @@
           "time_info": "[04时28分 ~ 05时22分]"
         },
         {
-          "title": "特朗普账户宣传存1千可涨至60万",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E5%AE%A3%E4%BC%A0%E5%AD%981%E5%8D%83%E5%8F%AF%E6%B6%A8%E8%87%B360%E4%B8%87&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
           "title": "特朗普：美联储新主席必须是超级鸽派",
           "url": "https://www.toutiao.com/trending/7585075636759285286/",
           "source": "今日头条",
@@ -381,7 +383,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -461,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "特朗普说委内瑞拉抢了美国的石油",
@@ -692,6 +705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "高市早苗被日本议员当众贴脸开大",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E6%97%A5%E6%9C%AC%E8%AE%AE%E5%91%98%E5%BD%93%E4%BC%97%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "美国总统特朗普：工资增长速度远超通胀。 明年会看到减税的成效。",
