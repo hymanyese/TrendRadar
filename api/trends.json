@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T20:47:56.139596+08:00",
-  "total_titles_processed": 1854,
+  "generated_at": "2025-12-18T21:38:37.554857+08:00",
+  "total_titles_processed": 1949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 71,
+      "match_count": 72,
       "titles": [
         {
           "title": "日本女议员怒批高市早苗：生孩子不是为了送上战场",
@@ -147,11 +147,12 @@
           "url": "https://news.ifeng.com/c/8pBpknY3tVX",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时47分]"
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时38分]"
         },
         {
           "title": "马斯克携巨款重投共和党意欲何为",
@@ -311,6 +312,17 @@
           "time_info": "[12时35分 ~ 13时25分]"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时38分]"
+        },
+        {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
           "url": "https://flash.jin10.com/detail/20251218000612267800",
           "source": "金十数据",
@@ -391,17 +403,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         },
         {
           "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
@@ -641,7 +642,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -718,7 +719,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -773,7 +774,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -798,6 +799,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "5秒变脸 高市早苗被质问后瞬间冷脸",
+          "url": "https://www.baidu.com/s?wd=5%E7%A7%92%E5%8F%98%E8%84%B8+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E8%B4%A8%E9%97%AE%E5%90%8E%E7%9E%AC%E9%97%B4%E5%86%B7%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "美国总统特朗普：工资增长速度远超通胀。 明年会看到减税的成效。",
@@ -828,7 +840,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         }
@@ -897,6 +909,18 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
+          "title": "“连板老龙头”再聚人气！股价创历史新高，20余股同步登顶，这些方向成“聚集地”",
+          "url": "https://www.cls.cn/detail/2233687",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时38分]"
+        },
+        {
           "title": "美国2025年CLO销售达到2015亿美元，创历史新高",
           "url": "https://wallstreetcn.com/livenews/3022589",
           "source": "华尔街见闻-快讯",
@@ -910,18 +934,6 @@
           "time_info": "[04时28分 ~ 06时23分]"
         },
         {
-          "title": "“连板老龙头”再聚人气！股价创历史新高，20余股同步登顶，这些方向成“聚集地”",
-          "url": "https://www.cls.cn/detail/2233687",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时47分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
           "url": "https://wallstreetcn.com/livenews/3022611",
           "source": "华尔街见闻-快讯",
@@ -932,6 +944,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "我们穷尽一生所追寻的「真实自我」，是否只是一个成功骗过了自己的、精心编辑的故事版本？",
+          "url": "https://www.zhihu.com/question/1984193253080315238",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时38分]"
         },
         {
           "title": "为什么进入影院的年轻人越来越少了？作为年轻人你不想看什么故事？",
@@ -956,6 +980,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "2025年度人物盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时38分]"
         },
         {
           "title": "历史性突破！我国专家将首次主持标准物质领域国际标准修订",
@@ -1011,28 +1047,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "我们穷尽一生所追寻的「真实自我」，是否只是一个成功骗过了自己的、精心编辑的故事版本？",
-          "url": "https://www.zhihu.com/question/1984193253080315238",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "2025年度人物盘点",
-          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         }
       ]
     },
@@ -1062,11 +1076,12 @@
           "ranks": [
             17,
             11,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时38分]"
         }
       ]
     }
