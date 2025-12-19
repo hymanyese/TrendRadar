@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T22:24:18.585611+08:00",
-  "total_titles_processed": 2175,
+  "generated_at": "2025-12-19T23:25:20.148808+08:00",
+  "total_titles_processed": 2280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 98,
+      "match_count": 100,
       "titles": [
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -137,8 +137,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时48分 ~ 22时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时48分 ~ 23时25分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -176,6 +176,22 @@
           "time_info": "[00时33分 ~ 07时22分]"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时25分 ~ 23时25分]"
+        },
+        {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
           "url": "https://www.cls.cn/detail/2234355",
           "source": "财联社热门",
@@ -190,19 +206,19 @@
           "time_info": "[14时34分 ~ 18时26分]"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            15,
-            13,
-            12,
-            11
+            10,
+            23,
+            20,
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时25分 ~ 22时24分]"
+          "appearance_count": 7,
+          "time_info": "[19时20分 ~ 23时25分]"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
@@ -227,18 +243,18 @@
           "time_info": "20时45分"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            23,
-            20,
-            25
+            19,
+            17,
+            16,
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时20分 ~ 22时24分]"
+          "time_info": "[20时44分 ~ 23时25分]"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -283,19 +299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时44分 ~ 22时24分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -383,6 +386,17 @@
           "time_info": "[05时19分 ~ 06时22分]"
         },
         {
+          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
+          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时23分 ~ 23时25分]"
+        },
+        {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
           "url": "https://www.cls.cn/detail/2233997",
           "source": "财联社热门",
@@ -393,17 +407,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时25分 ~ 12时35分]"
-        },
-        {
-          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
-          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
@@ -722,7 +725,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -958,6 +961,17 @@
           "time_info": "17时27分"
         },
         {
+          "title": "特朗普：“奥巴马医改”太贵，会自动消亡",
+          "url": "https://flash.jin10.com/detail/20251219225548281800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "马斯克：传统燃油车将逐渐消亡",
           "url": "https://wallstreetcn.com/livenews/3023779",
           "source": "华尔街见闻-快讯",
@@ -1096,7 +1110,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1118,9 +1132,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
+        },
+        {
+          "title": "特朗普年终演讲为何不提中国",
+          "url": "https://www.toutiao.com/trending/7585539719539199497/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了关于联邦薪资标准的行政命令。",
@@ -1159,7 +1184,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "“连板老龙头”再聚人气！股价创历史新高，20余股同步登顶，这些方向成“聚集地”",
@@ -1195,8 +1220,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[12时35分 ~ 23时25分]"
         },
         {
           "title": "孙颖莎能量人物推荐值破1000万",
@@ -1207,11 +1232,23 @@
             8,
             23,
             16,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 22时24分]"
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 23时25分]"
+        },
+        {
+          "title": "瑞士股指突破3月份所创收盘历史最高位。",
+          "url": "https://wallstreetcn.com/livenews/3024065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
@@ -1250,6 +1287,28 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "欧洲STOXX 600指数涨穿11月份所创盘中历史最高位。 目前涨0.11%，暂报585.99点。",
+          "url": "https://wallstreetcn.com/livenews/3024046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "欧洲斯托克600指数突破11月盘中历史新高。",
+          "url": "https://flash.jin10.com/detail/20251219225708486800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "长三角铁路2025年旅客发送量突破9亿人次 创历史新高",
           "url": "https://wallstreetcn.com/livenews/3023821",
           "source": "华尔街见闻-快讯",
@@ -1270,6 +1329,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "Bernstein： 英伟达估值较费城半导体指数出现历史性折让",
+          "url": "https://wallstreetcn.com/livenews/3024033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "投资者寻求美元替代品 今年全球欧元债券发行规模创历史新高",
+          "url": "https://flash.jin10.com/detail/20251219224208084800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
@@ -1285,11 +1366,12 @@
             7,
             8,
             4,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时25分 ~ 22时24分]"
+          "appearance_count": 19,
+          "time_info": "[11时25分 ~ 23时25分]"
         },
         {
           "title": "NBA 球星保罗为凝聚球队精心筹办线下活动，却几乎无人赴约，近年来职场环境发生了哪些变化？",
