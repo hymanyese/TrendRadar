@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T12:35:57.272428+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2025-12-19T13:24:41.131601+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -59,8 +59,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时25分 ~ 12时35分]"
+          "appearance_count": 13,
+          "time_info": "[01时25分 ~ 13时24分]"
         },
         {
           "title": "5秒变脸 高市早苗被质问后瞬间冷脸",
@@ -87,8 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 13时24分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -98,8 +98,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 12时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 13时24分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -110,8 +110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 12时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 13时24分]"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
@@ -145,6 +145,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 13时24分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -220,28 +243,6 @@
           "time_info": "[05时19分 ~ 06时22分]"
         },
         {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 12时35分]"
-        },
-        {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时35分]"
-        },
-        {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
           "url": "https://www.cls.cn/detail/2233997",
           "source": "财联社热门",
@@ -264,6 +265,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时19分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3023559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普将把军队住房资金用做国防部奖金。（华盛顿邮报）",
@@ -442,15 +455,26 @@
           "time_info": "11时26分"
         },
         {
-          "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3023559",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
+          "url": "https://flash.jin10.com/detail/20251219123531783800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "13时24分"
+        },
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普将动用军用住房资金为美国国防部发放奖金。",
@@ -514,7 +538,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -778,7 +802,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -811,7 +835,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -850,9 +874,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时24分]"
         },
         {
           "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
@@ -897,7 +921,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -942,8 +966,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 12时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 13时24分]"
         },
         {
           "title": "职场中总是干「杂活」，这还能成长吗？",
