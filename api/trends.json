@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-19T14:35:08.532246+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2025-12-19T15:24:03.446402+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时48分 ~ 15时24分]"
+        },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2233937",
@@ -20,17 +33,17 @@
           "time_info": "[00时33分 ~ 11时26分]"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
-          "source": "凤凰网",
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            5,
-            4
+            8,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时48分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时48分 ~ 15时24分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -81,11 +94,12 @@
             15,
             13,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时25分 ~ 14时35分]"
+          "appearance_count": 17,
+          "time_info": "[01时25分 ~ 15时24分]"
         },
         {
           "title": "5秒变脸 高市早苗被质问后瞬间冷脸",
@@ -103,18 +117,6 @@
           "time_info": "[00时33分 ~ 07时22分]"
         },
         {
-          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
-          "url": "https://www.cls.cn/detail/2234192",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时48分 ~ 14时35分]"
-        },
-        {
           "title": "特朗普，敢不敢动武？",
           "url": "https://news.ifeng.com/c/8pCr08QqAFx",
           "source": "凤凰网",
@@ -122,8 +124,45 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时25分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 15时24分]"
+        },
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时25分 ~ 14时35分]"
+          "time_info": "[09时48分 ~ 15时24分]"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
@@ -157,19 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 14时35分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -245,16 +271,16 @@
           "time_info": "[05时19分 ~ 06时22分]"
         },
         {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
           "source": "财联社热门",
           "ranks": [
-            9,
-            6
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 15时24分]"
         },
         {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
@@ -351,17 +377,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
@@ -900,8 +915,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 15时24分]"
+        },
+        {
+          "title": "实地探秘沙漠中央奇村历史",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E7%A7%98%E6%B2%99%E6%BC%A0%E4%B8%AD%E5%A4%AE%E5%A5%87%E6%9D%91%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 15时24分]"
         },
         {
           "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
@@ -926,18 +954,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时22分]"
-        },
-        {
-          "title": "实地探秘沙漠中央奇村历史",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E7%A7%98%E6%B2%99%E6%BC%A0%E4%B8%AD%E5%A4%AE%E5%A5%87%E6%9D%91%E5%8E%86%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 14时35分]"
         },
         {
           "title": "黄金在美国CPI通胀数据发布日冲高回落，一度逼近10月所创历史最高位",
@@ -969,6 +985,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "网传京东要求全员背诵「三句话」并设为屏保？如何评价这波操作？究竟是企业文化创新，还是职场内卷新形态？",
+          "url": "https://www.zhihu.com/question/1985006368906835521",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时25分 ~ 15时24分]"
+        },
+        {
           "title": "NBA 球星保罗为凝聚球队精心筹办线下活动，却几乎无人赴约，近年来职场环境发生了哪些变化？",
           "url": "https://www.zhihu.com/question/1984937188912304720",
           "source": "知乎",
@@ -982,18 +1011,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 07时22分]"
-        },
-        {
-          "title": "网传京东要求全员背诵「三句话」并设为屏保？如何评价这波操作？究竟是企业文化创新，还是职场内卷新形态？",
-          "url": "https://www.zhihu.com/question/1985006368906835521",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 14时35分]"
         },
         {
           "title": "职场中总是干「杂活」，这还能成长吗？",
