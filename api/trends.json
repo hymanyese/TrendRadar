@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-20T00:29:35.077477+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-20T01:21:02.360213+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
+        },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
           "url": "https://news.ifeng.com/c/8pDUNvScYT5",
@@ -15,19 +27,43 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "特朗普下令暂停“绿卡抽签”",
+          "url": "https://www.toutiao.com/trending/7584652634205585450/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "特朗普年终演讲为何不提中国",
+          "url": "https://www.toutiao.com/trending/7585539719539199497/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -37,8 +73,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "南亚股市收盘播报｜印度中盘股收涨1.2%，卢比尾盘飙涨，特朗普贸易代表批评欧盟和印度",
+          "url": "https://wallstreetcn.com/livenews/3024081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时21分"
         },
         {
           "title": "美国总统特朗普：保险公司“正在敲诈美国”，医疗费用必须直接归人民所有。民主党必须加入进来！",
@@ -52,37 +99,26 @@
           "time_info": "00时29分"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
+          "title": "市场消息：美国法官叫停特朗普政府修改无家可归者资助项目的努力。",
+          "url": "https://flash.jin10.com/detail/20251220005146503800",
+          "source": "金十数据",
           "ranks": [
-            15
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时21分"
         },
         {
-          "title": "特朗普下令暂停“绿卡抽签”",
-          "url": "https://www.toutiao.com/trending/7584652634205585450/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "特朗普年终演讲为何不提中国",
-          "url": "https://www.toutiao.com/trending/7585539719539199497/",
-          "source": "今日头条",
+          "title": "特朗普：只需在联邦政府增聘人员，就能马上将失业率降至2%",
+          "url": "https://flash.jin10.com/detail/20251220004628893800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时21分"
         },
         {
           "title": "特朗普给联邦政府加假不影响国债标售计划，财政部称安排照旧",
@@ -110,19 +146,8 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "现货白银日内涨幅达2.5%，报67.18美元/盎司，创历史新高。 纽约银日内涨幅达3.0%，报67.22美元/盎司。 现货黄金日内涨幅达0.5%，报4354.09美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3024077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
         {
           "title": "现货白银历史首次突破67美元/盎司",
           "url": "https://flash.jin10.com/detail/20251220000254910800",
@@ -135,26 +160,51 @@
           "time_info": "00时29分"
         },
         {
-          "title": "瑞士股指突破3月份所创收盘历史最高位。",
-          "url": "https://wallstreetcn.com/livenews/3024065",
+          "title": "现货白银日内涨幅扩大至3%，创下67.32美元/盎司的历史新高。",
+          "url": "https://flash.jin10.com/detail/20251220010342724800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.5%，报67.18美元/盎司，创历史新高。 纽约银日内涨幅达3.0%，报67.22美元/盎司。 现货黄金日内涨幅达0.5%，报4354.09美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3024077",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "实地探秘沙漠中央奇村历史",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E7%A7%98%E6%B2%99%E6%BC%A0%E4%B8%AD%E5%A4%AE%E5%A5%87%E6%9D%91%E5%8E%86%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "孙颖莎能量人物推荐值破1000万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%83%BD%E9%87%8F%E4%BA%BA%E7%89%A9%E6%8E%A8%E8%8D%90%E5%80%BC%E7%A0%B41000%E4%B8%87%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "哪个文学人物的标志性动作或口头禅，让你印象深刻？",
@@ -164,19 +214,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
-          "title": "孙颖莎能量人物推荐值破1000万",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%83%BD%E9%87%8F%E4%BA%BA%E7%89%A9%E6%8E%A8%E8%8D%90%E5%80%BC%E7%A0%B41000%E4%B8%87%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "瑞士股指突破3月份所创收盘历史最高位。",
+          "url": "https://wallstreetcn.com/livenews/3024065",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "欧洲STOXX 600指数涨穿11月份所创盘中历史最高位。 目前涨0.11%，暂报585.99点。",
@@ -203,8 +254,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     }
