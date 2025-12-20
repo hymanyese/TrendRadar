@@ -1,764 +1,123 @@
 {
-  "generated_at": "2025-12-20T23:21:27.798720+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2025-12-21T00:26:51.246695+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 58,
+      "match_count": 8,
       "titles": [
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
+          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
+          "url": "https://www.cls.cn/detail/2235476",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6,
-            5,
-            12,
-            18,
-            20
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
-          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 07时22分]"
-        },
-        {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/articles/3761733",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 20时42分]"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普年终演讲为何不提中国",
-          "url": "https://www.toutiao.com/trending/7585539719539199497/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            28,
-            25,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 07时22分]"
-        },
-        {
-          "title": "美国总统特朗普：保险公司必须赚更少的钱。",
-          "url": "https://flash.jin10.com/detail/20251220040257481800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时22分]"
-        },
-        {
-          "title": "金十提示：美国总统特朗普讲话结束。",
-          "url": "https://flash.jin10.com/detail/20251220040556442800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 09时43分]"
-        },
-        {
-          "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
-          "url": "https://flash.jin10.com/detail/20251220133230149800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            10,
-            15,
-            16,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时36分 ~ 20时42分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            16,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 23时21分]"
-        },
-        {
-          "title": "马斯克转发宇树机器人伴舞视频：印象深刻",
-          "url": "https://wallstreetcn.com/livenews/3024244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            10,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 18时22分]"
-        },
-        {
-          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3024224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            17,
-            20,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 16时28分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
           "url": "https://flash.jin10.com/detail/20251220214727409800",
           "source": "金十数据",
           "ranks": [
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时21分]"
-        },
-        {
-          "title": "美国总统特朗普：保险公司会议旨在降低价格。",
-          "url": "https://flash.jin10.com/detail/20251220040213570800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时22分]"
-        },
-        {
-          "title": "马斯克点赞王力宏伴舞机器人",
-          "url": "https://www.toutiao.com/trending/7585536096348553235/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时22分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
           "url": "https://flash.jin10.com/detail/20251220214239757800",
           "source": "金十数据",
           "ranks": [
-            4,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时21分]"
-        },
-        {
-          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
-          "url": "https://www.cls.cn/detail/2235476",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时41分 ~ 23时21分]"
-        },
-        {
-          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            5,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 19时18分]"
-        },
-        {
-          "title": "美国总统特朗普：保险公司需要降价以继续留在系统中。 将在未来几周召开保险公司会议。",
-          "url": "https://wallstreetcn.com/livenews/3024144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "马斯克点赞王力宏伴舞机器人",
-          "url": "https://www.douyin.com/hot/2342006",
-          "source": "抖音",
-          "ranks": [
-            24,
-            21,
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 23时21分]"
-        },
-        {
-          "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3024182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 09时43分]"
-        },
-        {
-          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
-          "url": "https://wallstreetcn.com/livenews/3024294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时21分]"
-        },
-        {
-          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
-          "url": "https://flash.jin10.com/detail/20251220040203208800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时22分]"
-        },
-        {
-          "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
-          "url": "https://wallstreetcn.com/livenews/3024141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
-          "url": "https://flash.jin10.com/detail/20251220035945921800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
-          "url": "https://wallstreetcn.com/livenews/3024186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时43分]"
-        },
-        {
-          "title": "特朗普提名特战副司令执掌南方司令部",
-          "url": "https://wallstreetcn.com/livenews/3024305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时21分]"
-        },
-        {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时19分]"
-        },
-        {
-          "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
-          "url": "https://flash.jin10.com/detail/20251220034545979800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普与九家药企达成协议 大幅降低药价",
-          "url": "https://flash.jin10.com/detail/20251220034432259800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时22分]"
-        },
-        {
-          "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
-          "url": "https://flash.jin10.com/detail/20251220033347525800",
-          "source": "金十数据",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时22分]"
-        },
-        {
-          "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
-          "url": "https://wallstreetcn.com/livenews/3024107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时33分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
-          "url": "https://wallstreetcn.com/livenews/3024204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时28分]"
-        },
-        {
-          "title": "特朗普为何推出史上最高金额对台军售",
-          "url": "https://www.toutiao.com/trending/7585013065943859238/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时21分]"
-        },
-        {
-          "title": "高市早苗涉台言论持续遭批",
-          "url": "https://www.toutiao.com/trending/7585807693118701594/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时21分]"
-        },
-        {
-          "title": "特朗普下令暂停“绿卡抽签”",
-          "url": "https://www.toutiao.com/trending/7584652634205585450/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时21分]"
-        },
-        {
-          "title": "美国总统特朗普：我所发出的关税威胁强迫医药行业（与我）达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3024136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "美法院裁定：马斯克2018年薪酬方案须恢复执行",
-          "url": "https://flash.jin10.com/detail/20251220085424025800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时17分]"
-        },
-        {
-          "title": "特拉华州高级法院判定：马斯克2018年特斯拉薪酬计划必须被恢复",
-          "url": "https://wallstreetcn.com/livenews/3024173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时22分]"
-        },
-        {
-          "title": "美国总统特朗普：政府工作人员将继续精简。 4.5%的失业率是“出色的数字”。",
-          "url": "https://wallstreetcn.com/livenews/3024134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
+          "time_info": "00时26分"
         },
         {
           "title": "日本央行加息，告别 30 年超宽松，高市早苗又推 18.3 万亿日元财政刺激，如何看待紧货币 + 宽财政的错配？",
           "url": "https://www.zhihu.com/question/1985384534406103406",
           "source": "知乎",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时21分]"
-        },
-        {
-          "title": "南亚股市收盘播报｜印度中盘股收涨1.2%，卢比尾盘飙涨，特朗普贸易代表批评欧盟和印度",
-          "url": "https://wallstreetcn.com/livenews/3024081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时33分]"
-        },
-        {
-          "title": "特朗普签署太空行政令，直觉机器公司及航天板块股价应声大涨",
-          "url": "https://wallstreetcn.com/livenews/3024132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "马斯克被C罗身材卷到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%ABC%E7%BD%97%E8%BA%AB%E6%9D%90%E5%8D%B7%E5%88%B0%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 14时36分]"
-        },
-        {
-          "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
-          "url": "https://wallstreetcn.com/livenews/3024133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "00时26分"
         },
         {
-          "title": "美国肯尼迪中心更名「特朗普 - 肯尼迪中心」，此举会对美国政治和文化产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1985346277517595512",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "美国总统特朗普：保险公司“正在敲诈美国”，医疗费用必须直接归人民所有。民主党必须加入进来！",
-          "url": "https://flash.jin10.com/detail/20251219233534861800",
-          "source": "金十数据",
+          "title": "特朗普提名特战副司令执掌南方司令部",
+          "url": "https://wallstreetcn.com/livenews/3024305",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "00时26分"
         },
         {
-          "title": "市场消息：美国法官叫停特朗普政府修改无家可归者资助项目的努力。",
-          "url": "https://flash.jin10.com/detail/20251220005146503800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
-          "url": "https://flash.jin10.com/detail/20251220082409385800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "据美联社：美国总统特朗普讲话已被推迟。",
-          "url": "https://flash.jin10.com/detail/20251220023126806800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "美国总统特朗普：我们正在对极端组织“伊斯兰国”在叙利亚的据点进行非常强烈的打击，叙利亚政府完全支持我们。",
-          "url": "https://flash.jin10.com/detail/20251220081426145800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "特朗普：将召集保险公司开会讨论降价问题",
-          "url": "https://wallstreetcn.com/livenews/3024144",
+          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
+          "url": "https://wallstreetcn.com/livenews/3024294",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "00时26分"
         },
         {
-          "title": "消息人士：马斯克与摩根士丹利的密切关系使该行在SpaceX IPO中占据优势。",
-          "url": "https://flash.jin10.com/detail/20251220013937400800",
+          "title": "马斯克点赞王力宏伴舞机器人",
+          "url": "https://www.douyin.com/hot/2342006",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
           "source": "金十数据",
           "ranks": [
-            19
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时33分"
-        },
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "据Politico：一位熟悉情况的国务院官员和外交人员工会负责人透露，特朗普政府正在召回一些由前总统拜登任命的职业大使。约有二十多位大使被要求离任。",
-          "url": "https://flash.jin10.com/detail/20251220022718174800",
-          "source": "金十数据",
+          "title": "怎样才能让我们这些职场人快乐起来呢？让自己快乐的方法有哪些？",
+          "url": "https://www.zhihu.com/question/1985277093957871066",
+          "source": "知乎",
           "ranks": [
-            19
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "特朗普：只需在联邦政府增聘人员，就能马上将失业率降至2%",
-          "url": "https://flash.jin10.com/detail/20251220004628893800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "特朗普给联邦政府加假不影响国债标售计划，财政部称安排照旧",
-          "url": "https://wallstreetcn.com/livenews/3024047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 现骨干公司将向所有美国民众按照最低价推出新药。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
-          "url": "https://wallstreetcn.com/livenews/3024133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "马斯克赢得560亿美元薪酬方案",
-          "url": "https://www.toutiao.com/trending/7584824117158985770/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 16,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "孙颖莎能量人物推荐值破1000万",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%83%BD%E9%87%8F%E4%BA%BA%E7%89%A9%E6%8E%A8%E8%8D%90%E5%80%BC%E7%A0%B41000%E4%B8%87%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 09时43分]"
-        },
-        {
-          "title": "实地探秘沙漠中央奇村历史",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E7%A7%98%E6%B2%99%E6%BC%A0%E4%B8%AD%E5%A4%AE%E5%A5%87%E6%9D%91%E5%8E%86%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            9,
-            13,
-            22,
-            28,
-            18,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 11时17分]"
-        },
         {
           "title": "我国富满油田年产油气创历史新高",
           "url": "https://www.douyin.com/hot/2342559",
@@ -767,188 +126,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时21分]"
-        },
-        {
-          "title": "12月19日，离岸投资者买入价值大约60亿美元的哥伦比亚本币比索债券，创单日历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3024116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "现货白银历史首次突破67美元/盎司",
-          "url": "https://flash.jin10.com/detail/20251220000254910800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "现货白银日内涨幅扩大至3%，创下67.32美元/盎司的历史新高。",
-          "url": "https://flash.jin10.com/detail/20251220010342724800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "现货白银日内暴涨2.00美元，现报67.44美元/盎司，续刷历史新高，涨幅3.06%。",
-          "url": "https://flash.jin10.com/detail/20251220020832172800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时19分]"
-        },
-        {
-          "title": "纽约期银周五创历史新高逼近68美元，本周涨约8.7%，铂金累涨超13.1%、钯金累涨约14.8%",
-          "url": "https://wallstreetcn.com/livenews/3024177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 09时43分]"
-        },
-        {
-          "title": "现货白银日内涨幅达2.5%，报67.18美元/盎司，创历史新高。 纽约银日内涨幅达3.0%，报67.22美元/盎司。 现货黄金日内涨幅达0.5%，报4354.09美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3024077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
-        },
-        {
-          "title": "哪个文学人物的标志性动作或口头禅，让你印象深刻？",
-          "url": "https://www.zhihu.com/question/1983640147632353531",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时21分]"
-        },
-        {
-          "title": "瑞士股指突破3月份所创收盘历史最高位。",
-          "url": "https://wallstreetcn.com/livenews/3024065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
-        },
-        {
-          "title": "西媒：日本正站在历史性的十字路口",
-          "url": "https://www.toutiao.com/trending/7585766146898231337/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
-        },
-        {
-          "title": "UP主给英国人上法式历史课",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BB%99%E8%8B%B1%E5%9B%BD%E4%BA%BA%E4%B8%8A%E6%B3%95%E5%BC%8F%E5%8E%86%E5%8F%B2%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
-        },
-        {
-          "title": "你渴望体验哪位文学人物的哪一段人生？",
-          "url": "https://www.zhihu.com/question/1981696038902391658",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时20分]"
-        },
-        {
-          "title": "欧洲STOXX 600指数涨穿11月份所创盘中历史最高位。 目前涨0.11%，暂报585.99点。",
-          "url": "https://wallstreetcn.com/livenews/3024046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "欧洲STOXX 600指数收涨0.37%，报587.50点，连续第二个交易日创收盘历史新高，本周累计上涨1.60%。 欧元区STOXX 50指数收涨0.32%，报5760.35点，本周累涨0.69%，呈现出V形反转。 富时泛欧绩优300指数收涨0.43%，报2342.27点，也继续创收盘历史新高，本周累涨1.59%。",
-          "url": "https://wallstreetcn.com/livenews/3024082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "网传京东要求全员背诵「三句话」并设为屏保？如何评价这波操作？究竟是企业文化创新，还是职场内卷新形态？",
-          "url": "https://www.zhihu.com/question/1985006368906835521",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时22分]"
-        },
-        {
-          "title": "怎样才能让我们这些职场人快乐起来呢？让自己快乐的方法有哪些？",
-          "url": "https://www.zhihu.com/question/1985277093957871066",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "00时26分"
         }
       ]
     }
