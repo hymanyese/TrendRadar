@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T01:18:54.624906+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2025-12-21T02:29:15.639467+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时29分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时29分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时29分]"
         },
         {
           "title": "日本央行加息，告别 30 年超宽松，高市早苗又推 18.3 万亿日元财政刺激，如何看待紧货币 + 宽财政的错配？",
@@ -46,11 +46,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时29分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -60,8 +61,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时29分]"
+        },
+        {
+          "title": "马斯克赢得560亿美元薪酬方案",
+          "url": "https://www.douyin.com/hot/2342030",
+          "source": "抖音",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 02时29分]"
         },
         {
           "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
@@ -71,8 +84,31 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时29分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时29分]"
+        },
+        {
+          "title": "特朗普入股核聚变公司",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A5%E8%82%A1%E6%A0%B8%E8%81%9A%E5%8F%98%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 02时29分]"
         },
         {
           "title": "马斯克点赞王力宏伴舞机器人",
@@ -87,46 +123,13 @@
           "time_info": "[00时26分 ~ 01时18分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
-        },
-        {
-          "title": "马斯克赢得560亿美元薪酬方案",
-          "url": "https://www.douyin.com/hot/2342030",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "特朗普入股核聚变公司",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A5%E8%82%A1%E6%A0%B8%E8%81%9A%E5%8F%98%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
           "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%8D%E5%AF%B9%E4%B9%8C%E5%85%A5%E7%BA%A6+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%96%91%E8%AF%85%E5%92%92%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         }
@@ -144,8 +147,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时29分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -154,9 +157,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 02时29分]"
         }
       ]
     },
@@ -170,11 +173,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时29分]"
         }
       ]
     }
