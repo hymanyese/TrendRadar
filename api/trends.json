@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T05:19:15.851552+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2025-12-21T06:20:41.638202+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "日本央行加息，告别 30 年超宽松，高市早苗又推 18.3 万亿日元财政刺激，如何看待紧货币 + 宽财政的错配？",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "马斯克赢得560亿美元薪酬方案",
@@ -65,8 +65,30 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 06时20分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时18分 ~ 05时19分]"
+          "time_info": "[00时26分 ~ 06时20分]"
+        },
+        {
+          "title": "比尔·阿克曼：建议马斯克的太空探索公司SpaceX通过潘兴广场Pershing Square SPARC Holdings Ltd.实现IPO。 我们对“授予马斯克超级投票（权）股份”持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3024339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -93,28 +115,18 @@
           "time_info": "[00时26分 ~ 05时19分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时19分]"
-        },
-        {
           "title": "特朗普入股核聚变公司",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A5%E8%82%A1%E6%A0%B8%E8%81%9A%E5%8F%98%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
           "ranks": [
             24,
             25,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时20分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
@@ -166,8 +178,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -177,19 +189,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 06时20分]"
         },
         {
           "title": "中国男篮的历史上有哪些遗憾？",
           "url": "https://www.zhihu.com/question/344008481",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 05时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 06时20分]"
         }
       ]
     },
