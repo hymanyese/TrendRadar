@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T17:22:50.611723+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2025-12-20T18:22:32.379157+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
@@ -71,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时43分 ~ 18时22分]"
         },
         {
           "title": "美国总统特朗普：保险公司必须赚更少的钱。",
@@ -98,6 +98,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时26分 ~ 09时43分]"
+        },
+        {
+          "title": "马斯克转发宇树机器人伴舞视频：印象深刻",
+          "url": "https://wallstreetcn.com/livenews/3024244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            10,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 18时22分]"
         },
         {
           "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
@@ -140,18 +155,19 @@
           "time_info": "[12时28分 ~ 13时22分]"
         },
         {
-          "title": "马斯克转发宇树机器人伴舞视频：印象深刻",
-          "url": "https://wallstreetcn.com/livenews/3024244",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
+          "url": "https://flash.jin10.com/detail/20251220133230149800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            4,
+            1,
+            6,
             10,
-            19
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 17时22分]"
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 18时22分]"
         },
         {
           "title": "美国总统特朗普：保险公司需要降价以继续留在系统中。 将在未来几周召开保险公司会议。",
@@ -163,20 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
-          "url": "https://flash.jin10.com/detail/20251220133230149800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 17时22分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
@@ -202,6 +204,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时26分 ~ 07时22分]"
+        },
+        {
+          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 18时22分]"
         },
         {
           "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
@@ -249,18 +264,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时19分]"
-        },
-        {
-          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时22分]"
         },
         {
           "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
@@ -421,6 +424,18 @@
           "time_info": "[12时28分 ~ 14时36分]"
         },
         {
+          "title": "马斯克点赞王力宏伴舞机器人",
+          "url": "https://www.douyin.com/hot/2342006",
+          "source": "抖音",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 18时22分]"
+        },
+        {
           "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
           "url": "https://wallstreetcn.com/livenews/3024133",
           "source": "华尔街见闻-快讯",
@@ -529,17 +544,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "马斯克点赞王力宏伴舞机器人",
-          "url": "https://www.douyin.com/hot/2342006",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "特朗普：只需在联邦政府增聘人员，就能马上将失业率降至2%",
