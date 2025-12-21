@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T20:42:22.916722+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2025-12-21T21:29:47.110147+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 20时42分]"
+          "appearance_count": 23,
+          "time_info": "[00时26分 ~ 21时29分]"
         },
         {
           "title": "日本央行加息，告别 30 年超宽松，高市早苗又推 18.3 万亿日元财政刺激，如何看待紧货币 + 宽财政的错配？",
@@ -37,6 +37,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 11时40分]"
+        },
+        {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时24分 ~ 21时29分]"
         },
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -73,21 +88,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时54分]"
-        },
-        {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时24分 ~ 20时42分]"
         },
         {
           "title": "宇树人形机器人“火力全开”助演王力宏演唱会，马斯克点赞称印象深刻",
@@ -154,8 +154,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时29分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -251,11 +251,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时29分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -327,7 +328,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -381,8 +382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时40分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时40分 ~ 21时29分]"
         },
         {
           "title": "我国富满油田年产油气创历史新高",
@@ -418,8 +419,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时18分 ~ 20时42分]"
+          "appearance_count": 22,
+          "time_info": "[01时18分 ~ 21时29分]"
         },
         {
           "title": "海南三亚机场2025年旅客吞吐量创通航以来历史新高",
@@ -532,7 +533,7 @@
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "大厂人热衷考取保安证，既能探索副业，也能「薅政策羊毛」申请退税，这样有风险吗？反映出职场人怎样的心态？",
@@ -545,11 +546,12 @@
             10,
             12,
             9,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时54分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[09时54分 ~ 21时29分]"
         },
         {
           "title": "怎样才能让我们这些职场人快乐起来呢？让自己快乐的方法有哪些？",
@@ -563,6 +565,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 03时17分]"
+        },
+        {
+          "title": "为什么说在职场上要有掀桌子的能力和被讨厌的勇气？",
+          "url": "https://www.zhihu.com/question/1983472656775917649",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         }
       ]
     }
