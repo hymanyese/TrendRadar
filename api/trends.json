@@ -1,48 +1,12 @@
 {
-  "generated_at": "2025-12-22T23:25:47.912327+08:00",
-  "total_titles_processed": 1871,
+  "generated_at": "2025-12-23T00:30:10.145853+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 40,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
-          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 09时53分]"
-        },
-        {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 19时21分]"
-        },
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
           "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
@@ -51,150 +15,52 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 23时25分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
-          "url": "https://wallstreetcn.com/articles/3761799",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 18时25分]"
-        },
-        {
-          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
-          "url": "https://www.cls.cn/detail/2235476",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            15,
-            13,
-            12,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时42分 ~ 23时25分]"
-        },
-        {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时17分 ~ 16时34分]"
-        },
-        {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时30分 ~ 16时34分]"
-        },
-        {
-          "title": "高市早苗拟搬进首相公邸",
-          "url": "https://www.douyin.com/hot/2343856",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            20,
-            24,
-            25,
-            28,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时26分 ~ 23时25分]"
-        },
-        {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时38分 ~ 19时21分]"
-        },
-        {
-          "title": "特朗普表态：必须是“超级鸽派”！",
-          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 16时34分]"
-        },
-        {
-          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
-          "url": "https://www.cls.cn/detail/2235857",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 16时34分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
-          "url": "https://flash.jin10.com/detail/20251221222740005800",
+          "title": "据CNBC：熟悉情况的人士透露，美国总统特朗普可能在明年1月第一周任命新的美联储主席。",
+          "url": "https://flash.jin10.com/detail/20251223000806217800",
           "source": "金十数据",
           "ranks": [
-            5,
-            10,
-            16,
-            19,
-            22
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "特朗普可能会在1月第一周任命新的美联储主席。 （CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3025056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "Dominion Energy：对于美国“国家安全”而言，需要开发弗吉尼亚（周边海域）的风电项目。 当地风电项目有助于满足能源（电力）需求。 （特朗普政府）阻挠CVOW项目将对电网稳定性构成威胁。",
+          "url": "https://wallstreetcn.com/livenews/3025055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "高市早苗政府，创下一项27年来最差纪录",
+          "url": "https://news.ifeng.com/c/8pIhAJNTGuZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -204,562 +70,108 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 23时25分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
-          "url": "https://wallstreetcn.com/livenews/3024453",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            4,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时31分 ~ 07时21分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
-          "url": "https://wallstreetcn.com/livenews/3024442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：认为经济并未处于“招聘衰退”。 通胀高于目标的情况已经停止。 正如古尔斯比所说，仍有充足的降息空间。 目前正在关注核心通胀三个月平均为1.6%。 特朗普希望美联储主席能做出独立判断。 特朗普在美联储主席候选人中看重依赖数据决策。",
-          "url": "https://wallstreetcn.com/livenews/3024440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普任命美国格陵兰岛特使",
-          "url": "https://news.ifeng.com/c/8pHvN8TZ9Jr",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "特朗普让克林顿成了主角",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            17,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 22时23分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
-          "url": "https://flash.jin10.com/detail/20251221182933074800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：特斯拉无人出租车未受旧金山停电影响。",
-          "url": "https://flash.jin10.com/detail/20251222043920328800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时21分]"
-        },
-        {
-          "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
-          "url": "https://flash.jin10.com/detail/20251222043841056800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时21分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "英国政府发言人：英国首相斯塔默于周日下午与美国总统特朗普进行了通话。",
-          "url": "https://flash.jin10.com/detail/20251222043755538800",
-          "source": "金十数据",
+          "title": "高市早苗拟搬进首相公邸",
+          "url": "https://www.douyin.com/hot/2343856",
+          "source": "抖音",
           "ranks": [
-            5,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时21分]"
-        },
-        {
-          "title": "飞机闯入特朗普官邸上空被紧急拦截",
-          "url": "https://www.toutiao.com/trending/7586445374106796082/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 18时25分]"
-        },
-        {
-          "title": "高市早苗应援帽是中国制造",
-          "url": "https://www.toutiao.com/trending/7585612890968096777/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时38分]"
-        },
-        {
-          "title": "高市早苗应援帽是中国制造",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BA%94%E6%8F%B4%E5%B8%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 18时25分]"
-        },
-        {
-          "title": "一纸判决，千亿回归：马斯克成为史上首位7000亿美元富豪",
-          "url": "https://wallstreetcn.com/articles/3761794",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 14时38分]"
-        },
-        {
-          "title": "高市早苗拟搬入首相公邸",
-          "url": "https://www.toutiao.com/trending/7585746788066476059/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时38分]"
-        },
-        {
-          "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
-          "url": "https://wallstreetcn.com/livenews/3024905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
             27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时47分]"
+          "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "高市早苗应援帽是中国制造",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BA%94%E6%8F%B4%E5%B8%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "白宫官员：特朗普周一下午4:30（北京时间周二凌晨5:30）的讲话是关于造船业的。",
+          "url": "https://flash.jin10.com/detail/20251222232441474800",
+          "source": "金十数据",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
-        },
-        {
-          "title": "高市早苗拟搬进首相公邸，曾住过的7位有6位任职1年左右即下台",
-          "url": "https://news.ifeng.com/c/8pHdPoBzMjq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "高市早苗政府，创下一项27年来最差纪录",
-          "url": "https://news.ifeng.com/c/8pIhAJNTGuZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时30分"
         },
         {
-          "title": "据华盛顿邮报：特朗普召回驻外使馆及代表团的48名美国大使。",
-          "url": "https://flash.jin10.com/detail/20251222211021305800",
-          "source": "金十数据",
+          "title": "欧美风电概念股普遍下挫，特朗普政府接口国家安全对五家公司暂停海上风电场租赁",
+          "url": "https://wallstreetcn.com/livenews/3025027",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
-          "url": "https://flash.jin10.com/detail/20251222155222383800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "白宫官员：美国总统特朗普和美国国防部长赫格塞思将于周一就造船业发表声明。",
-          "url": "https://flash.jin10.com/detail/20251222225324934800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
-          "url": "https://flash.jin10.com/detail/20251222174043679800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "特朗普任命美国格陵兰岛特使",
-          "url": "https://flash.jin10.com/detail/20251222105005973800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-22）",
-          "url": "https://flash.jin10.com/detail/20251222173421961800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "曝高市早苗急着求见特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%80%A5%E7%9D%80%E6%B1%82%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "00时30分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 21,
+      "match_count": 4,
       "titles": [
         {
-          "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
-          "url": "https://www.cls.cn/detail/2235475",
-          "source": "财联社热门",
+          "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            3
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "如何评价《崩坏：星穹铁道》游戏中匹诺康尼的梦主歌斐木这一复杂人物？",
+          "url": "https://www.zhihu.com/question/1985297716578910982",
+          "source": "知乎",
+          "ranks": [
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时53分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         },
         {
           "title": "违约、坏账、赎回潮“此起彼伏”，美国的“万亿私募信贷大故事”正在崩塌",
           "url": "https://wallstreetcn.com/articles/3761812",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
             6
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时27分 ~ 23时25分]"
-        },
-        {
-          "title": "“降息预期+地缘冲突”推动，黄金站上4400，白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时27分]"
-        },
-        {
-          "title": "解放军报刊文：日本历史修正主义肆意践踏正义与良知",
-          "url": "https://news.ifeng.com/c/8pHWaODNk9U",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "沪银期货主力合约涨超5%，突破16000元/千克关口，续创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3024585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "现货黄金创历史新高",
-          "url": "https://flash.jin10.com/detail/20251222094013358800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "【现货黄金创历史新高，突破10月高点】现货黄金日内涨近1%报4380美元/盎司，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3024580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "中信建投：白银的VIX处于历史极大值，警惕超买回调风险",
-          "url": "https://wallstreetcn.com/livenews/3024739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时27分]"
-        },
-        {
-          "title": "金银价格双双刷新历史新高",
-          "url": "https://www.toutiao.com/trending/7586500376065494538/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时38分]"
-        },
-        {
-          "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
-          "url": "https://www.cls.cn/detail/2235498",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
-          "title": "“降息预期+地缘冲突”推动，黄金、白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时27分]"
-        },
-        {
-          "title": "纯电大三排SUV 11月销量创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3024679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时27分]"
-        },
-        {
-          "title": "有哪些鲜为人知的历史故事或历史小人物？",
-          "url": "https://www.zhihu.com/question/666506906",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时23分]"
-        },
-        {
-          "title": "UP主给英国人上法式历史课",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BB%99%E8%8B%B1%E5%9B%BD%E4%BA%BA%E4%B8%8A%E6%B3%95%E5%BC%8F%E5%8E%86%E5%8F%B2%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
+          "time_info": "00时30分"
         },
         {
           "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3025030",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "地缘政治紧张加剧，黄金白银创下历史新高",
-          "url": "https://flash.jin10.com/detail/20251222133931687800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "2025年全球借款人发行的欧元债券规模创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3024556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价创下历史新高，最新上涨2.5%。",
-          "url": "https://flash.jin10.com/detail/20251222224324969800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "历史不会重演只会押韵——以往贵金属牛市带来了什么启发？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20251222192037714800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "现货白银涨破68美元/盎司关口，刷新历史高点，日内涨超1.3%。 沪银期货主力合约涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3024542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "历史最差一届NBA选秀",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%8F%B2%E6%9C%80%E5%B7%AE%E4%B8%80%E5%B1%8ANBA%E9%80%89%E7%A7%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "00时30分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "B站年度报告兴趣星球合集",
@@ -769,42 +181,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时45分 ~ 23时25分]"
-        },
-        {
-          "title": "如何提升职场幸福感？",
-          "url": "https://www.zhihu.com/question/660674271",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        },
-        {
-          "title": "职场上，为什么做惯「奴才」的人，喜欢打压别人？",
-          "url": "https://www.zhihu.com/question/643632880",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时42分]"
-        },
-        {
-          "title": "为什么职场上很多从领导岗位上退休下来的人都有很深的人走茶凉的失落感？",
-          "url": "https://www.zhihu.com/question/382327932",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
+          "time_info": "[00时29分 ~ 00时30分]"
         }
       ]
     }
