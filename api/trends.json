@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T07:21:05.575201+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2025-12-22T09:53:57.075206+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3761784",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时53分]"
         },
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -41,6 +42,33 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
+          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
+          "url": "https://wallstreetcn.com/articles/3761799",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时53分]"
+        },
+        {
+          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时30分 ~ 09时53分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
           "url": "https://flash.jin10.com/detail/20251221222740005800",
           "source": "金十数据",
@@ -50,19 +78,6 @@
             16,
             19,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
-          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
-          "url": "https://wallstreetcn.com/articles/3761799",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -111,28 +126,17 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时30分 ~ 07时21分]"
-        },
-        {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时17分 ~ 07时21分]"
+          "appearance_count": 7,
+          "time_info": "[03时17分 ~ 09时53分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -184,23 +188,79 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 07时21分]"
+        },
+        {
+          "title": "高市早苗拟搬进首相公邸，曾住过的7位有6位任职1年左右即下台",
+          "url": "https://news.ifeng.com/c/8pHdPoBzMjq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
           "url": "https://www.cls.cn/detail/2235475",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时53分]"
+        },
+        {
+          "title": "解放军报刊文：日本历史修正主义肆意践踏正义与良知",
+          "url": "https://news.ifeng.com/c/8pHWaODNk9U",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "沪银期货主力合约涨超5%，突破16000元/千克关口，续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3024585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "现货黄金创历史新高",
+          "url": "https://flash.jin10.com/detail/20251222094013358800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "【现货黄金创历史新高，突破10月高点】现货黄金日内涨近1%报4380美元/盎司，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3024580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -212,12 +272,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "2025年全球借款人发行的欧元债券规模创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3024556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "现货白银涨破68美元/盎司关口，刷新历史高点，日内涨超1.3%。 沪银期货主力合约涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3024542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何提升职场幸福感？",
@@ -229,6 +311,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 01时19分]"
+        },
+        {
+          "title": "为什么职场上很多从领导岗位上退休下来的人都有很深的人走茶凉的失落感？",
+          "url": "https://www.zhihu.com/question/382327932",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     }
