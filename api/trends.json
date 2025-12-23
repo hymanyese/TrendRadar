@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T05:21:41.985423+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2025-12-24T06:22:19.941342+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -51,11 +51,39 @@
             13,
             24,
             28,
-            19
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
+        },
+        {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
+        },
+        {
+          "title": "布林肯为何对特朗普发出严厉警告",
+          "url": "https://www.toutiao.com/trending/7587029251379957291/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            16,
+            13,
+            9,
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "time_info": "[01时22分 ~ 06时22分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -73,30 +101,15 @@
           "time_info": "[00时31分 ~ 05时21分]"
         },
         {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.toutiao.com/trending/7586636403350556196/",
-          "source": "今日头条",
+          "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
+          "url": "https://flash.jin10.com/detail/20251224053558726800",
+          "source": "金十数据",
           "ranks": [
-            23
+            3
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时21分]"
-        },
-        {
-          "title": "布林肯为何对特朗普发出严厉警告",
-          "url": "https://www.toutiao.com/trending/7587029251379957291/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            16,
-            13,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 05时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
@@ -105,7 +118,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -196,6 +209,17 @@
           "time_info": "[02时34分 ~ 04时25分]"
         },
         {
+          "title": "美新型战舰被命名为特朗普级你咋看",
+          "url": "https://www.toutiao.com/trending/7586859203608772635/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 06时22分]"
+        },
+        {
           "title": "美国总统特朗普：希望市场能在好消息时上涨，在坏消息时下跌。",
           "url": "https://flash.jin10.com/detail/20251224020037610800",
           "source": "金十数据",
@@ -206,6 +230,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时19分]"
+        },
+        {
+          "title": "短短47天又多100万用户！马斯克的卫星互联网业务增速“起飞”",
+          "url": "https://www.cls.cn/detail/2237664",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普：通货膨胀会自行解决。",
@@ -244,37 +279,26 @@
           "time_info": "[02时34分 ~ 03时19分]"
         },
         {
-          "title": "美新型战舰被命名为特朗普级你咋看",
-          "url": "https://www.toutiao.com/trending/7586859203608772635/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时25分]"
-        },
-        {
           "title": "美国最高法院拒绝允许美国总统特朗普向芝加哥地区部署国民警卫队。",
           "url": "https://flash.jin10.com/detail/20251224041533338800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
         {
-          "title": "短短47天又多100万用户！马斯克的卫星互联网业务增速“起飞”",
-          "url": "https://www.cls.cn/detail/2237664",
-          "source": "财联社热门",
+          "title": "白宫顾问哈塞特：美国总统特朗普有一批出色的美联储候选人。",
+          "url": "https://wallstreetcn.com/livenews/3025771",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "06时22分"
         },
         {
           "title": "据纽约时报：美国国会山成员寻求将特朗普的名字移出肯尼迪中心。",
@@ -324,7 +348,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
@@ -334,8 +358,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "这是一个我努力了十年的故事",
@@ -346,11 +370,12 @@
             18,
             17,
             10,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "人民日报钟声：日本的“军费账”算丢了历史责任与公道人心",
@@ -362,8 +387,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "伦铜，历史首次突破12000美元",
@@ -375,8 +400,22 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
+        },
+        {
+          "title": "人物｜为亡弟追凶27年的姐姐：想留回长发，做回正常的女人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32237931",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            10,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "time_info": "[01时22分 ~ 06时22分]"
         },
         {
           "title": "美银调查：基金经理几乎“满仓”跨年！现金水平降至3.3%历史新低",
@@ -387,21 +426,63 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
-          "title": "人物｜为亡弟追凶27年的姐姐：想留回长发，做回正常的女人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32237931",
-          "source": "澎湃新闻",
+          "title": "委内瑞拉驻联合国代表：美国对加拉加斯实施了其历史上“最大程度的勒索”。",
+          "url": "https://flash.jin10.com/detail/20251224055401340800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            15,
-            10
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "纽约期银涨4.4%，创历史新高，逼近72美元，现货铂金涨超7%不断靠拢2008年所创历史最高位",
+          "url": "https://wallstreetcn.com/livenews/3025784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "现货黄金创历史新高，距离4500美元就差临门一脚，纽约期金创历史新高后高位持稳",
+          "url": "https://wallstreetcn.com/livenews/3025782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "加拿大标普/TSX综合指数收涨0.18%，报32058.73点，继续创收盘历史新高。 小盘股指收涨0.27%，报1222.69点，也再创收盘历史新高。 周二（12月23日）北美尾盘，加拿大10年期基准国债收益率跌4.5个基点，报3.418%，北京时间22:06曾刷新日高至3.459%——短线形成冲高回落行情。 两年期加债收益率跌2.7个基点，报2.572%；五年期加债收益率跌3.6个基点，报2.945%。",
+          "url": "https://wallstreetcn.com/livenews/3025781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "有什么历史人物或者历史事件让你落泪？",
+          "url": "https://www.zhihu.com/question/321967313",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 06时22分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨约0.6%创历史新高，成分股英美资源涨3.5%领跑，金银矿业股表现垫底",
@@ -417,15 +498,16 @@
           "time_info": "[00时31分 ~ 02时34分]"
         },
         {
-          "title": "有什么历史人物或者历史事件让你落泪？",
-          "url": "https://www.zhihu.com/question/321967313",
-          "source": "知乎",
+          "title": "现货铂金涨幅超7%，触及2277.05美元/盎司的历史新高。 现货钯金涨幅扩大，最新上涨7%，报1881.43美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3025756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 02时34分]"
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
         },
         {
           "title": "丹麦股市收涨4%，西班牙和瑞士股指创收盘历史新高",
@@ -452,15 +534,15 @@
           "time_info": "[02时34分 ~ 03时19分]"
         },
         {
-          "title": "现货铂金涨幅超7%，触及2277.05美元/盎司的历史新高。 现货钯金涨幅扩大，最新上涨7%，报1881.43美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3025756",
+          "title": "摩根大通收涨0.86%，报125.86美元，连续两个交易日创收盘历史新高， Ametek收涨1.14%，也连续两天创收盘历史新高。 Steel Dynamicks收涨0.82%，也连续两天创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3025778",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "06时22分"
         },
         {
           "title": "墨西哥主要股指持续上涨，创下65,279.26点的历史新高。",
@@ -472,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "标普创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3025764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
@@ -488,11 +581,12 @@
             20,
             18,
             9,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时22分]"
         }
       ]
     }
