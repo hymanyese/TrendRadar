@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T20:48:54.552743+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2025-12-23T21:37:34.709182+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 93,
+      "match_count": 97,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 20时48分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 21时37分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -50,11 +50,12 @@
             4,
             6,
             11,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时28分 ~ 20时48分]"
+          "appearance_count": 14,
+          "time_info": "[11时28分 ~ 21时37分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -163,6 +164,20 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 21时37分]"
+        },
+        {
           "title": "特斯拉股价逼近500美元创新高 马斯克薪酬案翻盘+FSD稳跑",
           "url": "https://www.cls.cn/detail/2237015",
           "source": "财联社热门",
@@ -176,18 +191,15 @@
           "time_info": "[09时49分 ~ 15时26分]"
         },
         {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
           "ranks": [
-            27,
-            7,
-            8,
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时28分 ~ 20时48分]"
+          "time_info": "[18时26分 ~ 21时37分]"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -342,17 +354,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时48分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -779,6 +780,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "美国司法部：爱泼斯坦案文件包含一些针对特朗普的不实指控。",
+          "url": "https://wallstreetcn.com/livenews/3025606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国总统特朗普：马杜罗想做什么，由他自己决定；马杜罗下台是明智之举。",
           "url": "https://flash.jin10.com/detail/20251223070109720800",
           "source": "金十数据",
@@ -821,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：核聚变企业高管对特朗普媒体科技集团(DJT.O)表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251223210625693800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "日本首相高市早苗：“负责任的积极财政政策”并不意味着不负责任的债券发行或减税。",
@@ -966,6 +989,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普的“PPT战列舰”有多魔幻",
+          "url": "https://www.toutiao.com/trending/7587001068819582510/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国总统特朗普：我们必须拥有格陵兰岛。",
           "url": "https://flash.jin10.com/detail/20251223065414373800",
           "source": "金十数据",
@@ -1008,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "专家：特朗普战列舰政治意义大于实战",
+          "url": "https://www.toutiao.com/trending/7586991061680000531/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "特朗普宣布：建造特朗普级战列舰",
@@ -1101,7 +1146,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
@@ -1112,8 +1157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 20时48分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 21时37分]"
         },
         {
           "title": "降息预期+地缘冲突推动资金涌向贵金属 黄金白银同日改写历史",
@@ -1153,8 +1198,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时28分 ~ 20时48分]"
+          "appearance_count": 14,
+          "time_info": "[11时28分 ~ 21时37分]"
         },
         {
           "title": "违约、坏账、赎回潮“此起彼伏”，美国的“万亿私募信贷大故事”正在崩塌",
@@ -1167,17 +1212,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 07时22分]"
-        },
-        {
-          "title": "俄罗斯驻华大使：俄中关系已达到历史最高水平",
-          "url": "https://wallstreetcn.com/livenews/3025605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "欧洲斯托克600指数盘中创下588.45点的历史新高，最新上涨0.3%。",
@@ -1213,6 +1247,17 @@
           "time_info": "19时21分"
         },
         {
+          "title": "沪银期货主力连续合约涨超3%，最高触及报16978元/千克，续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3025616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
           "url": "https://flash.jin10.com/detail/20251223020756394800",
           "source": "金十数据",
@@ -1236,6 +1281,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 17时28分]"
+        },
+        {
+          "title": "俄罗斯驻华大使：俄中关系已达到历史最高水平",
+          "url": "https://wallstreetcn.com/livenews/3025605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时37分]"
         },
         {
           "title": "伦铜升至1.2万美元/吨上方，创历史新高。",
@@ -1272,6 +1329,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 12时39分]"
+        },
+        {
+          "title": "2025 年你看过最好看的一本书是什么书籍？一起分享出来给大伙们瞧瞧呗？",
+          "url": "https://www.zhihu.com/question/1984763484664255772",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时37分]"
         },
         {
           "title": "如何评价《崩坏：星穹铁道》游戏中匹诺康尼的梦主歌斐木这一复杂人物？",
@@ -1316,6 +1385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "沪银主力合约涨超3%，现报16821元/千克，续创历史新高。",
+          "url": "https://flash.jin10.com/detail/20251223211408703800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "现货黄金站上4450美元/盎司，再创历史新高，日内涨0.15%。",
@@ -1393,17 +1473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "2025 年你看过最好看的一本书是什么书籍？一起分享出来给大伙们瞧瞧呗？",
-          "url": "https://www.zhihu.com/question/1984763484664255772",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "年内新增超5500亿元 债券ETF规模创历史新高",
@@ -1484,22 +1553,24 @@
           "url": "https://www.zhihu.com/question/1986425605856728680",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时37分]"
         },
         {
           "title": "抖音电商发布2025兴趣产业带数据：近万商家销售额从0破百万",
           "url": "https://wallstreetcn.com/livenews/3025583",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时37分]"
         },
         {
           "title": "信托业成32万亿元“大块头”，对权益资产兴趣愈发浓厚",
