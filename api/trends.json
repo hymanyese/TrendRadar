@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T21:34:16.023123+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2025-12-24T22:21:56.453558+08:00",
+  "total_titles_processed": 1856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时26分 ~ 21时34分]"
+          "appearance_count": 9,
+          "time_info": "[17时26分 ~ 22时21分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -27,11 +27,12 @@
             10,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时26分 ~ 21时34分]"
+          "appearance_count": 12,
+          "time_info": "[11时26分 ~ 22时21分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -154,6 +155,17 @@
           "time_info": "[01时22分 ~ 07时21分]"
         },
         {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时24分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普回应克林顿大尺度照被公布",
           "url": "https://www.toutiao.com/trending/7586912730720947748/",
           "source": "今日头条",
@@ -197,17 +209,6 @@
           "time_info": "[00时31分 ~ 05时21分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 21时34分]"
-        },
-        {
           "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
           "url": "https://wallstreetcn.com/livenews/3025760",
           "source": "华尔街见闻-快讯",
@@ -217,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "高市早苗又放话了，警惕！",
+          "url": "https://news.ifeng.com/c/8pLwbZMCP7b",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -366,6 +378,18 @@
           "time_info": "[03时19分 ~ 06时22分]"
         },
         {
+          "title": "评论员：特朗普级战舰可能造不出来",
+          "url": "https://www.toutiao.com/trending/7587325146696781348/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 22时21分]"
+        },
+        {
           "title": "尽管欧盟曾向特朗普承诺在未来三年内购买价值7500亿美元的美国能源，但在过去四个月里，欧盟从美国购买石油和天然气的支出却减少了7%。",
           "url": "https://flash.jin10.com/detail/20251224130340552800",
           "source": "金十数据",
@@ -483,15 +507,15 @@
           "time_info": "[02时34分 ~ 03时19分]"
         },
         {
-          "title": "评论员：特朗普级战舰可能造不出来",
-          "url": "https://www.toutiao.com/trending/7587325146696781348/",
-          "source": "今日头条",
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
           "ranks": [
-            30
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国最高法院拒绝允许美国总统特朗普向芝加哥地区部署国民警卫队。",
@@ -558,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "高市早苗又放话了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E6%94%BE%E8%AF%9D%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "周二（12月23日），降息赢家指数涨0.72%，报99.75点。 “特朗普关税输家”指数跌1.03%，散户抱团概念股指数/迷因股（meme stock）指数跌1.71%。",
@@ -676,6 +711,20 @@
           "time_info": "[00时31分 ~ 16时32分]"
         },
         {
+          "title": "我发贴吧年度电竞人物,你来打分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348332&amp;topic_name=%E6%88%91%E5%8F%91%E8%B4%B4%E5%90%A7%E5%B9%B4%E5%BA%A6%E7%94%B5%E7%AB%9E%E4%BA%BA%E7%89%A9%2C%E4%BD%A0%E6%9D%A5%E6%89%93%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时32分 ~ 22时21分]"
+        },
+        {
           "title": "伦铜，历史首次突破12000美元",
           "url": "https://www.cls.cn/detail/2238055",
           "source": "财联社热门",
@@ -691,30 +740,18 @@
           "time_info": "[00时31分 ~ 11时26分]"
         },
         {
-          "title": "我发贴吧年度电竞人物,你来打分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348332&amp;topic_name=%E6%88%91%E5%8F%91%E8%B4%B4%E5%90%A7%E5%B9%B4%E5%BA%A6%E7%94%B5%E7%AB%9E%E4%BA%BA%E7%89%A9%2C%E4%BD%A0%E6%9D%A5%E6%89%93%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时32分 ~ 21时34分]"
-        },
-        {
           "title": "金银再创历史新高，势创1979年来最大年涨幅，两大推手立功",
           "url": "https://wallstreetcn.com/articles/3761943",
           "source": "华尔街见闻",
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时26分 ~ 21时34分]"
+          "appearance_count": 12,
+          "time_info": "[11时26分 ~ 22时21分]"
         },
         {
           "title": "这是一个我努力了十年的故事",
@@ -761,6 +798,20 @@
           "time_info": "[16时32分 ~ 20时46分]"
         },
         {
+          "title": "康波的年轮，走向1978：迎接商品和 A 股的历史级牛市",
+          "url": "https://wallstreetcn.com/articles/3761957",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 22时21分]"
+        },
+        {
           "title": "2025 年，哪篇盐言故事成了你的「年度情绪嘴替」？",
           "url": "https://www.zhihu.com/render/zda-page/bangdan03",
           "source": "知乎",
@@ -781,19 +832,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "康波的年轮，走向1978：迎接商品和 A 股的历史级牛市",
-          "url": "https://wallstreetcn.com/articles/3761957",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 21时34分]"
         },
         {
           "title": "金价银价铜价均创历史新高",
@@ -869,6 +907,19 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
+          "url": "https://wallstreetcn.com/articles/3761967",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时21分]"
+        },
+        {
           "title": "有什么历史人物或者历史事件让你落泪？",
           "url": "https://www.zhihu.com/question/321967313",
           "source": "知乎",
@@ -891,18 +942,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时34分]"
-        },
-        {
-          "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
-          "url": "https://wallstreetcn.com/articles/3761967",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时34分]"
         },
         {
           "title": "现货铂金涨幅超7%，触及2277.05美元/盎司的历史新高。 现货钯金涨幅扩大，最新上涨7%，报1881.43美元/盎司。",
