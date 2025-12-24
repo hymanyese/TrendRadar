@@ -1,105 +1,11 @@
 {
-  "generated_at": "2025-12-25T00:28:56.624825+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-25T01:20:05.249703+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "金银再创历史新高，势创1979年来最大年涨幅，两大推手立功",
-          "url": "https://wallstreetcn.com/articles/3761943",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
-          "url": "https://wallstreetcn.com/articles/3761967",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "康波的年轮，走向1978：迎接商品和 A 股的历史级牛市",
-          "url": "https://wallstreetcn.com/articles/3761957",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股市收涨超0.4%，连续多日创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3026279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "我发贴吧年度电竞人物,你来打分",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348332&amp;topic_name=%E6%88%91%E5%8F%91%E8%B4%B4%E5%90%A7%E5%B9%B4%E5%BA%A6%E7%94%B5%E7%AB%9E%E4%BA%BA%E7%89%A9%2C%E4%BD%A0%E6%9D%A5%E6%89%93%E5%88%86",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "标普500指数创盘中历史新高，目前涨0.16%，报6921.02点，突破10月29日顶部6920.34点。",
-          "url": "https://wallstreetcn.com/livenews/3026275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "现货钯金跌穿1700美元/盎司关口，日内跌超8.6%，北京时间14:47涨至1962.42美元之后持续回撤。 现货铂金跌向2202美元，目前跌3.8%。 现货黄金跌超0.4%，逼近4460美元，09:25还曾涨至4525.77美元创历史新高。 现货白银跌穿71美元，跌幅0.6%，脱离09:53所创历史最高位72.70美元。",
-          "url": "https://wallstreetcn.com/livenews/3026266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "标普500指数创盘中历史新高，上涨0.16%。",
-          "url": "https://flash.jin10.com/detail/20251224231726414800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "高市早苗又放话了",
@@ -109,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -120,30 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
-          "url": "https://wallstreetcn.com/livenews/3026284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "高市早苗又放话了，警惕！",
@@ -153,8 +37,42 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "美国加州放弃追讨联邦高铁拨款，打算等特朗普下野了再继续推进项目",
+          "url": "https://wallstreetcn.com/livenews/3026295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时20分"
+        },
+        {
+          "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
+          "url": "https://wallstreetcn.com/livenews/3026284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -164,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -173,6 +91,105 @@
           "source": "华尔街见闻",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "我发贴吧年度电竞人物,你来打分",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348332&amp;topic_name=%E6%88%91%E5%8F%91%E8%B4%B4%E5%90%A7%E5%B9%B4%E5%BA%A6%E7%94%B5%E7%AB%9E%E4%BA%BA%E7%89%A9%2C%E4%BD%A0%E6%9D%A5%E6%89%93%E5%88%86",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "金银再创历史新高，势创1979年来最大年涨幅，两大推手立功",
+          "url": "https://wallstreetcn.com/articles/3761943",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
+          "url": "https://wallstreetcn.com/articles/3761967",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "康波的年轮，走向1978：迎接商品和 A 股的历史级牛市",
+          "url": "https://wallstreetcn.com/articles/3761957",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜南非股市收涨超0.4%，连续多日创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3026279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "标普500指数创盘中历史新高，目前涨0.16%，报6921.02点，突破10月29日顶部6920.34点。",
+          "url": "https://wallstreetcn.com/livenews/3026275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "现货钯金跌穿1700美元/盎司关口，日内跌超8.6%，北京时间14:47涨至1962.42美元之后持续回撤。 现货铂金跌向2202美元，目前跌3.8%。 现货黄金跌超0.4%，逼近4460美元，09:25还曾涨至4525.77美元创历史新高。 现货白银跌穿71美元，跌幅0.6%，脱离09:53所创历史最高位72.70美元。",
+          "url": "https://wallstreetcn.com/livenews/3026266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "标普500指数创盘中历史新高，上涨0.16%。",
+          "url": "https://flash.jin10.com/detail/20251224231726414800",
+          "source": "金十数据",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
