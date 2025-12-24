@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:37:18.662644+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2025-12-24T15:26:23.488956+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -34,8 +34,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 14时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 15时26分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -46,11 +46,12 @@
             15,
             18,
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 14时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 15时26分]"
         },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -76,6 +77,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 15时26分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -138,17 +153,16 @@
           "time_info": "[00时31分 ~ 05时21分]"
         },
         {
-          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
-          "url": "https://www.cls.cn/detail/2238272",
-          "source": "财联社热门",
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            7,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时47分 ~ 14时37分]"
+          "time_info": "[09时47分 ~ 15时26分]"
         },
         {
           "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
@@ -162,8 +176,8 @@
           "time_info": "05时21分"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
           "ranks": [
             10,
@@ -171,7 +185,7 @@
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时47分 ~ 14时37分]"
+          "time_info": "[11时26分 ~ 15时26分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -284,18 +298,6 @@
           "time_info": "[11时26分 ~ 12时38分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 14时37分]"
-        },
-        {
           "title": "特朗普再谈格陵兰问题 还提到中国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E9%97%AE%E9%A2%98+%E8%BF%98%E6%8F%90%E5%88%B0%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -366,6 +368,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时19分]"
+        },
+        {
+          "title": "克林顿大尺度照被公布 特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%85%A7%E8%A2%AB%E5%85%AC%E5%B8%83+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时26分]"
         },
         {
           "title": "短短47天又多100万用户！马斯克的卫星互联网业务增速“起飞”",
@@ -459,6 +473,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "特朗普新战舰计划将如何影响美海军",
+          "url": "https://www.toutiao.com/trending/7587290704624225838/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "周二（12月23日），降息赢家指数涨0.72%，报99.75点。 “特朗普关税输家”指数跌1.03%，散户抱团概念股指数/迷因股（meme stock）指数跌1.71%。",
           "url": "https://wallstreetcn.com/livenews/3025799",
           "source": "华尔街见闻-快讯",
@@ -468,17 +493,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "克林顿大尺度照被公布 特朗普回应",
-          "url": "https://www.baidu.com/s?wd=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%85%A7%E8%A2%AB%E5%85%AC%E5%B8%83+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         },
         {
           "title": "据纽约时报：美国国会山成员寻求将特朗普的名字移出肯尼迪中心。",
@@ -517,7 +531,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
@@ -531,6 +545,18 @@
           "time_info": "[00时31分 ~ 07时21分]"
         },
         {
+          "title": "如何评价孟加拉一哥称博主杜克从头到尾都在演戏，视频里的故事是剧本？",
+          "url": "https://www.zhihu.com/question/1986230076119998574",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 15时26分]"
+        },
+        {
           "title": "美银调查：基金经理几乎“满仓”跨年！现金水平降至3.3%历史新低",
           "url": "https://wallstreetcn.com/articles/3761907",
           "source": "华尔街见闻",
@@ -541,8 +567,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 14时37分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 15时26分]"
         },
         {
           "title": "人物｜为亡弟追凶27年的姐姐：想留回长发，做回正常的女人",
@@ -556,8 +582,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时22分 ~ 14时37分]"
+          "appearance_count": 15,
+          "time_info": "[01时22分 ~ 15时26分]"
         },
         {
           "title": "伦铜，历史首次突破12000美元",
@@ -573,17 +599,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 11时26分]"
-        },
-        {
-          "title": "如何评价孟加拉一哥称博主杜克从头到尾都在演戏，视频里的故事是剧本？",
-          "url": "https://www.zhihu.com/question/1986230076119998574",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 14时37分]"
         },
         {
           "title": "这是一个我努力了十年的故事",
@@ -623,9 +638,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "金银再创历史新高，势创1979年来最大年涨幅，两大推手立功",
+          "url": "https://wallstreetcn.com/articles/3761943",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 15时26分]"
         },
         {
           "title": "委内瑞拉驻联合国代表：美国对加拉加斯实施了其历史上“最大程度的勒索”。",
@@ -662,17 +688,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 14时37分]"
-        },
-        {
-          "title": "金银再创历史新高，势创1979年来最大年涨幅，两大推手立功",
-          "url": "https://wallstreetcn.com/articles/3761943",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 14时37分]"
         },
         {
           "title": "现货黄金创历史新高，距离4500美元就差临门一脚，纽约期金创历史新高后高位持稳",
@@ -782,6 +797,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "LME三个月期铜创下每吨12,282美元的历史新高。",
+          "url": "https://flash.jin10.com/detail/20251224145914608800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "标普创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3025764",
           "source": "华尔街见闻-快讯",
@@ -802,6 +828,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "伦敦铜价创历史新高，突破每吨12159.50美元。 伦锡日内涨超2.00%，现报43460.00美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3026035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     },
