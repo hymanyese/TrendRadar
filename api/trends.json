@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T09:49:43.560457+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2025-12-25T11:29:07.028071+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
@@ -26,11 +26,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348332&amp;topic_name=%E6%88%91%E5%8F%91%E8%B4%B4%E5%90%A7%E5%B9%B4%E5%BA%A6%E7%94%B5%E7%AB%9E%E4%BA%BA%E7%89%A9%2C%E4%BD%A0%E6%9D%A5%E6%89%93%E5%88%86",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 11时29分]"
         },
         {
           "title": "康波的年轮，走向1978：迎接商品和 A 股的历史级牛市",
@@ -58,6 +59,19 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
+          "title": "安洗莹单年胜率高达胜 94.8%，超越林丹成为历史最高，如何评价这项成就？",
+          "url": "https://www.zhihu.com/question/1986457507548325317",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 11时29分]"
+        },
+        {
           "title": "美国投资公司协会（ICI）：12月23日当周，美国货币市场资产7.673万亿美元，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3026324",
           "source": "华尔街见闻-快讯",
@@ -72,18 +86,6 @@
           "time_info": "[03时18分 ~ 06时22分]"
         },
         {
-          "title": "安洗莹单年胜率高达胜 94.8%，超越林丹成为历史最高，如何评价这项成就？",
-          "url": "https://www.zhihu.com/question/1986457507548325317",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 09时49分]"
-        },
-        {
           "title": "道指收涨0.6%，标普收涨超0.3%，双双创历史新高",
           "url": "https://wallstreetcn.com/livenews/3026306",
           "source": "华尔街见闻-快讯",
@@ -95,6 +97,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时21分]"
+        },
+        {
+          "title": "苦海翻起爱恨故事感转场",
+          "url": "https://www.douyin.com/hot/2346734",
+          "source": "抖音",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 11时29分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
@@ -133,6 +147,17 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "连续三日创历史新高！“铜博士”飙升，释放出何种经济信号？",
+          "url": "https://www.cls.cn/detail/2239468",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
           "title": "标普500指数创盘中历史新高，目前涨0.16%，报6921.02点，突破10月29日顶部6920.34点。",
           "url": "https://wallstreetcn.com/livenews/3026275",
           "source": "华尔街见闻-快讯",
@@ -143,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "宠物历史上第一次期末考试",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%A0%E7%89%A9%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "现货钯金跌穿1700美元/盎司关口，日内跌超8.6%，北京时间14:47涨至1962.42美元之后持续回撤。 现货铂金跌向2202美元，目前跌3.8%。 现货黄金跌超0.4%，逼近4460美元，09:25还曾涨至4525.77美元创历史新高。 现货白银跌穿71美元，跌幅0.6%，脱离09:53所创历史最高位72.70美元。",
@@ -174,7 +210,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
@@ -188,17 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "苦海翻起爱恨故事感转场",
-          "url": "https://www.douyin.com/hot/2346734",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
         },
         {
           "title": "逾4000亿元! 2025年股票指基募资创历史新高",
@@ -226,7 +251,7 @@
     },
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "高市早苗又放话了，警惕！",
@@ -237,8 +262,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 11时29分]"
         },
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -264,17 +289,6 @@
           "time_info": "[00时28分 ~ 09时49分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
           "url": "https://wallstreetcn.com/articles/3761983",
           "source": "华尔街见闻",
@@ -285,8 +299,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 11时29分]"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时28分 ~ 09时49分]"
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -393,6 +418,28 @@
           "time_info": "[03时18分 ~ 07时21分]"
         },
         {
+          "title": "高市早苗首次直接提及引进核潜艇",
+          "url": "https://www.toutiao.com/trending/7587586479405432886/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "“特朗普”级战列舰来了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9D%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
           "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
           "url": "https://wallstreetcn.com/livenews/3026368",
           "source": "华尔街见闻-快讯",
@@ -402,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普发表圣诞祝福 不忘自夸政绩",
+          "url": "https://flash.jin10.com/detail/20251225103018828800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "学者：特朗普锚定“第四处战场”",
