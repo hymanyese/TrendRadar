@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T15:24:35.284699+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2025-12-25T16:31:56.194311+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "高市早苗又放话了，警惕！",
@@ -57,6 +57,17 @@
           "time_info": "[00时28分 ~ 13时26分]"
         },
         {
+          "title": "专家：高市早苗肯定想去“拜鬼”，就看她怎么拜了",
+          "url": "https://news.ifeng.com/c/8pMvqmCRmJa",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时31分]"
+        },
+        {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
           "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
           "source": "凤凰网",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "专家：高市早苗肯定想去“拜鬼”，就看她怎么拜了",
-          "url": "https://news.ifeng.com/c/8pMvqmCRmJa",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 15时24分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "高市早苗为何要赶在特朗普访华前访美",
+          "url": "https://www.toutiao.com/trending/7587680478346350143/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -168,6 +179,19 @@
           "time_info": "[03时18分 ~ 06时22分]"
         },
         {
+          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
+          "url": "https://www.cls.cn/detail/2239492",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 16时31分]"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
           "url": "https://flash.jin10.com/detail/20251225030848051800",
           "source": "金十数据",
@@ -179,18 +203,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 06时22分]"
-        },
-        {
-          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
-          "url": "https://www.cls.cn/detail/2239492",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 15时24分]"
         },
         {
           "title": "特朗普为何强调新战列舰不针对中国",
@@ -238,6 +250,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "日本首相高市早苗：希望企业实现的基本工资涨幅超过通胀速度。",
@@ -434,11 +457,12 @@
             19,
             22,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 15时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 16时31分]"
         },
         {
           "title": "康波的年轮，走向1978：迎接商品和 A 股的历史级牛市",
@@ -465,8 +489,22 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时31分]"
+        },
+        {
+          "title": "连续三日创历史新高！“铜博士”飙升，释放出何种经济信号？",
+          "url": "https://www.cls.cn/detail/2239468",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时24分]"
+          "time_info": "[11时28分 ~ 16时31分]"
         },
         {
           "title": "金银再创历史新高，势创1979年来最大年涨幅，两大推手立功",
@@ -492,20 +530,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时22分 ~ 11时29分]"
-        },
-        {
-          "title": "连续三日创历史新高！“铜博士”飙升，释放出何种经济信号？",
-          "url": "https://www.cls.cn/detail/2239468",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 15时24分]"
         },
         {
           "title": "宠物历史上第一次期末考试",
@@ -684,7 +708,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -713,11 +737,12 @@
             8,
             10,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 15时24分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 16时31分]"
         },
         {
           "title": "职场中，今天我非常匪夷所思的一件事是，为什么我加班加点完成了工作，领导不但不表扬我、反而批评我?",
