@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T12:39:44.187463+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2025-12-25T13:26:33.836345+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "高市早苗又放话了，警惕！",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 12时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 13时26分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -79,6 +79,17 @@
           "time_info": "[00时28分 ~ 03时18分]"
         },
         {
+          "title": "专家：高市早苗肯定想去“拜鬼”，就看她怎么拜了",
+          "url": "https://news.ifeng.com/c/8pMvqmCRmJa",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时26分]"
+        },
+        {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
           "url": "https://wallstreetcn.com/livenews/3026317",
           "source": "华尔街见闻-快讯",
@@ -93,24 +104,13 @@
           "time_info": "[02时33分 ~ 05时21分]"
         },
         {
-          "title": "专家：高市早苗肯定想去“拜鬼”，就看她怎么拜了",
-          "url": "https://news.ifeng.com/c/8pMvqmCRmJa",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
           "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
           "url": "https://flash.jin10.com/detail/20251225121328471800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -222,9 +222,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "日本首相高市早苗：正通过多种渠道与美国保持密切沟通，计划可能于明年年初访美。",
+          "url": "https://wallstreetcn.com/livenews/3026538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "市场消息：日本首相高市早苗称美国关税造成供应链的不确定性。",
@@ -233,7 +244,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -249,15 +260,81 @@
           "time_info": "07时21分"
         },
         {
+          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
+          "url": "https://www.cls.cn/detail/2239492",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "日本首相高市早苗：将通过推动工资、消费和企业利润的良性循环，实现财政可持续性。 已决定推出针对资本支出的税收优惠，帮助构建关键供应链。",
+          "url": "https://wallstreetcn.com/livenews/3026533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "日本首相高市早苗：正通过各种渠道与美国保持密切沟通，可能于明年年初安排访美。",
+          "url": "https://flash.jin10.com/detail/20251225125815599800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "日本首相高市早苗：日本需借助扩张性财政政策实现更强劲的经济增长。 旨在降低债务占GDP比率，赢得市场信任。 力求实现不加税即可增加财政收入的目标。 可预测性有助于提振私人投资。 为企业发展创造可预测性至关重要。 目标是在不加税的情况下实现增收。",
+          "url": "https://wallstreetcn.com/livenews/3026531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "日本首相高市早苗：美国关税造成供应链不确定性。 力争实现工资增幅跟上物价涨幅。",
           "url": "https://wallstreetcn.com/livenews/3026507",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "日本首相高市早苗：已决定推出资本支出税收减免，以助力关键供应链建设。",
+          "url": "https://flash.jin10.com/detail/20251225124258126800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "日本首相高市早苗：将把预算重点放在政策优先事项上，以确保市场信心。",
+          "url": "https://flash.jin10.com/detail/20251225123755411800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "特朗普发表圣诞祝福 不忘自夸政绩",
@@ -269,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "日本首相高市早苗：将通过促进工资和消费的正循环与企业利润，实现财政可持续性。",
+          "url": "https://flash.jin10.com/detail/20251225123609810800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "学者：特朗普锚定“第四处战场”",
@@ -285,7 +373,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
@@ -308,11 +396,12 @@
           "ranks": [
             12,
             15,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 12时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 13时26分]"
         },
         {
           "title": "康波的年轮，走向1978：迎接商品和 A 股的历史级牛市",
@@ -353,6 +442,17 @@
           "time_info": "[06时22分 ~ 11时29分]"
         },
         {
+          "title": "A股半导体设备股再度活跃，中旗新材午后涨停，圣晖集成此前触及涨停，股价续创历史新高，苏试试验、迈为股份、长川科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3026551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：12月23日当周，美国货币市场资产7.673万亿美元，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3026324",
           "source": "华尔街见闻-快讯",
@@ -373,11 +473,12 @@
           "ranks": [
             18,
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 13时26分]"
         },
         {
           "title": "连续三日创历史新高！“铜博士”飙升，释放出何种经济信号？",
@@ -385,11 +486,25 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 13时26分]"
+        },
+        {
+          "title": "宠物历史上第一次期末考试",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%A0%E7%89%A9%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 13时26分]"
         },
         {
           "title": "道指收涨0.6%，标普收涨超0.3%，双双创历史新高",
@@ -403,18 +518,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时21分]"
-        },
-        {
-          "title": "宠物历史上第一次期末考试",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%A0%E7%89%A9%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 12时39分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
@@ -453,6 +556,18 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "国家电网2025年固定资产投资将超6500亿元，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3026512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时26分]"
+        },
+        {
           "title": "标普500指数创盘中历史新高，目前涨0.16%，报6921.02点，突破10月29日顶部6920.34点。",
           "url": "https://wallstreetcn.com/livenews/3026275",
           "source": "华尔街见闻-快讯",
@@ -486,17 +601,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
-        },
-        {
-          "title": "国家电网2025年固定资产投资将超6500亿元，创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3026512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
         },
         {
           "title": "金价又创历史新高",
@@ -566,11 +670,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348366&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94%E6%94%B6%E9%9F%B3%E6%9C%BA%E7%88%B1%E5%A5%BD%E8%80%85%E5%90%A7",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时26分]"
         }
       ]
     }
