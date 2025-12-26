@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T20:45:42.736175+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2025-12-26T21:35:10.341308+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "高市早苗或于26日参拜靖国神社",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 20时45分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 21时35分]"
         },
         {
           "title": "马斯克今年赚了地球上其他人一生都赚不到的钱！",
@@ -120,6 +120,17 @@
           "time_info": "[00时29分 ~ 06时22分]"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 21时35分]"
+        },
+        {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
           "url": "https://wallstreetcn.com/livenews/3026815",
           "source": "华尔街见闻-快讯",
@@ -171,17 +182,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
-          "url": "https://flash.jin10.com/detail/20251226203140257800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
           "title": "美国总统特朗普：今晚，美国对尼日利亚西北部的ISIS恐怖分子发动了强大而致命的打击。",
           "url": "https://flash.jin10.com/detail/20251226070308886800",
           "source": "金十数据",
@@ -191,17 +191,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时25分 ~ 20时45分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -244,6 +233,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 04时25分]"
+        },
+        {
+          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
+          "url": "https://flash.jin10.com/detail/20251226203140257800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时35分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -315,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "泽连斯基：预计将于周日在佛罗里达与特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -392,6 +404,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：想与特朗普讨论对俄罗斯施加额外压力的问题。",
+          "url": "https://flash.jin10.com/detail/20251226205730248800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：无法确定周日与美国总统特朗普的会晤是否会促成任何协议的签署。",
+          "url": "https://flash.jin10.com/detail/20251226205149177800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰将在与特朗普的会晤中提出那些缺乏妥协空间的问题。",
+          "url": "https://flash.jin10.com/detail/20251226204831614800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：预计将于周日在佛罗里达与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251226204630246800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：计划与美国总统特朗普讨论安全保障和重建问题。",
+          "url": "https://flash.jin10.com/detail/20251226204553454800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "日本首相高市早苗：预计2026财年将实现28年来首次基准财政收支盈余。 将实现强劲的经济（增长）和可持续的财政。",
@@ -472,11 +539,23 @@
           "ranks": [
             8,
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时25分 ~ 20时45分]"
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 21时35分]"
+        },
+        {
+          "title": "欧盟二号人物：我们绝不能屈服美国的要求，放弃监管和自身价值",
+          "url": "https://news.ifeng.com/c/8pP8YdeoliP",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 21时35分]"
         },
         {
           "title": "现货白银突破73美元/盎司，再创历史新高",
@@ -503,17 +582,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 05时21分]"
-        },
-        {
-          "title": "欧盟二号人物：我们绝不能屈服美国的要求，放弃监管和自身价值",
-          "url": "https://news.ifeng.com/c/8pP8YdeoliP",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "现货铂金上涨8%，创下每盎司2,413.62美元的历史新高。",
