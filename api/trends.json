@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T05:20:59.505692+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2025-12-27T06:22:55.400190+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -40,8 +40,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 06时22分]"
         },
         {
           "title": "据AXIOS网站：乌克兰总统泽连斯基“准备”就美国总统特朗普的停火计划举行公投。",
@@ -54,8 +54,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 06时22分]"
         },
         {
           "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
@@ -83,15 +83,37 @@
           "time_info": "[00时27分 ~ 01时20分]"
         },
         {
+          "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
+          "url": "https://wallstreetcn.com/livenews/3027470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3027452",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "报道：特朗普声称，在他批准之前，泽连斯基“什么都没有”",
+          "url": "https://wallstreetcn.com/livenews/3027452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "乌总统：乌美安全保障协议接近完成 签署取决于与特朗普会晤",
@@ -108,7 +130,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "历史上的今天｜1893年12月26日，毛泽东同志诞辰",
@@ -118,8 +140,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "欧盟二号人物：我们绝不能屈服美国的要求，放弃监管和自身价值",
@@ -129,8 +151,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "故事里的2025",
@@ -142,6 +164,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "白银期货涨超10，创历史新高逼近80美元关口，纽约铜涨5%追随沪铜创历史新高的表现",
+          "url": "https://wallstreetcn.com/livenews/3027475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3027473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "沪银主力合约持续走高，日内涨幅近4%，现报18836元/千克，续创历史新高。",
@@ -183,7 +227,7 @@
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "同事总说我有「学生思维」，这种思维有哪些具体表现？在职场上会有哪些影响？",
@@ -196,6 +240,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "献丑了谁还没个爱好呢",
+          "url": "https://www.douyin.com/hot/2348090",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     }
