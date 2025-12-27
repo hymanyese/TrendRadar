@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T06:21:20.593370+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-12-28T07:21:25.743150+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "特朗普海湖庄园将上演“鸿门宴”吗",
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
@@ -54,19 +54,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
           "url": "https://wallstreetcn.com/articles/3762172",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -94,18 +95,19 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "内外盘齐创历史新高！今年银称霸明年换铜？沪铜站上10万大关，纽铜盘中涨超5%",
           "url": "https://wallstreetcn.com/articles/3762163",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "历史最低,Niko获年度Top18",
@@ -116,8 +118,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "厦门口岸2025年出入境旅客量破600万人次，创历史新高",
@@ -128,8 +130,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "厦门口岸2025年出入境旅客量破600万人次 创历史新高",
@@ -139,8 +141,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "李连杰十几年没主演电影了，历史地位被甄子丹超越了吗？",
@@ -163,6 +165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "肖战一步步走进莫得闲的故事里",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%80%E6%AD%A5%E6%AD%A5%E8%B5%B0%E8%BF%9B%E8%8E%AB%E5%BE%97%E9%97%B2%E7%9A%84%E6%95%85%E4%BA%8B%E9%87%8C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     }
