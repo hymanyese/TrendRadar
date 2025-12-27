@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T19:19:11.632934+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-12-27T20:43:10.975772+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -48,6 +48,18 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 20时43分]"
+        },
+        {
           "title": "中方回应高市早苗或参拜靖国神社",
           "url": "https://www.douyin.com/hot/2348574",
           "source": "抖音",
@@ -57,11 +69,27 @@
             30,
             11,
             12,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时46分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[09时46分 ~ 20时43分]"
+        },
+        {
+          "title": "马斯克最新身家7519亿美元",
+          "url": "https://www.douyin.com/hot/2348565",
+          "source": "抖音",
+          "ranks": [
+            14,
+            21,
+            17,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 20时43分]"
         },
         {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
@@ -88,18 +116,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时46分 ~ 12时35分]"
-        },
-        {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 19时19分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -130,29 +146,27 @@
           "time_info": "[01时20分 ~ 07时21分]"
         },
         {
-          "title": "马斯克最新身家7519亿美元",
-          "url": "https://www.douyin.com/hot/2348565",
-          "source": "抖音",
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            21,
-            17,
-            18
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 20时43分]"
         },
         {
-          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
-          "url": "https://flash.jin10.com/detail/20251227184915067800",
-          "source": "金十数据",
+          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
+          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
+          "source": "凤凰网",
           "ranks": [
-            4
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 20时43分]"
         },
         {
           "title": "马斯克转发粉丝“DogeDesigner”的帖子，声称Grok的日活跃用户在过去28天里增长了66.17%。",
@@ -197,16 +211,16 @@
           "time_info": "[13时23分 ~ 16时29分]"
         },
         {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
+          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
+          "url": "https://flash.jin10.com/detail/20251227184915067800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 19时19分]"
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时43分]"
         },
         {
           "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
@@ -221,17 +235,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时21分 ~ 18时22分]"
-        },
-        {
-          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
-          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时19分]"
         },
         {
           "title": "根据白宫的指引，特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -285,6 +288,29 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
+          "url": "https://flash.jin10.com/detail/20251227180421799800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时43分]"
+        },
+        {
+          "title": "特朗普为何又索要盟友的领土",
+          "url": "https://www.toutiao.com/trending/7588483119292878372/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 20时43分]"
+        },
+        {
           "title": "乌总统：乌美安全保障协议接近完成，签署取决于与特朗普会晤",
           "url": "https://wallstreetcn.com/livenews/3027395",
           "source": "华尔街见闻-快讯",
@@ -319,17 +345,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
-          "url": "https://flash.jin10.com/detail/20251227180421799800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3027452",
           "source": "华尔街见闻-快讯",
@@ -339,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "报道：特朗普声称，在他批准之前，泽连斯基“什么都没有”",
@@ -392,6 +418,19 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "李连杰十几年没主演电影了，历史地位被甄子丹超越了吗？",
+          "url": "https://www.zhihu.com/question/1983981443341362451",
+          "source": "知乎",
+          "ranks": [
+            17,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 20时43分]"
+        },
+        {
           "title": "今年访问澳门旅客已达3941.1万人次 创历史新高",
           "url": "https://wallstreetcn.com/livenews/3027530",
           "source": "华尔街见闻-快讯",
@@ -407,18 +446,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时35分 ~ 19时19分]"
-        },
-        {
-          "title": "李连杰十几年没主演电影了，历史地位被甄子丹超越了吗？",
-          "url": "https://www.zhihu.com/question/1983981443341362451",
-          "source": "知乎",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 19时19分]"
         },
         {
           "title": "故事里的2025",
@@ -441,8 +468,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 20时43分]"
         },
         {
           "title": "白银期货涨超10，创历史新高逼近80美元关口，纽约铜涨5%追随沪铜创历史新高的表现",
