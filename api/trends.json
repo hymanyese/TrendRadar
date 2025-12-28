@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T11:54:08.097873+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2025-12-28T12:47:07.288235+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "法国记者：高市早苗此举，让我们愤慨",
+          "url": "https://news.ifeng.com/c/8pR5K5DcvTK",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 12时47分]"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -73,27 +85,27 @@
           "time_info": "[00时27分 ~ 09时59分]"
         },
         {
-          "title": "法国记者：高市早苗此举，让我们愤慨",
-          "url": "https://news.ifeng.com/c/8pR5K5DcvTK",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时54分]"
-        },
-        {
           "title": "白银狂飙，马斯克直言：这不好！",
           "url": "https://wallstreetcn.com/articles/3762194",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时47分]"
+        },
+        {
+          "title": "马斯克1个表情评宇树机器人踹工程师",
+          "url": "https://www.toutiao.com/trending/7588573431797514283/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 12时47分]"
         },
         {
           "title": "白银价格狂飙，马斯克直言：这不好",
@@ -104,8 +116,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时54分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时47分]"
+        },
+        {
+          "title": "法国记者：高市早苗此举让我们愤慨",
+          "url": "https://www.toutiao.com/trending/7587754455262773294/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 12时47分]"
         },
         {
           "title": "白银价格屡创新高 马斯克：这可不好",
@@ -155,15 +179,16 @@
           "time_info": "[09时59分 ~ 11时54分]"
         },
         {
-          "title": "法国记者：高市早苗此举让我们愤慨",
-          "url": "https://www.toutiao.com/trending/7587754455262773294/",
-          "source": "今日头条",
+          "title": "白银价格暴涨 马斯克：这可不好",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E8%BF%99%E5%8F%AF%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
           "ranks": [
-            12
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时54分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 12时47分]"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
@@ -178,33 +203,23 @@
           "time_info": "[09时59分 ~ 11时54分]"
         },
         {
+          "title": "特朗普与泽连斯基会晤时间有所调整",
+          "url": "https://flash.jin10.com/detail/20251228094750696800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时47分]"
+        },
+        {
           "title": "马斯克直言白银狂飙不是好事",
           "url": "https://www.toutiao.com/trending/7588708734008823305/",
           "source": "今日头条",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
-          "title": "白银价格暴涨 马斯克：这可不好",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E8%BF%99%E5%8F%AF%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
-          "title": "马斯克1个表情评宇树机器人踹工程师",
-          "url": "https://www.toutiao.com/trending/7588573431797514283/",
-          "source": "今日头条",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -222,15 +237,15 @@
           "time_info": "[02时31分 ~ 02时32分]"
         },
         {
-          "title": "特朗普与泽连斯基会晤时间有所调整",
-          "url": "https://flash.jin10.com/detail/20251228094750696800",
-          "source": "金十数据",
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时54分"
+          "time_info": "12时47分"
         },
         {
           "title": "特朗普这一年改变了什么",
@@ -272,8 +287,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 11时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 12时47分]"
         },
         {
           "title": "历史最低,Niko获年度Top18",
@@ -283,11 +298,12 @@
             8,
             9,
             11,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时47分]"
         },
         {
           "title": "厦门口岸2025年出入境旅客量破600万人次 创历史新高",
@@ -299,6 +315,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "银比油贵时隔 45 年再现，现货白银涨超 10%，钯金涨超 14%，为何贵金属还在暴涨，历史信号怎么看？",
+          "url": "https://www.zhihu.com/question/1988248140562863210",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 12时47分]"
         },
         {
           "title": "全线爆发！黄金、白银、铂金齐创历史新高，贵金属走势为何这么牛？",
@@ -323,19 +352,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 02时32分]"
-        },
-        {
-          "title": "银比油贵时隔 45 年再现，现货白银涨超 10%，钯金涨超 14%，为何贵金属还在暴涨，历史信号怎么看？",
-          "url": "https://www.zhihu.com/question/1988248140562863210",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 11时54分]"
         },
         {
           "title": "肖战一步步走进莫得闲的故事里",
