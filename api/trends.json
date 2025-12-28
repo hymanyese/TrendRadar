@@ -1,34 +1,12 @@
 {
-  "generated_at": "2025-12-29T02:32:19.681987+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2025-12-29T03:18:14.822901+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "白银狂飙，马斯克直言：这不好！",
-          "url": "https://wallstreetcn.com/articles/3762194",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
-        },
-        {
-          "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
-          "url": "https://wallstreetcn.com/livenews/3027678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
-        },
         {
           "title": "法国记者：高市早苗此举，让我们愤慨",
           "url": "https://news.ifeng.com/c/8pR5K5DcvTK",
@@ -37,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时18分]"
+        },
+        {
+          "title": "白银狂飙，马斯克直言：这不好！",
+          "url": "https://wallstreetcn.com/articles/3762194",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
         },
         {
           "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -48,19 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
-        },
-        {
-          "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
-          "url": "https://wallstreetcn.com/livenews/3027677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
         },
         {
           "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
@@ -70,19 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
-          "url": "https://wallstreetcn.com/livenews/3027672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
         },
         {
           "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
@@ -92,8 +59,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
+        },
+        {
+          "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
+          "url": "https://wallstreetcn.com/livenews/3027678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
+          "url": "https://wallstreetcn.com/livenews/3027677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3027672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
         },
         {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
@@ -103,8 +106,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时18分]"
+        },
+        {
+          "title": "美国总统特朗普被问及是否认为俄罗斯总统普京对和平（协议）是严肃认真的，称：我的确那样认为。 普京对和平（协议的谈判）是非常严肃的。 我认为，普京和乌克兰总统泽连斯基都希望达成一份协议。 今天会议之后，我将与普京通电话。 我们将与欧洲首脑们对话。 对于结束俄乌战事，我并没有截止日期。 俄乌双方最近的攻势都很猛烈。 （被问及美西方冻结的俄罗斯资产的未来，称他自己）还没有做决定。",
+          "url": "https://wallstreetcn.com/livenews/3027680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
+          "url": "https://wallstreetcn.com/livenews/3027681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
@@ -114,8 +139,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
         },
         {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，将与特朗普举行会谈。",
@@ -125,8 +150,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -136,8 +161,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
         },
         {
           "title": "白银飙至80美元 马斯克急了",
@@ -145,11 +170,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时18分]"
         }
       ]
     },
@@ -157,17 +183,6 @@
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
       "match_count": 3,
       "titles": [
-        {
-          "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
-          "url": "https://flash.jin10.com/detail/20251228222030090800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
-        },
         {
           "title": "历史最低,Niko获年度Top18",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348462&amp;topic_name=%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%2CNiko%E8%8E%B7%E5%B9%B4%E5%BA%A6Top18",
@@ -178,19 +193,31 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时18分]"
+        },
+        {
+          "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
+          "url": "https://flash.jin10.com/detail/20251228222030090800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
         },
         {
           "title": "创历史新高，塔里木油田年发绿电突破20亿度",
           "url": "https://wallstreetcn.com/livenews/3027654",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时18分]"
         }
       ]
     }
