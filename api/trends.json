@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T18:27:08.191364+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2025-12-29T19:21:26.428150+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "法国记者：高市早苗此举，让我们愤慨",
@@ -229,6 +229,18 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 19时21分]"
+        },
+        {
           "title": "与特朗普会晤，泽连斯基：20点“和平计划”有90%已完成",
           "url": "https://news.ifeng.com/c/8pT5b974Tcc",
           "source": "凤凰网",
@@ -354,18 +366,6 @@
           "time_info": "[03时18分 ~ 07时22分]"
         },
         {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 18时27分]"
-        },
-        {
           "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
           "url": "https://wallstreetcn.com/livenews/3027681",
           "source": "华尔街见闻-快讯",
@@ -379,28 +379,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时18分 ~ 07时22分]"
-        },
-        {
-          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
-          "url": "https://wallstreetcn.com/livenews/3028074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
-          "url": "https://wallstreetcn.com/livenews/3028086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
@@ -450,6 +428,30 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3028074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时21分]"
+        },
+        {
+          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3028086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时21分]"
+        },
+        {
           "title": "特朗普见泽连斯基前先与普京通话",
           "url": "https://wallstreetcn.com/livenews/3027687",
           "source": "华尔街见闻-快讯",
@@ -474,6 +476,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时21分 ~ 09时58分]"
+        },
+        {
+          "title": "郭正亮：围台军演打脸高市早苗",
+          "url": "https://www.toutiao.com/trending/7588304718360461366/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时21分]"
         },
         {
           "title": "特朗普见泽连斯基前先与普京通话",
@@ -535,17 +549,6 @@
           "time_info": "[17时33分 ~ 18时27分]"
         },
         {
-          "title": "郭正亮：围台军演打脸高市早苗",
-          "url": "https://www.toutiao.com/trending/7588304718360461366/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
-        },
-        {
           "title": "特朗普见泽连斯基前后均与普京通话",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%81%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%89%8D%E5%90%8E%E5%9D%87%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%80%9A%E8%AF%9D%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -585,7 +588,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -618,7 +621,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -632,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "德国政府发言人：我们欢迎美国总统特朗普为在乌克兰实现持久而公正的和平所作的努力。",
+          "url": "https://flash.jin10.com/detail/20251229185121695800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
@@ -662,7 +676,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -788,6 +802,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-29）",
+          "url": "https://flash.jin10.com/detail/20251229182839575800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：与特朗普、泽连斯基及多位欧洲领导人进行了长达一小时的友好通话，讨论今日关于和平谈判的会议。",
           "url": "https://flash.jin10.com/detail/20251229061934654800",
           "source": "金十数据",
@@ -816,7 +841,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -948,7 +973,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -995,6 +1020,19 @@
           "time_info": "[00时27分 ~ 09时58分]"
         },
         {
+          "title": "“被打还手即互殴”成为历史",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%A2%AB%E6%89%93%E8%BF%98%E6%89%8B%E5%8D%B3%E4%BA%92%E6%AE%B4%E2%80%9D%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 19时21分]"
+        },
+        {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
           "url": "https://flash.jin10.com/detail/20251228222030090800",
           "source": "金十数据",
@@ -1008,17 +1046,18 @@
           "time_info": "[00时27分 ~ 05时21分]"
         },
         {
-          "title": "“被打还手即互殴”成为历史",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%A2%AB%E6%89%93%E8%BF%98%E6%89%8B%E5%8D%B3%E4%BA%92%E6%AE%B4%E2%80%9D%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2",
-          "source": "百度热搜",
+          "title": "2025人类写下了哪些故事",
+          "url": "https://search.bilibili.com/all?keyword=2025%E4%BA%BA%E7%B1%BB%E5%86%99%E4%B8%8B%E4%BA%86%E5%93%AA%E4%BA%9B%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            22,
-            8,
-            2
+            3,
+            10,
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 19时21分]"
         },
         {
           "title": "台湾加权指数涨0.5%，创下28,708.64点的历史新高。",
@@ -1032,17 +1071,17 @@
           "time_info": "09时58分"
         },
         {
-          "title": "2025人类写下了哪些故事",
-          "url": "https://search.bilibili.com/all?keyword=2025%E4%BA%BA%E7%B1%BB%E5%86%99%E4%B8%8B%E4%BA%86%E5%93%AA%E4%BA%9B%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
+          "title": "“铜博士”创历史新高！多因素驱动下 2026铜价还将继续“狂飙”？",
+          "url": "https://www.cls.cn/detail/2242427",
+          "source": "财联社热门",
           "ranks": [
-            3,
+            11,
             10,
-            16
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时38分 ~ 17时33分]"
+          "time_info": "[17时33分 ~ 19时21分]"
         },
         {
           "title": "创历史新高，塔里木油田年发绿电突破20亿度",
@@ -1055,18 +1094,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 03时18分]"
-        },
-        {
-          "title": "“铜博士”创历史新高！多因素驱动下 2026铜价还将继续“狂飙”？",
-          "url": "https://www.cls.cn/detail/2242427",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 18时27分]"
         },
         {
           "title": "欧洲Stoxx 600指数盘中创历史新高，最新上涨0.07%。",
