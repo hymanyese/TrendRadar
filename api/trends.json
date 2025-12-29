@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T22:24:32.259653+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2025-12-29T23:25:37.168523+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 86,
+      "match_count": 90,
       "titles": [
         {
           "title": "法国记者：高市早苗此举，让我们愤慨",
@@ -86,11 +86,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时38分 ~ 22时24分]"
+          "appearance_count": 11,
+          "time_info": "[14时38分 ~ 23时25分]"
         },
         {
           "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -338,6 +339,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 05时21分]"
+        },
+        {
+          "title": "曝光！邪教内部文件32次提到高市早苗",
+          "url": "https://news.ifeng.com/c/8pUEcowJe9h",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "特朗普称俄乌“接近达成协议”，不排除三方会晤",
@@ -650,6 +662,17 @@
           "time_info": "19时21分"
         },
         {
+          "title": "美政治：特朗普回归一年强势色彩趋黯",
+          "url": "https://www.toutiao.com/trending/7589266725988732462/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
           "url": "https://flash.jin10.com/detail/20251229060056558800",
           "source": "金十数据",
@@ -683,6 +706,17 @@
           "time_info": "18时27分"
         },
         {
+          "title": "以色列总理内塔尼亚胡与特斯拉CEO埃隆·马斯克讨论与特斯拉(TSLA.O)的合作。",
+          "url": "https://flash.jin10.com/detail/20251229224502300800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "特朗普与泽连斯基未谈妥领土问题",
           "url": "https://wallstreetcn.com/livenews/3027702",
           "source": "华尔街见闻-快讯",
@@ -703,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡与埃隆·马斯克召开电话会议。",
+          "url": "https://flash.jin10.com/detail/20251229224332128800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "特朗普与泽连斯基会晤",
@@ -964,7 +1009,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1008,7 +1053,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1030,6 +1075,21 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "“被打还手即互殴”成为历史",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%A2%AB%E6%89%93%E8%BF%98%E6%89%8B%E5%8D%B3%E4%BA%92%E6%AE%B4%E2%80%9D%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            8,
+            2,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 23时25分]"
+        },
+        {
           "title": "历史最低,Niko获年度Top18",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348462&amp;topic_name=%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%8E%2CNiko%E8%8E%B7%E5%B9%B4%E5%BA%A6Top18",
           "source": "贴吧",
@@ -1044,20 +1104,6 @@
           "time_info": "[00时27分 ~ 09时58分]"
         },
         {
-          "title": "“被打还手即互殴”成为历史",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%A2%AB%E6%89%93%E8%BF%98%E6%89%8B%E5%8D%B3%E4%BA%92%E6%AE%B4%E2%80%9D%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            8,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时35分 ~ 22时24分]"
-        },
-        {
           "title": "2025人类写下了哪些故事",
           "url": "https://search.bilibili.com/all?keyword=2025%E4%BA%BA%E7%B1%BB%E5%86%99%E4%B8%8B%E4%BA%86%E5%93%AA%E4%BA%9B%E6%95%85%E4%BA%8B",
           "source": "bilibili 热搜",
@@ -1066,11 +1112,12 @@
             10,
             16,
             9,
-            19
+            19,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 22时24分]"
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 23时25分]"
         },
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -1146,6 +1193,18 @@
           "time_info": "[09时58分 ~ 11时54分]"
         },
         {
+          "title": "福建海警喊话：台湾回归是历史大势",
+          "url": "https://www.toutiao.com/trending/7589094386060329014/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时25分]"
+        },
+        {
           "title": "台湾证交所加权股价指数上涨1%至28,841.64点，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3027898",
           "source": "华尔街见闻-快讯",
@@ -1199,17 +1258,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 经济金融 ===== 黄金 美元 石油 稀土",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "福建海警喊话：台湾回归是历史大势",
-          "url": "https://www.toutiao.com/trending/7589094386060329014/",
-          "source": "今日头条",
+          "title": "美股开盘，道指跌0.19%，标普500指数跌0.43%，纳指跌0.75%。贵金属价格日内重挫，矿业股普遍低开，泛美白银(PAAS.O)、科尔黛伦矿业(CDE.N)、哈莫尼黄金(HMY.N)、纽蒙特矿业(NEM.N)跌约5%。",
+          "url": "https://flash.jin10.com/detail/20251229223023088800",
+          "source": "金十数据",
           "ranks": [
-            21
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "23时25分"
         }
       ]
     }
