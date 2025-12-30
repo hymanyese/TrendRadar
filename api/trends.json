@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T11:39:21.959612+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2025-12-30T12:41:18.934421+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 91,
+      "match_count": 95,
       "titles": [
         {
           "title": "曝光！邪教内部文件32次提到高市早苗",
@@ -69,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时39分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时41分]"
         },
         {
           "title": "美国总统特朗普：伊朗可能正在美国轰炸过的地点之外重建其核计划。",
@@ -117,6 +117,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "据悉特朗普及其高级顾问要求内塔尼亚胡调整约旦河西岸政策",
+          "url": "https://flash.jin10.com/detail/20251230114449386800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "美国总统特朗普：美东时间08:00已经与俄罗斯总统普京通电话。",
           "url": "https://wallstreetcn.com/livenews/3028300",
           "source": "华尔街见闻-快讯",
@@ -143,6 +154,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时33分 ~ 05时21分]"
+        },
+        {
+          "title": "得知普京官邸遭袭 特朗普：很生气",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时41分]"
         },
         {
           "title": "美国总统特朗普：在与内塔尼亚胡的五分钟会面中，我们解决了三个问题。",
@@ -298,18 +321,6 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
-          "title": "得知普京官邸遭袭 特朗普：很生气",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时39分]"
-        },
-        {
           "title": "特朗普：若伊朗发展核武器，支持对伊朗发动快速打击",
           "url": "https://flash.jin10.com/detail/20251230030508660800",
           "source": "金十数据",
@@ -332,6 +343,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时21分]"
+        },
+        {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时41分]"
         },
         {
           "title": "美国总统特朗普：近期与委内瑞拉总统马杜罗对话，但没什么效果。",
@@ -464,6 +487,19 @@
           "time_info": "[02时33分 ~ 04时27分]"
         },
         {
+          "title": "邪教内部文件32次提到高市早苗",
+          "url": "https://www.baidu.com/s?wd=%E9%82%AA%E6%95%99%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B632%E6%AC%A1%E6%8F%90%E5%88%B0%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时41分]"
+        },
+        {
           "title": "俄总统助理：特朗普称普京官邸遭袭将影响美方与泽连斯基共事方式",
           "url": "https://wallstreetcn.com/livenews/3028284",
           "source": "华尔街见闻-快讯",
@@ -490,15 +526,15 @@
           "time_info": "[02时33分 ~ 04时27分]"
         },
         {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时39分]"
+          "time_info": "[11时39分 ~ 12时41分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普及其关键顾问向俄罗斯总统普京详细通报了与乌克兰的谈判情况。",
@@ -585,6 +621,18 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "白银急涨，马斯克竟拿中国出口管制说事",
+          "url": "https://news.ifeng.com/c/8pV3sa1vSnJ",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时41分]"
+        },
+        {
           "title": "特朗普：美军在委内瑞拉行动中摧毁一大型设施",
           "url": "https://wallstreetcn.com/livenews/3028268",
           "source": "华尔街见闻-快讯",
@@ -655,18 +703,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时27分]"
-        },
-        {
-          "title": "邪教内部文件32次提到高市早苗",
-          "url": "https://www.baidu.com/s?wd=%E9%82%AA%E6%95%99%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B632%E6%AC%A1%E6%8F%90%E5%88%B0%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时39分]"
         },
         {
           "title": "美国总统特朗普：如果他们存在，我们就必须击倒他们。伊朗应该达成协议，但有时情况并非如此。",
@@ -764,17 +800,6 @@
           "time_info": "09时50分"
         },
         {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们在大多数事情上都达成一致，我们谈到了哈马斯和解除武装，将给予哈马斯短暂时间解除武装。",
           "url": "https://flash.jin10.com/detail/20251230045602577800",
           "source": "金十数据",
@@ -841,6 +866,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）得出了大量结论。",
           "url": "https://flash.jin10.com/detail/20251230045103260800",
           "source": "金十数据",
@@ -852,6 +888,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "据AXIOS：特朗普及其高级幕僚已要求内塔尼亚胡改变其在被占领的约旦河西岸所推行的政策。",
+          "url": "https://flash.jin10.com/detail/20251230113213777800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "特朗普称得知普京官邸遭袭很生气",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD%E5%BE%88%E7%94%9F%E6%B0%94%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -861,17 +908,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "白银急涨，马斯克竟拿中国出口管制说事",
-          "url": "https://news.ifeng.com/c/8pV3sa1vSnJ",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
         },
         {
           "title": "特朗普：正考虑以无能为由起诉鲍威尔",
@@ -971,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "美国总统特朗普：考虑向土耳其出售F-35战斗机。",
@@ -1100,6 +1147,22 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "2025人类写下了哪些故事",
+          "url": "https://search.bilibili.com/all?keyword=2025%E4%BA%BA%E7%B1%BB%E5%86%99%E4%B8%8B%E4%BA%86%E5%93%AA%E4%BA%9B%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            4,
+            21,
+            2,
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 12时41分]"
+        },
+        {
           "title": "“被打还手即互殴”将成为历史",
           "url": "https://www.toutiao.com/trending/7588083227120222217/",
           "source": "今日头条",
@@ -1115,31 +1178,30 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
-          "title": "2025人类写下了哪些故事",
-          "url": "https://search.bilibili.com/all?keyword=2025%E4%BA%BA%E7%B1%BB%E5%86%99%E4%B8%8B%E4%BA%86%E5%93%AA%E4%BA%9B%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            4,
-            21,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 06时22分]"
-        },
-        {
           "title": "白银暴跌刷新46年历史纪录",
           "url": "https://www.toutiao.com/trending/7589430531650227722/",
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时39分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时41分]"
+        },
+        {
+          "title": "白银暴跌刷新46年历史纪录",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C%E5%88%B7%E6%96%B046%E5%B9%B4%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时41分]"
         },
         {
           "title": "福建海警喊话：台湾回归是历史大势",
@@ -1177,16 +1239,15 @@
           "time_info": "[05时21分 ~ 06时22分]"
         },
         {
-          "title": "白银暴跌刷新46年历史纪录",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C%E5%88%B7%E6%96%B046%E5%B9%B4%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
+          "title": "日内振幅超12%！白银创历史新高后大跳水，什么原因？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32275666",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时39分]"
+          "time_info": "[09时50分 ~ 12时41分]"
         },
         {
           "title": "欧洲股市创收盘历史新高",
@@ -1222,24 +1283,13 @@
           "time_info": "00时28分"
         },
         {
-          "title": "日内振幅超12%！白银创历史新高后大跳水，什么原因？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32275666",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "光通信概念股震荡拉升，致尚科技涨超14%，股价再创历史新高，长盈通、剑桥科技涨超5%，太辰光、源杰科技、中际旭创等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3028456",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
