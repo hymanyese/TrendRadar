@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T14:37:07.843309+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2025-12-30T15:25:44.945037+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 98,
+      "match_count": 101,
       "titles": [
         {
           "title": "曝光！邪教内部文件32次提到高市早苗",
@@ -36,11 +36,12 @@
           "url": "https://news.ifeng.com/c/8pUyRCwSPET",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 15时25分]"
         },
         {
           "title": "韩国邪教内部文件32次提到高市早苗",
@@ -73,15 +74,39 @@
           "time_info": "[00时28分 ~ 11时39分]"
         },
         {
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 15时25分]"
+        },
+        {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 15时25分]"
+        },
+        {
           "title": "普京称官邸遭袭 特朗普回应",
           "url": "https://www.douyin.com/hot/2351475",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 15时25分]"
         },
         {
           "title": "美国总统特朗普：伊朗可能正在美国轰炸过的地点之外重建其核计划。",
@@ -95,6 +120,18 @@
           "time_info": "05时21分"
         },
         {
+          "title": "白银急涨，马斯克竟拿中国出口管制说事",
+          "url": "https://news.ifeng.com/c/8pV3sa1vSnJ",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 15时25分]"
+        },
+        {
           "title": "特朗普：普京说他被袭击了 我很生气",
           "url": "https://www.toutiao.com/trending/7588848955197095963/",
           "source": "今日头条",
@@ -104,29 +141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时37分]"
-        },
-        {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 14时37分]"
         },
         {
           "title": "特朗普回应解放军在台岛附近军演",
@@ -201,18 +215,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时50分 ~ 12时41分]"
-        },
-        {
-          "title": "白银急涨，马斯克竟拿中国出口管制说事",
-          "url": "https://news.ifeng.com/c/8pV3sa1vSnJ",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时37分]"
         },
         {
           "title": "美国总统特朗普：在与内塔尼亚胡的五分钟会面中，我们解决了三个问题。",
@@ -417,6 +419,18 @@
           "time_info": "[12时41分 ~ 14时37分]"
         },
         {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 15时25分]"
+        },
+        {
           "title": "邪教内部文件32次提到高市早苗",
           "url": "https://www.baidu.com/s?wd=%E9%82%AA%E6%95%99%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B632%E6%AC%A1%E6%8F%90%E5%88%B0%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
           "source": "百度热搜",
@@ -522,17 +536,6 @@
           "time_info": "[03时19分 ~ 05时21分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时37分]"
-        },
-        {
           "title": "美国总统特朗普：我觉得，要是当初选错了总理的话，如今的以色列恐怕就不会存在了。我认为与内塔尼亚胡的关系已经达到了最佳状态。",
           "url": "https://flash.jin10.com/detail/20251230023701512800",
           "source": "金十数据",
@@ -544,6 +547,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 05时21分]"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 15时25分]"
         },
         {
           "title": "美国总统特朗普：加沙的重建即将开始。",
@@ -704,17 +719,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 11时39分]"
-        },
-        {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
         },
         {
           "title": "美国总统特朗普：我们将与内塔尼亚胡讨论五个主要议题。",
@@ -948,6 +952,17 @@
           "time_info": "12时41分"
         },
         {
+          "title": "日本首相高市早苗：要加强供应结构，赢得投资者信任。",
+          "url": "https://flash.jin10.com/detail/20251230144609692800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "特朗普称得知普京官邸遭袭很生气",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD%E5%BE%88%E7%94%9F%E6%B0%94%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -957,6 +972,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "日本首相高市早苗：要通过战略融资提高公司收入。",
+          "url": "https://flash.jin10.com/detail/20251230144558216800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "日本首相高市早苗：力求实现经济良性循环并保持强劲增长。",
+          "url": "https://flash.jin10.com/detail/20251230144548388800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "特朗普：正考虑以无能为由起诉鲍威尔",
@@ -1182,7 +1219,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "2025人类写下了哪些故事",
@@ -1197,8 +1234,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 12时41分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 15时25分]"
         },
         {
           "title": "“被打还手即互殴”将成为历史",
@@ -1230,16 +1267,28 @@
           "time_info": "[09时50分 ~ 13时26分]"
         },
         {
+          "title": "海南三大机场旅客年吞吐量首次破5000万人次 创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3028627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "日内振幅超12%！白银创历史新高后大跳水，什么原因？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32275666",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 15时25分]"
         },
         {
           "title": "白银暴跌刷新46年历史纪录",
