@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T04:26:40.875862+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-12-31T05:22:02.568791+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -38,8 +38,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -50,19 +61,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
+          "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
+          "url": "https://wallstreetcn.com/livenews/3028915",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
+          "url": "https://www.cls.cn/detail/2244180",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 05时22分]"
         },
         {
           "title": "纽约期银反弹10%，马斯克对白银发出警报",
@@ -91,6 +113,18 @@
           "time_info": "[02时34分 ~ 04时26分]"
         },
         {
+          "title": "外交部回应特朗普谈解放军军演",
+          "url": "https://www.douyin.com/hot/2352044",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
           "url": "https://flash.jin10.com/detail/20251230235722002800",
           "source": "金十数据",
@@ -103,17 +137,6 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
-          "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
-          "url": "https://www.cls.cn/detail/2244180",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
           "url": "https://wallstreetcn.com/livenews/3028855",
           "source": "华尔街见闻-快讯",
@@ -124,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时34分]"
+        },
+        {
+          "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
+          "url": "https://wallstreetcn.com/livenews/3028914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -190,17 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "外交部回应特朗普谈解放军军演",
-          "url": "https://www.douyin.com/hot/2352044",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
         }
       ]
     },
@@ -217,23 +240,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时26分]"
-        },
-        {
-          "title": "王毅说统一是必须完成的历史使命",
-          "url": "https://www.toutiao.com/trending/7589561592133124102/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17,
-            20,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "2025人类写下了哪些故事",
@@ -244,11 +252,28 @@
             23,
             24,
             29,
-            30
+            30,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
+        },
+        {
+          "title": "王毅说统一是必须完成的历史使命",
+          "url": "https://www.toutiao.com/trending/7589561592133124102/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17,
+            20,
+            18,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（12月30日），南非富时/JSE非洲领先40可交易指数收涨0.43%，至10.87万点上方，2025年以来累计上涨44.20%，势必连续第三年走高、创历史上最佳年度表现。",
