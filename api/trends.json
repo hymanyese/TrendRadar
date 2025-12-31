@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T11:29:09.426362+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2025-12-31T12:40:31.067032+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -164,6 +164,18 @@
           "time_info": "[02时34分 ~ 04时26分]"
         },
         {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 12时40分]"
+        },
+        {
           "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
           "url": "https://wallstreetcn.com/livenews/3028914",
           "source": "华尔街见闻-快讯",
@@ -186,17 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
@@ -324,7 +325,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "多路游资联袂入场！机器人龙头剑指新高，相关ETF持续“吸金”，四成份额达历史峰值",
@@ -350,11 +351,12 @@
             30,
             3,
             14,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 12时40分]"
         },
         {
           "title": "王毅说统一是必须完成的历史使命",
@@ -454,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "2025逝去的新闻人物",
+          "url": "https://www.toutiao.com/trending/7589820982739602980/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "意大利银行板块收涨超1.8%，和英国股市创收盘历史新高",
