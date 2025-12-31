@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:32:51.984847+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2025-12-31T17:27:17.064302+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
             10,
             5,
             7,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时28分 ~ 16时32分]"
+          "appearance_count": 9,
+          "time_info": "[11时28分 ~ 17时27分]"
         },
         {
           "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
@@ -391,7 +392,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
