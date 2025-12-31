@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T09:50:45.052150+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2025-12-31T11:29:09.426362+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时19分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普为何称不担心解放军绕台军演",
+          "url": "https://www.toutiao.com/trending/7589509514882891795/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：希望与沙特及其他国家扩大亚伯拉罕协议。 伊朗正在新地点重建导弹能力。 如果哈马斯被解除武装，加沙可能出现新政府。 特朗普和我想要在西岸建设基础设施。 我认为伊朗需要特朗普的警告。",
@@ -177,6 +188,17 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
           "url": "https://wallstreetcn.com/livenews/3028855",
           "source": "华尔街见闻-快讯",
@@ -187,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时34分]"
+        },
+        {
+          "title": "美媒：特朗普正试图让世界MAGA化",
+          "url": "https://www.toutiao.com/trending/7589793491610242587/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -283,7 +316,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -443,6 +476,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在职场，贵人喜欢帮助什么样的人？",
+          "url": "https://www.zhihu.com/question/1978073899418808826",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "职场中习惯性和他人比较，看到同事升职加薪就焦虑到失眠，这种「攀比内耗型精神工伤」该怎么和解？",
+          "url": "https://www.zhihu.com/question/1987639055513579828",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
         }
       ]
     }
