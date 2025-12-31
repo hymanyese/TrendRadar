@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T20:47:14.760175+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2025-12-31T21:34:31.499474+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
@@ -131,6 +131,17 @@
           "time_info": "[04时26分 ~ 07时21分]"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 21时34分]"
+        },
+        {
           "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
           "url": "https://wallstreetcn.com/livenews/3029129",
           "source": "华尔街见闻-快讯",
@@ -177,17 +188,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时22分]"
-        },
-        {
-          "title": "李在明展示特朗普送的白宫金钥匙(图)",
-          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 20时47分]"
         },
         {
           "title": "纽约期银反弹10%，马斯克对白银发出警报",
@@ -455,8 +455,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 20时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 21时34分]"
         },
         {
           "title": "王毅说统一是必须完成的历史使命",
@@ -487,6 +487,20 @@
           "time_info": "[20时46分 ~ 20时47分]"
         },
         {
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 21时34分]"
+        },
+        {
           "title": "非洲股市收盘播报｜周二（12月30日），南非富时/JSE非洲领先40可交易指数收涨0.43%，至10.87万点上方，2025年以来累计上涨44.20%，势必连续第三年走高、创历史上最佳年度表现。",
           "url": "https://wallstreetcn.com/livenews/3028856",
           "source": "华尔街见闻-快讯",
@@ -510,19 +524,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时34分]"
-        },
-        {
-          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
-          "url": "https://www.cls.cn/detail/2245628",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 20时47分]"
         },
         {
           "title": "中国始终站在历史正确一边",
@@ -651,7 +652,7 @@
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "在职场，贵人喜欢帮助什么样的人？",
@@ -674,6 +675,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "法治日报调查职场违规背调乱象：有人因涉民事诉讼记录，入职背调未通过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32288735",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     }
