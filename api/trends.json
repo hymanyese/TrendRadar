@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T18:24:55.243131+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-01-02T19:20:55.643511+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时42分 ~ 18时24分]"
+          "appearance_count": 12,
+          "time_info": "[11时42分 ~ 19时20分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时42分 ~ 14时37分]"
+        },
+        {
+          "title": "高市早苗与特朗普可能最早在周五晚间通话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3029817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
@@ -154,6 +165,18 @@
           "time_info": "[15时26分 ~ 18时24分]"
         },
         {
+          "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
+          "url": "https://www.cls.cn/detail/2246325",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时20分]"
+        },
+        {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
           "url": "https://flash.jin10.com/detail/20260101224323084800",
           "source": "金十数据",
@@ -165,6 +188,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 02时34分]"
+        },
+        {
+          "title": "唐驳虎：特朗普发现“弹药”不够用了",
+          "url": "https://www.toutiao.com/trending/7590682268167835155/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时20分]"
         },
         {
           "title": "特朗普承认手上瘀伤是服用药物造成",
@@ -179,27 +215,28 @@
           "time_info": "[14时36分 ~ 15时26分]"
         },
         {
-          "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
-          "url": "https://www.cls.cn/detail/2246325",
-          "source": "财联社热门",
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://wallstreetcn.com/livenews/3029800",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时24分]"
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
-          "title": "唐驳虎：特朗普发现“弹药”不够用了",
-          "url": "https://www.toutiao.com/trending/7590682268167835155/",
-          "source": "今日头条",
+          "title": "特朗普称将就伊朗骚乱事件进行干涉",
+          "url": "https://wallstreetcn.com/livenews/3029799",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
-            14
+            11,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时24分]"
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
@@ -214,6 +251,17 @@
           "time_info": "[00时30分 ~ 01时22分]"
         },
         {
+          "title": "详解马斯克跨年播客",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E5%B9%B4%E6%92%AD%E5%AE%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
           "url": "https://flash.jin10.com/detail/20260102083147084800",
           "source": "金十数据",
@@ -225,26 +273,15 @@
           "time_info": "09时52分"
         },
         {
-          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
-          "url": "https://wallstreetcn.com/livenews/3029800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "特朗普称将就伊朗骚乱事件进行干涉",
-          "url": "https://wallstreetcn.com/livenews/3029799",
-          "source": "华尔街见闻-快讯",
+          "title": "据日本共同社：日本首相高市早苗与美国总统特朗普最早可能于周五晚间通话。",
+          "url": "https://flash.jin10.com/detail/20260102184342452800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "19时20分"
         },
         {
           "title": "美国总统特朗普：如果伊朗开枪并暴力杀害和平抗议者，美利坚合众国将向他们提供援助。我们已严阵以待，蓄势待发。",
@@ -256,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-02）",
+          "url": "https://flash.jin10.com/detail/20260102183706260800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
@@ -316,8 +364,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 18时24分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 19时20分]"
         },
         {
           "title": "新一年的故事从瑞雪中慢慢开始",
@@ -472,6 +520,17 @@
           "time_info": "[16时32分 ~ 17时27分]"
         },
         {
+          "title": "瑞士历史上最严重的悲剧之一",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E9%87%8D%E7%9A%84%E6%82%B2%E5%89%A7%E4%B9%8B%E4%B8%80%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
           "title": "2025年全国平均气温再创历史新高",
           "url": "https://wallstreetcn.com/livenews/3029614",
           "source": "华尔街见闻-快讯",
@@ -490,18 +549,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "瑞士历史上最严重的悲剧之一",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E9%87%8D%E7%9A%84%E6%82%B2%E5%89%A7%E4%B9%8B%E4%B8%80%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -520,7 +568,7 @@
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大学生开启提前实习模式，有人大一就完成 4 段实习，如何看待这一现象？职场「早鸟票」有必要抢吗？",
@@ -530,8 +578,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时42分 ~ 18时24分]"
+          "appearance_count": 11,
+          "time_info": "[11时42分 ~ 19时20分]"
+        },
+        {
+          "title": "有哪些名人有着与本职毫不相干的爱好，而且还玩的不错的？",
+          "url": "https://www.zhihu.com/question/28348723",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     }
