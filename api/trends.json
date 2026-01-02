@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T15:26:36.355317+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-01-02T16:32:30.327601+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 16时32分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -152,6 +153,18 @@
           "time_info": "[14时36分 ~ 15时26分]"
         },
         {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时32分]"
+        },
+        {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
           "url": "https://wallstreetcn.com/livenews/3029637",
           "source": "华尔街见闻-快讯",
@@ -173,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗开枪并暴力杀害和平抗议者，美利坚合众国将向他们提供援助。我们已严阵以待，蓄势待发。",
+          "url": "https://flash.jin10.com/detail/20260102155924046800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
@@ -197,24 +221,13 @@
           "time_info": "09时51分"
         },
         {
-          "title": "特朗普承认服用阿司匹林",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
           "title": "特朗普的关税大棒挥不下去了吗",
           "url": "https://www.toutiao.com/trending/7590646791305956874/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         }
@@ -222,7 +235,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "听劝！你希望大国重器的研发者、制造者在知乎分享怎样的知识和故事？期待与哪些大佬和嘉宾交流？",
@@ -240,11 +253,12 @@
           "url": "https://www.cls.cn/detail/2246025",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 15时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 16时32分]"
         },
         {
           "title": "新一年的故事从瑞雪中慢慢开始",
@@ -260,8 +274,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 15时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 16时32分]"
         },
         {
           "title": "蔡磊致渐冻症病友新年公开信：历史已经被改写，将抗争到最后一刻",
@@ -271,8 +285,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 15时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 16时32分]"
         },
         {
           "title": "历史上的今天 | 1979年1月1日，《告台湾同胞书》发表",
@@ -400,6 +414,17 @@
           "time_info": "[00时30分 ~ 01时22分]"
         },
         {
+          "title": "新势力年终交卷：零跑近60万辆夺冠，蔚来、小鹏创历史新高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32300543",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "台湾加权指数上涨0.8%，创下29,202.23点的历史新高。",
           "url": "https://flash.jin10.com/detail/20260102102042870800",
           "source": "金十数据",
@@ -424,8 +449,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 16时32分]"
         }
       ]
     }
