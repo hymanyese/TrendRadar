@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T06:22:47.903750+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-01-03T07:21:40.354598+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "马斯克宣布 2026 年将大规模生产脑机接口设备，目前这项技术处于什么水平？大规模应用将产生哪些影响？",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "特朗普发文猛烈抨击乔治·克鲁尼",
@@ -63,11 +63,12 @@
             16,
             19,
             25,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
@@ -77,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 07时21分]"
         },
         {
           "title": "特朗普称美国已做好准备",
@@ -89,11 +90,23 @@
             25,
             26,
             20,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时21分]"
+        },
+        {
+          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
+          "url": "https://wallstreetcn.com/livenews/3029951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
@@ -130,11 +143,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时22分]"
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 07时21分]"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -159,6 +173,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 05时18分]"
+        },
+        {
+          "title": "李在明为何此时晒特朗普所赠金钥匙",
+          "url": "https://www.toutiao.com/trending/7590278251684577326/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 07时21分]"
         },
         {
           "title": "唐驳虎：特朗普发现“弹药”不够用了",
@@ -194,24 +220,13 @@
           "time_info": "00时29分"
         },
         {
-          "title": "李在明为何此时晒特朗普所赠金钥匙",
-          "url": "https://www.toutiao.com/trending/7590278251684577326/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
           "title": "特朗普威胁要干涉伊朗骚乱事件",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%A6%81%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E9%AA%9A%E4%B9%B1%E4%BA%8B%E4%BB%B6",
           "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
@@ -241,11 +256,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时22分]"
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 07时21分]"
         },
         {
           "title": "欧洲股市在2026年首个交易日创收盘历史新高",
