@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T11:24:42.547472+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-01-03T12:35:04.820656+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "马斯克宣布 2026 年将大规模生产脑机接口设备，目前这项技术处于什么水平？大规模应用将产生哪些影响？",
@@ -25,11 +25,12 @@
           "url": "https://www.cls.cn/detail/2246325",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 11时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时35分]"
         },
         {
           "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
@@ -41,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 11时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时35分]"
         },
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -54,8 +55,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 11时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时35分]"
         },
         {
           "title": "特朗普发文猛烈抨击乔治·克鲁尼",
@@ -103,15 +104,15 @@
           "time_info": "[04时25分 ~ 11时24分]"
         },
         {
-          "title": "特朗普与高市早苗通话，推进对方首次访美安排",
-          "url": "https://news.ifeng.com/c/8pbf7hkGDkK",
+          "title": "通话后，高市都笑裂了，特朗普转头就见美驻华大使",
+          "url": "https://news.ifeng.com/c/8pbpH4jJoYi",
           "source": "凤凰网",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时24分]"
+          "time_info": "[12时34分 ~ 12时35分]"
         },
         {
           "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
@@ -122,11 +123,23 @@
             16,
             19,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时18分 ~ 11时24分]"
+          "appearance_count": 6,
+          "time_info": "[05时18分 ~ 12时35分]"
+        },
+        {
+          "title": "特朗普与高市早苗通话，推进对方首次访美安排",
+          "url": "https://news.ifeng.com/c/8pbf7hkGDkK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时24分]"
         },
         {
           "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
@@ -155,6 +168,20 @@
           "time_info": "09时46分"
         },
         {
+          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
+          "url": "https://wallstreetcn.com/livenews/3029951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 12时35分]"
+        },
+        {
           "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
           "url": "https://wallstreetcn.com/livenews/3029882",
           "source": "华尔街见闻-快讯",
@@ -169,17 +196,40 @@
           "time_info": "[00时29分 ~ 03时16分]"
         },
         {
-          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
-          "url": "https://wallstreetcn.com/livenews/3029951",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
+          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            8,
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 11时24分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 12时35分]"
+        },
+        {
+          "title": "特朗普承认没少吃药，否认开会睡觉",
+          "url": "https://news.ifeng.com/c/8pacnklL11I",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 12时35分]"
+        },
+        {
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 12时35分]"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -206,39 +256,15 @@
           "time_info": "[03时15分 ~ 05时18分]"
         },
         {
-          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
-          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
-          "source": "凤凰网",
+          "title": "与高市通话后特朗普转头就见驻华大使",
+          "url": "https://www.toutiao.com/trending/7590145571084681243/",
+          "source": "今日头条",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时24分]"
-        },
-        {
-          "title": "特朗普承认没少吃药，否认开会睡觉",
-          "url": "https://news.ifeng.com/c/8pacnklL11I",
-          "source": "凤凰网",
-          "ranks": [
-            9,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时24分]"
-        },
-        {
-          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时24分]"
+          "time_info": "[12时34分 ~ 12时35分]"
         },
         {
           "title": "李在明为何此时晒特朗普所赠金钥匙",
@@ -270,7 +296,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -322,7 +348,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "创历史新高！2025年中国航天发射次数达92次",
@@ -330,11 +356,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时35分]"
+        },
+        {
+          "title": "中式奇幻寓言故事又回来了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BC%8F%E5%A5%87%E5%B9%BB%E5%AF%93%E8%A8%80%E6%95%85%E4%BA%8B%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时24分]"
+          "time_info": "[12时34分 ~ 12时35分]"
         },
         {
           "title": "美光科技盈利能力大幅攀升，股价创历史新高",
@@ -379,6 +417,18 @@
           "time_info": "[02时33分 ~ 04时25分]"
         },
         {
+          "title": "2025年中国航天发射次数创历史新高",
+          "url": "https://flash.jin10.com/detail/20260103093003051800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时35分]"
+        },
+        {
           "title": "德国股市收涨0.2%，西班牙股指涨约1.1%、与意大利银行板块创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3029893",
           "source": "华尔街见闻-快讯",
@@ -389,17 +439,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时25分]"
-        },
-        {
-          "title": "2025年中国航天发射次数创历史新高",
-          "url": "https://flash.jin10.com/detail/20260103093003051800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         }
       ]
     }
