@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T05:24:04.547170+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-01-06T06:23:22.005421+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时23分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时23分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时23分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -56,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时23分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -68,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时23分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -79,8 +79,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时23分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -90,8 +90,31 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时23分]"
+        },
+        {
+          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
+          "url": "https://wallstreetcn.com/articles/3762529",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时23分]"
+        },
+        {
+          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
+          "url": "https://wallstreetcn.com/articles/3762545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时23分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -105,29 +128,6 @@
           "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
-          "url": "https://wallstreetcn.com/articles/3762529",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时24分]"
-        },
-        {
-          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
-          "url": "https://wallstreetcn.com/articles/3762545",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时24分]"
-        },
-        {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
           "url": "https://m.thepaper.cn/newsDetail_forward_32318660",
           "source": "澎湃新闻",
@@ -137,8 +137,20 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 06时23分]"
+        },
+        {
+          "title": "高市早苗手持安倍画像被批令人作呕",
+          "url": "https://www.toutiao.com/trending/7591828375578935359/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时25分 ~ 05时24分]"
+          "time_info": "[02时36分 ~ 06时23分]"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -150,29 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
-          "url": "https://flash.jin10.com/detail/20260106050326397800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "高市早苗手持安倍画像被批令人作呕",
-          "url": "https://www.toutiao.com/trending/7591828375578935359/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 05时24分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -212,6 +201,18 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
+          "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
+          "url": "https://flash.jin10.com/detail/20260106050326397800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时23分]"
+        },
+        {
           "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
           "url": "https://www.cls.cn/detail/2248057",
           "source": "财联社热门",
@@ -246,6 +247,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时28分]"
+        },
+        {
+          "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/3031091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时23分]"
         },
         {
           "title": "马杜罗被俘虏后，特朗普拿着“让伊朗再次伟大”的帽子拍照",
@@ -307,17 +320,6 @@
           "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
-          "url": "https://wallstreetcn.com/livenews/3031091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
           "title": "马斯克确认X平台的网页版聊天应用将新增音视频通话功能。",
           "url": "https://flash.jin10.com/detail/20260105234306694800",
           "source": "金十数据",
@@ -351,6 +353,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
+          "url": "https://flash.jin10.com/detail/20260106055021121800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
           "url": "https://flash.jin10.com/detail/20260105234304273800",
           "source": "金十数据",
@@ -371,6 +384,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "美国一家上诉法院裁定，特朗普政府削减国立卫生研究院对大学科研资金投入的计划属违法行为。",
+          "url": "https://flash.jin10.com/detail/20260106055013705800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普政府已经与多家石油公司讨论委内瑞拉形势。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3031110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "土耳其总统埃尔多安：我在电话中告诉特朗普，委内瑞拉绝不能被拖入混乱之中。",
@@ -420,7 +455,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
@@ -432,8 +467,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时23分]"
         },
         {
           "title": "欧洲STOXX 600指数创盘中历史新高。",
@@ -456,6 +491,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "加拿大标普/TSX综合指数收涨1.05%，报32218.39点，突破12月23日所创收盘历史最高位32058.73点。 小盘股指收涨1.76%，报1225.70点，也创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3031104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "标普500指数收涨43.58点，涨幅0.64%，报6902.05点。 道琼斯工业平均指数收涨594.79点，涨幅1.23%，报48977.18点，突破12月24日所创收盘历史最高位48731.16点和12月12日所创盘中历史最高位48886.86点。 纳斯达克综合指数（纳指）收涨160.193点，涨幅0.69%，报23395.822点。 纳斯达克100指数收涨195.152点，涨幅0.77%，报25401.32点。",
+          "url": "https://wallstreetcn.com/livenews/3031093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         }
       ]
     }
