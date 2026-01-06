@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T22:25:44.308240+08:00",
-  "total_titles_processed": 2010,
+  "generated_at": "2026-01-06T23:26:23.761553+08:00",
+  "total_titles_processed": 2104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 98,
+      "match_count": 99,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -78,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时27分 ~ 22时25分]"
+          "appearance_count": 11,
+          "time_info": "[13时27分 ~ 23时26分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -105,8 +105,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时37分 ~ 22时25分]"
+          "appearance_count": 11,
+          "time_info": "[14时37分 ~ 23时26分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -140,8 +140,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 22时25分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 23时26分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -284,6 +284,20 @@
           "time_info": "[11时41分 ~ 15时28分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 23时26分]"
+        },
+        {
           "title": "特朗普“跨国绑架”，露出了帝国獠牙",
           "url": "https://news.ifeng.com/c/8phPV8FjZWC",
           "source": "凤凰网",
@@ -386,20 +400,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时34分 ~ 18时26分]"
-        },
-        {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 22时25分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
@@ -531,6 +531,20 @@
           "time_info": "[21时39分 ~ 22时25分]"
         },
         {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            23,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 23时26分]"
+        },
+        {
           "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
           "url": "https://flash.jin10.com/detail/20260106050326397800",
           "source": "金十数据",
@@ -552,19 +566,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 02时36分]"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 22时25分]"
         },
         {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
@@ -765,6 +766,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
+          "url": "https://wallstreetcn.com/articles/3762641",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "马斯克确认X平台的网页版聊天应用将新增音视频通话功能。",
           "url": "https://flash.jin10.com/detail/20260105234306694800",
           "source": "金十数据",
@@ -859,7 +871,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -892,7 +904,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -1013,7 +1025,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -1079,7 +1091,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -1164,7 +1176,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
@@ -1252,6 +1264,17 @@
           "time_info": "[13时27分 ~ 14时38分]"
         },
         {
+          "title": "美股指期货小幅走低，全球股指触及历史高位，现货白银日内涨超3%，伦铜再创新高，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "欧洲STOXX 600指数创盘中历史新高。",
           "url": "https://wallstreetcn.com/livenews/3030984",
           "source": "华尔街见闻-快讯",
@@ -1274,6 +1297,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "SanDisk（SNDK）上涨14.47%，刷新盘中历史高位至313.74美元，盘中市值超过450亿美元。 半导体概念股中，Wolfspeed涨10.1%，微芯科技涨7.35%，AMKR涨6.8%，德州仪器涨5.6%，恩智浦涨5.6%，英特格、意法半导体ADR涨超5%，日月光半导体、安森美半导体、亚德诺涨超4%。 AMD则跌1.9%，相干公司COHR跌3.2%，安费诺跌6.2%。",
+          "url": "https://wallstreetcn.com/livenews/3031748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "约旦与欧盟将进行历史上首次双边峰会",
           "url": "https://wallstreetcn.com/livenews/3031133",
           "source": "华尔街见闻-快讯",
@@ -1283,6 +1317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "闪迪(SNDK.O)涨19%，股价创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260106224953106800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "加拿大标普/TSX综合指数收涨1.05%，报32218.39点，突破12月23日所创收盘历史最高位32058.73点。 小盘股指收涨1.76%，报1225.70点，也创收盘历史新高。",
@@ -1324,11 +1369,12 @@
             12,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时41分 ~ 22时25分]"
+          "appearance_count": 15,
+          "time_info": "[11时41分 ~ 23时26分]"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
