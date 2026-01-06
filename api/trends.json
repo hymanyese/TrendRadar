@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T21:39:56.407201+08:00",
-  "total_titles_processed": 1928,
+  "generated_at": "2026-01-06T22:25:44.308240+08:00",
+  "total_titles_processed": 2010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 94,
+      "match_count": 98,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -69,6 +69,19 @@
           "time_info": "[09时51分 ~ 18时26分]"
         },
         {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时27分 ~ 22时25分]"
+        },
+        {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
           "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
           "source": "凤凰网",
@@ -78,6 +91,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时22分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            16,
+            19,
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时37分 ~ 22时25分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -111,8 +140,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 21时39分]"
+          "appearance_count": 25,
+          "time_info": "[00时29分 ~ 22时25分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -168,34 +197,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 06时23分]"
-        },
-        {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时27分 ~ 21时39分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29,
-            16,
-            19,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时37分 ~ 21时39分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -362,17 +363,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "美国总统特朗普称赞股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3031704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "丹麦首相警告特朗普涉格陵兰岛言论",
           "url": "https://www.toutiao.com/trending/7592114928259285042/",
           "source": "今日头条",
@@ -398,6 +388,20 @@
           "time_info": "[16时34分 ~ 18时26分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时25分]"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
           "url": "https://flash.jin10.com/detail/20260106070034158800",
           "source": "金十数据",
@@ -415,7 +419,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -503,20 +507,6 @@
           "time_info": "[20时49分 ~ 21时39分]"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时39分]"
-        },
-        {
           "title": "乌克兰外交部长：此类袭击表明俄罗斯总统普京完全无视由美国总统特朗普主导的和平努力。",
           "url": "https://flash.jin10.com/detail/20260106021438268800",
           "source": "金十数据",
@@ -527,6 +517,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普称赞股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3031704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时25分]"
         },
         {
           "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
@@ -552,6 +554,19 @@
           "time_info": "[00时29分 ~ 02时36分]"
         },
         {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时25分]"
+        },
+        {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
           "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
           "source": "凤凰网",
@@ -574,18 +589,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时22分 ~ 05时24分]"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 21时39分]"
         },
         {
           "title": "路透调查：特朗普支持率上升 仅三成美国人赞成美国对委行动",
@@ -645,6 +648,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 11时41分]"
+        },
+        {
+          "title": "特朗普称西半球是我们的半球",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时25分]"
         },
         {
           "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
@@ -838,13 +853,24 @@
           "time_info": "20时49分"
         },
         {
+          "title": "美联储理事米兰：预计数据将支持更多降息。 美联储今年应降息超过100个基点。 核心通胀接近美联储目标。 美联储政策具有限制性，正在拖累经济发展。 尚未与特朗普讨论成为美联储主席一事。 美联储主席候选名单上的所有人都很有资历。",
+          "url": "https://wallstreetcn.com/livenews/3031716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国总统特朗普：对加利福尼亚州的欺诈调查已开始。",
           "url": "https://flash.jin10.com/detail/20260106212254555800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -860,15 +886,15 @@
           "time_info": "06时23分"
         },
         {
-          "title": "特朗普称西半球是我们的半球",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "特朗普媒体科技集团：与核聚变初创公司TAE开始为首个创新聚变发电厂进行选址规划流程。计划于2026年启动选址和建设工作，未来的发电厂预计装机容量为350至500兆瓦电力（MWE）。",
+          "url": "https://wallstreetcn.com/livenews/3031714",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "22时25分"
         },
         {
           "title": "土耳其总统埃尔多安：我在电话中告诉特朗普，委内瑞拉绝不能被拖入混乱之中。",
@@ -965,7 +991,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -979,6 +1005,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "美国总统特朗普对众议院共和党人的讲话将于上午10点左右（北京时间23:00）进行现场直播。",
+          "url": "https://flash.jin10.com/detail/20260106214535298800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "日本首相高市早苗：不会将所有工资增长责任推卸给企业。",
@@ -1034,6 +1071,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "美联储理事米兰：尚未就美联储主席职位与特朗普总统交谈。",
+          "url": "https://flash.jin10.com/detail/20260106214218662800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我对伊朗的立场与特朗普一致，我们绝不允许伊朗进行铀浓缩活动。",
@@ -1108,7 +1156,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         }
@@ -1275,11 +1323,12 @@
             11,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时41分 ~ 21时39分]"
+          "appearance_count": 14,
+          "time_info": "[11时41分 ~ 22时25分]"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
