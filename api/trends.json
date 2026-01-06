@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-07T00:32:27.345220+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-07T01:25:41.214086+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国总统特朗普再次批评国防承包商，称：将与承包商们对话。",
           "url": "https://wallstreetcn.com/livenews/3031788",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时25分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -26,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时25分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -37,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时25分]"
         },
         {
           "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
@@ -48,8 +49,31 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时25分]"
+        },
+        {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时25分]"
+        },
+        {
+          "title": "特朗普政府正停止向五个由民主党领导的州提供100亿美元的公共援助资金。",
+          "url": "https://flash.jin10.com/detail/20260107005331579800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时25分"
         },
         {
           "title": "特朗普：医疗保险费太贵了。",
@@ -96,17 +120,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
           "title": "美国总统特朗普：委内瑞拉的电力供应被切断了。",
           "url": "https://wallstreetcn.com/livenews/3031773",
           "source": "华尔街见闻-快讯",
@@ -116,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：将（在委内瑞拉）钻探大量石油。 钻探将进一步降低油价。 数日内将与14家公司会面。",
+          "url": "https://wallstreetcn.com/livenews/3031799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         },
         {
           "title": "美国总统特朗普：将在2026年中期选举里取得“史诗级”胜利。",
@@ -151,6 +175,28 @@
           "time_info": "00时32分"
         },
         {
+          "title": "特朗普称将与石油公司和保险公司举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3031790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普对众议院共和党人说，“如果我们输掉中期选举，我将被弹劾”。",
+          "url": "https://flash.jin10.com/detail/20260107003121533800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
           "title": "特朗普称加州现已成为欺诈调查的目标",
           "url": "https://wallstreetcn.com/livenews/3031765",
           "source": "华尔街见闻-快讯",
@@ -160,6 +206,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：我们有很多石油可以开采。开采石油会进一步降低油价。",
+          "url": "https://flash.jin10.com/detail/20260107002833131800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普：还将与石油公司会面。",
+          "url": "https://flash.jin10.com/detail/20260107002659389800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普：将在几天内会见14家保险公司。",
+          "url": "https://flash.jin10.com/detail/20260107002655915800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         },
         {
           "title": "美国总统特朗普：除了纽约那边，所有人都支持我们在委内瑞拉的行动。",
@@ -176,7 +255,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "费城半导体指数创下历史新高，最新上涨2.5%。",
@@ -194,11 +273,45 @@
           "url": "https://wallstreetcn.com/articles/3762631",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时25分]"
+        },
+        {
+          "title": "欧洲股市继续创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3031800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时25分"
+        },
+        {
+          "title": "《凡人修仙传》图片上的三个人物能不能打得过温天仁？",
+          "url": "https://www.zhihu.com/question/1912461062265115667",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "道指盘中创下历史新高，最新上涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260107002751691800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         }
       ]
     },
@@ -214,8 +327,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时25分]"
         }
       ]
     }
