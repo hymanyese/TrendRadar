@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T15:27:43.925041+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-01-07T16:34:35.072687+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 73,
+      "match_count": 77,
       "titles": [
         {
           "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
@@ -34,6 +34,18 @@
           "time_info": "[09时51分 ~ 14时37分]"
         },
         {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 16时34分]"
+        },
+        {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
           "url": "https://news.ifeng.com/c/8piFwnPic7a",
           "source": "凤凰网",
@@ -56,16 +68,31 @@
           "time_info": "[00时32分 ~ 09时51分]"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
+          "title": "特朗普不满马杜罗：他学我跳舞",
+          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
           "ranks": [
             7,
-            5
+            6,
+            3,
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时51分 ~ 15时27分]"
+          "time_info": "[11时41分 ~ 16时34分]"
         },
         {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
@@ -81,18 +108,6 @@
           "time_info": "[09时51分 ~ 14时37分]"
         },
         {
-          "title": "特朗普不满马杜罗：他学我跳舞",
-          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 15时27分]"
-        },
-        {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
@@ -106,17 +121,40 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
+          "title": "特朗普为何恨他入骨？",
+          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6,
-            3
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 15时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 16时34分]"
+        },
+        {
+          "title": "高市早苗暗示或武力介入台海，中方：禁止向日本军事用户出口两用物项",
+          "url": "https://wallstreetcn.com/articles/3762652",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 16时34分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -130,17 +168,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时27分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普为何恨他入骨？",
-          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时27分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -158,17 +185,6 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 15时27分]"
-        },
-        {
           "title": "特朗普向印度发出新警告",
           "url": "https://news.ifeng.com/c/8piCojZXRGw",
           "source": "凤凰网",
@@ -180,18 +196,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时51分 ~ 14时37分]"
-        },
-        {
-          "title": "高市早苗暗示或武力介入台海，中方：禁止向日本军事用户出口两用物项",
-          "url": "https://wallstreetcn.com/articles/3762652",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 15时27分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -429,9 +433,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "巴西副总统：巴西总统卢拉与美国总统特朗普关系良好。",
@@ -465,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "特朗普：医疗保险费太贵了。",
@@ -632,6 +658,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "美参院民主党领袖批特朗普对委行动",
+          "url": "https://www.toutiao.com/trending/7591542867982614564/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "特朗普：将与国防承包商对话。",
           "url": "https://flash.jin10.com/detail/20260107000150386800",
           "source": "金十数据",
@@ -649,7 +686,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -737,7 +774,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -819,13 +856,24 @@
           "time_info": "04时27分"
         },
         {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://wallstreetcn.com/livenews/3032232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "泰勒·格林：相信特朗普怪我太天真",
           "url": "https://www.toutiao.com/trending/7592463725844516379/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -1031,11 +1079,12 @@
             20,
             23,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 15时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "据知情人士，鸣鸣很忙开始评估投资者对其5亿美元港股IPO的兴趣。（彭博）",
@@ -1044,7 +1093,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
