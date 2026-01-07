@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T01:28:28.112170+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-01-08T02:36:53.829601+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 11,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普的行径应当让委内瑞拉民众感到安心。",
           "url": "https://wallstreetcn.com/livenews/3032621",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时36分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -35,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -49,8 +51,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -60,19 +62,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
           "url": "https://wallstreetcn.com/articles/3762706",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时36分]"
+        },
+        {
+          "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
+          "url": "https://wallstreetcn.com/livenews/3032617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "time_info": "[01时28分 ~ 02时36分]"
         },
         {
           "title": "马斯克：中国会搞定芯片问题",
@@ -86,26 +101,26 @@
           "time_info": "[00时33分 ~ 00时34分]"
         },
         {
-          "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
-          "url": "https://wallstreetcn.com/livenews/3032617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
           "title": "预测市场认为：特朗普今年拿下格陵兰的胜算不高",
           "url": "https://wallstreetcn.com/livenews/3032615",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
+          "url": "https://flash.jin10.com/detail/20260108015742361800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "特朗普锁定委内瑞拉石油，加拿大原油价格暴跌",
@@ -114,9 +129,75 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "美国单户住宅租赁公司AMH短线下挫触发交易暂停，特朗普称，将禁止大型机构投资者购买更多独栋住宅。",
+          "url": "https://flash.jin10.com/detail/20260108015633925800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
+          "url": "https://wallstreetcn.com/livenews/3032636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
+          "url": "https://flash.jin10.com/detail/20260108015016701800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普推动禁止机构投资者购房",
+          "url": "https://wallstreetcn.com/livenews/3032633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普：我将呼吁美国国会将其编入法典。",
+          "url": "https://flash.jin10.com/detail/20260108014836291800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普：我将立即采取措施，禁止大型机构投资者购买更多独栋住宅。",
+          "url": "https://flash.jin10.com/detail/20260108014826315800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "白宫新闻秘书莱维特：（谈格陵兰岛）特朗普和国家安全团队正在积极讨论。",
@@ -125,15 +206,37 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "外媒：特朗普正固化美国全球流氓形象",
+          "url": "https://www.toutiao.com/trending/7591748193269137471/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普声称接收委内瑞拉石油 导致加拿大油价暴跌",
+          "url": "https://flash.jin10.com/detail/20260108012558956800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "考古发现的历史小人物有哪些",
@@ -144,8 +247,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市跌约0.8%脱离收盘历史最高位，矿业股表现垫底",
@@ -158,6 +261,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时28分]"
+        },
+        {
+          "title": "伦铜脱离收盘历史最高位，投资者获利了结",
+          "url": "https://wallstreetcn.com/livenews/3032634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "欧洲军工股全面上涨。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨4.10%，33.880001欧元，逼近2025年10月3日所创收盘历史最高位34.110001欧元和盘中历史最高位34.43欧元。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨2.79%。",
+          "url": "https://wallstreetcn.com/livenews/3032627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     },
@@ -174,8 +299,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时36分]"
         }
       ]
     }
