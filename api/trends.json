@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T03:22:55.080543+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-01-08T04:28:32.613981+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,19 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
-          "url": "https://flash.jin10.com/detail/20260108024142434800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时28分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -36,11 +25,12 @@
           "ranks": [
             7,
             10,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时28分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -50,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时28分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -61,8 +51,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时28分]"
+        },
+        {
+          "title": "美国总统特朗普料将在下周宣布所谓的“加沙和平委员会”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3032666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -73,8 +74,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时28分]"
+        },
+        {
+          "title": "特朗普质疑北约在美国需要时会否给予支持",
+          "url": "https://flash.jin10.com/detail/20260108034118954800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
+          "url": "https://flash.jin10.com/detail/20260108024142434800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时28分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普的行径应当让委内瑞拉民众感到安心。",
@@ -89,6 +113,19 @@
           "time_info": "[01时28分 ~ 02时36分]"
         },
         {
+          "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
+          "url": "https://wallstreetcn.com/livenews/3032636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
+        },
+        {
           "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
           "url": "https://wallstreetcn.com/livenews/3032617",
           "source": "华尔街见闻-快讯",
@@ -99,6 +136,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时36分]"
+        },
+        {
+          "title": "特朗普质疑北约在美国需要时会否给予支持",
+          "url": "https://wallstreetcn.com/livenews/3032651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时28分]"
         },
         {
           "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
@@ -119,18 +168,6 @@
           "ranks": [
             12,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时22分]"
-        },
-        {
-          "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
-          "url": "https://wallstreetcn.com/livenews/3032636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -196,15 +233,15 @@
           "time_info": "[00时33分 ~ 00时34分]"
         },
         {
-          "title": "特朗普质疑北约在美国需要时会否给予支持",
-          "url": "https://wallstreetcn.com/livenews/3032651",
+          "title": "特朗普向国防承包商回购股票的做法发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3032663",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "04时28分"
         },
         {
           "title": "特朗普住房新政引发震荡 黑石集团股价应声重挫逾9%",
@@ -213,9 +250,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
+          "url": "https://flash.jin10.com/detail/20260108032933903800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "预测市场认为：特朗普今年拿下格陵兰的胜算不高",
@@ -229,6 +277,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
+          "url": "https://flash.jin10.com/detail/20260108032629292800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "特朗普锁定委内瑞拉石油，加拿大原油价格暴跌",
           "url": "https://wallstreetcn.com/livenews/3032614",
           "source": "华尔街见闻-快讯",
@@ -240,6 +299,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
+          "url": "https://flash.jin10.com/detail/20260108031728568800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：（谈格陵兰岛）特朗普和国家安全团队正在积极讨论。",
           "url": "https://flash.jin10.com/detail/20260108010947191800",
           "source": "金十数据",
@@ -249,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
+          "url": "https://flash.jin10.com/detail/20260108031010315800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "外媒：特朗普正固化美国全球流氓形象",
@@ -284,11 +365,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时28分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市跌约0.8%脱离收盘历史最高位，矿业股表现垫底",
@@ -308,11 +390,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
         },
         {
           "title": "欧洲军工股全面上涨。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨4.10%，33.880001欧元，逼近2025年10月3日所创收盘历史最高位34.110001欧元和盘中历史最高位34.43欧元。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨2.79%。",
@@ -341,8 +424,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时28分]"
         }
       ]
     }
