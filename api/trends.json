@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-01-09T06:24:04.676204+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-01-09T07:21:16.824494+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 72,
+      "match_count": 80,
       "titles": [
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时21分]"
+        },
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
           "url": "https://wallstreetcn.com/articles/3762848",
@@ -20,31 +45,6 @@
           "time_info": "[00时33分 ~ 06时24分]"
         },
         {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2252232",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
           "title": "特朗普一口气退出了哪66个国际组织？",
           "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
           "source": "凤凰网",
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时21分]"
         },
         {
           "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
@@ -66,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时21分]"
         },
         {
           "title": "特朗普“炮轰”美国军火商",
@@ -77,8 +77,51 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "卷王遇硬茬,马斯克开除加班党",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普 ：禁止囤房",
+          "url": "https://www.douyin.com/hot/2360816",
+          "source": "抖音",
+          "ranks": [
+            16,
+            11,
+            14,
+            15,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "马斯克一句话“引爆”脑机接口",
+          "url": "https://www.toutiao.com/trending/7592923450755255817/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            8,
+            20,
+            28,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "time_info": "[01时29分 ~ 07时21分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -96,45 +139,6 @@
           "time_info": "[00时33分 ~ 06时24分]"
         },
         {
-          "title": "卷王遇硬茬,马斯克开除加班党",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普 ：禁止囤房",
-          "url": "https://www.douyin.com/hot/2360816",
-          "source": "抖音",
-          "ranks": [
-            16,
-            11,
-            14,
-            15,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "美国联邦住房金融局局长普尔特：（就特朗普指示购买2000亿美元的抵押贷款债券）我们正在着手处理。",
-          "url": "https://flash.jin10.com/detail/20260109055617117800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：房地美和房利美有工具来执行总统特朗普的住房命令。",
           "url": "https://wallstreetcn.com/livenews/3033456",
           "source": "华尔街见闻-快讯",
@@ -146,41 +150,15 @@
           "time_info": "00时33分"
         },
         {
-          "title": "特朗普：必须“拥有”整个格陵兰",
-          "url": "https://wallstreetcn.com/livenews/3033587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "马斯克一句话“引爆”脑机接口",
-          "url": "https://www.toutiao.com/trending/7592923450755255817/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            8,
-            20,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 06时24分]"
-        },
-        {
-          "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
-          "url": "https://flash.jin10.com/detail/20260109055249345800",
+          "title": "“美联储传声筒”Nick Timiraos：特朗普称，他已指示代表购买价值2000亿美元的住房抵押贷款支持证券，以缩小抵押贷款利差并降低利率。实现这一目标的主要机制是通过房利美和房地美的自留投资组合，根据它们与美国财政部的现有协议，这两家公司（每家公司）持有的抵押贷款投资不得超过2250亿美元。截至2025年11月，两家公司在这些投资组合中各持有约1240亿美元，这意味着它们各自可以再购买1000亿美元的住房抵押贷款支持证券。",
+          "url": "https://flash.jin10.com/detail/20260109070042711800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时21分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：预计美国总统特朗普将在下个月就房利美和房地美的IPO作出决定。",
@@ -205,6 +183,19 @@
           "time_info": "02时32分"
         },
         {
+          "title": "特朗普退群“弃子”都有哪些",
+          "url": "https://www.toutiao.com/trending/7592986570223799834/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 07时21分]"
+        },
+        {
           "title": "美参院推进限制特朗普对委动武决议",
           "url": "https://wallstreetcn.com/livenews/3033478",
           "source": "华尔街见闻-快讯",
@@ -218,6 +209,18 @@
           "time_info": "[01时29分 ~ 03时21分]"
         },
         {
+          "title": "美国联邦住房金融局局长普尔特：（就特朗普指示购买2000亿美元的抵押贷款债券）我们正在着手处理。",
+          "url": "https://flash.jin10.com/detail/20260109055617117800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
           "title": "人事管理办公室（OPM）数据显示：美国总统特朗普第二任期内，已经有超过32.2万名雇员离开联邦机构。 教育部减员39%，财政部流失21%。",
           "url": "https://wallstreetcn.com/livenews/3033551",
           "source": "华尔街见闻-快讯",
@@ -228,6 +231,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普：必须“拥有”整个格陵兰",
+          "url": "https://wallstreetcn.com/livenews/3033587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
+          "url": "https://flash.jin10.com/detail/20260109055249345800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时23分 ~ 07时21分]"
         },
         {
           "title": "据美联社援引消息人士报道，美国总统特朗普的顾问在白宫会见了丹麦和格陵兰岛的特使。",
@@ -278,18 +316,6 @@
           "time_info": "[00时33分 ~ 01时29分]"
         },
         {
-          "title": "特朗普退群“弃子”都有哪些",
-          "url": "https://www.toutiao.com/trending/7592986570223799834/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 05时24分]"
-        },
-        {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美都有关于处理特朗普住房命令的工具。",
           "url": "https://flash.jin10.com/detail/20260109002620712800",
           "source": "金十数据",
@@ -314,17 +340,6 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
-        },
-        {
           "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。 参议院下周将围绕这个议题投票。",
           "url": "https://wallstreetcn.com/livenews/3033492",
           "source": "华尔街见闻-快讯",
@@ -335,6 +350,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时21分]"
+        },
+        {
+          "title": "美国石油公司高管们将于美东时间周五14:00（北京时间周六03:00）在白宫会见总统特朗普。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3033580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
         },
         {
           "title": "当被问及美国民众何时才能收到特朗普承诺从关税收入中拨出的2000美元支票，特朗普表示，发放这些款项无需国会批准。当被问及具体时间表时，他回答说：“我想大概在年底左右。”",
@@ -349,6 +376,18 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
+          "title": "美国总统特朗普：现在，我正特别关注住房市场。已指示我的代表购买2000亿美元的抵押贷款债券。",
+          "url": "https://flash.jin10.com/detail/20260109052917631800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
           "title": "谁是下任美联储主席？特朗普：心中已有决定",
           "url": "https://wallstreetcn.com/livenews/3033489",
           "source": "华尔街见闻-快讯",
@@ -359,6 +398,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时21分]"
+        },
+        {
+          "title": "美国总统特朗普：与英特尔首席执行官举行了不错的会晤。",
+          "url": "https://flash.jin10.com/detail/20260109051423232800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
         },
         {
           "title": "报道：特朗普政府考虑“收买”格陵兰岛居民",
@@ -373,6 +424,18 @@
           "time_info": "[02时32分 ~ 03时21分]"
         },
         {
+          "title": "美最高法院裁决特朗普关税前夕，财长声称：若败诉不影响关税收入",
+          "url": "https://wallstreetcn.com/livenews/3033579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
           "title": "超过12位石油公司的老板们将出席美国总统特朗普关于委内瑞拉的会议。 列席会议的企业高管包括Harold Hamm，埃克森美孚、雪佛龙、康菲石油的高管们也将参加会议。",
           "url": "https://wallstreetcn.com/livenews/3033482",
           "source": "华尔街见闻-快讯",
@@ -383,6 +446,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时21分]"
+        },
+        {
+          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
+          "url": "https://www.zhihu.com/question/1992163357625643469",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "丹麦与格陵兰岛的外交官们前往美国白宫，会见特朗普政府的官员们。（美联社）",
@@ -429,17 +514,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "美国石油公司高管们将于美东时间周五14:00（北京时间周六03:00）在白宫会见总统特朗普。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3033580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "美国总统特朗普：共和党人应该为那些在战争权力法案上与民主党人投票一致的参议员感到羞耻。",
           "url": "https://flash.jin10.com/detail/20260109015027875800",
           "source": "金十数据",
@@ -460,17 +534,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "美国总统特朗普：现在，我正特别关注住房市场。已指示我的代表购买2000亿美元的抵押贷款债券。",
-          "url": "https://flash.jin10.com/detail/20260109052917631800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "据消息人士透露，委内瑞拉正积极与特朗普政府合作，推进其向美国出口石油的计划，委临时领导人德尔茜·罗德里格斯与美国国务卿鲁比奥保持密切沟通。（英国金融时报）",
@@ -495,6 +558,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "美国联邦住房金融局局长普尔特：房利美和房地美将执行美国总统特朗普的指令。",
+          "url": "https://flash.jin10.com/detail/20260109064037718800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国财长贝森特：仍然有四名候选人有望接替美联储主席鲍威尔。 我们（贝森特+总统特朗普）还没有面试贝莱德分析师Rick Rieder。 特朗普可能会在前往达沃斯之前、或之后宣布决定。",
           "url": "https://wallstreetcn.com/livenews/3033500",
           "source": "华尔街见闻-快讯",
@@ -506,15 +580,26 @@
           "time_info": "03时21分"
         },
         {
-          "title": "美国总统特朗普：与英特尔首席执行官举行了不错的会晤。",
-          "url": "https://flash.jin10.com/detail/20260109051423232800",
+          "title": "特朗普再次就骚乱事件对伊朗发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3033594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普指示购买2000亿美元住房抵押贷款支持证券",
+          "url": "https://flash.jin10.com/detail/20260109063019559800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时21分"
         },
         {
           "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
@@ -561,6 +646,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美国总统特朗普将于十分钟后出席政策会议。",
+          "url": "https://flash.jin10.com/detail/20260109062000001800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "美国财长贝森特：呼吁明尼苏达州企业匹配政府为该州儿童“特朗普账户”提供的1000美元捐款。",
           "url": "https://flash.jin10.com/detail/20260109014555930800",
           "source": "金十数据",
@@ -581,17 +677,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "美最高法院裁决特朗普关税前夕，财长声称：若败诉不影响关税收入",
-          "url": "https://wallstreetcn.com/livenews/3033579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美国总统特朗普声称，如果伊朗“杀害骚乱者”，将严厉打击伊朗。",
@@ -622,7 +707,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -647,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普：我不需要国际法",
+          "url": "https://flash.jin10.com/detail/20260109055904551800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美国参议院要求阻挠特朗普对委内瑞拉采取进一步军事行动，白宫赶紧回应：特朗普会否决",
@@ -677,7 +773,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -710,7 +806,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -721,7 +817,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
