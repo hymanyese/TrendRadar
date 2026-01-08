@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T22:28:39.540518+08:00",
-  "total_titles_processed": 2048,
+  "generated_at": "2026-01-08T23:29:37.975942+08:00",
+  "total_titles_processed": 2144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 99,
+      "match_count": 106,
       "titles": [
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 22时28分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 23时29分]"
         },
         {
           "title": "卷王遇硬茬,马斯克开除加班党",
@@ -69,8 +69,23 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时26分 ~ 23时29分]"
+        },
+        {
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[15时26分 ~ 22时28分]"
+          "time_info": "[13时27分 ~ 23时29分]"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -102,20 +117,6 @@
           "time_info": "[11时41分 ~ 16时34分]"
         },
         {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时27分 ~ 22时28分]"
-        },
-        {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
           "source": "澎湃新闻",
@@ -130,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时51分 ~ 22时28分]"
+          "appearance_count": 19,
+          "time_info": "[09时51分 ~ 23时29分]"
         },
         {
           "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
@@ -206,8 +207,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 22时28分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 23时29分]"
         },
         {
           "title": "美国最高法院即将裁决特朗普关税案 或引发进口商“讨钱大战”",
@@ -264,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国总统特朗普将于2月24日发表国情咨文演讲。（PunchBowl）",
@@ -394,6 +406,17 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时29分]"
+        },
+        {
           "title": "特朗普质疑北约在美国需要时会否给予支持",
           "url": "https://flash.jin10.com/detail/20260108034118954800",
           "source": "金十数据",
@@ -430,15 +453,17 @@
           "time_info": "[16时33分 ~ 18时27分]"
         },
         {
-          "title": "特朗普“炮轰”美国军火商",
-          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
-          "source": "凤凰网",
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时28分]"
+          "time_info": "[21时42分 ~ 23时29分]"
         },
         {
           "title": "马斯克：中国AI算力领先世界",
@@ -513,18 +538,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时22分]"
-        },
-        {
-          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2252232",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 22时28分]"
         },
         {
           "title": "特朗普政府为何觊觎格陵兰岛",
@@ -875,7 +888,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -911,6 +924,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "美国参议院共和党领袖图恩：特朗普和鲁比奥针对委内瑞拉的计划具有充分合理性。",
+          "url": "https://flash.jin10.com/detail/20260108225308520800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "学者：特朗普把美国往绝路上带",
@@ -957,6 +981,17 @@
           "time_info": "20时51分"
         },
         {
+          "title": "特朗普“发帖治市”风波再起 国防股飙升住房股受挫",
+          "url": "https://flash.jin10.com/detail/20260108225059336800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "特朗普锁定委内瑞拉石油，加拿大原油价格暴跌",
           "url": "https://wallstreetcn.com/livenews/3032614",
           "source": "华尔街见闻-快讯",
@@ -966,6 +1001,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "美国参议院多数党领袖John Thune：总统特朗普与国务卿卢比奥的委内瑞拉计划非常合理。",
+          "url": "https://wallstreetcn.com/livenews/3033412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
+          "url": "https://www.cls.cn/detail/2252295",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
@@ -1089,6 +1146,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "特朗普关税冲击出口版图 加国贸易重心加速向中英偏移",
+          "url": "https://flash.jin10.com/detail/20260108223610667800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "美国总统特朗普：我已经通过获取受制裁的石油为美国开始赚钱。",
           "url": "https://flash.jin10.com/detail/20260108153300697800",
           "source": "金十数据",
@@ -1155,6 +1223,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "贝森特再向美联储喊话 力主降息为特朗普新政护航",
+          "url": "https://flash.jin10.com/detail/20260108223325461800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "美国总统特朗普：我们2027年的军费预算不应该是1万亿美元，而应该是1.5万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3032708",
           "source": "华尔街见闻-快讯",
@@ -1180,7 +1259,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "考古发现的历史小人物有哪些",
@@ -1293,6 +1372,17 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
+          "title": "贵金属出口首超原油 加拿大出口结构现历史性更替",
+          "url": "https://flash.jin10.com/detail/20260108225527320800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
           "url": "https://wallstreetcn.com/livenews/3032745",
           "source": "华尔街见闻-快讯",
@@ -1302,6 +1392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "世界黄金协会：2025年全球黄金ETF创下年度资金流入历史新高",
+          "url": "https://wallstreetcn.com/livenews/3033407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "如何评价《英雄联盟》2026 S1 赛季 CG「救赎」？这段讲了什么故事？",
@@ -1335,6 +1436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "Globus Medical(GMED.N)开盘涨12%，股价创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260108223315108800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
