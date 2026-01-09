@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T19:21:52.141194+08:00",
-  "total_titles_processed": 1777,
+  "generated_at": "2026-01-09T20:50:11.584013+08:00",
+  "total_titles_processed": 1891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 145,
+      "match_count": 150,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -62,6 +62,22 @@
           "time_info": "[00时33分 ~ 09时52分]"
         },
         {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            11,
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 20时50分]"
+        },
+        {
           "title": "特朗普放话“我不需要国际法”",
           "url": "https://news.ifeng.com/c/8plmHsoaK5L",
           "source": "凤凰网",
@@ -70,8 +86,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 19时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 20时50分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时42分 ~ 20时50分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -80,11 +109,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时52分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时52分 ~ 20时50分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -157,32 +187,15 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
           "ranks": [
-            17,
-            14,
-            11,
-            9,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时42分 ~ 19时21分]"
-        },
-        {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时42分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时50分]"
         },
         {
           "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
@@ -213,6 +226,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时20分 ~ 14时37分]"
+        },
+        {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时33分 ~ 20时50分]"
         },
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -298,27 +323,27 @@
           "time_info": "[09时52分 ~ 15时27分]"
         },
         {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
           "source": "凤凰网",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[16时33分 ~ 20时50分]"
         },
         {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
           "ranks": [
             8,
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时33分 ~ 19时21分]"
+          "time_info": "[18时26分 ~ 20时50分]"
         },
         {
           "title": "外交部回应李在明将与高市早苗会面",
@@ -353,7 +378,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -397,7 +422,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -423,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "地缘博弈催生牛股 特朗普接管意向助推格陵兰银行暴涨42%",
+          "url": "https://flash.jin10.com/detail/20260109204619672800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "俄外交部：特朗普已下令释放被扣押油轮上的俄公民",
@@ -460,17 +496,6 @@
           "time_info": "[01时29分 ~ 07时21分]"
         },
         {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 19时21分]"
-        },
-        {
           "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
           "url": "https://wallstreetcn.com/livenews/3033738",
           "source": "华尔街见闻-快讯",
@@ -482,18 +507,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 13时28分]"
-        },
-        {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时21分]"
         },
         {
           "title": "美参院推进限制特朗普对委动武决议",
@@ -1001,6 +1014,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "白宫官员：壳牌、瓦莱罗、马拉松、埃尼将出席与特朗普的会唔。",
+          "url": "https://flash.jin10.com/detail/20260109203359740800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "据消息人士透露，委内瑞拉正积极与特朗普政府合作，推进其向美国出口石油的计划，委临时领导人德尔茜·罗德里格斯与美国国务卿鲁比奥保持密切沟通。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3033441",
           "source": "华尔街见闻-快讯",
@@ -1067,6 +1091,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "白宫官员：雪佛龙、埃克森美孚和哈利伯顿将出席与特朗普的会唔。 壳牌、瓦莱罗、马拉松、埃尼将出席与特朗普的会唔。",
+          "url": "https://wallstreetcn.com/livenews/3034131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "特朗普指示购买2000亿美元住房抵押贷款支持证券",
           "url": "https://flash.jin10.com/detail/20260109063019559800",
           "source": "金十数据",
@@ -1087,6 +1122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "白宫官员：雪佛龙、埃克森美孚和哈利伯顿将出席与特朗普的会唔。",
+          "url": "https://flash.jin10.com/detail/20260109203105736800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
@@ -1120,6 +1166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "部分抵押贷款机构美股盘前走强，Beeline Holdings涨19%，loanDepot涨16%。此前特朗普命令其代表购买2000亿美元抵押债券。",
+          "url": "https://flash.jin10.com/detail/20260109202928313800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "美国白宫：特朗普将否决委内瑞拉战争权力的决议。",
@@ -1708,7 +1765,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "我们的故事 那段如有神助的时光",
@@ -1717,11 +1774,12 @@
           "ranks": [
             27,
             28,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时27分 ~ 20时50分]"
         },
         {
           "title": "欧洲军工股多数收涨。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨1.15%，报34.27欧元，突破2025年10月3日所创收盘历史最高位34.110001欧元，欧股盘初达到34.82欧元，突破10月3日顶部34.43欧元。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨0.31%。",
@@ -1737,6 +1795,18 @@
           "time_info": "[01时29分 ~ 03时21分]"
         },
         {
+          "title": "板块成交额历史第四！传媒股获资金密集“扫货”，相关ETF周均涨近16%",
+          "url": "https://www.cls.cn/detail/2253168",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时50分]"
+        },
+        {
           "title": "沪深两市历史第五次突破3万亿大关",
           "url": "https://www.toutiao.com/trending/7593189830675205686/",
           "source": "今日头条",
@@ -1749,16 +1819,15 @@
           "time_info": "[17时31分 ~ 18时26分]"
         },
         {
-          "title": "板块成交额历史第四！传媒股获资金密集“扫货”，相关ETF周均涨近16%",
-          "url": "https://www.cls.cn/detail/2253168",
-          "source": "财联社热门",
+          "title": "北平锋：石平窜台难逃历史审判",
+          "url": "https://www.toutiao.com/trending/7592261340895559721/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            13
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时21分]"
+          "time_info": "[20时49分 ~ 20时50分]"
         },
         {
           "title": "新加坡交易所：2025年衍生品成交量增长10%，达到3.29亿份合约；受强劲机构需求推动，2025年衍生品成交量创历史新高。",
@@ -1778,7 +1847,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1789,7 +1858,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
