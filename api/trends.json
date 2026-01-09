@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T00:31:53.156333+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-10T01:25:17.585912+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "马斯克：人类可以实现半永生",
@@ -37,8 +37,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时25分]"
+        },
+        {
+          "title": "美国亚特兰大联储主席Bostic：大量（价格）成本压力发生在特朗普关税之外。 我担心，民众会对“美联储实现2%通胀目标”丧失信心。 需要专注于让通胀受控。",
+          "url": "https://wallstreetcn.com/livenews/3034326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时25分"
         },
         {
           "title": "马斯克：人类可以实现半永生",
@@ -48,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -59,19 +70,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
           "url": "https://wallstreetcn.com/articles/3762899",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -81,8 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时25分]"
         },
         {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
@@ -92,8 +104,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时25分]"
+        },
+        {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时25分"
         },
         {
           "title": "哥伦比亚总统：“特朗普对我说已在策划军事行动”",
@@ -105,6 +128,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
+          "url": "https://wallstreetcn.com/livenews/3034308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "美最高法院计划于1月14日颁布一批裁决，或涉及特朗普关税案",
+          "url": "https://flash.jin10.com/detail/20260110010144247800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         },
         {
           "title": "白宫顾问哈塞特：在（美国最高法院判决特朗普）关税问题上有非常细致入微的后备计划。",
@@ -165,8 +210,41 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "我们的故事 那段如有神助的时光",
+          "url": "https://www.douyin.com/hot/2361675",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时25分]"
+        },
+        {
+          "title": "标普500指数盘中创历史新高，最新上涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3034316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "巴西总统卢拉：欧盟与Mercosur的贸易协议是“多边主义历史性的一天”。",
+          "url": "https://wallstreetcn.com/livenews/3034315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
         {
           "title": "张若昀、马思纯的新剧《人之初》讲了一个怎样的故事？",
           "url": "https://www.zhihu.com/question/1988664096552400476",
@@ -179,15 +257,37 @@
           "time_info": "00时31分"
         },
         {
-          "title": "我们的故事 那段如有神助的时光",
-          "url": "https://www.douyin.com/hot/2361675",
-          "source": "抖音",
+          "title": "标普500指数盘中创历史新高，最新上涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20260110005523854800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时25分"
+        },
+        {
+          "title": "德国股市在非农日创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3034305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收涨0.89%，报609.38点，时隔两天再创收盘历史新高。 欧元区STOXX 50指数初步收涨1.43%，报5988.88点。 富时泛欧绩优300指数初步收涨0.95%，报2428.69点。",
+          "url": "https://wallstreetcn.com/livenews/3034304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时25分"
         }
       ]
     }
