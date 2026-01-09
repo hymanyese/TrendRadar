@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T01:25:17.585912+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-01-10T02:36:00.875285+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "马斯克：人类可以实现半永生",
@@ -37,19 +37,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
-          "title": "美国亚特兰大联储主席Bostic：大量（价格）成本压力发生在特朗普关税之外。 我担心，民众会对“美联储实现2%通胀目标”丧失信心。 需要专注于让通胀受控。",
-          "url": "https://wallstreetcn.com/livenews/3034326",
+          "title": "美国法官：将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
+          "url": "https://wallstreetcn.com/livenews/3034346",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时25分"
+          "time_info": "02时36分"
         },
         {
           "title": "马斯克：人类可以实现半永生",
@@ -59,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -70,8 +70,42 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
+        },
+        {
+          "title": "美国亚特兰大联储主席Bostic：大量（价格）成本压力发生在特朗普关税之外。 我担心，民众会对“美联储实现2%通胀目标”丧失信心。 需要专注于让通胀受控。",
+          "url": "https://wallstreetcn.com/livenews/3034326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "time_info": "[01时25分 ~ 02时36分]"
+        },
+        {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
+        },
+        {
+          "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32351798",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -82,30 +116,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
-        },
-        {
-          "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32351798",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -114,9 +126,20 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时36分]"
+        },
+        {
+          "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
+          "url": "https://wallstreetcn.com/livenews/3034341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时25分"
+          "time_info": "02时36分"
         },
         {
           "title": "哥伦比亚总统：“特朗普对我说已在策划军事行动”",
@@ -130,13 +153,24 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美国法官表示，她将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
+          "url": "https://flash.jin10.com/detail/20260110020200642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
           "url": "https://wallstreetcn.com/livenews/3034308",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -147,7 +181,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -205,12 +239,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "乌克兰将一大型锂矿开发权授予特朗普密友",
+          "url": "https://flash.jin10.com/detail/20260110013611649800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "我们的故事 那段如有神助的时光",
@@ -220,8 +265,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "标普500指数盘中创历史新高，最新上涨0.6%。",
@@ -230,7 +275,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -241,7 +286,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -263,7 +308,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -274,7 +319,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -285,9 +330,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "欧洲央行二号人物职位吸引六个欧元区国家竞逐",
+          "url": "https://flash.jin10.com/detail/20260110014315579800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     }
