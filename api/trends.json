@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T07:21:16.824494+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-01-09T09:52:55.862854+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 80,
+      "match_count": 85,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -17,19 +17,6 @@
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时21分]"
-        },
-        {
-          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2252232",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
@@ -45,6 +32,20 @@
           "time_info": "[00时33分 ~ 06时24分]"
         },
         {
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时52分]"
+        },
+        {
           "title": "特朗普一口气退出了哪66个国际组织？",
           "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
           "source": "凤凰网",
@@ -52,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时52分]"
         },
         {
           "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
@@ -66,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时52分]"
         },
         {
           "title": "特朗普“炮轰”美国军火商",
@@ -77,8 +78,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时52分]"
         },
         {
           "title": "卷王遇硬茬,马斯克开除加班党",
@@ -86,11 +87,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 09时52分]"
         },
         {
           "title": "特朗普 ：禁止囤房",
@@ -156,7 +158,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -316,6 +318,30 @@
           "time_info": "[00时33分 ~ 01时29分]"
         },
         {
+          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
+          "url": "https://www.zhihu.com/question/1992163357625643469",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时52分]"
+        },
+        {
+          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时52分]"
+        },
+        {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美都有关于处理特朗普住房命令的工具。",
           "url": "https://flash.jin10.com/detail/20260109002620712800",
           "source": "金十数据",
@@ -448,26 +474,15 @@
           "time_info": "[02时32分 ~ 03时21分]"
         },
         {
-          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
-          "url": "https://www.zhihu.com/question/1992163357625643469",
-          "source": "知乎",
+          "title": "特朗普：美联储主席人选已定，但我暂时不想说",
+          "url": "https://www.cls.cn/detail/2252430",
+          "source": "财联社热门",
           "ranks": [
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "丹麦与格陵兰岛的外交官们前往美国白宫，会见特朗普政府的官员们。（美联社）",
@@ -512,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "美国总统特朗普：共和党人应该为那些在战争权力法案上与民主党人投票一致的参议员感到羞耻。",
@@ -564,7 +590,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -586,9 +612,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
+          "url": "https://www.cls.cn/detail/2252393",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "特朗普指示购买2000亿美元住房抵押贷款支持证券",
@@ -597,7 +634,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -622,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "特朗普称必须拥有整个格陵兰 芝商所再度上调贵金属期货保证金 | 环球市场",
+          "url": "https://www.cls.cn/detail/2252459",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "美国白宫：特朗普将否决委内瑞拉战争权力的决议。",
@@ -652,7 +700,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -740,7 +788,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -886,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "韩华航空股价暴涨7.3%。此前美国总统特朗普表示将2027财年美国军费提高至1.5万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3033641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "美国总统特朗普与国会联手推翻美国前总统拜登时代的明尼苏达州采矿禁令，助力安托法加斯塔(Antofagasta)的双金属项目。",
