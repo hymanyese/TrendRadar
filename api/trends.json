@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T20:43:52.977965+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-01-10T21:31:44.974110+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 143,
+      "match_count": 148,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时22分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[07时22分 ~ 21时31分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -92,6 +92,19 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "特朗普放话：我可不要中俄当邻居",
+          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 21时31分]"
+        },
+        {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
           "url": "https://news.ifeng.com/c/8pm6HIDB94W",
           "source": "凤凰网",
@@ -112,11 +125,12 @@
             10,
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时48分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[09时48分 ~ 21时31分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -129,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时35分 ~ 20时43分]"
+          "appearance_count": 11,
+          "time_info": "[12时35分 ~ 21时31分]"
         },
         {
           "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
@@ -167,19 +181,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时31分 ~ 19时19分]"
-        },
-        {
-          "title": "特朗普放话：我可不要中俄当邻居",
-          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 20时43分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -254,6 +255,19 @@
           "time_info": "[05时23分 ~ 07时22分]"
         },
         {
+          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
+          "url": "https://wallstreetcn.com/articles/3762989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 21时31分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗麻烦大了，密切关注伊朗局势。",
           "url": "https://flash.jin10.com/detail/20260110045338102800",
           "source": "金十数据",
@@ -292,30 +306,18 @@
           "time_info": "[15时21分 ~ 20时43分]"
         },
         {
-          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
-          "url": "https://wallstreetcn.com/articles/3762989",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 20时43分]"
-        },
-        {
           "title": "特朗普宣称“不需要国际法”，联合国秘书长重申立场",
           "url": "https://wallstreetcn.com/livenews/3034533",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             5,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时43分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时31分]"
         },
         {
           "title": "特朗普到底退出了什么组织",
@@ -430,17 +432,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "意大利总理说很多问题上不同意特朗普做法",
-          "url": "https://wallstreetcn.com/livenews/3034549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "美国总统特朗普：昨天，委内瑞拉向美国提供了3000万桶石油。部分资金将流向委内瑞拉和石油公司。",
@@ -600,6 +591,18 @@
           "time_info": "[12时35分 ~ 15时21分]"
         },
         {
+          "title": "意大利总理说很多问题上不同意特朗普做法",
+          "url": "https://wallstreetcn.com/livenews/3034549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时31分]"
+        },
+        {
           "title": "美国总统特朗普：进行了一场非常不错的会议。",
           "url": "https://wallstreetcn.com/livenews/3034457",
           "source": "华尔街见闻-快讯",
@@ -611,6 +614,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时22分 ~ 11时26分]"
+        },
+        {
+          "title": "特朗普：很快打击墨境内",
+          "url": "https://wallstreetcn.com/livenews/3034537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-10）",
+          "url": "https://flash.jin10.com/detail/20260110184939351800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：大量（价格）成本压力发生在特朗普关税之外。 我担心，民众会对“美联储实现2%通胀目标”丧失信心。 需要专注于让通胀受控。",
@@ -650,18 +679,6 @@
           "time_info": "[09时49分 ~ 12时36分]"
         },
         {
-          "title": "特朗普：很快打击墨境内",
-          "url": "https://wallstreetcn.com/livenews/3034537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时43分]"
-        },
-        {
           "title": "美国法官：将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
           "url": "https://wallstreetcn.com/livenews/3034346",
           "source": "华尔街见闻-快讯",
@@ -673,18 +690,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时28分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-10）",
-          "url": "https://flash.jin10.com/detail/20260110184939351800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时43分]"
         },
         {
           "title": "特朗普称委内瑞拉反对派要员马查多下周访美",
@@ -836,6 +841,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时33分 ~ 16时29分]"
+        },
+        {
+          "title": "特朗普宣称“不需要国际法” 联合国秘书长重申立场",
+          "url": "https://flash.jin10.com/detail/20260110180529633800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
+        },
+        {
+          "title": "消息人士：美国中央情报局（CIA）对古巴的经济和政治状况做出了悲观的描述，但这些评估并未为特朗普上周有关在邻国委内瑞拉发生军事行动后古巴“即将崩溃”的预测提供明确依据。中情局认为，古巴经济的关键领域，如农业和旅游业，因频繁停电、贸易制裁以及其他问题而承受着巨大压力。而来自委内瑞拉的石油进口及其他支持资源的潜在丧失，可能会使政府的治理工作变得更加困难。",
+          "url": "https://flash.jin10.com/detail/20260110180247697800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "美国总统特朗普：没人真正知道古巴局势会如何发展。",
@@ -991,18 +1022,6 @@
           "time_info": "[03时21分 ~ 04时28分]"
         },
         {
-          "title": "特朗普宣称“不需要国际法” 联合国秘书长重申立场",
-          "url": "https://flash.jin10.com/detail/20260110180529633800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时43分]"
-        },
-        {
           "title": "美国总统特朗普：今天的石油会议主要讨论关于委内瑞拉的（投资）问题。 能源部长Wright和Burgum下周将会见其他的石油公司。",
           "url": "https://wallstreetcn.com/livenews/3034359",
           "source": "华尔街见闻-快讯",
@@ -1027,18 +1046,6 @@
           "time_info": "[07时22分 ~ 09时49分]"
         },
         {
-          "title": "消息人士：美国中央情报局（CIA）对古巴的经济和政治状况做出了悲观的描述，但这些评估并未为特朗普上周有关在邻国委内瑞拉发生军事行动后古巴“即将崩溃”的预测提供明确依据。中情局认为，古巴经济的关键领域，如农业和旅游业，因频繁停电、贸易制裁以及其他问题而承受着巨大压力。而来自委内瑞拉的石油进口及其他支持资源的潜在丧失，可能会使政府的治理工作变得更加困难。",
-          "url": "https://flash.jin10.com/detail/20260110180247697800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时43分]"
-        },
-        {
           "title": "特朗普的MBS购买计划被比作“准QE”，为交易员带来买入长债的理由",
           "url": "https://wallstreetcn.com/livenews/3034449",
           "source": "华尔街见闻-快讯",
@@ -1049,6 +1056,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 09时49分]"
+        },
+        {
+          "title": "信号比规模重要--高盛解读“特朗普版QE”",
+          "url": "https://wallstreetcn.com/articles/3763012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时31分]"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
@@ -1180,6 +1198,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "G7峰会据悉系为特朗普而改期",
+          "url": "https://flash.jin10.com/detail/20260110203044449800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "特朗普重返白宫，六大银行预计将获利1570亿美元",
           "url": "https://wallstreetcn.com/livenews/3034372",
           "source": "华尔街见闻-快讯",
@@ -1219,7 +1248,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1257,17 +1286,6 @@
           "time_info": "06时24分"
         },
         {
-          "title": "信号比规模重要--高盛解读“特朗普版QE”",
-          "url": "https://wallstreetcn.com/articles/3763012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "美国总统特朗普：油轮现在正返回委内瑞拉，石油将通过我们为此类销售而建立的能源协议进行出售。",
           "url": "https://flash.jin10.com/detail/20260110035930101800",
           "source": "金十数据",
@@ -1299,6 +1317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "美国总统特朗普：在这次与会中，一个非常重要的因素将是为美国人民降低油价。",
@@ -1499,6 +1528,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "特朗普表示你们不干有人干",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E4%BD%A0%E4%BB%AC%E4%B8%8D%E5%B9%B2%E6%9C%89%E4%BA%BA%E5%B9%B2%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "美国总统特朗普：不考虑以往在委内瑞拉流失了多少石油公司。 要求石油行业在同一条起跑线（Even plate）上开始（投资委内瑞拉）。 石油行业将获得安全保障。",
           "url": "https://wallstreetcn.com/livenews/3034398",
           "source": "华尔街见闻-快讯",
@@ -1508,6 +1548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "法国推迟G7峰会只为避特朗普生日",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%8E%A8%E8%BF%9FG7%E5%B3%B0%E4%BC%9A%E5%8F%AA%E4%B8%BA%E9%81%BF%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%9F%E6%97%A5%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "特朗普内涵中俄要拿下格陵兰岛",
@@ -1642,6 +1693,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "高市早苗会将日本带向何处",
+          "url": "https://www.toutiao.com/trending/7593705367620554278/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "特朗普称2月初将在白宫会见哥伦比亚总统佩特罗",
           "url": "https://flash.jin10.com/detail/20260110031332303800",
           "source": "金十数据",
@@ -1713,8 +1775,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时48分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[09时48分 ~ 21时31分]"
         },
         {
           "title": "我们的故事 那段如有神助的时光",
