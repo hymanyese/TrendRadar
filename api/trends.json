@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T22:21:35.868332+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2026-01-10T23:22:33.160383+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 149,
+      "match_count": 153,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时22分 ~ 22时21分]"
+          "appearance_count": 15,
+          "time_info": "[07时22分 ~ 23时22分]"
         },
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 22时21分]"
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 23时22分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -128,11 +128,12 @@
             6,
             7,
             8,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时48分 ~ 22时21分]"
+          "appearance_count": 16,
+          "time_info": "[09时48分 ~ 23时22分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -145,8 +146,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时35分 ~ 22时21分]"
+          "appearance_count": 13,
+          "time_info": "[12时35分 ~ 23时22分]"
         },
         {
           "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
@@ -194,8 +195,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时21分 ~ 22时21分]"
+          "appearance_count": 9,
+          "time_info": "[15时21分 ~ 23时22分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -356,6 +357,21 @@
           "time_info": "04时28分"
         },
         {
+          "title": "特朗普：很快打击墨境内",
+          "url": "https://wallstreetcn.com/livenews/3034537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            15,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 23时22分]"
+        },
+        {
           "title": "特朗普重申要得到格陵兰岛",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E8%A6%81%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
           "source": "bilibili 热搜",
@@ -411,6 +427,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
+          "url": "https://wallstreetcn.com/livenews/3034570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
           "url": "https://flash.jin10.com/detail/20260110102018762800",
           "source": "金十数据",
@@ -446,6 +473,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "意大利总理说很多问题上不同意特朗普做法",
+          "url": "https://wallstreetcn.com/livenews/3034549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时22分]"
         },
         {
           "title": "美国消费者银行家协会：美国银行业回应信用卡利率设限提案，表示认同美国总统特朗普帮助美国人获得更实惠信贷的目标。",
@@ -513,20 +554,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时29分 ~ 19时19分]"
-        },
-        {
-          "title": "特朗普：很快打击墨境内",
-          "url": "https://wallstreetcn.com/livenews/3034537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 22时21分]"
         },
         {
           "title": "中信证券：特朗普任期内黄金价格将因委内瑞拉事件加速上行",
@@ -622,19 +649,6 @@
           "time_info": "[12时35分 ~ 15时21分]"
         },
         {
-          "title": "意大利总理说很多问题上不同意特朗普做法",
-          "url": "https://wallstreetcn.com/livenews/3034549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时21分]"
-        },
-        {
           "title": "美国总统特朗普：进行了一场非常不错的会议。",
           "url": "https://wallstreetcn.com/livenews/3034457",
           "source": "华尔街见闻-快讯",
@@ -720,6 +734,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 09时49分]"
+        },
+        {
+          "title": "信号比规模重要--高盛解读“特朗普版QE”",
+          "url": "https://wallstreetcn.com/articles/3763012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时22分]"
         },
         {
           "title": "美国总统特朗普：我喜欢丹麦，但他们并不拥有格陵兰。 不管他们（丹麦）喜欢与否，我都要对格陵兰做点什么。 要么和平解决，要么（我）硬来（the easy or hard way）。",
@@ -836,6 +863,19 @@
           "time_info": "[05时23分 ~ 07时22分]"
         },
         {
+          "title": "G7峰会据悉系为特朗普而改期",
+          "url": "https://flash.jin10.com/detail/20260110203044449800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时22分]"
+        },
+        {
           "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
           "url": "https://flash.jin10.com/detail/20260110135717759800",
           "source": "金十数据",
@@ -847,18 +887,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时33分 ~ 16时29分]"
-        },
-        {
-          "title": "信号比规模重要--高盛解读“特朗普版QE”",
-          "url": "https://wallstreetcn.com/articles/3763012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时21分]"
         },
         {
           "title": "特朗普宣称“不需要国际法” 联合国秘书长重申立场",
@@ -918,6 +946,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时22分]"
+        },
+        {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时22分]"
         },
         {
           "title": "马斯克：白领劳动力将最先消失",
@@ -990,18 +1029,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时22分]"
-        },
-        {
-          "title": "G7峰会据悉系为特朗普而改期",
-          "url": "https://flash.jin10.com/detail/20260110203044449800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时21分]"
         },
         {
           "title": "特朗普的“房管局长”Pulte：需要处理鲍威尔",
@@ -1134,17 +1161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时21分]"
         },
         {
           "title": "会去抓普京吗？特朗普：没必要 我们关系很好",
@@ -1283,6 +1299,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
+          "url": "https://www.zhihu.com/question/1993265925231761101",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美国总统特朗普：将在2月份第一周会见哥伦比亚总统Petro。",
           "url": "https://wallstreetcn.com/livenews/3034358",
           "source": "华尔街见闻-快讯",
@@ -1292,6 +1319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "高市早苗考虑提前大选",
+          "url": "https://www.douyin.com/hot/2363282",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "特朗普称美国必须拥有整个格陵兰，白宫“购岛”方案流出",
@@ -1311,7 +1349,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1679,6 +1717,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "俄罗斯回应特朗普释放俄船员",
+          "url": "https://www.douyin.com/hot/2362921",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "特朗普戴“快乐特朗普”胸针",
           "url": "https://www.toutiao.com/trending/7592493891497214003/",
           "source": "今日头条",
@@ -1791,11 +1840,12 @@
             10,
             9,
             8,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时48分 ~ 22时21分]"
+          "appearance_count": 16,
+          "time_info": "[09时48分 ~ 23时22分]"
         },
         {
           "title": "我们的故事 那段如有神助的时光",
