@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-11T16:31:46.471068+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-01-11T17:24:03.074092+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
+          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 17时24分]"
+        },
         {
           "title": "特朗普放话：我可不要中俄当邻居",
           "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
-          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 16时31分]"
         },
         {
           "title": "特朗普：很快打击墨西哥境内",
@@ -42,8 +43,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时18分 ~ 16时31分]"
+          "appearance_count": 13,
+          "time_info": "[03时18分 ~ 17时24分]"
+        },
+        {
+          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
+          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时56分 ~ 17时24分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -74,6 +87,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 14时35分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时56分 ~ 17时24分]"
         },
         {
           "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
@@ -136,8 +162,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 16时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 17时24分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -168,31 +194,6 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
-          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时56分 ~ 16时31分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时56分 ~ 16时31分]"
-        },
-        {
           "title": "意大利总理说很多问题上不同意特朗普做法",
           "url": "https://wallstreetcn.com/livenews/3034549",
           "source": "华尔街见闻-快讯",
@@ -216,17 +217,6 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "特朗普：很快打击墨境内",
-          "url": "https://wallstreetcn.com/livenews/3034537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
           "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
           "url": "https://wallstreetcn.com/articles/3763028",
           "source": "华尔街见闻",
@@ -237,8 +227,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[11时57分 ~ 17时24分]"
         },
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -249,11 +239,23 @@
             9,
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普：很快打击墨境内",
+          "url": "https://wallstreetcn.com/livenews/3034537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时22分]"
         },
         {
           "title": "伊朗议会议长警告美国总统特朗普，任何袭击都将导致伊朗将以色列和该地区的美国基地视为“合法目标”并予以打击。",
@@ -342,6 +344,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "达尔全球首席执行官表示，达尔全球与特朗普集团将推出价值100亿美元的全新沙特房地产项目。",
+          "url": "https://flash.jin10.com/detail/20260111163438424800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
           "source": "百度热搜",
@@ -370,6 +383,19 @@
           "time_info": "[11时57分 ~ 14时35分]"
         },
         {
+          "title": "意大利总理：不同意特朗普许多做法",
+          "url": "https://www.toutiao.com/trending/7593680373650358291/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 17时24分]"
+        },
+        {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
           "url": "https://wallstreetcn.com/livenews/3034579",
           "source": "华尔街见闻-快讯",
@@ -380,6 +406,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 10时01分]"
+        },
+        {
+          "title": "马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
+          "url": "https://wallstreetcn.com/livenews/3034647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 17时24分]"
         },
         {
           "title": "马斯克：推特将在七天内开源其算法",
@@ -418,18 +457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 10时01分]"
-        },
-        {
-          "title": "马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
-          "url": "https://wallstreetcn.com/livenews/3034647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时31分]"
         },
         {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
@@ -520,18 +547,6 @@
           "time_info": "[11时57分 ~ 13时27分]"
         },
         {
-          "title": "意大利总理：不同意特朗普许多做法",
-          "url": "https://www.toutiao.com/trending/7593680373650358291/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 16时31分]"
-        },
-        {
           "title": "特朗普再次威胁干涉伊朗 称准备提供“帮助”",
           "url": "https://flash.jin10.com/detail/20260111081229064800",
           "source": "金十数据",
@@ -556,6 +571,29 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
+          "title": "意总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
+          "url": "https://news.ifeng.com/c/8ppArIDCETK",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
+          "url": "https://flash.jin10.com/detail/20260111150811201800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时24分]"
+        },
+        {
           "title": "日本联合执政伙伴负责人Yoshimura：已于周五与日本首相高市早苗通话，若她如国内媒体报道般宣布提前大选，我并不感到意外。 是否解散议会、提前大选由首相决定，但我们随时准备参选。",
           "url": "https://wallstreetcn.com/livenews/3034593",
           "source": "华尔街见闻-快讯",
@@ -566,6 +604,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 11时57分]"
+        },
+        {
+          "title": "疑似马斯克AI账号登顶LOL韩服",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "特朗普被曝已听取打击伊朗方案汇报",
@@ -615,15 +664,15 @@
           "time_info": "10时01分"
         },
         {
-          "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
-          "url": "https://flash.jin10.com/detail/20260111150811201800",
-          "source": "金十数据",
+          "title": "达尔环球CEO表示，达尔环球公司与特朗普集团将启动价值100亿美元的新沙特房地产项目。",
+          "url": "https://wallstreetcn.com/livenews/3034676",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "17时24分"
         },
         {
           "title": "意大利总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
@@ -632,9 +681,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
@@ -700,7 +760,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
