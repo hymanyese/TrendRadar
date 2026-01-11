@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T19:19:37.102653+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-01-11T20:44:28.703928+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 61,
+      "match_count": 66,
       "titles": [
         {
           "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
@@ -60,19 +60,6 @@
           "time_info": "[03时18分 ~ 19时19分]"
         },
         {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时56分 ~ 19时19分]"
-        },
-        {
           "title": "俄罗斯回应特朗普释放俄船员",
           "url": "https://www.douyin.com/hot/2362921",
           "source": "抖音",
@@ -89,6 +76,20 @@
           "time_info": "[01时20分 ~ 07时22分]"
         },
         {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时56分 ~ 20时44分]"
+        },
+        {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
           "url": "https://wallstreetcn.com/articles/3763015",
           "source": "华尔街见闻",
@@ -101,6 +102,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 14时35分]"
+        },
+        {
+          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
+          "url": "https://wallstreetcn.com/articles/3763028",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 20时44分]"
         },
         {
           "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
@@ -127,6 +143,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 11时57分]"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 20时44分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
@@ -164,8 +197,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 19时19分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 20时44分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -194,36 +227,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
-          "url": "https://wallstreetcn.com/articles/3763028",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 19时19分]"
-        },
-        {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 19时19分]"
         },
         {
           "title": "意大利总理说很多问题上不同意特朗普做法",
@@ -260,6 +263,17 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
+          "title": "特朗普画饼翻车,油企拒投不接盘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348965&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%BB%E9%A5%BC%E7%BF%BB%E8%BD%A6%2C%E6%B2%B9%E4%BC%81%E6%8B%92%E6%8A%95%E4%B8%8D%E6%8E%A5%E7%9B%98",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时44分]"
+        },
+        {
           "title": "伊朗议会议长警告美国总统特朗普，任何袭击都将导致伊朗将以色列和该地区的美国基地视为“合法目标”并予以打击。",
           "url": "https://flash.jin10.com/detail/20260111143012383800",
           "source": "金十数据",
@@ -269,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "美国总统特朗普：多年来，古巴一直依靠委内瑞拉的大量石油和资金维持运转。但现在不会再有石油和资金流向古巴了。我强烈建议他们赶紧达成协议，以免为时已晚。",
+          "url": "https://flash.jin10.com/detail/20260111203059463800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
@@ -333,28 +358,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时01分 ~ 15时23分]"
-        },
-        {
-          "title": "特朗普威胁夺取格陵兰岛，德国副总理表态：国际法原则适用于所有人，包括美国",
-          "url": "https://flash.jin10.com/detail/20260111185036309800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "特朗普画饼翻车,油企拒投不接盘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348965&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%BB%E9%A5%BC%E7%BF%BB%E8%BD%A6%2C%E6%B2%B9%E4%BC%81%E6%8B%92%E6%8A%95%E4%B8%8D%E6%8E%A5%E7%9B%98",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -447,6 +450,18 @@
           "time_info": "[15时23分 ~ 17时24分]"
         },
         {
+          "title": "特朗普威胁夺取格陵兰岛，德国副总理表态：国际法原则适用于所有人，包括美国",
+          "url": "https://flash.jin10.com/detail/20260111185036309800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时44分]"
+        },
+        {
           "title": "意总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
           "url": "https://news.ifeng.com/c/8ppArIDCETK",
           "source": "凤凰网",
@@ -532,6 +547,18 @@
           "time_info": "[10时01分 ~ 11时57分]"
         },
         {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时44分]"
+        },
+        {
           "title": "马斯克：X平台将于七天内开源其算法",
           "url": "https://wallstreetcn.com/livenews/3034612",
           "source": "华尔街见闻-快讯",
@@ -605,18 +632,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 18时24分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时19分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
@@ -738,6 +753,17 @@
           "time_info": "[15时23分 ~ 16时31分]"
         },
         {
+          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
+          "url": "https://wallstreetcn.com/livenews/3034723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "特朗普被曝听取军事打击伊朗方案",
           "url": "https://www.douyin.com/hot/2363984",
           "source": "抖音",
@@ -760,6 +786,28 @@
           "time_info": "17时24分"
         },
         {
+          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
+          "url": "https://wallstreetcn.com/articles/3763038",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”，美国总统特朗普随后截图并评论称：“听起来不错！”",
+          "url": "https://flash.jin10.com/detail/20260111195052467800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "意大利总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
           "url": "https://news.ifeng.com/c/8ppArIDCETK",
           "source": "凤凰网",
@@ -769,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "特朗普自称从不觉得快乐 直至让美国再次伟大",
+          "url": "https://flash.jin10.com/detail/20260111194008167800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
@@ -832,11 +891,12 @@
           "url": "https://wallstreetcn.com/livenews/3034700",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时44分]"
         },
         {
           "title": "大宗商品 - 长期，中期和短期的故事",
@@ -846,8 +906,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 20时44分]"
         }
       ]
     },
