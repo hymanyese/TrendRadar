@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T13:32:16.989677+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-01-12T14:40:45.929238+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 13时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 14时40分]"
         },
         {
           "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时40分]"
         },
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
@@ -74,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 14时40分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -172,8 +172,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 14时40分]"
         },
         {
           "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
@@ -184,8 +184,31 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时40分]"
+        },
+        {
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时32分]"
+          "time_info": "[11时53分 ~ 14时40分]"
+        },
+        {
+          "title": "特朗普威胁古巴尽快同美国“达成协议”",
+          "url": "https://www.cls.cn/detail/2254162",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 14时40分]"
         },
         {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
@@ -247,28 +270,6 @@
           "time_info": "09时57分"
         },
         {
-          "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
-          "url": "https://wallstreetcn.com/livenews/3034991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
-          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 13时32分]"
-        },
-        {
           "title": "美国共和党参议员蒂利斯：如果之前还有人怀疑特朗普政府内部的顾问是否正在积极推动结束美联储的独立性，那么现在应该没有任何疑问了。",
           "url": "https://flash.jin10.com/detail/20260112092912020800",
           "source": "金十数据",
@@ -280,16 +281,15 @@
           "time_info": "09时57分"
         },
         {
-          "title": "特朗普威胁古巴尽快同美国“达成协议”",
-          "url": "https://www.cls.cn/detail/2254162",
-          "source": "财联社热门",
+          "title": "禁运卡脖子,高市早苗急眼了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348983&amp;topic_name=%E7%A6%81%E8%BF%90%E5%8D%A1%E8%84%96%E5%AD%90%2C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%80%A5%E7%9C%BC%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            9,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 13时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
@@ -304,6 +304,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时26分 ~ 07时22分]"
+        },
+        {
+          "title": "马斯克称星舰将每年量产 1 万枚，这目标能否实现？对航天业有何影响？",
+          "url": "https://www.zhihu.com/question/1992680924475835169",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 14时40分]"
         },
         {
           "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
@@ -344,6 +357,18 @@
           "time_info": "[05时21分 ~ 07时22分]"
         },
         {
+          "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3034991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 14时40分]"
+        },
+        {
           "title": "分析师：特朗普攻击美联储动摇市场信心",
           "url": "https://flash.jin10.com/detail/20260112115831082800",
           "source": "金十数据",
@@ -354,18 +379,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 13时32分]"
-        },
-        {
-          "title": "马斯克称星舰将每年量产 1 万枚，这目标能否实现？对航天业有何影响？",
-          "url": "https://www.zhihu.com/question/1992680924475835169",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 13时32分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -549,6 +562,28 @@
           "time_info": "09时57分"
         },
         {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "马斯克称人类可以实现半永生，如果能「改写」设定的程序就能活得更久，你认为能实现吗？",
           "url": "https://www.zhihu.com/question/1993092633799647924",
           "source": "知乎",
@@ -607,7 +642,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "现货黄金再创历史新高",
@@ -619,6 +654,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时57分 ~ 13时32分]"
+        },
+        {
+          "title": "韩国首尔综指收盘上涨0.84%，报4524.79点，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3035043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "中东股市收盘播报｜沙特股市周日收涨1.3%，埃及股指涨约2.5%创收盘历史新高",
@@ -656,6 +702,28 @@
           "time_info": "09时57分"
         },
         {
+          "title": "沪银主力合约日内暴涨14.00%，现报20873.00元/千克，续创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260112134539612800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "沪银主力合约日内大涨14%，现报20873.00元/千克，续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3035005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "陈星旭卢昱晓连黑历史都是高清的",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%9F%E6%97%AD%E5%8D%A2%E6%98%B1%E6%99%93%E8%BF%9E%E9%BB%91%E5%8E%86%E5%8F%B2%E9%83%BD%E6%98%AF%E9%AB%98%E6%B8%85%E7%9A%84%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -687,6 +755,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "A股量子科技概念震荡走强，科大国创午后涨超18%，国盾量子涨超10%创历史新高，格尔软件此前涨停，神州信息、必创科技、吉大正元等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3035003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "现货白银突破84美元/盎司，日内涨约5.5%，现报84.30美元/盎司，续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3035002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "历史上有哪些兵家必争之地",
