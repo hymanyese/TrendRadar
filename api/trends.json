@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T01:26:17.373868+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-01-13T02:36:22.224940+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 23,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时36分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时36分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -37,8 +37,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时36分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
+          "url": "https://wallstreetcn.com/livenews/3035514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "英国科技大臣Liz Kendall：马斯克旗下Grok生成的图片是“滥用非法武器”。",
@@ -47,9 +58,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "白宫新闻秘书利维特：：特朗普并未设定收购格陵兰岛的时间表。",
+          "url": "https://flash.jin10.com/detail/20260113022632820800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "英国科技部长Liz Kendall：马斯克旗下Grok生成的图片是“滥用非法武器”。 英国政府将持续审查马斯克旗下社交媒体平台X（原名推特）。",
@@ -58,9 +80,78 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "白宫新闻秘书利维特：特朗普总统已与马斯克就互联网问题进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260113022328859800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "日媒称高市早苗或解散众议院提前大选，原因有哪些？她会成为日本最短命的首相之一吗？",
+          "url": "https://www.zhihu.com/question/1994067615191162961",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时36分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时36分]"
+        },
+        {
+          "title": "禁运卡脖子,高市早苗急眼了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348983&amp;topic_name=%E7%A6%81%E8%BF%90%E5%8D%A1%E8%84%96%E5%AD%90%2C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%80%A5%E7%9C%BC%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时36分]"
+        },
+        {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时36分]"
+        },
+        {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时36分]"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：与特朗普政府的沟通非常顺畅。",
@@ -87,62 +178,6 @@
           "time_info": "[00时31分 ~ 01时26分]"
         },
         {
-          "title": "日媒称高市早苗或解散众议院提前大选，原因有哪些？她会成为日本最短命的首相之一吗？",
-          "url": "https://www.zhihu.com/question/1994067615191162961",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时26分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时26分]"
-        },
-        {
-          "title": "禁运卡脖子,高市早苗急眼了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348983&amp;topic_name=%E7%A6%81%E8%BF%90%E5%8D%A1%E8%84%96%E5%AD%90%2C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%80%A5%E7%9C%BC%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时26分]"
-        },
-        {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时26分]"
-        },
-        {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时26分]"
-        },
-        {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
           "url": "https://wallstreetcn.com/articles/3763089",
           "source": "华尔街见闻",
@@ -150,8 +185,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -161,8 +196,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -172,8 +207,30 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 02时36分]"
+        },
+        {
+          "title": "美国政府官员：总统特朗普将于周四在白宫会见委内瑞拉反对派Machado。",
+          "url": "https://wallstreetcn.com/livenews/3035504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "白宫新闻秘书利维特：特朗普不惧对伊朗动用军事力量，但更倾向于外交手段。",
+          "url": "https://flash.jin10.com/detail/20260113022137220800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "美国参议院共和党成员Cramer：我不相信美联储主席鲍威尔是一个罪犯。 希望（特朗普政府的司法部）对鲍威尔的调查“能尽快结束”。",
@@ -182,7 +239,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -204,9 +261,53 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "白宫新闻秘书利维特：美国总统特朗普相信美联储的独立性。",
+          "url": "https://flash.jin10.com/detail/20260113021957699800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "英国：誓言将马斯克的Grok生成的“脱衣”图像定为非法",
+          "url": "https://wallstreetcn.com/livenews/3035500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "白宫新闻秘书利维特：美国总统特朗普并未指示司法部官员调查美联储主席鲍威尔。",
+          "url": "https://flash.jin10.com/detail/20260113021950421800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普：政府若在关税问题上败诉 美国或面临数万亿债务泥潭",
+          "url": "https://flash.jin10.com/detail/20260113021526999800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "墨西哥总统辛鲍姆告诉美国总统特朗普：墨方反对军事干预。 墨西哥不需要美国的军事援助。",
@@ -231,13 +332,24 @@
           "time_info": "00时31分"
         },
         {
+          "title": "白宫新闻秘书利维特：特朗普明天将参观福特工厂。",
+          "url": "https://flash.jin10.com/detail/20260113020925954800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "诺和诺德CEO：公司对直接与特朗普政府对话感到欣慰。 预计Wegovy口服药有助于拓展减肥药市场。",
           "url": "https://wallstreetcn.com/livenews/3035459",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -248,9 +360,42 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "美国众议院共和党成员French Hill：（特朗普政府）对美联储主席鲍威尔诉诸法律的做法造成不必要的干扰。",
+          "url": "https://wallstreetcn.com/livenews/3035488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "委内瑞拉“反对派”Machado将于周四会见美国总统特朗普。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3035486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国农产品期货下跌，芝加哥玉米期货跌3%，自2025年10月1日出现历史最长天数政府关门以来，特朗普政府首次披露农产品库存报告。",
+          "url": "https://wallstreetcn.com/livenews/3035485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "美国国务院：特朗普总统正在考虑一系列针对伊朗的强硬选项。",
@@ -267,8 +412,31 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "李大霄解读A股成交额创历史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BBA%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%9B%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时36分]"
+        },
+        {
+          "title": "1 月 12 日三大指数均涨超 1%，两市成交额 3.6 万亿元创历史新高，如何看待今日行情？",
+          "url": "https://www.zhihu.com/question/1993979124902019099",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时36分]"
+        },
         {
           "title": "沃尔玛涨约3.4%，刷新盘中历史高位至118.46美元，盘中市值超过9400亿美元。",
           "url": "https://wallstreetcn.com/livenews/3035455",
@@ -280,29 +448,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时26分]"
-        },
-        {
-          "title": "李大霄解读A股成交额创历史",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BBA%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%9B%E5%8E%86%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时26分]"
-        },
-        {
-          "title": "1 月 12 日三大指数均涨超 1%，两市成交额 3.6 万亿元创历史新高，如何看待今日行情？",
-          "url": "https://www.zhihu.com/question/1993979124902019099",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市涨2%创收盘历史新高，金银矿业股领跑",
@@ -323,7 +468,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -334,9 +479,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "台积电股价涨幅扩大至1.5%，报329.64美元，逼近盘中历史最高位333.08美元。",
+          "url": "https://wallstreetcn.com/livenews/3035491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "欧洲军工股多数收涨，由蒂森克虏伯拆分出去的TKMS GmbH涨12.23%，蒂森克虏伯涨4.23%。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收1.13%，报35.205002欧元，历史上首次收于35欧元关口上方。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.20%，也继续创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3035490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     }
