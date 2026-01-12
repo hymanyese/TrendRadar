@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T05:24:11.970533+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-01-13T06:22:04.211625+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "日媒称高市早苗或解散众议院提前大选，原因有哪些？她会成为日本最短命的首相之一吗？",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -60,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "禁运卡脖子,高市早苗急眼了",
@@ -71,8 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
@@ -83,8 +83,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -95,11 +95,12 @@
             22,
             28,
             26,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -107,33 +108,36 @@
           "source": "今日头条",
           "ranks": [
             23,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 06时22分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
           "url": "https://wallstreetcn.com/articles/3763089",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
           "url": "https://wallstreetcn.com/articles/3763082",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -145,17 +149,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
-        },
-        {
-          "title": "美国总统特朗普倾向于袭击伊朗，但还没有做最终决定。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3035581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
         },
         {
           "title": "英国科技大臣Liz Kendall：马斯克旗下Grok生成的图片是“滥用非法武器”。",
@@ -178,6 +171,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "罗德里格斯回应特朗普“自诩委内瑞拉代总统”",
+          "url": "https://wallstreetcn.com/livenews/3035584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时28分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普倾向于袭击伊朗，但还没有做最终决定。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3035581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普：最高法若就关税政策作出不利裁决，美将无法负担代价",
+          "url": "https://wallstreetcn.com/livenews/3035556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时22分]"
         },
         {
           "title": "白宫新闻秘书利维特：：特朗普并未设定收购格陵兰岛的时间表。",
@@ -215,18 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普：最高法若就关税政策作出不利裁决，美将无法负担代价",
-          "url": "https://wallstreetcn.com/livenews/3035556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时24分]"
         },
         {
           "title": "特朗普古巴政策现“温差” 仍允许墨西哥向古巴输油",
@@ -277,17 +305,6 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
-          "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时24分]"
-        },
-        {
           "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
           "url": "https://flash.jin10.com/detail/20260113032445731800",
           "source": "金十数据",
@@ -322,6 +339,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时28分]"
+        },
+        {
+          "title": "美媒：特朗普最近几周多次抱怨司法部长帕姆·邦迪",
+          "url": "https://flash.jin10.com/detail/20260113045004188800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时22分]"
         },
         {
           "title": "美国政府官员：总统特朗普将于周四在白宫会见委内瑞拉反对派Machado。",
@@ -370,6 +399,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时28分]"
+        },
+        {
+          "title": "美国总统特朗普曾多次向助手抱怨司法部长邦迪（Bondi），自称倍感挫折。 不满之处包括对Comey和james的调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3035569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时22分]"
         },
         {
           "title": "白宫新闻秘书利维特：美国总统特朗普相信美联储的独立性。",
@@ -432,6 +473,18 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
+          "title": "特朗普的司法部调查鲍威尔给日元带来一波急剧的冲高回落行情",
+          "url": "https://wallstreetcn.com/livenews/3035564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
           "title": "白宫新闻秘书利维特：特朗普明天将参观福特工厂。",
           "url": "https://flash.jin10.com/detail/20260113020925954800",
           "source": "金十数据",
@@ -442,6 +495,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普：任何与伊朗开展业务的国家都将被征收25%关税",
+          "url": "https://flash.jin10.com/detail/20260113054813875800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "据华尔街日报：以美国副总统万斯为首的某些高级政府助手敦促美国总统特朗普在对伊朗采取报复行动之前先尝试外交手段。",
@@ -455,15 +519,15 @@
           "time_info": "04时28分"
         },
         {
-          "title": "美媒：特朗普最近几周多次抱怨司法部长帕姆·邦迪",
-          "url": "https://flash.jin10.com/detail/20260113045004188800",
+          "title": "罗德里格斯回应特朗普“自诩委内瑞拉代总统”",
+          "url": "https://flash.jin10.com/detail/20260113054439873800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时22分"
         },
         {
           "title": "据华尔街日报：白宫权衡伊朗的核谈提议，而美国总统特朗普倾向于采取打击行动。",
@@ -508,17 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "美国总统特朗普曾多次向助手抱怨司法部长邦迪（Bondi），自称倍感挫折。 不满之处包括对Comey和james的调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3035569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
         },
         {
           "title": "美国国会山一个跨党派团体前往丹麦首都哥本哈根。 在总统特朗普企图吞并格陵兰岛之际，他们会见丹麦官员们。（美联社）",
@@ -576,17 +629,6 @@
           "time_info": "04时28分"
         },
         {
-          "title": "特朗普的司法部调查鲍威尔给日元带来一波急剧的冲高回落行情",
-          "url": "https://wallstreetcn.com/livenews/3035564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。 （自从美方强行掳走委内瑞拉总统马杜罗以来）委内瑞拉政府已经“全面配合”（美方的意图）。 现在谈论委内瑞拉大选还言之过早。",
           "url": "https://wallstreetcn.com/livenews/3035514",
           "source": "华尔街见闻-快讯",
@@ -626,7 +668,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -700,7 +742,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "李大霄解读A股成交额创历史",
@@ -711,11 +753,12 @@
             12,
             13,
             18,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "1 月 12 日三大指数均涨超 1%，两市成交额 3.6 万亿元创历史新高，如何看待今日行情？",
@@ -725,8 +768,43 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 06时22分]"
+        },
+        {
+          "title": "无人机新规后，飞无人机有哪些注意事项？哪些无人机又将退出历史？",
+          "url": "https://www.zhihu.com/question/1991585029810299793",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时22分 ~ 06时22分]"
+        },
+        {
+          "title": "白银期货涨超6.9%，一度刷新历史高位，接近85美元",
+          "url": "https://wallstreetcn.com/livenews/3035588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "纽约期金涨约2.3%，一度刷新历史高位至4640美元上方",
+          "url": "https://wallstreetcn.com/livenews/3035586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "标普500盘中创历史新高，最新上涨0.2%。",
@@ -751,18 +829,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时26分]"
-        },
-        {
-          "title": "无人机新规后，飞无人机有哪些注意事项？哪些无人机又将退出历史？",
-          "url": "https://www.zhihu.com/question/1991585029810299793",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时22分 ~ 05时24分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市涨2%创收盘历史新高，金银矿业股领跑",
@@ -797,6 +863,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "标普、道指继续创收盘历史新高，半导体指数涨幅不足0.5%，费城银行指数跌超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3035572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.18%，报610.75点。 欧元区STOXX 50指数初步收涨0.25%，报6012.61点，继续创收盘历史新高。 富时泛欧绩优300指数初步收涨0.22%，报2436.06点。",
