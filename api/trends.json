@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T07:22:09.677913+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-01-12T09:57:44.217346+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 20,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 09时57分]"
         },
         {
           "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
@@ -66,6 +67,17 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
+          "url": "https://wallstreetcn.com/articles/3763038",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 09时57分]"
+        },
+        {
           "title": "全美抗议 特朗普“后院”失火",
           "url": "https://www.toutiao.com/trending/7594088610216361990/",
           "source": "今日头条",
@@ -75,17 +87,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时20分 ~ 07时22分]"
-        },
-        {
-          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
-          "url": "https://wallstreetcn.com/articles/3763038",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
@@ -127,6 +128,17 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
+          "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
+          "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
           "url": "https://flash.jin10.com/detail/20260111220151159800",
           "source": "金十数据",
@@ -151,6 +163,50 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 05时21分]"
+        },
+        {
+          "title": "马斯克最新访谈豪赌未来",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%80%E6%96%B0%E8%AE%BF%E8%B0%88%E8%B1%AA%E8%B5%8C%E6%9C%AA%E6%9D%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普，又要“抢东西”？",
+          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普暗示他可能会否决延长《平价医疗法案》。",
+          "url": "https://wallstreetcn.com/livenews/3034887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "美国共和党参议员蒂利斯：如果之前还有人怀疑特朗普政府内部的顾问是否正在积极推动结束美联储的独立性，那么现在应该没有任何疑问了。",
+          "url": "https://flash.jin10.com/detail/20260112092912020800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
@@ -249,12 +305,122 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普车队因可疑物体改道",
+          "url": "https://flash.jin10.com/detail/20260112092416383800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普：启动了购买抵押贷款支持证券（MBS）的程序。",
+          "url": "https://wallstreetcn.com/livenews/3034882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
+          "url": "https://www.cls.cn/detail/2254115",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普：伊朗昨日呼吁就核问题进行谈判。美国可能和伊朗会面。",
+          "url": "https://wallstreetcn.com/livenews/3034881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "对冲基金经理比尔·阿克曼：美国总统特朗普在中期选举中面临的最大威胁是“负担能力问题”。",
+          "url": "https://flash.jin10.com/detail/20260112092101261800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "美媒称特朗普政府13日将讨论美对伊朗干预方案",
+          "url": "https://wallstreetcn.com/livenews/3034877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "特朗普称在考虑干预伊朗局势的“强硬选项”",
+          "url": "https://wallstreetcn.com/livenews/3034875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "疑似LOL马斯克AI英雄有多强",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCLOL%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%8B%B1%E9%9B%84%E6%9C%89%E5%A4%9A%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "马斯克称人类可以实现半永生，如果能「改写」设定的程序就能活得更久，你认为能实现吗？",
+          "url": "https://www.zhihu.com/question/1993092633799647924",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "中东股市收盘播报｜沙特股市周日收涨1.3%，埃及股指涨约2.5%创收盘历史新高",
@@ -269,6 +435,50 @@
           "time_info": "[00时28分 ~ 04时26分]"
         },
         {
+          "title": "志特新材20CM五连板成今年首只翻倍股 盘中创历史新高A股名单一览",
+          "url": "https://www.cls.cn/detail/2254076",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "陈星旭卢昱晓连黑历史都是高清的",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%9F%E6%97%AD%E5%8D%A2%E6%98%B1%E6%99%93%E8%BF%9E%E9%BB%91%E5%8E%86%E5%8F%B2%E9%83%BD%E6%98%AF%E9%AB%98%E6%B8%85%E7%9A%84%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "现货白银创下历史新高",
+          "url": "https://flash.jin10.com/detail/20260112090234997800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "现货黄金再创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "历史上有哪些兵家必争之地",
           "url": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%85%B5%E5%AE%B6%E5%BF%85%E4%BA%89%E4%B9%8B%E5%9C%B0",
           "source": "bilibili 热搜",
@@ -280,6 +490,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "现货白银上涨5%至83.93美元/盎司，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3034854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "U23国足取得在U23亚洲杯历史第3胜",
           "url": "https://www.toutiao.com/trending/7593636260330684422/",
           "source": "今日头条",
@@ -289,6 +510,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 经济金融 ===== 黄金 美元 石油 稀土",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "稀土价格指数正式上线",
+          "url": "https://www.cls.cn/detail/2254021",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
