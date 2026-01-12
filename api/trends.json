@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T00:31:13.328648+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-13T01:26:17.373868+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -37,30 +37,54 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
-          "title": "诺和诺德(NVO.N)CEO：与特朗普政府的沟通非常顺畅。",
-          "url": "https://flash.jin10.com/detail/20260113001537614800",
+          "title": "英国科技大臣Liz Kendall：马斯克旗下Grok生成的图片是“滥用非法武器”。",
+          "url": "https://flash.jin10.com/detail/20260113005056146800",
           "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时26分"
         },
         {
-          "title": "美国参议院共和党成员Lisa Murkowski置评美联储主席鲍威尔、美联储、以及国会山，称：为回应司法部调查鲍威尔的做法，支持共和党参议员Thom Tillis在参议院银行委员会投票反对任何美联储提名人的决定。 今天与鲍威尔对话，（总统）特朗普政府的（刑事）调查让人感到担忧。",
-          "url": "https://wallstreetcn.com/livenews/3035454",
+          "title": "英国科技部长Liz Kendall：马斯克旗下Grok生成的图片是“滥用非法武器”。 英国政府将持续审查马斯克旗下社交媒体平台X（原名推特）。",
+          "url": "https://wallstreetcn.com/livenews/3035476",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时26分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)CEO：与特朗普政府的沟通非常顺畅。",
+          "url": "https://flash.jin10.com/detail/20260113001537614800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
+        },
+        {
+          "title": "美国参议院共和党成员Lisa Murkowski置评美联储主席鲍威尔、美联储、以及国会山，称：为回应司法部调查鲍威尔的做法，支持共和党参议员Thom Tillis在参议院银行委员会投票反对任何美联储提名人的决定。 今天与鲍威尔对话，（总统）特朗普政府的（刑事）调查让人感到担忧。",
+          "url": "https://wallstreetcn.com/livenews/3035454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "日媒称高市早苗或解散众议院提前大选，原因有哪些？她会成为日本最短命的首相之一吗？",
@@ -70,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -81,8 +105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
           "title": "禁运卡脖子,高市早苗急眼了",
@@ -92,8 +116,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
@@ -103,19 +127,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -124,9 +149,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -135,9 +160,31 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
+        },
+        {
+          "title": "民调称美民众不爱听特朗普对华叫嚷",
+          "url": "https://www.toutiao.com/trending/7594282363073334847/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
+        },
+        {
+          "title": "美国参议院共和党成员Cramer：我不相信美联储主席鲍威尔是一个罪犯。 希望（特朗普政府的司法部）对鲍威尔的调查“能尽快结束”。",
+          "url": "https://wallstreetcn.com/livenews/3035469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时26分"
         },
         {
           "title": "前美联储主席格林斯潘、伯南克、耶伦，以及其他曾经担任美联储官员的人士再次发声：美国总统特朗普“动用司法手段来攻击（现任主席鲍威尔）”将破坏美联储（的独立性）。",
@@ -146,9 +193,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "共和党要员抨击美国司法部调查，特朗普“驯服”美联储计划遇阻力",
+          "url": "https://wallstreetcn.com/livenews/3035468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
           "title": "墨西哥总统辛鲍姆告诉美国总统特朗普：墨方反对军事干预。 墨西哥不需要美国的军事援助。",
@@ -157,7 +215,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
         },
@@ -168,9 +226,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "诺和诺德CEO：公司对直接与特朗普政府对话感到欣慰。 预计Wegovy口服药有助于拓展减肥药市场。",
+          "url": "https://wallstreetcn.com/livenews/3035459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)CEO：特朗普政府的“直言不讳”方式有利于达成协议。",
+          "url": "https://flash.jin10.com/detail/20260113001548576800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
           "title": "美国国务院：特朗普总统正在考虑一系列针对伊朗的强硬选项。",
@@ -179,7 +259,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
         }
@@ -187,29 +267,31 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "沃尔玛涨约3.4%，刷新盘中历史高位至118.46美元，盘中市值超过9400亿美元。",
           "url": "https://wallstreetcn.com/livenews/3035455",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         },
         {
           "title": "李大霄解读A股成交额创历史",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BBA%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%9B%E5%8E%86%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
           "title": "1 月 12 日三大指数均涨超 1%，两市成交额 3.6 万亿元创历史新高，如何看待今日行情？",
@@ -219,19 +301,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时26分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市涨2%创收盘历史新高，金银矿业股领跑",
           "url": "https://wallstreetcn.com/livenews/3035448",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
+        },
+        {
+          "title": "德国股市再创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3035465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时26分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收涨0.18%，报610.75点。 欧元区STOXX 50指数初步收涨0.25%，报6012.61点，继续创收盘历史新高。 富时泛欧绩优300指数初步收涨0.22%，报2436.06点。",
+          "url": "https://wallstreetcn.com/livenews/3035464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         }
       ]
     }
