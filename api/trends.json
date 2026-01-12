@@ -1,281 +1,33 @@
 {
-  "generated_at": "2026-01-12T23:28:58.914331+08:00",
-  "total_titles_processed": 1865,
+  "generated_at": "2026-01-13T00:31:13.328648+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 82,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "特朗普发图自称“委内瑞拉代总统”",
-          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时53分 ~ 21时44分]"
-        },
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
           "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
           "source": "凤凰网",
           "ranks": [
-            3,
-            4,
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时36分 ~ 23时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时31分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
           "url": "https://news.ifeng.com/c/8pr7YJccLIS",
           "source": "凤凰网",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时36分 ~ 23时28分]"
-        },
-        {
-          "title": "特朗普表态让万千台湾民众看清现实",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%80%81%E8%AE%A9%E4%B8%87%E5%8D%83%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E7%9C%8B%E6%B8%85%E7%8E%B0%E5%AE%9E%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 09时57分]"
-        },
-        {
-          "title": "特朗普，又要“抢东西”？",
-          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 15时29分]"
-        },
-        {
-          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
-          "url": "https://wallstreetcn.com/articles/3763038",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 16时36分]"
-        },
-        {
-          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
-          "url": "https://wallstreetcn.com/articles/3763028",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普对台问题表态引岛内热议",
-          "url": "https://www.douyin.com/hot/2364980",
-          "source": "抖音",
-          "ranks": [
-            4,
-            16,
-            19,
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时53分 ~ 18时29分]"
-        },
-        {
-          "title": "禁运卡脖子,高市早苗急眼了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348983&amp;topic_name=%E7%A6%81%E8%BF%90%E5%8D%A1%E8%84%96%E5%AD%90%2C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%80%A5%E7%9C%BC%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            8,
-            9,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时40分 ~ 23时28分]"
-        },
-        {
-          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1993540481494311303",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12,
-            14,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时57分 ~ 18时29分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时40分 ~ 23时28分]"
-        },
-        {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            22,
-            25,
-            15,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时40分 ~ 23时28分]"
-        },
-        {
-          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
-          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时53分 ~ 17时35分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 11时53分]"
-        },
-        {
-          "title": "全美抗议 特朗普“后院”失火",
-          "url": "https://www.toutiao.com/trending/7594088610216361990/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
-          "url": "https://www.cls.cn/detail/2254115",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时32分]"
-        },
-        {
-          "title": "特朗普被曝正考虑多个干涉伊朗方案",
-          "url": "https://wallstreetcn.com/livenews/3034755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "日本朝野各党加速选举准备，高市早苗避谈解散众议院",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32363271",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时31分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -285,1043 +37,201 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时28分 ~ 23时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时31分]"
         },
         {
-          "title": "特朗普威胁古巴尽快同美国“达成协议”",
-          "url": "https://www.cls.cn/detail/2254162",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 15时29分]"
-        },
-        {
-          "title": "马斯克称星舰将每年量产 1 万枚，这目标能否实现？对航天业有何影响？",
-          "url": "https://www.zhihu.com/question/1992680924475835169",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 16时36分]"
-        },
-        {
-          "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
-          "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "前美联储主席耶伦：对于现任主席鲍威尔的接班人而言，（特朗普政府）的调查让人“极度不寒而栗”，市场应当感到忧心忡忡。",
-          "url": "https://wallstreetcn.com/livenews/3035435",
-          "source": "华尔街见闻-快讯",
+          "title": "诺和诺德(NVO.N)CEO：与特朗普政府的沟通非常顺畅。",
+          "url": "https://flash.jin10.com/detail/20260113001537614800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时28分"
+          "time_info": "00时31分"
         },
         {
-          "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
-          "url": "https://flash.jin10.com/detail/20260111220151159800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普：将不会再有石油或资金流入古巴",
-          "url": "https://wallstreetcn.com/livenews/3034737",
+          "title": "美国参议院共和党成员Lisa Murkowski置评美联储主席鲍威尔、美联储、以及国会山，称：为回应司法部调查鲍威尔的做法，支持共和党参议员Thom Tillis在参议院银行委员会投票反对任何美联储提名人的决定。 今天与鲍威尔对话，（总统）特朗普政府的（刑事）调查让人感到担忧。",
+          "url": "https://wallstreetcn.com/livenews/3035454",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时23分 ~ 23时28分]"
-        },
-        {
-          "title": "马斯克最新访谈豪赌未来",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%80%E6%96%B0%E8%AE%BF%E8%B0%88%E8%B1%AA%E8%B5%8C%E6%9C%AA%E6%9D%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "特朗普称正考虑对伊的非常强硬选项",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%AD%A3%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E7%9A%84%E9%9D%9E%E5%B8%B8%E5%BC%BA%E7%A1%AC%E9%80%89%E9%A1%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "美国联邦住房金融局局长普尔特：美国总统特朗普专注于住房与可负担性。",
-          "url": "https://flash.jin10.com/detail/20260112203736631800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "特朗普暗示他可能会否决延长《平价医疗法案》。",
-          "url": "https://wallstreetcn.com/livenews/3034887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "市场消息：墨西哥总统辛鲍姆将于周一与美国总统特朗普通电话。",
-          "url": "https://flash.jin10.com/detail/20260112180850351800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "美国共和党参议员蒂利斯：如果之前还有人怀疑特朗普政府内部的顾问是否正在积极推动结束美联储的独立性，那么现在应该没有任何疑问了。",
-          "url": "https://flash.jin10.com/detail/20260112092912020800",
-          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 23时28分]"
+          "time_info": "00时31分"
         },
         {
           "title": "日媒称高市早苗或解散众议院提前大选，原因有哪些？她会成为日本最短命的首相之一吗？",
           "url": "https://www.zhihu.com/question/1994067615191162961",
           "source": "知乎",
           "ranks": [
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时52分 ~ 23时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时31分]"
         },
         {
-          "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3034760",
-          "source": "华尔街见闻-快讯",
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            11,
-            14,
-            29
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 07时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时31分]"
         },
         {
-          "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
-          "url": "https://wallstreetcn.com/livenews/3034734",
-          "source": "华尔街见闻-快讯",
+          "title": "禁运卡脖子,高市早苗急眼了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348983&amp;topic_name=%E7%A6%81%E8%BF%90%E5%8D%A1%E8%84%96%E5%AD%90%2C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%80%A5%E7%9C%BC%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            19,
-            23
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时31分]"
         },
         {
-          "title": "据耶路撒冷邮报：几位熟悉近日会谈细节的消息人士透露，特朗普基本上已经决定帮助伊朗的抗议者，但他还没有决定“如何做”和“何时做”。",
-          "url": "https://flash.jin10.com/detail/20260112043545440800",
-          "source": "金十数据",
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            8,
-            20
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 07时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时31分]"
         },
         {
-          "title": "美媒：特朗普将于周二讨论针对伊朗的潜在措施",
-          "url": "https://flash.jin10.com/detail/20260112042340511800",
-          "source": "金十数据",
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
           "ranks": [
-            3,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 07时22分]"
-        },
-        {
-          "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
-          "url": "https://wallstreetcn.com/livenews/3034991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
             24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时32分 ~ 14时40分]"
+          "time_info": "[00时29分 ~ 00时31分]"
         },
         {
-          "title": "分析师：特朗普攻击美联储动摇市场信心",
-          "url": "https://flash.jin10.com/detail/20260112115831082800",
-          "source": "金十数据",
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            21
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时32分]"
-        },
-        {
-          "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
-          "url": "https://wallstreetcn.com/livenews/3035153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
           "url": "https://wallstreetcn.com/articles/3763082",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时52分 ~ 23时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
-          "url": "https://flash.jin10.com/detail/20260111203618040800",
+          "title": "前美联储主席格林斯潘、伯南克、耶伦，以及其他曾经担任美联储官员的人士再次发声：美国总统特朗普“动用司法手段来攻击（现任主席鲍威尔）”将破坏美联储（的独立性）。",
+          "url": "https://wallstreetcn.com/livenews/3035446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆告诉美国总统特朗普：墨方反对军事干预。 墨西哥不需要美国的军事援助。",
+          "url": "https://wallstreetcn.com/livenews/3035439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "前美联储主席耶伦：对于现任主席鲍威尔的接班人而言，（特朗普政府）的调查让人“极度不寒而栗”，市场应当感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/3035435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "美国国务院：特朗普总统正在考虑一系列针对伊朗的强硬选项。",
+          "url": "https://flash.jin10.com/detail/20260112233206127800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
-        },
-        {
-          "title": "美国总统特朗普：多年来，古巴一直依靠委内瑞拉的大量石油和资金维持运转。但现在不会再有石油和资金流向古巴了。我强烈建议他们赶紧达成协议，以免为时已晚。",
-          "url": "https://flash.jin10.com/detail/20260111203059463800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
-        },
-        {
-          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
-          "url": "https://wallstreetcn.com/livenews/3034723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
-        },
-        {
-          "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
-          "url": "https://wallstreetcn.com/livenews/3034951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时32分]"
-        },
-        {
-          "title": "特朗普发布系列指令震慑企业界，CEO们保持警惕",
-          "url": "https://wallstreetcn.com/livenews/3034767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普发图自称委内瑞拉代总统",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%9B%BE%E8%87%AA%E7%A7%B0%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 12时53分]"
-        },
-        {
-          "title": "美企业家：特朗普正在损害美国实力",
-          "url": "https://www.toutiao.com/trending/7593575351952343059/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时23分]"
-        },
-        {
-          "title": "德国财政部长克林贝伊尔就特朗普抨击美联储发表评论：作为财政部长，央行独立性对我来说是一条不容逾越的红线。",
-          "url": "https://flash.jin10.com/detail/20260112212737636800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时29分]"
-        },
-        {
-          "title": "美媒：特朗普本周将就美联储主席一职面试贝莱德高管里克·里德",
-          "url": "https://flash.jin10.com/detail/20260112212716396800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时29分]"
-        },
-        {
-          "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
-          "url": "https://flash.jin10.com/detail/20260112212210051800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时29分]"
-        },
-        {
-          "title": "特朗普将就美联储主席一职面试贝莱德高管里德（Rick Rieder）。面试将于本周举行。",
-          "url": "https://flash.jin10.com/detail/20260112211851443800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时29分]"
-        },
-        {
-          "title": "特朗普称对美联储主席被查一无所知",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E8%A2%AB%E6%9F%A5%E4%B8%80%E6%97%A0%E6%89%80%E7%9F%A5%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "特朗普车队因可疑物体改道",
-          "url": "https://flash.jin10.com/detail/20260112092416383800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "美媒：特朗普盟友将投放超级碗广告宣传“特朗普账户”",
-          "url": "https://flash.jin10.com/detail/20260112111415549800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "特朗普呼吁将信用卡利率上限设定为10%，美股银行股盘前下跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%。",
-          "url": "https://flash.jin10.com/detail/20260112170610560800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "特朗普：启动了购买抵押贷款支持证券（MBS）的程序。",
-          "url": "https://wallstreetcn.com/livenews/3034882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "特朗普：伊朗昨日呼吁就核问题进行谈判。美国可能和伊朗会面。",
-          "url": "https://wallstreetcn.com/livenews/3034881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "对冲基金经理比尔·阿克曼：美国总统特朗普在中期选举中面临的最大威胁是“负担能力问题”。",
-          "url": "https://flash.jin10.com/detail/20260112092101261800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "特朗普将就美联储主席一职面试贝莱德分析师Rick Rieder，面试将于本周进行。（福克斯）",
-          "url": "https://wallstreetcn.com/livenews/3035370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "美媒称特朗普政府13日将讨论美对伊朗干预方案",
-          "url": "https://wallstreetcn.com/livenews/3034877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
-          "url": "https://wallstreetcn.com/articles/3763034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "特朗普称在考虑干预伊朗局势的“强硬选项”",
-          "url": "https://wallstreetcn.com/livenews/3034875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "疑似LOL马斯克AI英雄有多强",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCLOL%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%8B%B1%E9%9B%84%E6%9C%89%E5%A4%9A%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "巴克莱股价下跌，此前特朗普呼吁限制信用卡利率。",
-          "url": "https://flash.jin10.com/detail/20260112160633158800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-12）",
-          "url": "https://flash.jin10.com/detail/20260112185130366800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "传唤鲍威尔！特朗普折腾有啥图谋丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260112185000826800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "美股财报季拉开序幕之前，特朗普政府起诉美联储主席鲍威尔、并剑指信用卡利率。 花旗跌3.4%，摩根大通、富国银行、美国银行至多跌1.57%，高盛、摩根士丹利至多跌0.73%。 支付公司Visa跌3.6%，万事达卡MasterCard跌3.4%。 Klarna涨3.7%，Affirm Holdings涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3035416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "马斯克称人类可以实现半永生，如果能「改写」设定的程序就能活得更久，你认为能实现吗？",
-          "url": "https://www.zhihu.com/question/1993092633799647924",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "美国驻印度大使在新德里表示，希望特朗普在一两年内访问印度。 美国和印度继续积极在贸易、安全和科技领域合作。 有关贸易问题的下一次讨论将在周二进行。",
-          "url": "https://wallstreetcn.com/livenews/3035048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
-          "url": "https://wallstreetcn.com/livenews/3035096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "鲍威尔称被调查只因没听特朗普话",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B2%8D%E5%A8%81%E5%B0%94%E7%A7%B0%E8%A2%AB%E8%B0%83%E6%9F%A5%E5%8F%AA%E5%9B%A0%E6%B2%A1%E5%90%AC%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%9D%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "特朗普：可能否决延长医疗补贴的法案",
-          "url": "https://flash.jin10.com/detail/20260112104054089800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委内瑞拉石油，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3035089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "META任命前特朗普顾问Dina Powell McCormick担任新设立的高管职位，负责与政府和投资者合作推动AI发展。",
-          "url": "https://wallstreetcn.com/livenews/3035386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服",
-          "url": "https://www.douyin.com/hot/2364470",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "特朗普称信用卡公司若不设定利率上限将违法",
-          "url": "https://flash.jin10.com/detail/20260112103526201800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "特朗普称伊朗提议谈判但美国或“先行动”",
-          "url": "https://wallstreetcn.com/livenews/3034906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 26,
+      "match_count": 4,
       "titles": [
         {
-          "title": "1 月 12 日三大指数均涨超 1%，两市成交额 3.6 万亿元创历史新高，如何看待今日行情？",
-          "url": "https://www.zhihu.com/question/1993979124902019099",
-          "source": "知乎",
+          "title": "沃尔玛涨约3.4%，刷新盘中历史高位至118.46美元，盘中市值超过9400亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035455",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            3,
-            2,
-            1,
-            10
+            3
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时36分 ~ 23时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "李大霄解读A股成交额创历史",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BBA%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%9B%E5%8E%86%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            7,
-            8,
-            26
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时52分 ~ 23时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时31分]"
         },
         {
-          "title": "现货黄金再创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时32分]"
-        },
-        {
-          "title": "北向资金买卖总额创历史第三高",
-          "url": "https://wallstreetcn.com/livenews/3035266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "无人机新规后，飞无人机有哪些注意事项？哪些无人机又将退出历史？",
-          "url": "https://www.zhihu.com/question/1991585029810299793",
+          "title": "1 月 12 日三大指数均涨超 1%，两市成交额 3.6 万亿元创历史新高，如何看待今日行情？",
+          "url": "https://www.zhihu.com/question/1993979124902019099",
           "source": "知乎",
           "ranks": [
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时52分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时31分]"
         },
         {
-          "title": "中东股市收盘播报｜沙特股市周日收涨1.3%，埃及股指涨约2.5%创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3034700",
+          "title": "非洲股市收盘播报｜南非股市涨2%创收盘历史新高，金银矿业股领跑",
+          "url": "https://wallstreetcn.com/livenews/3035448",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时26分]"
-        },
-        {
-          "title": "韩国首尔综指收盘上涨0.84%，报4524.79点，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3035043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时29分]"
-        },
-        {
-          "title": "如何看待A股单日成交额创历史新高",
-          "url": "https://www.toutiao.com/trending/7594373565105835561/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时29分]"
-        },
-        {
-          "title": "沪深两市全天成交额有望创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3034966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时32分]"
-        },
-        {
-          "title": "女孩分享眼中「已婚已育已离的妈妈」故事走红，哪些细节令你动容？从她的故事中你看到了怎样的单亲母亲？",
-          "url": "https://www.zhihu.com/question/1992325984398115636",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时52分]"
-        },
-        {
-          "title": "杨幂中学时代就是风云人物了",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E4%B8%AD%E5%AD%A6%E6%97%B6%E4%BB%A3%E5%B0%B1%E6%98%AF%E9%A3%8E%E4%BA%91%E4%BA%BA%E7%89%A9%E4%BA%86&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
-          "title": "志特新材20CM五连板成今年首只翻倍股 盘中创历史新高A股名单一览",
-          "url": "https://www.cls.cn/detail/2254076",
-          "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "沃尔玛涨2.7%，创盘中历史新高，该公司将被纳入纳斯达克100指数。 梅西百货跌6.8%，创4月10日以来最大盘中跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3035418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "沪银主力合约日内暴涨14.00%，现报20873.00元/千克，续创历史新高。",
-          "url": "https://flash.jin10.com/detail/20260112134539612800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "沪银主力合约日内大涨14%，现报20873.00元/千克，续创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3035005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "陈星旭卢昱晓连黑历史都是高清的",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%9F%E6%97%AD%E5%8D%A2%E6%98%B1%E6%99%93%E8%BF%9E%E9%BB%91%E5%8E%86%E5%8F%B2%E9%83%BD%E6%98%AF%E9%AB%98%E6%B8%85%E7%9A%84%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "现货白银创下历史新高",
-          "url": "https://flash.jin10.com/detail/20260112090234997800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "多重因素共振推动现货金银早盘齐创历史新高，贵金属引来新一轮狂欢。黄金多头较上一交易日升温，白银现卖出信号。尽管油价早盘走高，但高盛研报称，供应充裕将使价格继续下行，当前市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260112105142529800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "A股量子科技概念震荡走强，科大国创午后涨超18%，国盾量子涨超10%创历史新高，格尔软件此前涨停，神州信息、必创科技、吉大正元等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3035003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "现货白银突破84美元/盎司，日内涨约5.5%，现报84.30美元/盎司，续创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3035002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "历史上有哪些兵家必争之地",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%85%B5%E5%AE%B6%E5%BF%85%E4%BA%89%E4%B9%8B%E5%9C%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "黄金价格创下历史新高，美国上市金矿股上涨。金罗斯黄金上涨1.4%，巴里克矿业上涨1.1%，Gold Fields上涨4.4%。",
-          "url": "https://flash.jin10.com/detail/20260112224428134800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "现货白银上涨5%至83.93美元/盎司，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3034854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "银价创下历史新高后，美国上市的银矿股股价上涨。Hecla矿业上涨6.5%，Coeur矿业上涨5.8%。iShares白银信托上涨6.2%，Global X白银矿业ETF上涨4.8%。",
-          "url": "https://flash.jin10.com/detail/20260112224154070800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "墨西哥主要股指创下历史新高，逼近66,500点，上涨0.54%。",
-          "url": "https://flash.jin10.com/detail/20260112223918553800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "U23国足取得在U23亚洲杯历史第3胜",
-          "url": "https://www.toutiao.com/trending/7593636260330684422/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 经济金融 ===== 黄金 美元 石油 稀土",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "稀土价格指数正式上线",
-          "url": "https://www.cls.cn/detail/2254021",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "唐仁健借“高雅爱好”掩盖权钱交易",
-          "url": "https://www.toutiao.com/trending/7594077546577137171/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "time_info": "00时31分"
         }
       ]
     }
