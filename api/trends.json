@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-14T06:25:16.991473+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-01-14T07:22:05.442525+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 92,
+      "match_count": 95,
       "titles": [
-        {
-          "title": "技术拆解疑似马斯克AI账号",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时25分]"
-        },
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
           "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
@@ -27,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时22分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -38,8 +26,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时22分]"
+        },
+        {
+          "title": "技术拆解疑似马斯克AI账号",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时22分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -50,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时22分]"
         },
         {
           "title": "李在明与高市早苗会谈，提到中国",
@@ -64,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时22分]"
         },
         {
           "title": "李在明访问日本！高市早苗尖声喊“您好”，又行90度鞠躬礼迎接",
@@ -75,8 +76,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时22分]"
         },
         {
           "title": "高市早苗对李在明尖声喊您好",
@@ -86,8 +87,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时28分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 07时22分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -114,15 +115,15 @@
           "time_info": "[00时35分 ~ 05时24分]"
         },
         {
-          "title": "美国总统特朗普：格陵兰岛总理因坚持与丹麦保持关系而面临困境。",
-          "url": "https://flash.jin10.com/detail/20260114060351977800",
+          "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
+          "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时22分"
         },
         {
           "title": "美国总统特朗普：摩根大通CEO戴蒙就调查美联储主席鲍威尔一事谴责司法部，那样做“是错误的”。",
@@ -131,18 +132,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "据日经新闻：日本首相高市早苗将于周三宣布解散众议院的意向。",
-          "url": "https://flash.jin10.com/detail/20260114060032432800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -244,6 +234,18 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛总理因坚持与丹麦保持关系而面临困境。",
+          "url": "https://flash.jin10.com/detail/20260114060351977800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时22分]"
+        },
+        {
           "title": "报道：德国官员赴美探寻特朗普对格陵兰的真实意图 但会谈无果空手而归",
           "url": "https://wallstreetcn.com/livenews/3036345",
           "source": "华尔街见闻-快讯",
@@ -292,6 +294,18 @@
           "time_info": "[03时22分 ~ 04时28分]"
         },
         {
+          "title": "据日经新闻：日本首相高市早苗将于周三宣布解散众议院的意向。",
+          "url": "https://flash.jin10.com/detail/20260114060032432800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时22分]"
+        },
+        {
           "title": "特朗普：未来数周将公布美联储主席的人选",
           "url": "https://wallstreetcn.com/livenews/3036339",
           "source": "华尔街见闻-快讯",
@@ -314,6 +328,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时22分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普提名WeatherTech首席执行官（CEO）David MacNeil为联邦贸易委员会（FTC）成员。",
+          "url": "https://wallstreetcn.com/livenews/3036428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗最好老实点。",
+          "url": "https://flash.jin10.com/detail/20260114055446897800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时22分]"
         },
         {
           "title": "美国12月CPI通胀数据要点总结：特朗普称鲍威尔有机会降息",
@@ -374,6 +412,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "日本首相高市早苗将于周三传达关于解散议会的意图。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3036424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时22分]"
         },
         {
           "title": "美国总统特朗普声称：未来数周将针对经济可承受能力给出更多计划。 （下周）将在达沃斯围绕住房政策提供更多细节信息。 赞赏2000亿美元抵押贷款支持证券（MBS）购买计划的“巨大影响”。",
@@ -516,17 +566,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "白宫：美国总统特朗普提名WeatherTech首席执行官（CEO）David MacNeil为联邦贸易委员会（FTC）成员。",
-          "url": "https://wallstreetcn.com/livenews/3036428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "美国总统特朗普：目前信用卡利率太高了。",
           "url": "https://flash.jin10.com/detail/20260114034307085800",
           "source": "金十数据",
@@ -547,17 +586,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗最好老实点。",
-          "url": "https://flash.jin10.com/detail/20260114055446897800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         },
         {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
@@ -610,7 +638,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -648,17 +676,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "日本首相高市早苗将于周三传达关于解散议会的意图。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3036424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "美国总统特朗普：本周晚些时候，我将宣布我们的医疗可负担性框架。",
           "url": "https://flash.jin10.com/detail/20260114034153120800",
           "source": "金十数据",
@@ -676,7 +693,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -742,7 +759,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -756,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "特朗普驳斥戴蒙对司法部调查鲍威尔的批评",
+          "url": "https://flash.jin10.com/detail/20260114063417981800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美国总统特朗普：我听说氢燃料汽车的测试结果不太理想。",
@@ -775,7 +803,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -841,7 +869,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -907,7 +935,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -932,6 +960,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "特朗普：不同意摩根大通CEO关于美联储独立性的观点",
+          "url": "https://wallstreetcn.com/livenews/3036430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美国总统特朗普：美联储里有个真正的死脑筋。",
@@ -1058,18 +1097,19 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
           "url": "https://wallstreetcn.com/articles/3763139",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时22分]"
         },
         {
           "title": "收盘市值锁定万亿！“有色茅”股价历史新高，“万亿俱乐部”扩容，这一方向占比近半",
@@ -1083,6 +1123,41 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时35分 ~ 06时25分]"
+        },
+        {
+          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
+          "url": "https://www.cls.cn/detail/2256863",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "现货白银涨约2.2%，美股盘初突破89美元创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3036425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时22分]"
+        },
+        {
+          "title": "纽约期金跌超0.4%，美国CPI数据带来的历史新高没能维持太久",
+          "url": "https://wallstreetcn.com/livenews/3036420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时22分]"
         },
         {
           "title": "标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。 纳斯达克生物科技指数收涨0.02%，报5775.48点。 费城半导体指数收涨0.95%，报7747.993点。 费城证交所KBW银行指数收跌1.26%，报166.87点，1月6日涨至172.98点创盘中历史新高以来逐步回撤。 道琼斯KBW地区银行指数收跌0.59%，报126.85点。",
@@ -1107,17 +1182,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "现货白银涨约2.2%，美股盘初突破89美元创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3036425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "埃克森美孚石油(XOM.N)股价创下历史新高，最新上涨2.1%。",
           "url": "https://flash.jin10.com/detail/20260113235743459800",
           "source": "金十数据",
@@ -1129,15 +1193,15 @@
           "time_info": "00时35分"
         },
         {
-          "title": "纽约期金跌超0.4%，美国CPI数据带来的历史新高没能维持太久",
-          "url": "https://wallstreetcn.com/livenews/3036420",
+          "title": "驻加拿大大使王镝人民日报撰文：两国关系站在新的历史起点上",
+          "url": "https://wallstreetcn.com/livenews/3036437",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时22分"
         },
         {
           "title": "欧洲军工股周二收盘涨跌各异。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨0.01%，呈现出W形走势，报35.209999欧元，再创收盘历史新高，逼近周一所创盘中历史最高位35.514999欧元。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨0.75%，刷新收盘历史高位至20.845，北京时间21:30刷新盘中历史高位涨21.02。",
