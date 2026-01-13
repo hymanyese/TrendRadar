@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T02:34:50.791121+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-01-14T03:22:40.975985+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 34,
+      "match_count": 46,
       "titles": [
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时22分]"
         },
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时22分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时22分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -49,52 +49,85 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时22分]"
         },
         {
-          "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
-          "url": "https://flash.jin10.com/detail/20260114020620908800",
+          "title": "美国总统特朗普：我们会让油价进一步下降。",
+          "url": "https://flash.jin10.com/detail/20260114030931033800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
+          "url": "https://wallstreetcn.com/livenews/3036368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普：我们将对委内瑞拉大有裨益，我是他们最大的粉丝。",
+          "url": "https://flash.jin10.com/detail/20260114030817126800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时34分"
+          "time_info": "03时22分"
         },
         {
-          "title": "报道：德国官员赴美探寻特朗普对格陵兰的真实意图 但会谈无果空手而归",
-          "url": "https://wallstreetcn.com/livenews/3036345",
+          "title": "美国总统特朗普赞赏美股的表现。",
+          "url": "https://wallstreetcn.com/livenews/3036366",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普称赞美股走高。",
+          "url": "https://flash.jin10.com/detail/20260114030749568800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时34分"
+          "time_info": "03时22分"
         },
         {
-          "title": "美国总统特朗普：美国人现在撤离伊朗是个好主意。",
-          "url": "https://flash.jin10.com/detail/20260114020240505800",
+          "title": "美国总统特朗普：加州的情况糟透了。",
+          "url": "https://flash.jin10.com/detail/20260114030723238800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时34分"
+          "time_info": "03时22分"
         },
         {
-          "title": "特朗普：未来数周将公布美联储主席的人选",
-          "url": "https://wallstreetcn.com/livenews/3036339",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：对委内瑞拉的袭击一如既往地完美无瑕，我们正在与委内瑞拉人民合作。",
+          "url": "https://flash.jin10.com/detail/20260114030503953800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时34分"
+          "time_info": "03时22分"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -105,8 +138,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时22分]"
         },
         {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
@@ -117,8 +150,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
+          "url": "https://flash.jin10.com/detail/20260114020620908800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时22分]"
+        },
+        {
+          "title": "报道：德国官员赴美探寻特朗普对格陵兰的真实意图 但会谈无果空手而归",
+          "url": "https://wallstreetcn.com/livenews/3036345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时22分]"
         },
         {
           "title": "李在明与高市早苗会谈，提到中国",
@@ -129,8 +186,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普：美国人现在撤离伊朗是个好主意。",
+          "url": "https://flash.jin10.com/detail/20260114020240505800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普：未来数周将公布美联储主席的人选",
+          "url": "https://wallstreetcn.com/livenews/3036339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时22分]"
         },
         {
           "title": "李在明访问日本！高市早苗尖声喊“您好”，又行90度鞠躬礼迎接",
@@ -140,8 +221,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时22分]"
         },
         {
           "title": "高市早苗对李在明尖声喊您好",
@@ -151,8 +232,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
+          "url": "https://wallstreetcn.com/livenews/3036337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时28分 ~ 02时34分]"
+          "time_info": "[02时34分 ~ 03时22分]"
         },
         {
           "title": "美国12月CPI通胀数据要点总结：特朗普称鲍威尔有机会降息",
@@ -191,6 +284,18 @@
           "time_info": "[00时35分 ~ 01时28分]"
         },
         {
+          "title": "美国参议院成员重提总统特朗普支持的信用卡竞争法案草案。",
+          "url": "https://wallstreetcn.com/livenews/3036331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时22分]"
+        },
+        {
           "title": "特朗普“信用卡利率上限”方案持续发酵，支付公司Visa跌幅扩大至5.5%，创6月18日以来最大盘中跌幅。 MasterCard跌5.8%。",
           "url": "https://wallstreetcn.com/livenews/3036291",
           "source": "华尔街见闻-快讯",
@@ -214,24 +319,13 @@
           "time_info": "00时35分"
         },
         {
-          "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
-          "url": "https://wallstreetcn.com/livenews/3036337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
           "url": "https://flash.jin10.com/detail/20260114020057806800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -242,7 +336,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -253,7 +347,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
@@ -264,20 +358,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
         {
-          "title": "美国参议院成员重提总统特朗普支持的信用卡竞争法案草案。",
-          "url": "https://wallstreetcn.com/livenews/3036331",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：（谈及美国在伊朗的盟友）他们应该撤出。",
+          "url": "https://flash.jin10.com/detail/20260114025339880800",
+          "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时34分"
+          "time_info": "03时22分"
         },
         {
           "title": "Warren敦促特朗普的财政部限制对冲基金等对储备金的利用",
@@ -286,9 +380,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "美国国会山领导人特朗普的信用卡利率上限设想表示怀疑",
+          "url": "https://wallstreetcn.com/livenews/3036352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "特朗普称已取消所有与伊朗官员的会谈",
@@ -302,6 +407,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "特朗普：会乐见油价在每桶53美元",
+          "url": "https://wallstreetcn.com/livenews/3036351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "美国众议院议长约翰逊：已经与总统特朗普讨论10%的信用卡利率上限方案。 在这个问题上（的立法）需要大量沟通。 必须在信用卡利率上限方案方面非常深思熟虑。",
           "url": "https://wallstreetcn.com/livenews/3036287",
           "source": "华尔街见闻-快讯",
@@ -311,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260114024731670800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普无需在爱泼斯坦案调查中作证。",
@@ -368,6 +495,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "白宫特使秘密会晤伊朗前王储 特朗普政府重新评估反对派力量",
+          "url": "https://flash.jin10.com/detail/20260114021023648800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席鲍威尔要么无能，要么不正直。鲍威尔的工作做得并不好。",
           "url": "https://flash.jin10.com/detail/20260113233652947800",
           "source": "金十数据",
@@ -393,7 +531,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
@@ -403,8 +541,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时22分]"
         },
         {
           "title": "收盘市值锁定万亿！“有色茅”股价历史新高，“万亿俱乐部”扩容，这一方向占比近半",
@@ -414,8 +552,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时22分]"
+        },
+        {
+          "title": "美国财政部：美国2025年12月预算赤字为1450亿美元，创当月历史新高，市场预期为1500亿美元，而2024年12月的赤字为870亿美元。",
+          "url": "https://flash.jin10.com/detail/20260114030125896800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "埃克森美孚石油(XOM.N)股价创下历史新高，最新上涨2.1%。",
@@ -435,7 +584,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
