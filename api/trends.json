@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T12:42:35.947834+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-01-13T13:28:23.285528+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -43,6 +43,18 @@
           "time_info": "[00时29分 ~ 07时19分]"
         },
         {
+          "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
+          "url": "https://news.ifeng.com/c/8prxSzII5sJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 13时28分]"
+        },
+        {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
           "url": "https://wallstreetcn.com/articles/3763089",
           "source": "华尔街见闻",
@@ -52,20 +64,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 12时42分]"
-        },
-        {
-          "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
-          "url": "https://news.ifeng.com/c/8prxSzII5sJ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 12时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 13时28分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -78,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 12时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 13时28分]"
         },
         {
           "title": "日媒称高市早苗或解散众议院提前大选，原因有哪些？她会成为日本最短命的首相之一吗？",
@@ -115,8 +115,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 12时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 13时28分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -129,11 +129,12 @@
             26,
             23,
             21,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 12时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 13时28分]"
         },
         {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
@@ -149,6 +150,17 @@
           "time_info": "[00时29分 ~ 09时49分]"
         },
         {
+          "title": "伊朗局势突然反转，特朗普又心生一计",
+          "url": "https://news.ifeng.com/c/8psBaLzCORr",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 13时28分]"
+        },
+        {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
           "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
           "source": "澎湃新闻",
@@ -160,6 +172,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时28分 ~ 09时49分]"
+        },
+        {
+          "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
+          "url": "https://news.ifeng.com/c/8prryx4FgQx",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 13时28分]"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -175,39 +198,6 @@
           "time_info": "[01时25分 ~ 06时22分]"
         },
         {
-          "title": "伊朗局势突然反转，特朗普又心生一计",
-          "url": "https://news.ifeng.com/c/8psBaLzCORr",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 12时42分]"
-        },
-        {
-          "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
-          "url": "https://news.ifeng.com/c/8prryx4FgQx",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 12时42分]"
-        },
-        {
-          "title": "据日本共同社：日本首相高市早苗表示，她打算在定于1月23日开始的议会会议伊始解散众议院。",
-          "url": "https://flash.jin10.com/detail/20260113122338792800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
           "url": "https://wallstreetcn.com/livenews/3035514",
           "source": "华尔街见闻-快讯",
@@ -219,26 +209,15 @@
           "time_info": "02时36分"
         },
         {
-          "title": "据日本共同社：日本首相高市早苗向执政党高层传达了她解散议会的意向。",
-          "url": "https://flash.jin10.com/detail/20260113121958232800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "日本首相高市早苗有意宣布提前大选",
-          "url": "https://wallstreetcn.com/livenews/3035797",
+          "title": "特朗普敦促支持《信用卡竞争法案》。",
+          "url": "https://wallstreetcn.com/livenews/3035828",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "13时28分"
         },
         {
           "title": "英国科技大臣Liz Kendall：马斯克旗下Grok生成的图片是“滥用非法武器”。",
@@ -263,6 +242,19 @@
           "time_info": "01时26分"
         },
         {
+          "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367387",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 13时28分]"
+        },
+        {
           "title": "美国总统特朗普倾向于袭击伊朗，但还没有做最终决定。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3035581",
           "source": "华尔街见闻-快讯",
@@ -274,6 +266,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 07时19分]"
+        },
+        {
+          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
+          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 13时28分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
+          "url": "https://wallstreetcn.com/articles/3763124",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时28分]"
+        },
+        {
+          "title": "据日本共同社：日本首相高市早苗表示，她打算在定于1月23日开始的议会会议伊始解散众议院。",
+          "url": "https://flash.jin10.com/detail/20260113122338792800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时28分]"
         },
         {
           "title": "特朗普：最高法若就关税政策作出不利裁决，美将无法负担代价",
@@ -324,6 +350,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时28分]"
+        },
+        {
+          "title": "据日本共同社：日本首相高市早苗向执政党高层传达了她解散议会的意向。",
+          "url": "https://flash.jin10.com/detail/20260113121958232800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时28分]"
+        },
+        {
+          "title": "日本首相高市早苗有意宣布提前大选",
+          "url": "https://wallstreetcn.com/livenews/3035797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时28分]"
+        },
+        {
+          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3763132",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时28分]"
+        },
+        {
+          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
+          "url": "https://wallstreetcn.com/articles/3763119",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时28分]"
         },
         {
           "title": "特朗普古巴政策现“温差” 仍允许墨西哥向古巴输油",
@@ -386,66 +462,6 @@
           "time_info": "[06时22分 ~ 07时19分]"
         },
         {
-          "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367387",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 12时42分]"
-        },
-        {
-          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
-          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 12时42分]"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
-          "url": "https://wallstreetcn.com/articles/3763124",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时42分]"
-        },
-        {
-          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
-          "url": "https://wallstreetcn.com/articles/3763119",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时42分]"
-        },
-        {
-          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3763132",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时42分]"
-        },
-        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
           "url": "https://www.cls.cn/detail/2255560",
           "source": "财联社热门",
@@ -454,8 +470,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 13时28分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -466,8 +482,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 13时28分]"
         },
         {
           "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
@@ -540,6 +556,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "如何看待马斯克AI预言",
+          "url": "https://www.douyin.com/hot/2366116",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时28分]"
         },
         {
           "title": "白宫新闻秘书利维特：特朗普不惧对伊朗动用军事力量，但更倾向于外交手段。",
@@ -746,7 +774,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -760,17 +788,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "如何看待马斯克AI预言",
-          "url": "https://www.douyin.com/hot/2366116",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "美国参议院共和党成员Cramer：我不相信美联储主席鲍威尔是一个罪犯。 希望（特朗普政府的司法部）对鲍威尔的调查“能尽快结束”。",
@@ -806,6 +823,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "高市早苗表态将解散众议院 提前大选",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A1%A8%E6%80%81%E5%B0%86%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2+%E6%8F%90%E5%89%8D%E5%A4%A7%E9%80%89",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "美国国会山一个跨党派团体前往丹麦首都哥本哈根。 在总统特朗普企图吞并格陵兰岛之际，他们会见丹麦官员们。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3035545",
           "source": "华尔街见闻-快讯",
@@ -823,7 +851,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1128,6 +1156,18 @@
           "time_info": "[03时22分 ~ 06时22分]"
         },
         {
+          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2255551",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 13时28分]"
+        },
+        {
           "title": "白银期货涨超6.9%，一度刷新历史高位，接近85美元",
           "url": "https://wallstreetcn.com/livenews/3035588",
           "source": "华尔街见闻-快讯",
@@ -1174,18 +1214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
-        },
-        {
-          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2255551",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 12时42分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市涨2%创收盘历史新高，金银矿业股领跑",
