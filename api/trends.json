@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T09:57:03.609117+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-01-14T11:50:24.123248+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 99,
+      "match_count": 104,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -26,22 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时57分]"
-        },
-        {
-          "title": "技术拆解疑似马斯克AI账号",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1,
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 11时50分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -54,6 +40,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时35分 ~ 07时22分]"
+        },
+        {
+          "title": "技术拆解疑似马斯克AI账号",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1,
+            25,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 11时50分]"
         },
         {
           "title": "李在明与高市早苗会谈，提到中国",
@@ -75,11 +76,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 11时50分]"
         },
         {
           "title": "高市早苗对李在明尖声喊您好",
@@ -91,6 +93,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时28分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 11时50分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -117,17 +131,6 @@
           "time_info": "[00时35分 ~ 05时24分]"
         },
         {
-          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
-          "url": "https://www.cls.cn/detail/2256844",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 09时57分]"
-        },
-        {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
           "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
@@ -148,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "媚韩过头,高市早苗跪迎李在明",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349102&amp;topic_name=%E5%AA%9A%E9%9F%A9%E8%BF%87%E5%A4%B4%2C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B7%AA%E8%BF%8E%E6%9D%8E%E5%9C%A8%E6%98%8E",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -601,6 +615,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "李在明提中国高市早苗没提",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8F%90%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B2%A1%E6%8F%90%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
           "title": "美国总统特朗普：目前信用卡利率太高了。",
           "url": "https://flash.jin10.com/detail/20260114034307085800",
           "source": "金十数据",
@@ -621,6 +646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
@@ -676,6 +712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "美国总统特朗普：（当被问及《美墨加协定》（USMCA）的日落条款时）该条款无关紧要，加拿大希望保留该协定，但美国并不需要它。",
@@ -764,6 +811,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "美国总统特朗普：（谈及美国在伊朗的盟友）他们应该撤出。",
@@ -981,7 +1039,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -1143,7 +1201,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
@@ -1154,8 +1212,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 09时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 11时50分]"
         },
         {
           "title": "收盘市值锁定万亿！“有色茅”股价历史新高，“万亿俱乐部”扩容，这一方向占比近半",
@@ -1179,8 +1237,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 11时50分]"
+        },
+        {
+          "title": "美国通胀数据温叠加地缘局势、工业与投资强劲需求等因素，现货白银早盘一度站上90美元关口，再创历史性时刻。多日来，白银多头情绪持续高企，占比超八成。现货黄金多头情绪亦较昨日升温。欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260114112022350800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "MSCI亚太指数创下历史新高，日内上涨0.45%。",
+          "url": "https://flash.jin10.com/detail/20260114111322307800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "现货白银涨约2.2%，美股盘初突破89美元创历史新高",
@@ -1229,6 +1309,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "金属价格延续强劲涨势，LME铜价创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3036618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
           "title": "埃克森美孚石油(XOM.N)股价创下历史新高，最新上涨2.1%。",
           "url": "https://flash.jin10.com/detail/20260113235743459800",
           "source": "金十数据",
@@ -1260,6 +1351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "印尼盾逼近历史低点 印尼央行入市干预",
+          "url": "https://flash.jin10.com/detail/20260114104610292800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "非洲股市收盘播报｜周二（1月13日），南非富时/JSE非洲领先40可交易指数收涨0.73%，逼近11.32万点，继续创收盘历史新高，最近三个交易日累计上涨3.76%。",
