@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T05:24:44.192415+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-01-15T06:25:29.192788+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 38,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "媚韩过头,高市早苗跪迎李在明",
@@ -39,8 +39,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
+        },
+        {
+          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
+          "url": "https://news.ifeng.com/c/8puu58c2sSy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时25分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -71,20 +82,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
         {
-          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
-          "url": "https://news.ifeng.com/c/8puu58c2sSy",
-          "source": "凤凰网",
+          "title": "周三（1月14日），降息赢家指数跌0.73%，报106.49点。 “特朗普关税输家”指数跌1.70%，报118.18点，早盘爆出美国最高法院再次没有就特朗普关税政策官司做判决前后显著下跌，日内绝大部分时间低位窄幅震荡。 “特朗普金融指数”跌0.86%，报172.60点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.24%，报16.24点。",
+          "url": "https://wallstreetcn.com/livenews/3037319",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时25分"
         },
         {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
@@ -111,6 +122,18 @@
           "time_info": "[04时24分 ~ 05时24分]"
         },
         {
+          "title": "特朗普再批鲍威尔",
+          "url": "https://www.douyin.com/hot/2367805",
+          "source": "抖音",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 06时25分]"
+        },
+        {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3037234",
           "source": "华尔街见闻-快讯",
@@ -121,6 +144,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普称与委内瑞拉代总统通话",
+          "url": "https://wallstreetcn.com/livenews/3037292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时25分]"
         },
         {
           "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
@@ -159,16 +194,16 @@
           "time_info": "[03时21分 ~ 04时24分]"
         },
         {
-          "title": "特朗普再批鲍威尔",
-          "url": "https://www.douyin.com/hot/2367805",
-          "source": "抖音",
+          "title": "美国总统特朗普：与丹麦关系很好。",
+          "url": "https://wallstreetcn.com/livenews/3037286",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            21
+            13,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时21分 ~ 05时24分]"
+          "time_info": "[05时24分 ~ 06时25分]"
         },
         {
           "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
@@ -182,15 +217,26 @@
           "time_info": "04时24分"
         },
         {
-          "title": "特朗普称与委内瑞拉代总统通话",
-          "url": "https://wallstreetcn.com/livenews/3037292",
+          "title": "委内瑞拉代总统罗德里格斯：和特朗普讨论了有利于两国的双边合作议程。",
+          "url": "https://flash.jin10.com/detail/20260115055337605800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "委内瑞拉代理总统Rodriguez：与美国总统特朗普的通话富有成效，也是热情友好的。",
+          "url": "https://wallstreetcn.com/livenews/3037315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时25分"
         },
         {
           "title": "油价大幅跳水 特朗普称伊朗的“杀戮”正在停止",
@@ -202,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "委内瑞拉代总统罗德里格斯：与美国总统特朗普进行了长时间、富有成效且礼貌的电话通话。",
+          "url": "https://flash.jin10.com/detail/20260115055302201800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美联储卡什卡利拒绝就美国总统特朗普政府购买抵押贷款债券发表评论。",
@@ -237,6 +294,28 @@
           "time_info": "04时24分"
         },
         {
+          "title": "市场消息：特朗普签署行政命令，设立第二个紧急委员会，调查长岛铁路公司与其部分员工（由特定劳工组织代表）之间的争议。",
+          "url": "https://flash.jin10.com/detail/20260115053554998800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "白宫：美国总统特朗普可能会针对芯片进口实施更广泛的关税。",
+          "url": "https://wallstreetcn.com/livenews/3037309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
           "title": "美国总统特朗普签署关键矿物行政命令。",
           "url": "https://flash.jin10.com/detail/20260115040151639800",
           "source": "金十数据",
@@ -246,17 +325,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "美国总统特朗普：与丹麦关系很好。",
-          "url": "https://wallstreetcn.com/livenews/3037286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
         },
         {
           "title": "美国总统特朗普：我有一些关于伊朗的消息，我们稍后会谈到。",
@@ -276,9 +344,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美国白宫：特朗普坚决认为，有必要与贸易伙伴展开谈判，以调整加工关键矿产及其衍生产品的进口。根据谈判的结果，特朗普未来可能会考虑替代性补救措施，包括对特定类型的关键矿物设定最低进口价格。",
+          "url": "https://flash.jin10.com/detail/20260115053341985800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "美国白宫：特朗普还对某些先进计算芯片征收了25%的关税，例如英伟达H200和AMD MI325X。",
+          "url": "https://flash.jin10.com/detail/20260115053106355800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美国总统特朗普：已选定新助理司法部长人选",
@@ -287,9 +377,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美国白宫：特朗普近期可能会对半导体及其衍生产品的进口征收更广泛的关税。",
+          "url": "https://flash.jin10.com/detail/20260115052805367800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
@@ -303,15 +404,37 @@
           "time_info": "00时34分"
         },
         {
+          "title": "未排除动武可能，特朗普称将“观望”伊朗局势发展",
+          "url": "https://wallstreetcn.com/livenews/3037300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
           "title": "美国总统特朗普：与委内瑞拉领导人进行了精彩的对话。",
           "url": "https://flash.jin10.com/detail/20260115044111087800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普政府拟让FTC主席负责司法部反欺诈新部门",
+          "url": "https://flash.jin10.com/detail/20260115052300801800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "花旗警告称特朗普设置信用卡利率上限的想法可能导致经济放缓",
@@ -320,7 +443,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -342,7 +465,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -353,7 +476,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -364,9 +487,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普更名国防部可能需耗资1.25亿美元",
+          "url": "https://flash.jin10.com/detail/20260115051820833800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美国总统特朗普：（谈格陵兰岛）我们走着瞧。将很快听取有关会晤的汇报。我们与丹麦关系非常好。我们需要格陵兰岛。",
@@ -375,9 +509,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普在周三的讲话中不同寻常地呼应了伊朗方面的一个主要论点。特朗普表示：“他们（伊朗）说有人用枪向他们开火，他们就还击了。你知道，这种事情就是这样。”",
+          "url": "https://flash.jin10.com/detail/20260115050626340800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "特朗普政府执政近一年给世界带来了啥",
@@ -397,7 +542,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -408,7 +553,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -419,7 +564,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -438,7 +583,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "U23国足历史首次小组晋级",
@@ -446,11 +591,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "U23国足创历史,亚洲杯首次出线",
@@ -460,8 +606,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
@@ -472,8 +618,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时25分]"
         },
         {
           "title": "美联储Kashkari：（经历了历史上持续天数最长的政府关门事件之后）需要数月时间，数据才能再次给出清晰的信息。",
@@ -493,11 +639,45 @@
           "url": "https://flash.jin10.com/detail/20260115050114415800",
           "source": "金十数据",
           "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时25分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.30%，报393.33点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.43%，报2757.16点，也创历史新高，北京时间22:30美股开盘以来V形反转。 （美股）原材料指数收涨1.10%，报252.44点。 （美股）金属与矿业指数涨2.48%，报242.99点。",
+          "url": "https://wallstreetcn.com/livenews/3037317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "纽约期银涨超7%，一度刷新历史高位至93美元上方，纽约铜在亚太时段涨穿6.15美元",
+          "url": "https://wallstreetcn.com/livenews/3037316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时25分"
+        },
+        {
+          "title": "纽约期金涨超0.6%，一度刷新历史高位至4650美元",
+          "url": "https://wallstreetcn.com/livenews/3037313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "巴西基准股指Bovespa指数创下新的盘中历史新高。",
@@ -506,7 +686,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         }
