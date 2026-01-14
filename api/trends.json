@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T02:37:55.898055+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-15T03:21:42.597065+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -15,8 +15,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -36,22 +49,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "媚韩过头,高市早苗跪迎李在明",
@@ -61,8 +61,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时21分]"
+        },
+        {
+          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3037234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时21分]"
         },
         {
           "title": "美国特使Witkoff：我们正式宣布启动特朗普关于结束加沙冲突“二十点计划”的第二阶段。",
@@ -77,17 +89,6 @@
           "time_info": "[01时29分 ~ 02时37分]"
         },
         {
-          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3037234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
           "title": "美联储卡什卡利拒绝就美国总统特朗普政府购买抵押贷款债券发表评论。",
           "url": "https://flash.jin10.com/detail/20260115012010360800",
           "source": "金十数据",
@@ -97,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
+          "url": "https://wallstreetcn.com/livenews/3037256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
@@ -110,15 +122,37 @@
           "time_info": "00时34分"
         },
         {
+          "title": "特朗普再批鲍威尔",
+          "url": "https://www.douyin.com/hot/2367805",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
           "title": "市场消息：美国加州总检察长对马斯克旗下xAI和Grok启动调查。",
           "url": "https://flash.jin10.com/detail/20260115013111465800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "马斯克旗下xAI遭加州调查 Grok涉嫌生成违规图像",
+          "url": "https://flash.jin10.com/detail/20260115021524216800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
@@ -135,8 +169,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "U23国足创历史,亚洲杯首次出线",
@@ -146,30 +180,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
           "url": "https://wallstreetcn.com/articles/3763257",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时21分]"
         },
         {
           "title": "美联储Kashkari：（经历了历史上持续天数最长的政府关门事件之后）需要数月时间，数据才能再次给出清晰的信息。",
           "url": "https://wallstreetcn.com/livenews/3037235",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时21分]"
         }
       ]
     }
