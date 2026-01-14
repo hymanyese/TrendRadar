@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T03:21:42.597065+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-01-15T04:24:34.071922+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 13,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时24分]"
         },
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -28,8 +28,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时24分]"
+        },
+        {
+          "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3037278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "媚韩过头,高市早苗跪迎李在明",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349102&amp;topic_name=%E5%AA%9A%E9%9F%A9%E8%BF%87%E5%A4%B4%2C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B7%AA%E8%BF%8E%E6%9D%8E%E5%9C%A8%E6%98%8E",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时24分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -54,15 +76,15 @@
           "time_info": "02时37分"
         },
         {
-          "title": "媚韩过头,高市早苗跪迎李在明",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349102&amp;topic_name=%E5%AA%9A%E9%9F%A9%E8%BF%87%E5%A4%B4%2C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B7%AA%E8%BF%8E%E6%9D%8E%E5%9C%A8%E6%98%8E",
-          "source": "贴吧",
+          "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
+          "url": "https://wallstreetcn.com/livenews/3037276",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -89,6 +111,51 @@
           "time_info": "[01时29分 ~ 02时37分]"
         },
         {
+          "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
+          "url": "https://wallstreetcn.com/livenews/3037256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时24分]"
+        },
+        {
+          "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
+          "url": "https://flash.jin10.com/detail/20260115040624036800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "油价大幅跳水 特朗普称伊朗的“杀戮”正在停止",
+          "url": "https://flash.jin10.com/detail/20260115040402898800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
+          "url": "https://wallstreetcn.com/livenews/3037268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "美联储卡什卡利拒绝就美国总统特朗普政府购买抵押贷款债券发表评论。",
           "url": "https://flash.jin10.com/detail/20260115012010360800",
           "source": "金十数据",
@@ -100,15 +167,48 @@
           "time_info": "01时29分"
         },
         {
-          "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
-          "url": "https://wallstreetcn.com/livenews/3037256",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：签署了一项行动，将允许我们对芯片销售征收25%的关税。",
+          "url": "https://flash.jin10.com/detail/20260115040309665800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国总统特朗普：已被告知伊朗的“杀戮”正在停止，没有处决计划。",
+          "url": "https://flash.jin10.com/detail/20260115040252991800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国总统特朗普签署关键矿物行政命令。",
+          "url": "https://flash.jin10.com/detail/20260115040151639800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国总统特朗普：我有一些关于伊朗的消息，我们稍后会谈到。",
+          "url": "https://flash.jin10.com/detail/20260115040150606800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
@@ -128,7 +228,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -144,13 +244,24 @@
           "time_info": "02时37分"
         },
         {
+          "title": "特朗普政府执政近一年给世界带来了啥",
+          "url": "https://www.toutiao.com/trending/7595171405177684018/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "马斯克旗下xAI遭加州调查 Grok涉嫌生成违规图像",
           "url": "https://flash.jin10.com/detail/20260115021524216800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         }
@@ -169,8 +280,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时24分]"
         },
         {
           "title": "U23国足创历史,亚洲杯首次出线",
@@ -180,8 +291,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时24分]"
         },
         {
           "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
@@ -192,8 +303,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时24分]"
         },
         {
           "title": "美联储Kashkari：（经历了历史上持续天数最长的政府关门事件之后）需要数月时间，数据才能再次给出清晰的信息。",
@@ -201,11 +312,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时24分]"
         }
       ]
     }
