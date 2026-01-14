@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T07:22:05.442525+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-01-14T09:57:03.609117+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 95,
+      "match_count": 99,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时57分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -36,11 +36,12 @@
           "ranks": [
             3,
             1,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时57分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -73,11 +74,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32376079",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时57分]"
         },
         {
           "title": "高市早苗对李在明尖声喊您好",
@@ -115,13 +117,24 @@
           "time_info": "[00时35分 ~ 05时24分]"
         },
         {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
           "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -533,6 +546,28 @@
           "time_info": "[06时24分 ~ 06时25分]"
         },
         {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "特朗普称将切断“庇护城市”联邦资金",
+          "url": "https://www.toutiao.com/trending/7594261365691482175/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
           "title": "马斯克：电力是AI时代唯一的“军备”",
           "url": "https://www.toutiao.com/trending/7594102715242250276/",
           "source": "今日头条",
@@ -781,7 +816,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -940,6 +975,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "据AXIOS网站：特朗普称他知道可能对伊朗采取的应对措施，但他强调尚未做出决定。他说他需要今天晚些时候了解伊朗局势和死亡人数的准确情况。",
+          "url": "https://flash.jin10.com/detail/20260114090134298800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席扼杀了经济的每一次反弹。",
           "url": "https://flash.jin10.com/detail/20260114031448130800",
           "source": "金十数据",
@@ -968,7 +1014,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1108,8 +1154,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 09时57分]"
         },
         {
           "title": "收盘市值锁定万亿！“有色茅”股价历史新高，“万亿俱乐部”扩容，这一方向占比近半",
@@ -1129,11 +1175,12 @@
           "url": "https://www.cls.cn/detail/2256863",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 09时57分]"
         },
         {
           "title": "现货白银涨约2.2%，美股盘初突破89美元创历史新高",
@@ -1199,7 +1246,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
