@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T11:50:24.123248+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-01-14T12:49:35.574933+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 104,
+      "match_count": 106,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时49分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -50,11 +50,12 @@
             1,
             25,
             21,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时49分]"
         },
         {
           "title": "李在明与高市早苗会谈，提到中国",
@@ -77,11 +78,12 @@
           "ranks": [
             19,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时49分]"
         },
         {
           "title": "高市早苗对李在明尖声喊您好",
@@ -103,8 +105,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 11时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 12时49分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -131,6 +133,18 @@
           "time_info": "[00时35分 ~ 05时24分]"
         },
         {
+          "title": "媚韩过头,高市早苗跪迎李在明",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349102&amp;topic_name=%E5%AA%9A%E9%9F%A9%E8%BF%87%E5%A4%B4%2C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B7%AA%E8%BF%8E%E6%9D%8E%E5%9C%A8%E6%98%8E",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时49分]"
+        },
+        {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
           "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
@@ -151,17 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        },
-        {
-          "title": "媚韩过头,高市早苗跪迎李在明",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349102&amp;topic_name=%E5%AA%9A%E9%9F%A9%E8%BF%87%E5%A4%B4%2C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B7%AA%E8%BF%8E%E6%9D%8E%E5%9C%A8%E6%98%8E",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -345,6 +348,18 @@
           "time_info": "[02时34分 ~ 03时22分]"
         },
         {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时49分]"
+        },
+        {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
           "url": "https://wallstreetcn.com/livenews/3036337",
           "source": "华尔街见闻-快讯",
@@ -367,6 +382,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时22分]"
+        },
+        {
+          "title": "李在明提中国高市早苗没提",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8F%90%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B2%A1%E6%8F%90%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时49分]"
         },
         {
           "title": "美国总统特朗普：伊朗最好老实点。",
@@ -405,6 +432,18 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时49分]"
+        },
+        {
           "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
           "url": "https://wallstreetcn.com/livenews/3036380",
           "source": "华尔街见闻-快讯",
@@ -415,6 +454,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时49分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
@@ -615,17 +666,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "李在明提中国高市早苗没提",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8F%90%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B2%A1%E6%8F%90%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
           "title": "美国总统特朗普：目前信用卡利率太高了。",
           "url": "https://flash.jin10.com/detail/20260114034307085800",
           "source": "金十数据",
@@ -646,17 +686,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
         },
         {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
@@ -714,17 +743,6 @@
           "time_info": "06时25分"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
           "title": "美国总统特朗普：（当被问及《美墨加协定》（USMCA）的日落条款时）该条款无关紧要，加拿大希望保留该协定，但美国并不需要它。",
           "url": "https://flash.jin10.com/detail/20260114015647765800",
           "source": "金十数据",
@@ -756,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "美国总统特朗普：本周晚些时候，我将宣布我们的医疗可负担性框架。",
@@ -811,17 +840,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
         },
         {
           "title": "美国总统特朗普：（谈及美国在伊朗的盟友）他们应该撤出。",
@@ -1077,6 +1095,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
+          "url": "https://wallstreetcn.com/livenews/3036636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "美国总统特朗普：美联储里有个真正的死脑筋。",
           "url": "https://flash.jin10.com/detail/20260114031246667800",
           "source": "金十数据",
@@ -1212,8 +1241,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 11时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 12时49分]"
         },
         {
           "title": "收盘市值锁定万亿！“有色茅”股价历史新高，“万亿俱乐部”扩容，这一方向占比近半",
@@ -1237,8 +1266,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 11时50分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 12时49分]"
         },
         {
           "title": "美国通胀数据温叠加地缘局势、工业与投资强劲需求等因素，现货白银早盘一度站上90美元关口，再创历史性时刻。多日来，白银多头情绪持续高企，占比超八成。现货黄金多头情绪亦较昨日升温。欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1247,7 +1276,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -1258,7 +1287,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -1315,7 +1344,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -1359,7 +1388,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
