@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T21:42:23.241512+08:00",
-  "total_titles_processed": 2027,
+  "generated_at": "2026-01-15T22:27:47.136886+08:00",
+  "total_titles_processed": 2119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 94,
+      "match_count": 95,
       "titles": [
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -21,6 +21,18 @@
           "time_info": "[00时33分 ~ 09时51分]"
         },
         {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 22时27分]"
+        },
+        {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
           "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
           "source": "凤凰网",
@@ -31,18 +43,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时43分 ~ 17时31分]"
-        },
-        {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 21时42分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -61,11 +61,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 21时42分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 22时27分]"
         },
         {
           "title": "媚韩过头,高市早苗跪迎李在明",
@@ -85,6 +86,17 @@
           "time_info": "[00时33分 ~ 17时31分]"
         },
         {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 22时27分]"
+        },
+        {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
           "url": "https://www.cls.cn/detail/2258223",
           "source": "财联社热门",
@@ -98,17 +110,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时43分 ~ 19时23分]"
-        },
-        {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 21时42分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -204,6 +205,18 @@
           "time_info": "[11时43分 ~ 15时27分]"
         },
         {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 22时27分]"
+        },
+        {
           "title": "克里姆林宫就特朗普称泽连斯基阻挠乌克兰和平协议一事回应：特朗普说得对。",
           "url": "https://flash.jin10.com/detail/20260115180050844800",
           "source": "金十数据",
@@ -213,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "特朗普暂缓对关键矿产加征关税 白银跌势重启",
+          "url": "https://flash.jin10.com/detail/20260115220231302800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
@@ -226,18 +250,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时43分 ~ 13时28分]"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 21时42分]"
         },
         {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
@@ -1133,8 +1145,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 21时42分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 22时27分]"
         },
         {
           "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
@@ -1165,8 +1177,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 21时42分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 22时27分]"
         },
         {
           "title": "现货白银盘初将历史新高刷新至93.68美元/盎司。",
@@ -1306,7 +1318,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
