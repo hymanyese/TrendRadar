@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T13:28:43.779350+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-01-15T14:37:32.414087+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 83,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -43,8 +43,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时37分]"
+        },
+        {
+          "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
+          "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时37分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -56,17 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
-          "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时28分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -113,6 +113,42 @@
           "time_info": "09时51分"
         },
         {
+          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2258166",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
+          "title": "李在明与高市早苗合奏之余，两国在中美、中日、半岛议题上走钢丝",
+          "url": "https://news.ifeng.com/c/8pvdgNe7cvA",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时37分]"
+        },
+        {
           "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
           "url": "https://wallstreetcn.com/livenews/3037513",
           "source": "华尔街见闻-快讯",
@@ -126,19 +162,6 @@
           "time_info": "[11时43分 ~ 13时28分]"
         },
         {
-          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2258166",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 13时28分]"
-        },
-        {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
           "url": "https://wallstreetcn.com/livenews/3037278",
           "source": "华尔街见闻-快讯",
@@ -149,18 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时24分]"
-        },
-        {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 13时28分]"
         },
         {
           "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
@@ -187,17 +198,6 @@
           "time_info": "[06时25分 ~ 07时20分]"
         },
         {
-          "title": "李在明与高市早苗合奏之余，两国在中美、中日、半岛议题上走钢丝",
-          "url": "https://news.ifeng.com/c/8pvdgNe7cvA",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
-        },
-        {
           "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
           "url": "https://www.zhihu.com/question/1994760082911675910",
           "source": "知乎",
@@ -206,8 +206,21 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时37分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
+          "time_info": "[12时43分 ~ 14时37分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -220,18 +233,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 06时25分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时28分]"
         },
         {
           "title": "委内瑞拉代总统和特朗普通话",
@@ -316,6 +317,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时24分]"
+        },
+        {
+          "title": "特朗普同委内瑞拉代总统通话",
+          "url": "https://www.toutiao.com/trending/7594631182898397227/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时37分]"
         },
         {
           "title": "美国总统特朗普：与丹麦关系很好。",
@@ -494,17 +507,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        },
-        {
-          "title": "特朗普同委内瑞拉代总统通话",
-          "url": "https://www.toutiao.com/trending/7594631182898397227/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "美国总统特朗普签署关键矿物行政命令。",
@@ -870,6 +872,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "美国卫生部长“吐槽”特朗普体质",
+          "url": "https://www.toutiao.com/trending/7594934332809150515/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "特朗普称伊朗“杀戮”已停止 或暗示暂缓对伊军事行动",
           "url": "https://flash.jin10.com/detail/20260115042905002800",
           "source": "金十数据",
@@ -990,8 +1003,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时37分]"
         },
         {
           "title": "现货白银盘初将历史新高刷新至93.68美元/盎司。",
@@ -1014,8 +1027,20 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
+          "title": "U23亚洲杯小组赛末轮，中国队战平泰国队小组出线创历史",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32384566",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时51分 ~ 13时28分]"
+          "time_info": "[11时43分 ~ 14时37分]"
         },
         {
           "title": "美联储Kashkari：（经历了历史上持续天数最长的政府关门事件之后）需要数月时间，数据才能再次给出清晰的信息。",
@@ -1029,18 +1054,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时24分]"
-        },
-        {
-          "title": "U23亚洲杯小组赛末轮，中国队战平泰国队小组出线创历史",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32384566",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.30%，报393.33点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.43%，报2757.16点，也创历史新高，北京时间22:30美股开盘以来V形反转。 （美股）原材料指数收涨1.10%，报252.44点。 （美股）金属与矿业指数涨2.48%，报242.99点。",
@@ -1136,11 +1149,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 14时37分]"
         },
         {
           "title": "职场上，领导一般都会选什么样的人，作为自己的心腹？",
