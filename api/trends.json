@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T03:27:10.701233+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-01-16T04:29:04.820433+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -41,17 +41,6 @@
           "time_info": "00时39分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：关于格陵兰的会议富有成效。 每2-3周会举行一次关于格陵兰的会议。 欧洲军队（部署）不会影响美国总统特朗普有关（企图吞并）格陵兰的目标。",
-          "url": "https://wallstreetcn.com/livenews/3038173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
           "url": "https://flash.jin10.com/detail/20260116002613616800",
           "source": "金十数据",
@@ -63,15 +52,28 @@
           "time_info": "00时39分"
         },
         {
-          "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
-          "url": "https://flash.jin10.com/detail/20260116024657437800",
-          "source": "金十数据",
+          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
+          "url": "https://wallstreetcn.com/articles/3763320",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时27分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时29分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
+          "url": "https://wallstreetcn.com/livenews/3038164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时29分]"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗计划将要求企业公布被拒索赔的百分比，以及在索赔上支付的收入占管理费用的百分比。",
@@ -86,28 +88,17 @@
           "time_info": "[00时39分 ~ 01时34分]"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
-          "url": "https://wallstreetcn.com/livenews/3038164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时27分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
           "url": "https://wallstreetcn.com/livenews/3038163",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时27分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时29分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
@@ -115,22 +106,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时29分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：关于格陵兰的会议富有成效。 每2-3周会举行一次关于格陵兰的会议。 欧洲军队（部署）不会影响美国总统特朗普有关（企图吞并）格陵兰的目标。",
+          "url": "https://wallstreetcn.com/livenews/3038173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时27分]"
+          "time_info": "[03时27分 ~ 04时29分]"
         },
         {
-          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
-          "url": "https://wallstreetcn.com/articles/3763320",
-          "source": "华尔街见闻",
+          "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
+          "url": "https://flash.jin10.com/detail/20260116024657437800",
+          "source": "金十数据",
           "ranks": [
-            10
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时27分]"
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 04时29分]"
         },
         {
           "title": "特朗普直播打瞌睡被小女孩发现",
@@ -145,6 +150,18 @@
           "time_info": "[00时38分 ~ 01时34分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
+          "url": "https://wallstreetcn.com/livenews/3038171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 04时29分]"
+        },
+        {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
           "url": "https://wallstreetcn.com/livenews/3038125",
           "source": "华尔街见闻-快讯",
@@ -155,6 +172,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时34分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将在几周内决定美联储主席的人选。 对于下一任美联储主席，特朗普有几个人选。",
+          "url": "https://wallstreetcn.com/livenews/3038168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。 对美国公司和美国人来说，欧盟科技罚款都非常不公平。",
@@ -204,17 +233,6 @@
           "time_info": "00时39分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
-          "url": "https://wallstreetcn.com/livenews/3038171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普的医疗保健计划承诺将提供更多药品供非处方购买。",
           "url": "https://flash.jin10.com/detail/20260116002420950800",
           "source": "金十数据",
@@ -243,7 +261,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         },
@@ -254,18 +272,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普将在几周内决定美联储主席的人选。 对于下一任美联储主席，特朗普有几个人选。",
-          "url": "https://wallstreetcn.com/livenews/3038168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         },
@@ -287,9 +294,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：无论特朗普选择谁担任主席，美联储都将保持独立性。",
+          "url": "https://flash.jin10.com/detail/20260116035008804800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普希望美联储独立运作。",
+          "url": "https://flash.jin10.com/detail/20260116034814439800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普期望信用卡公司降低成本。",
@@ -298,7 +327,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         },
@@ -309,9 +338,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "委反对派领袖会见特朗普，后者拒绝为其掌权背书",
+          "url": "https://flash.jin10.com/detail/20260116034634748800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "委内瑞拉反对派领袖马查多拒绝透露她是否已将诺贝尔和平奖献给特朗普。",
+          "url": "https://flash.jin10.com/detail/20260116034316836800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "“先别打伊朗”，以总理劝告特朗普避免隔靴搔痒式进攻",
+          "url": "https://flash.jin10.com/detail/20260116034226096800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "声明显示：美国总统特朗普要求国会通过其医改方案。",
@@ -375,7 +437,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         },
@@ -408,7 +470,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         }
@@ -428,8 +490,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "U23国足创历史,亚洲杯首次出线",
@@ -440,8 +502,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "欧洲股市创收盘历史新高",
