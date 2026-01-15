@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T11:43:33.773334+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-01-15T12:43:31.432746+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 79,
+      "match_count": 82,
       "titles": [
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -38,11 +38,12 @@
           "ranks": [
             20,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 11时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 12时43分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -56,15 +57,15 @@
           "time_info": "[05时24分 ~ 07时20分]"
         },
         {
-          "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
-          "url": "https://wallstreetcn.com/livenews/3037513",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
+          "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时43分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -123,6 +124,18 @@
           "time_info": "[04时24分 ~ 05时24分]"
         },
         {
+          "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
+          "url": "https://wallstreetcn.com/livenews/3037513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
+        },
+        {
           "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
           "url": "https://wallstreetcn.com/livenews/3037276",
           "source": "华尔街见闻-快讯",
@@ -147,6 +160,29 @@
           "time_info": "[06时25分 ~ 07时20分]"
         },
         {
+          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2258166",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时43分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时43分]"
+        },
+        {
           "title": "特朗普再批鲍威尔",
           "url": "https://www.douyin.com/hot/2367805",
           "source": "抖音",
@@ -159,27 +195,15 @@
           "time_info": "[03时21分 ~ 06时25分]"
         },
         {
-          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2258166",
-          "source": "财联社热门",
+          "title": "李在明与高市早苗合奏之余，两国在中美、中日、半岛议题上走钢丝",
+          "url": "https://news.ifeng.com/c/8pvdgNe7cvA",
+          "source": "凤凰网",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时43分]"
-        },
-        {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时43分]"
+          "time_info": "[11时43分 ~ 12时43分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -254,6 +278,18 @@
           "time_info": "[03时21分 ~ 04时24分]"
         },
         {
+          "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
+          "url": "https://www.zhihu.com/question/1994760082911675910",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
+        },
+        {
           "title": "美国总统特朗普：与丹麦关系很好。",
           "url": "https://wallstreetcn.com/livenews/3037286",
           "source": "华尔街见闻-快讯",
@@ -266,15 +302,16 @@
           "time_info": "[05时24分 ~ 06时25分]"
         },
         {
-          "title": "李在明与高市早苗合奏之余，两国在中美、中日、半岛议题上走钢丝",
-          "url": "https://news.ifeng.com/c/8pvdgNe7cvA",
-          "source": "凤凰网",
+          "title": "哥伦比亚总统称将于2月3日同特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3037497",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            13,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
         },
         {
           "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
@@ -299,6 +336,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "委内瑞拉代总统罗德里格斯：和特朗普讨论了有利于两国的双边合作议程。",
           "url": "https://flash.jin10.com/detail/20260115055337605800",
           "source": "金十数据",
@@ -308,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "委内瑞拉代总统和特朗普通话",
+          "url": "https://www.douyin.com/hot/2368035",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "油价大幅跳水 特朗普称伊朗的“杀戮”正在停止",
@@ -338,7 +397,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -363,17 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
-          "url": "https://www.zhihu.com/question/1994760082911675910",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         },
         {
           "title": "美国总统特朗普：已被告知伊朗的“杀戮”正在停止，没有处决计划。",
@@ -426,7 +474,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -451,17 +499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "哥伦比亚总统称将于2月3日同特朗普会晤",
-          "url": "https://wallstreetcn.com/livenews/3037497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         },
         {
           "title": "特朗普参观汽车工厂和民众对骂还竖中指，白宫：回应合适",
@@ -690,7 +727,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -896,7 +933,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "U23国足历史首次小组晋级",
@@ -921,8 +958,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 11时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 12时43分]"
         },
         {
           "title": "U23国足创历史,亚洲杯首次出线",
@@ -931,11 +968,12 @@
           "ranks": [
             9,
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 11时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 12时43分]"
         },
         {
           "title": "现货白银盘初将历史新高刷新至93.68美元/盎司。",
@@ -960,6 +998,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时24分]"
+        },
+        {
+          "title": "如何看待U23亚洲杯创历史，中国队淘汰赛期待再造惊喜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32385737",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时43分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.30%，报393.33点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.43%，报2757.16点，也创历史新高，北京时间22:30美股开盘以来V形反转。 （美股）原材料指数收涨1.10%，报252.44点。 （美股）金属与矿业指数涨2.48%，报242.99点。",
@@ -1010,27 +1060,37 @@
           "time_info": "[06时25分 ~ 07时20分]"
         },
         {
-          "title": "如何看待U23亚洲杯创历史，中国队淘汰赛期待再造惊喜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32385737",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时43分]"
-        },
-        {
           "title": "U23亚洲杯小组赛末轮，中国队战平泰国队小组出线创历史",
           "url": "https://m.thepaper.cn/newsDetail_forward_32384566",
           "source": "澎湃新闻",
           "ranks": [
             12
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
+        },
+        {
+          "title": "Z99/100次列车正式退出历史舞台",
+          "url": "https://www.baidu.com/s?wd=Z99%2F100%E6%AC%A1%E5%88%97%E8%BD%A6%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E5%8E%86%E5%8F%B2%E8%88%9E%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时43分]"
+        },
+        {
+          "title": "关税忧虑缓解叠加美元走强 铜价正从历史高位回落",
+          "url": "https://flash.jin10.com/detail/20260115114712671800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时43分"
         },
         {
           "title": "巴西基准股指Bovespa指数创下新的盘中历史新高。",
@@ -1042,17 +1102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "Z99/100次列车正式退出历史舞台",
-          "url": "https://www.baidu.com/s?wd=Z99%2F100%E6%AC%A1%E5%88%97%E8%BD%A6%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E5%8E%86%E5%8F%B2%E8%88%9E%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         }
       ]
     },
@@ -1069,8 +1118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时43分]"
         },
         {
           "title": "职场上，领导一般都会选什么样的人，作为自己的心腹？",
