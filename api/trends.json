@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T04:29:04.820433+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-01-16T05:25:05.583549+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 05时25分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 05时25分]"
+        },
+        {
+          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
+          "url": "https://wallstreetcn.com/articles/3763320",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时25分]"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -50,17 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
-        },
-        {
-          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
-          "url": "https://wallstreetcn.com/articles/3763320",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时29分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
@@ -101,6 +101,19 @@
           "time_info": "[02时40分 ~ 04时29分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：关于格陵兰的会议富有成效。 每2-3周会举行一次关于格陵兰的会议。 欧洲军队（部署）不会影响美国总统特朗普有关（企图吞并）格陵兰的目标。",
+          "url": "https://wallstreetcn.com/livenews/3038173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 05时25分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
           "url": "https://wallstreetcn.com/livenews/3038162",
           "source": "华尔街见闻-快讯",
@@ -112,18 +125,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时40分 ~ 04时29分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：关于格陵兰的会议富有成效。 每2-3周会举行一次关于格陵兰的会议。 欧洲军队（部署）不会影响美国总统特朗普有关（企图吞并）格陵兰的目标。",
-          "url": "https://wallstreetcn.com/livenews/3038173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 04时29分]"
         },
         {
           "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
@@ -233,6 +234,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "市场消息：美国波士顿一名法官打算发布一项命令，旨在阻止特朗普政府拘留并驱逐那些对政府处理亲巴勒斯坦校园活动人士方式提出质疑的学者。",
+          "url": "https://flash.jin10.com/detail/20260116050337941800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的医疗保健计划承诺将提供更多药品供非处方购买。",
           "url": "https://flash.jin10.com/detail/20260116002420950800",
           "source": "金十数据",
@@ -305,7 +317,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -316,7 +328,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -330,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "据AXIOS记者：尽管目前看来美国对伊朗发动打击并非迫在眉睫，但一名熟悉相关情况的美国消息人士称，所有人都知道，特朗普一直“把手指放在按钮上”（准备好打击）。",
+          "url": "https://flash.jin10.com/detail/20260116045725279800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普正处于对美联储人事任命的决策阶段，他目前有几位心仪的人选来出任这一职位。特朗普将在未来几周内就美联储主席人选作出决定。",
@@ -349,7 +372,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -360,9 +383,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国驻联合国特使：特朗普已明确表示，为制止这场“屠杀”，所有选项都摆在桌面上。",
+          "url": "https://flash.jin10.com/detail/20260116045158825800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "“先别打伊朗”，以总理劝告特朗普避免隔靴搔痒式进攻",
@@ -371,7 +405,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -407,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "据华尔街日报：与马斯克生子的网红Ashley St. Clair因Grok聊天机器人照片起诉xAI，寻求禁令防止Grok利用人工智能创造深度伪像。",
+          "url": "https://flash.jin10.com/detail/20260116044537613800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -478,7 +523,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待U23亚洲杯创历史，中国队淘汰赛期待再造惊喜",
@@ -490,8 +535,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 05时25分]"
         },
         {
           "title": "U23国足创历史,亚洲杯首次出线",
@@ -502,8 +547,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 05时25分]"
         },
         {
           "title": "欧洲股市创收盘历史新高",
@@ -516,6 +561,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时34分]"
+        },
+        {
+          "title": "委内瑞拉代总统罗德里格斯：美国的侵略破坏了历史性的石油合作，双方关系应建立在相互尊重的基础上。",
+          "url": "https://flash.jin10.com/detail/20260116044826716800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "监管松绑释放千亿红利 华尔街六大行回购创历史",
