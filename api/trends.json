@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T20:51:22.622182+08:00",
-  "total_titles_processed": 1938,
+  "generated_at": "2026-01-15T21:42:23.241512+08:00",
+  "total_titles_processed": 2027,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[12时43分 ~ 17时31分]"
         },
         {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 21时42分]"
+        },
+        {
           "title": "特朗普特使秘密见了伊朗末代王储",
           "url": "https://news.ifeng.com/c/8puGHxn1NbX",
           "source": "凤凰网",
@@ -52,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时51分 ~ 20时51分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 21时42分]"
         },
         {
           "title": "媚韩过头,高市早苗跪迎李在明",
@@ -71,18 +83,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时33分 ~ 17时31分]"
-        },
-        {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 20时51分]"
         },
         {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
@@ -107,8 +107,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 21时42分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -228,6 +228,18 @@
           "time_info": "[11时43分 ~ 13时28分]"
         },
         {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 21时42分]"
+        },
+        {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
           "url": "https://wallstreetcn.com/livenews/3037278",
           "source": "华尔街见闻-快讯",
@@ -274,18 +286,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时43分 ~ 14时37分]"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 20时51分]"
         },
         {
           "title": "美对委行动后特朗普支持率仍在低点",
@@ -527,7 +527,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1085,7 +1085,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "U23国足历史首次小组晋级",
@@ -1111,23 +1111,12 @@
             11,
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时43分 ~ 20时51分]"
-        },
-        {
-          "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
-          "url": "https://wallstreetcn.com/articles/3763257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 13时28分]"
+          "appearance_count": 11,
+          "time_info": "[11时43分 ~ 21时42分]"
         },
         {
           "title": "如何看待U23亚洲杯创历史，中国队淘汰赛期待再造惊喜",
@@ -1140,11 +1129,24 @@
             12,
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时51分 ~ 20时51分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 21时42分]"
+        },
+        {
+          "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
+          "url": "https://wallstreetcn.com/articles/3763257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 13时28分]"
         },
         {
           "title": "U23国足创历史,亚洲杯首次出线",
@@ -1163,8 +1165,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 20时51分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 21时42分]"
         },
         {
           "title": "现货白银盘初将历史新高刷新至93.68美元/盎司。",
@@ -1296,6 +1298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "世界黄金协会：2025年金价共计53次刷新历史记录",
+          "url": "https://wallstreetcn.com/livenews/3038024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "在台积电上调业绩指引后，阿斯麦股价大涨7.6%，创历史新高。",
