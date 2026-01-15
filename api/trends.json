@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T06:25:17.818017+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-01-16T07:25:00.209581+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 57,
+      "match_count": 64,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 06时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -26,19 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 06时25分]"
-        },
-        {
-          "title": "美国参议院民主党领导人Schumer会见总统特朗普时呼吁对方让共和党支持医疗保险补贴相关的ACA税收抵免立法草案。",
-          "url": "https://wallstreetcn.com/livenews/3038237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -52,17 +41,6 @@
           "time_info": "[00时39分 ~ 05时25分]"
         },
         {
-          "title": "美国参议院少数党领袖舒默在与特朗普会面时表示，美国移民和海关执法局（ICE）突袭正在恐吓社区，并敦促特朗普将ICE撤出美国各大城市。",
-          "url": "https://flash.jin10.com/detail/20260116060130016800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
           "url": "https://flash.jin10.com/detail/20260116002651995800",
           "source": "金十数据",
@@ -72,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "白宫披露显示特朗普持有多家受其政策影响的企业债券",
+          "url": "https://flash.jin10.com/detail/20260116065856056800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
@@ -85,15 +74,15 @@
           "time_info": "00时39分"
         },
         {
-          "title": "美国总统特朗普赞赏美国股市今天创新高。",
-          "url": "https://wallstreetcn.com/livenews/3038231",
+          "title": "美国总统特朗普将授意关键的美国电网运营商执行紧急（批发电价）拍卖。",
+          "url": "https://wallstreetcn.com/livenews/3038251",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时25分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
@@ -119,6 +108,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时34分]"
+        },
+        {
+          "title": "美国参议院民主党领导人Schumer会见总统特朗普时呼吁对方让共和党支持医疗保险补贴相关的ACA税收抵免立法草案。",
+          "url": "https://wallstreetcn.com/livenews/3038237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
@@ -147,6 +148,18 @@
           "time_info": "[03时27分 ~ 05时25分]"
         },
         {
+          "title": "美国参议院少数党领袖舒默在与特朗普会面时表示，美国移民和海关执法局（ICE）突袭正在恐吓社区，并敦促特朗普将ICE撤出美国各大城市。",
+          "url": "https://flash.jin10.com/detail/20260116060130016800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
           "url": "https://wallstreetcn.com/livenews/3038162",
           "source": "华尔街见闻-快讯",
@@ -170,6 +183,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏美国股市今天创新高。",
+          "url": "https://wallstreetcn.com/livenews/3038231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392145",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时25分]"
         },
         {
           "title": "特朗普直播打瞌睡被小女孩发现",
@@ -196,6 +233,18 @@
           "time_info": "[03时27分 ~ 04时29分]"
         },
         {
+          "title": "美国总统特朗普赞赏偏低的（国际石）油价和汽油价格。",
+          "url": "https://wallstreetcn.com/livenews/3038229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
           "url": "https://wallstreetcn.com/livenews/3038125",
           "source": "华尔街见闻-快讯",
@@ -208,6 +257,18 @@
           "time_info": "[00时39分 ~ 01时34分]"
         },
         {
+          "title": "美国总统特朗普在白宫会见参议院民主党领导人Schumer。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3038228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将在几周内决定美联储主席的人选。 对于下一任美联储主席，特朗普有几个人选。",
           "url": "https://wallstreetcn.com/livenews/3038168",
           "source": "华尔街见闻-快讯",
@@ -218,6 +279,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时29分]"
+        },
+        {
+          "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
+          "url": "https://wallstreetcn.com/livenews/3038227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。 对美国公司和美国人来说，欧盟科技罚款都非常不公平。",
@@ -256,17 +329,6 @@
           "time_info": "[00时39分 ~ 01时34分]"
         },
         {
-          "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32392145",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 06时25分]"
-        },
-        {
           "title": "美国白宫：美国总统特朗普的医疗保健计划将包括一项保险费用分摊削减计划。",
           "url": "https://flash.jin10.com/detail/20260116002546485800",
           "source": "金十数据",
@@ -300,17 +362,6 @@
           "time_info": "00时39分"
         },
         {
-          "title": "美国总统特朗普赞赏偏低的（国际石）油价和汽油价格。",
-          "url": "https://wallstreetcn.com/livenews/3038229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "美国白宫：特朗普要求国会通过法律，将其“最惠国待遇”药品价格政策法典化。",
           "url": "https://flash.jin10.com/detail/20260116002412604800",
           "source": "金十数据",
@@ -333,17 +384,6 @@
           "time_info": "03时27分"
         },
         {
-          "title": "美国总统特朗普在白宫会见参议院民主党领导人Schumer。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3038228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：特朗普在伊朗问题上保留所有选项。",
           "url": "https://flash.jin10.com/detail/20260116024403158800",
           "source": "金十数据",
@@ -355,15 +395,15 @@
           "time_info": "03时27分"
         },
         {
-          "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
-          "url": "https://wallstreetcn.com/livenews/3038227",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：今天公布了非常亮眼的金融数据，我们的国家从未表现得如此出色！很多人问我原因是什么，我只用一个词回答他们——关税！我们已经获得了数千亿美元的收入，而且几乎没有通胀。",
+          "url": "https://flash.jin10.com/detail/20260116064346264800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时25分"
         },
         {
           "title": "美国密歇根州州长：特朗普政府延长与加拿大、墨西哥的北美自由贸易协议，对美国的汽车生产至关重要。",
@@ -438,7 +478,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -465,6 +505,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "市场消息：特朗普将指示美国一家关键电网运营机构举行紧急拍卖。",
+          "url": "https://flash.jin10.com/detail/20260116063552082800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "委内瑞拉反对派领袖马查多拒绝透露她是否已将诺贝尔和平奖献给特朗普。",
           "url": "https://flash.jin10.com/detail/20260116034316836800",
           "source": "金十数据",
@@ -487,6 +538,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "委反对派领导人向特朗普“进献”诺贝尔和平奖奖章",
+          "url": "https://flash.jin10.com/detail/20260116063345918800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "“先别打伊朗”，以总理劝告特朗普避免隔靴搔痒式进攻",
           "url": "https://flash.jin10.com/detail/20260116034226096800",
           "source": "金十数据",
@@ -504,7 +566,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -518,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "日媒：日本央行回避声援鲍威尔 或因担心激怒特朗普",
+          "url": "https://flash.jin10.com/detail/20260116062339252800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "美国总统特朗普：希望降低保险费，并要求保险公司对成本负责。",
@@ -537,7 +610,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -551,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美共和党议员称对格陵兰动武将终结特朗普任期",
+          "url": "https://flash.jin10.com/detail/20260116061033629800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "据华尔街日报：与马斯克生子的网红Ashley St. Clair因Grok聊天机器人照片起诉xAI，寻求禁令防止Grok利用人工智能创造深度伪像。",
@@ -570,7 +654,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -603,7 +687,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -655,7 +739,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何看待U23亚洲杯创历史，中国队淘汰赛期待再造惊喜",
@@ -665,11 +749,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 06时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "U23国足创历史,亚洲杯首次出线",
@@ -680,19 +765,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 06时25分]"
-        },
-        {
-          "title": "现货白银跌0.8%，亚太盘初曾刷新历史高位至93.75美元上方",
-          "url": "https://wallstreetcn.com/livenews/3038234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "欧洲股市创收盘历史新高",
@@ -705,6 +779,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时34分]"
+        },
+        {
+          "title": "现货白银跌0.8%，亚太盘初曾刷新历史高位至93.75美元上方",
+          "url": "https://wallstreetcn.com/livenews/3038234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.36%，报394.75点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.18%，报2762.08点，也继续创收盘历史新高，北京时间22:30美股开盘之前主要维持微跌状态、持稳于2750点上方，之后跳水至2718.19点，03:24刷新日高至2775点上方。 （美股）原材料指数涨0.13%，报252.76点。 （美股）金属与矿业指数涨0.65%，报244.57点。",
+          "url": "https://wallstreetcn.com/livenews/3038238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "委内瑞拉代总统罗德里格斯：美国的侵略破坏了历史性的石油合作，双方关系应建立在相互尊重的基础上。",
@@ -735,7 +832,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -760,6 +857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "英伟达收涨超2.1%，领跑美国科技股七巨头，台积电涨超4.4%创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3038226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     }
