@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T09:53:41.179568+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-01-16T11:42:16.900783+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 73,
+      "match_count": 83,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 09时53分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 11时42分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -30,6 +30,50 @@
           "time_info": "[00时38分 ~ 07时25分]"
         },
         {
+          "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
+          "url": "https://news.ifeng.com/c/8pwzGme7VVB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 11时42分]"
+        },
+        {
+          "title": "她给特朗普献了份大礼，诺奖气坏了",
+          "url": "https://news.ifeng.com/c/8pxCIgAkMR2",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 11时42分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "“特朗普级”军舰造价或创美历史新高，高达220亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
           "url": "https://wallstreetcn.com/articles/3763320",
           "source": "华尔街见闻",
@@ -39,17 +83,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时39分 ~ 05时25分]"
-        },
-        {
-          "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
-          "url": "https://news.ifeng.com/c/8pwzGme7VVB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -74,15 +107,15 @@
           "time_info": "07时25分"
         },
         {
-          "title": "她给特朗普献了份大礼，诺奖气坏了",
-          "url": "https://news.ifeng.com/c/8pxCIgAkMR2",
-          "source": "凤凰网",
+          "title": "特朗普关税突然熄火了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260116112201338800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时53分"
+          "time_info": "11时42分"
         },
         {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
@@ -292,6 +325,17 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 11时42分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将在几周内决定美联储主席的人选。 对于下一任美联储主席，特朗普有几个人选。",
           "url": "https://wallstreetcn.com/livenews/3038168",
           "source": "华尔街见闻-快讯",
@@ -328,6 +372,17 @@
           "time_info": "[00时39分 ~ 01时34分]"
         },
         {
+          "title": "白宫称特朗普正密切关注伊朗局势 并保留所有选项",
+          "url": "https://www.cls.cn/detail/2259635",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：（在面对特朗普吞并野心方面）格陵兰可以依靠欧盟。",
           "url": "https://wallstreetcn.com/livenews/3038117",
           "source": "华尔街见闻-快讯",
@@ -350,6 +405,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时34分]"
+        },
+        {
+          "title": "诺奖不得转赠但特朗普拿来吧你",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%BA%E5%A5%96%E4%B8%8D%E5%BE%97%E8%BD%AC%E8%B5%A0%E4%BD%86%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%BF%E6%9D%A5%E5%90%A7%E4%BD%A0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗保健计划将包括一项保险费用分摊削减计划。",
@@ -407,17 +473,6 @@
           "time_info": "03时27分"
         },
         {
-          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
-          "url": "https://wallstreetcn.com/articles/3763392",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：特朗普在伊朗问题上保留所有选项。",
           "url": "https://flash.jin10.com/detail/20260116024403158800",
           "source": "金十数据",
@@ -438,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "美国密歇根州州长：特朗普政府延长与加拿大、墨西哥的北美自由贸易协议，对美国的汽车生产至关重要。",
@@ -523,7 +589,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -567,7 +633,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -611,7 +677,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -644,9 +710,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "报道称内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫未透露通话细节",
+          "url": "https://wallstreetcn.com/livenews/3038420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "声明显示：美国总统特朗普要求国会通过其医改方案。",
@@ -677,7 +754,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -724,6 +801,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "美媒爆内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3038415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "英媒：特朗普首笔委内瑞拉石油出售交易落入超级捐款人旗下公司",
+          "url": "https://flash.jin10.com/detail/20260116103848062800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "据华尔街日报：与马斯克生子的网红Ashley St. Clair因Grok聊天机器人照片起诉xAI，寻求禁令防止Grok利用人工智能创造深度伪像。",
@@ -820,7 +919,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -834,12 +933,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "俄回应特朗普对伊朗贸易伙伴加税",
+          "url": "https://wallstreetcn.com/livenews/3038398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "如何看待U23亚洲杯创历史，中国队淘汰赛期待再造惊喜",
@@ -862,11 +972,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 09时53分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 11时42分]"
         },
         {
           "title": "欧洲股市创收盘历史新高",
@@ -891,6 +1002,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "41 岁詹姆斯场均 26 分超越三位名宿同期总和，这在 NBA 历史上意味着什么？",
+          "url": "https://www.zhihu.com/question/1993186500188320404",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "艺术家挑战画画接龙讲故事",
+          "url": "https://search.bilibili.com/all?keyword=%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%8C%91%E6%88%98%E7%94%BB%E7%94%BB%E6%8E%A5%E9%BE%99%E8%AE%B2%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "A股机器人概念股持续拉升，绿的谐波涨超12%，股价再创历史新高，恒工精密、恒辉安防、宁波华翔、方正电机等多股涨停，斯菱智驱、德恩精工、震裕科技等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3038430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "（美股）费城金银指数收涨0.36%，报394.75点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.18%，报2762.08点，也继续创收盘历史新高，北京时间22:30美股开盘之前主要维持微跌状态、持稳于2750点上方，之后跳水至2718.19点，03:24刷新日高至2775点上方。 （美股）原材料指数涨0.13%，报252.76点。 （美股）金属与矿业指数涨0.65%，报244.57点。",
@@ -921,7 +1065,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -954,7 +1098,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
