@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T15:27:23.258617+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-01-16T16:33:45.122888+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 89,
+      "match_count": 90,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 16时33分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 16时33分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -61,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时33分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -70,11 +70,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时33分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -85,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 16时33分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -153,6 +154,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 16时33分]"
         },
         {
           "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
@@ -293,16 +307,17 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
+          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
+          "url": "https://www.zhihu.com/question/1994806802546705531",
+          "source": "知乎",
           "ranks": [
-            10,
-            9
+            13,
+            16,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时42分 ~ 15时27分]"
+          "time_info": "[13时28分 ~ 16时33分]"
         },
         {
           "title": "特朗普直播打瞌睡被小女孩发现",
@@ -315,19 +330,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 01时34分]"
-        },
-        {
-          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
-          "url": "https://www.zhihu.com/question/1994806802546705531",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 15时27分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -801,6 +803,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "声明显示：美国总统特朗普要求国会通过其医改方案。",
           "url": "https://flash.jin10.com/detail/20260116000730852800",
           "source": "金十数据",
@@ -1051,11 +1064,12 @@
             25,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时38分 ~ 15时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时38分 ~ 16时33分]"
         },
         {
           "title": "41 岁詹姆斯场均 26 分超越三位名宿同期总和，这在 NBA 历史上意味着什么？",
@@ -1112,11 +1126,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 16时33分]"
         },
         {
           "title": "A股机器人概念股持续拉升，绿的谐波涨超12%，股价再创历史新高，恒工精密、恒辉安防、宁波华翔、方正电机等多股涨停，斯菱智驱、德恩精工、震裕科技等涨超10%。",
@@ -1137,7 +1152,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
