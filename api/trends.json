@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T16:33:45.122888+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-01-16T17:29:46.405417+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 90,
+      "match_count": 92,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -74,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时29分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -83,11 +83,26 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时53分 ~ 16时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 17时29分]"
+        },
+        {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 17时29分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -156,19 +171,6 @@
           "time_info": "07时25分"
         },
         {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 16时33分]"
-        },
-        {
           "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
           "url": "https://m.thepaper.cn/newsDetail_forward_32392145",
           "source": "澎湃新闻",
@@ -180,6 +182,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时24分 ~ 09时53分]"
+        },
+        {
+          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
+          "url": "https://www.zhihu.com/question/1994806802546705531",
+          "source": "知乎",
+          "ranks": [
+            13,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 17时29分]"
         },
         {
           "title": "“特朗普级”军舰造价或创美历史新高，高达220亿美元",
@@ -305,19 +320,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
-          "url": "https://www.zhihu.com/question/1994806802546705531",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 16时33分]"
         },
         {
           "title": "特朗普直播打瞌睡被小女孩发现",
@@ -459,6 +461,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时34分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时29分]"
         },
         {
           "title": "特朗普盟友声称冰岛将成为“第52州”，冰岛要求美方作出解释",
@@ -803,17 +817,6 @@
           "time_info": "11时42分"
         },
         {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "声明显示：美国总统特朗普要求国会通过其医改方案。",
           "url": "https://flash.jin10.com/detail/20260116000730852800",
           "source": "金十数据",
@@ -834,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "马查多把诺贝尔和平奖颁给特朗普",
@@ -968,6 +982,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "特朗普称“阻挠达成俄乌和平协议的人是泽连斯基”，泽连斯基表态",
+          "url": "https://wallstreetcn.com/livenews/3038633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普已经与以色列总理内塔尼亚胡通话。",
           "url": "https://flash.jin10.com/detail/20260116022949055800",
           "source": "金十数据",
@@ -1037,7 +1062,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "如何看待U23亚洲杯创历史，中国队淘汰赛期待再造惊喜",
@@ -1068,8 +1093,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 16时33分]"
+          "appearance_count": 24,
+          "time_info": "[00时38分 ~ 17时29分]"
         },
         {
           "title": "41 岁詹姆斯场均 26 分超越三位名宿同期总和，这在 NBA 历史上意味着什么？",
@@ -1144,6 +1169,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 12时42分]"
+        },
+        {
+          "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
+          "url": "https://wallstreetcn.com/articles/3763433",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "国防部：“台独”分裂势力终将被扫进历史垃圾堆",
