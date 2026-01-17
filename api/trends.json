@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T16:29:39.344917+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-01-17T17:23:22.410869+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
@@ -17,8 +17,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时22分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 17时23分]"
+        },
+        {
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 17时23分]"
         },
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时26分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普：这是卡尼该做的事，签协议是好事",
-          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 16时29分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -67,8 +67,23 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 17时23分]"
+        },
+        {
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时47分 ~ 16时29分]"
+          "time_info": "[09时47分 ~ 17时23分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -93,6 +108,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 17时23分]"
         },
         {
           "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
@@ -160,35 +190,6 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 16时29分]"
-        },
-        {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 16时29分]"
-        },
-        {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
           "url": "https://wallstreetcn.com/livenews/3039069",
           "source": "华尔街见闻-快讯",
@@ -225,6 +226,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
+          "url": "https://wallstreetcn.com/articles/3763508",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时23分]"
         },
         {
           "title": "美国财长贝森特：美联储主席候选人减少一位，至四人。 贝莱德分析师Rick Rieder昨天会见总统特朗普。 对于美联储理事鲍曼，最合适的安排就是继续担任现在的职务。",
@@ -322,18 +336,6 @@
           "time_info": "[00时32分 ~ 01时27分]"
         },
         {
-          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
-          "url": "https://wallstreetcn.com/articles/3763508",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 16时29分]"
-        },
-        {
           "title": "美国总统特朗普：将再次与委内瑞拉“反对派”人士Machado对话。",
           "url": "https://wallstreetcn.com/livenews/3038961",
           "source": "华尔街见闻-快讯",
@@ -421,6 +423,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时23分]"
+        },
+        {
+          "title": "据悉日本首相高市早苗考虑暂停征收食品消费税",
+          "url": "https://flash.jin10.com/detail/20260117151050251800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时23分]"
         },
         {
           "title": "美国总统特朗普：在医疗保健问题上，直接向民众发钱。 资金将直接进入医疗储蓄账户。",
@@ -517,6 +531,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时27分]"
+        },
+        {
+          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时23分]"
         },
         {
           "title": "美国总统特朗普：现在没有理由在明尼苏达州使用叛乱法。",
@@ -646,17 +671,6 @@
           "time_info": "01时27分"
         },
         {
-          "title": "据悉日本首相高市早苗考虑暂停征收食品消费税",
-          "url": "https://flash.jin10.com/detail/20260117151050251800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "特朗普自曝暂缓打伊朗原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E6%9B%9D%E6%9A%82%E7%BC%93%E6%89%93%E4%BC%8A%E6%9C%97%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -679,6 +693,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "特朗普关税案迎来关键窗口 1月20日或见分晓",
           "url": "https://flash.jin10.com/detail/20260117002346672800",
           "source": "金十数据",
@@ -688,17 +713,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         },
         {
           "title": "美国总统特朗普赞赏礼来制药。",
@@ -751,9 +765,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "特朗普被曝2017年就想入侵委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7595827633294147635/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "美国明尼苏达州抗议持续 特朗普称局势“失控”",
@@ -869,7 +894,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
@@ -896,8 +921,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 17时23分]"
+        },
+        {
+          "title": "足坛历史奇观手球大赏",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%B3%E5%9D%9B%E5%8E%86%E5%8F%B2%E5%A5%87%E8%A7%82%E6%89%8B%E7%90%83%E5%A4%A7%E8%B5%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "洲际交易所（ICE）：投机者1月13日当周所持ICE布伦特原油净多头头寸增至208,461手合约，创15周新高。 白糖净多头头寸增至48,203手合约，创2011年10月份有数据记录以来的历史新高。 罗布斯塔咖啡净多头头寸创四周新高，伦敦可可净空头头寸创三周新高。",
@@ -924,6 +960,17 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
+          "title": "国足U23能否再创历史",
+          "url": "https://www.toutiao.com/trending/7595695857296080906/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时23分]"
+        },
+        {
           "title": "中国驻美大使：中美合则两利、斗则俱伤的历史逻辑不会改变",
           "url": "https://wallstreetcn.com/livenews/3039007",
           "source": "华尔街见闻-快讯",
@@ -944,17 +991,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
-        },
-        {
-          "title": "国足U23能否再创历史",
-          "url": "https://www.toutiao.com/trending/7595695857296080906/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         }
       ]
     },
