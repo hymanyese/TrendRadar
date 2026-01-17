@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T04:24:44.445350+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-01-18T05:20:46.124166+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "英媒刊文：特朗普羡慕中国",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[02时31分 ~ 05时20分]"
         },
         {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[02时31分 ~ 05时20分]"
         },
         {
           "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "特朗普罕见公开“感谢伊朗”",
@@ -59,11 +59,12 @@
             11,
             8,
             9,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -73,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "哈梅内伊：特朗普应被视为犯罪",
@@ -88,8 +89,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
@@ -104,6 +105,141 @@
           "time_info": "[00时26分 ~ 03时18分]"
         },
         {
+          "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
+          "url": "https://flash.jin10.com/detail/20260117220514244800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
+          "url": "https://wallstreetcn.com/livenews/3039132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "马斯克：用于Grok的“ Colossus 2 ”超级计算机现已投入运行。全球首个吉瓦级训练集群，将于4月升级至1.5吉瓦。",
+          "url": "https://wallstreetcn.com/livenews/3039131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "马斯克：Colossus 2超级计算机现已投入运行。这是全球首个吉瓦级训练集群，四月将升级至1.5吉瓦。",
+          "url": "https://flash.jin10.com/detail/20260117202600571800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://wallstreetcn.com/livenews/3039127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "据CNN：知情人士透露，在枪支权利与控枪团体均提出反对意见后，特朗普政府已悄然放弃将美国烟酒枪炮及爆炸物管理局并入缉毒局的计划。",
+          "url": "https://flash.jin10.com/detail/20260117201033719800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://flash.jin10.com/detail/20260117195257548800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
+          "url": "https://flash.jin10.com/detail/20260117195232354800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "埃及外交部长表示，埃及正在研究特朗普邀请总统塞西加入加沙和平事务委员会的提议。",
+          "url": "https://flash.jin10.com/detail/20260117194356394800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
+          "url": "https://flash.jin10.com/detail/20260117193443128800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
+          "url": "https://flash.jin10.com/detail/20260117185814130800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
           "title": "英媒：特朗普羡慕中国",
           "url": "https://www.toutiao.com/trending/7596316947638128154/",
           "source": "今日头条",
@@ -115,136 +251,28 @@
           "time_info": "00时26分"
         },
         {
-          "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
-          "url": "https://flash.jin10.com/detail/20260117220514244800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://wallstreetcn.com/articles/3763499",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
-          "url": "https://wallstreetcn.com/livenews/3039132",
+          "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://wallstreetcn.com/livenews/3039150",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "特朗普谈中加签协议",
+          "url": "https://www.douyin.com/hot/2370724",
+          "source": "抖音",
+          "ranks": [
+            16,
+            13,
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "马斯克：用于Grok的“ Colossus 2 ”超级计算机现已投入运行。全球首个吉瓦级训练集群，将于4月升级至1.5吉瓦。",
-          "url": "https://wallstreetcn.com/livenews/3039131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "马斯克：Colossus 2超级计算机现已投入运行。这是全球首个吉瓦级训练集群，四月将升级至1.5吉瓦。",
-          "url": "https://flash.jin10.com/detail/20260117202600571800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://wallstreetcn.com/livenews/3039127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "据CNN：知情人士透露，在枪支权利与控枪团体均提出反对意见后，特朗普政府已悄然放弃将美国烟酒枪炮及爆炸物管理局并入缉毒局的计划。",
-          "url": "https://flash.jin10.com/detail/20260117201033719800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://flash.jin10.com/detail/20260117195257548800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
-          "url": "https://flash.jin10.com/detail/20260117195232354800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "埃及外交部长表示，埃及正在研究特朗普邀请总统塞西加入加沙和平事务委员会的提议。",
-          "url": "https://flash.jin10.com/detail/20260117194356394800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
-          "url": "https://flash.jin10.com/detail/20260117193443128800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
-          "url": "https://flash.jin10.com/detail/20260117185814130800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 05时20分]"
         },
         {
           "title": "哈梅内伊：特朗普是罪犯",
@@ -256,18 +284,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "特朗普谈中加签协议",
-          "url": "https://www.douyin.com/hot/2370724",
-          "source": "抖音",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 04时24分]"
         },
         {
           "title": "为了格陵兰特朗普再挥关税大棒：“不支持我的话就加征关税”",
@@ -305,8 +321,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "U23国足晋级亚洲杯四强创历史",
@@ -316,8 +332,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "刷新历史,U23国足进亚洲杯四强",
@@ -327,19 +343,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时24分]"
-        },
-        {
-          "title": "刷新历史！中国U23男足进入亚洲杯四强",
-          "url": "https://wallstreetcn.com/livenews/3039144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "赛场屹线丨再创历史！U23国足4比2战胜乌兹别克斯坦闯进亚洲杯四强",
@@ -351,8 +356,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "刷新历史！中国U23男足进入亚洲杯四强",
+          "url": "https://wallstreetcn.com/livenews/3039144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "刷新历史！中国U23男足进入亚洲杯四强",
@@ -362,30 +379,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "《海洋生物多样性协定》生效，全球海洋保护迎来历史性时刻",
           "url": "https://wallstreetcn.com/livenews/3039120",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "现场见证U23国足创造历史",
           "url": "https://www.douyin.com/hot/2371288",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时20分]"
         }
       ]
     }
