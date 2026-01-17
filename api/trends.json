@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-17T14:34:22.184540+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-01-17T15:21:59.419404+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
       "match_count": 69,
       "titles": [
-        {
-          "title": "特朗普威胁：对不支持的国家加征关税",
-          "url": "https://news.ifeng.com/c/8pyLh0hhSlp",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 06时24分]"
-        },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
           "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
@@ -28,8 +17,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普威胁：对不支持的国家加征关税",
+          "url": "https://news.ifeng.com/c/8pyLh0hhSlp",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时22分 ~ 14时34分]"
+          "time_info": "[01时26分 ~ 06时24分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 15时21分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -80,6 +80,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 15时21分]"
         },
         {
           "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
@@ -147,19 +160,6 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 14时34分]"
-        },
-        {
           "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
           "url": "https://wallstreetcn.com/articles/3763493",
           "source": "华尔街见闻",
@@ -170,8 +170,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 14时34分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 15时21分]"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -185,8 +185,24 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 15时21分]"
+        },
+        {
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            14,
+            20,
+            24,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时47分 ~ 14时34分]"
+          "time_info": "[09时47分 ~ 15时21分]"
         },
         {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
@@ -209,21 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            14,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 14时34分]"
         },
         {
           "title": "美国财长贝森特：美联储主席候选人减少一位，至四人。 贝莱德分析师Rick Rieder昨天会见总统特朗普。 对于美联储理事鲍曼，最合适的安排就是继续担任现在的职务。",
@@ -408,6 +409,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时23分]"
+        },
+        {
+          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
+          "url": "https://wallstreetcn.com/articles/3763508",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 15时21分]"
         },
         {
           "title": "美国总统特朗普：在医疗保健问题上，直接向民众发钱。 资金将直接进入医疗储蓄账户。",
@@ -600,17 +613,6 @@
           "time_info": "04时24分"
         },
         {
-          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
-          "url": "https://wallstreetcn.com/articles/3763508",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
           "title": "特朗普急推“白宫版”医疗方案 力挽家庭开支信任危机",
           "url": "https://flash.jin10.com/detail/20260117003803396800",
           "source": "金十数据",
@@ -650,7 +652,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -716,7 +718,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -847,8 +849,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 14时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 15时21分]"
         },
         {
           "title": "裴轸的人物底色是良善",
@@ -861,8 +863,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 15时21分]"
         },
         {
           "title": "洲际交易所（ICE）：投机者1月13日当周所持ICE布伦特原油净多头头寸增至208,461手合约，创15周新高。 白糖净多头头寸增至48,203手合约，创2011年10月份有数据记录以来的历史新高。 罗布斯塔咖啡净多头头寸创四周新高，伦敦可可净空头头寸创三周新高。",
