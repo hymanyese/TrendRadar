@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T00:28:17.706680+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-19T01:20:48.818466+08:00",
+  "total_titles_processed": 343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -37,19 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
-          "url": "https://wallstreetcn.com/articles/3763532",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -59,19 +48,65 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3039287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时20分"
+        },
+        {
+          "title": "哈塞特回应称，特朗普不选他担任美联储主席可能是正确的",
+          "url": "https://wallstreetcn.com/livenews/3039285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
+          "url": "https://wallstreetcn.com/livenews/3039284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。 美联储拥有神奇的资金，为何不进行一些监管呢？ 或许市场希望从美联储获得一些政策透明度。 我们有四位出色的美联储主席候选人。 认为参议院会满意于这四位候选人的任何一位当选。 参议院银行委员会即将就美联储人选发表意见。 市场对司法部调查美联储事件未予过度关注。",
           "url": "https://wallstreetcn.com/livenews/3039277",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -81,19 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国财长贝森特：欧美贸易协议尚未达成最终协议。 特朗普拥有使用关税的紧急权力。 特朗普在处理格陵兰问题时采取了“策略性”的做法。 我们将继续留在北约内。 最高法院不大可能推翻特朗普的关税政策。",
-          "url": "https://wallstreetcn.com/livenews/3039276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -103,8 +127,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "美国财长贝森特：欧美贸易协议尚未达成最终协议。 特朗普拥有使用关税的紧急权力。 特朗普在处理格陵兰问题时采取了“策略性”的做法。 我们将继续留在北约内。 最高法院不大可能推翻特朗普的关税政策。",
+          "url": "https://wallstreetcn.com/livenews/3039276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普发黑白照：我是关税之王(图)",
@@ -114,8 +150,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。我们有四位出色的美联储主席候选人。认为参议院会对这四位候选人的任何一位当选感到满意。",
@@ -125,8 +161,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "研究员：若吞并格陵兰岛 特朗普将载入史册",
@@ -136,8 +172,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美国财长贝森特：最高法院推翻特朗普关税的可能性不大。",
@@ -147,8 +183,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美国财长贝森特：与欧盟的贸易协定尚未敲定。特朗普拥有动用关税的紧急权力。",
@@ -158,19 +194,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3039264",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "美国财长贝森特：格陵兰岛对美国国家安全至关重要。美国必须控制该岛。特朗普在这一问题上的做法具有战略考量。",
@@ -180,19 +217,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”，我已跟他通电话",
           "url": "https://wallstreetcn.com/livenews/3039260",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "英国右翼政党罕见公开批评特朗普政府",
@@ -202,8 +240,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "德国财政部长：德国不会屈服于特朗普的威胁",
@@ -213,19 +251,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "特朗普发布个人黑白照",
           "url": "https://wallstreetcn.com/livenews/3039253",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "加拿大总理卡尼：（当被问及为何接受特朗普的邀请加入加沙和平委员会时）加拿大将尽一切努力解决加沙的苦难。",
@@ -235,36 +274,49 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "中东股市收盘播报｜沙特股市周日收涨约0.9%，埃及股市涨1.4%创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3039286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
         {
           "title": "食贫道江西吃饭故事",
           "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E6%B1%9F%E8%A5%BF%E5%90%83%E9%A5%AD%E6%95%85%E4%BA%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "刷新历史,U23国足进亚洲杯四强",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349290&amp;topic_name=%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%2CU23%E5%9B%BD%E8%B6%B3%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%9B%9B%E5%BC%BA",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
         },
         {
           "title": "裴轸的人物底色决定结局",
@@ -274,8 +326,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "马杜罗政府实权人物被曝曾长期与美国接触",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411112",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时20分"
         }
       ]
     }
