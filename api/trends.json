@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T15:22:22.213377+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-01-18T16:30:35.718706+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
@@ -110,8 +110,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 15时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 16时30分]"
         },
         {
           "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
@@ -129,6 +129,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[05时20分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时52分 ~ 16时30分]"
         },
         {
           "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
@@ -292,6 +305,18 @@
           "time_info": "[03时17分 ~ 07时22分]"
         },
         {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 16时30分]"
+        },
+        {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
           "url": "https://wallstreetcn.com/livenews/3039127",
           "source": "华尔街见闻-快讯",
@@ -302,18 +327,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时52分 ~ 15时22分]"
         },
         {
           "title": "大西洋理事会：欧洲将统一抵制特朗普的关税",
@@ -331,6 +344,21 @@
           "time_info": "[11时52分 ~ 15时22分]"
         },
         {
+          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
+          "url": "https://wallstreetcn.com/livenews/3039177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            14,
+            16,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 16时30分]"
+        },
+        {
           "title": "英媒：特朗普羡慕中国",
           "url": "https://www.toutiao.com/trending/7596316947638128154/",
           "source": "今日头条",
@@ -340,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 16时30分]"
         },
         {
           "title": "特朗普开价：永久席位10亿美元",
@@ -453,29 +492,42 @@
           "time_info": "[09时59分 ~ 13时26分]"
         },
         {
-          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
-          "url": "https://wallstreetcn.com/livenews/3039177",
-          "source": "华尔街见闻-快讯",
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            14,
-            16,
-            17
+            9,
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 16时30分]"
         },
         {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
+          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
+          "source": "澎湃新闻",
           "ranks": [
-            15
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 16时30分]"
         },
         {
           "title": "得罪特朗普的福特员工获众筹80万美元",
@@ -491,17 +543,6 @@
           "time_info": "[00时26分 ~ 07时22分]"
         },
         {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 15时22分]"
-        },
-        {
           "title": "哈梅内伊：特朗普是罪犯",
           "url": "https://news.ifeng.com/c/8pzabzvCx7D",
           "source": "凤凰网",
@@ -511,19 +552,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
-          "url": "https://wallstreetcn.com/articles/3763532",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 15时22分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -584,6 +612,17 @@
           "time_info": "[09时59分 ~ 11时52分]"
         },
         {
+          "title": "特朗普和平委员会是什么机构",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%BA%E6%9E%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
           "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
           "url": "https://flash.jin10.com/detail/20260118081050241800",
           "source": "金十数据",
@@ -596,17 +635,6 @@
           "time_info": "[09时59分 ~ 11时52分]"
         },
         {
-          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时22分]"
-        },
-        {
           "title": "特朗普开价10亿卖委员会永久席位",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BB%B710%E4%BA%BF%E5%8D%96%E5%A7%94%E5%91%98%E4%BC%9A%E6%B0%B8%E4%B9%85%E5%B8%AD%E4%BD%8D%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -617,17 +645,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 12时43分]"
-        },
-        {
-          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时22分]"
         },
         {
           "title": "特朗普调侃朋友服用“减肥药”无效",
@@ -650,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "法国总统马克龙表示，美国总统特朗普关于格陵兰岛的关税威胁不可接受。",
@@ -736,8 +764,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 15时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 16时30分]"
         },
         {
           "title": "刷新历史！中国U23男足进入亚洲杯四强",
@@ -772,6 +800,22 @@
           "time_info": "[00时26分 ~ 13时26分]"
         },
         {
+          "title": "食贫道江西吃饭故事",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E6%B1%9F%E8%A5%BF%E5%90%83%E9%A5%AD%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            10,
+            13,
+            12,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时59分 ~ 16时30分]"
+        },
+        {
           "title": "刷新历史！中国U23男足进入亚洲杯四强",
           "url": "https://flash.jin10.com/detail/20260117221717236800",
           "source": "金十数据",
@@ -783,19 +827,34 @@
           "time_info": "[00时26分 ~ 07时22分]"
         },
         {
-          "title": "食贫道江西吃饭故事",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E6%B1%9F%E8%A5%BF%E5%90%83%E9%A5%AD%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
+          "title": "当一个故事要结束的时候",
+          "url": "https://www.douyin.com/hot/2371132",
+          "source": "抖音",
           "ranks": [
-            8,
-            10,
-            13,
-            12,
-            9
+            24,
+            17,
+            25,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 16时30分]"
+        },
+        {
+          "title": "中国 U23 男足历史性闯入亚洲杯四强，点球大战力克乌兹别克斯坦，这次突破意味着什么？这剂强心针有多重要？",
+          "url": "https://www.zhihu.com/question/1995990530480419140",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            11,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时59分 ~ 15时22分]"
+          "time_info": "[12时43分 ~ 16时30分]"
         },
         {
           "title": "《海洋生物多样性协定》生效，全球海洋保护迎来历史性时刻",
@@ -825,34 +884,6 @@
           "time_info": "[04时24分 ~ 11时52分]"
         },
         {
-          "title": "当一个故事要结束的时候",
-          "url": "https://www.douyin.com/hot/2371132",
-          "source": "抖音",
-          "ranks": [
-            24,
-            17,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 15时22分]"
-        },
-        {
-          "title": "中国 U23 男足历史性闯入亚洲杯四强，点球大战力克乌兹别克斯坦，这次突破意味着什么？这剂强心针有多重要？",
-          "url": "https://www.zhihu.com/question/1995990530480419140",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时22分]"
-        },
-        {
           "title": "之前 5 次 U23 亚洲杯，U23 国足一败涂地，一共就赢了两场球，为何这次他们能小组出线，创造历史？",
           "url": "https://www.zhihu.com/question/1994888986431333876",
           "source": "知乎",
@@ -877,8 +908,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 16时30分]"
         },
         {
           "title": "据英国《金融时报》：丹麦投资基金首席执行官表示，该基金对投资格陵兰岛“兴趣浓厚”。",
@@ -887,11 +918,12 @@
           "ranks": [
             1,
             7,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 16时30分]"
         },
         {
           "title": "丹麦投资基金EIFO对投资格陵兰岛“兴趣浓厚”",
@@ -899,11 +931,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时30分]"
         }
       ]
     }
