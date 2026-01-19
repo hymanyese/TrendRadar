@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T18:32:36.574140+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2026-01-19T19:23:39.688991+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 93,
+      "match_count": 100,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时58分 ~ 18时32分]"
+          "appearance_count": 14,
+          "time_info": "[09时58分 ~ 19时23分]"
         },
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -87,8 +87,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时55分 ~ 18时32分]"
+          "appearance_count": 13,
+          "time_info": "[11时55分 ~ 19时23分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -126,8 +126,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时58分 ~ 18时32分]"
+          "appearance_count": 14,
+          "time_info": "[09时58分 ~ 19时23分]"
+        },
+        {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时55分 ~ 19时23分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -140,19 +154,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 18时32分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -195,6 +196,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时20分 ~ 06时22分]"
+        },
+        {
+          "title": "高市早苗宣布将于23日解散众议院",
+          "url": "https://news.ifeng.com/c/8q2oBwuyTAK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时23分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -291,17 +303,6 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
-          "title": "高市早苗宣布将于23日解散众议院",
-          "url": "https://news.ifeng.com/c/8q2oBwuyTAK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
           "title": "日本首相高市早苗：战略性财政支出将增加就业和家庭收入，从而带来更高的税收收入。",
           "url": "https://flash.jin10.com/detail/20260119171116381800",
           "source": "金十数据",
@@ -319,7 +320,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -382,17 +383,6 @@
           "time_info": "16时37分"
         },
         {
-          "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
-          "url": "https://wallstreetcn.com/livenews/3039707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
           "title": "日本首相高市早苗：我的政府将结束过度紧缩的财政政策。",
           "url": "https://flash.jin10.com/detail/20260119171020622800",
           "source": "金十数据",
@@ -413,17 +403,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
-        },
-        {
-          "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
-          "url": "https://wallstreetcn.com/livenews/3039703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         },
         {
           "title": "日本首相高市早苗：我将请求获得继续担任首相的授权。",
@@ -519,6 +498,18 @@
           "time_info": "[00时28分 ~ 04时25分]"
         },
         {
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时23分]"
+        },
+        {
           "title": "英国右翼政党罕见公开批评特朗普政府",
           "url": "https://flash.jin10.com/detail/20260118213302399800",
           "source": "金十数据",
@@ -600,6 +591,18 @@
           "time_info": "[17时37分 ~ 18时32分]"
         },
         {
+          "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
+          "url": "https://wallstreetcn.com/livenews/3039707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时23分]"
+        },
+        {
           "title": "出于多重考虑 特朗普没有下达对伊朗动武指令",
           "url": "https://wallstreetcn.com/livenews/3039672",
           "source": "华尔街见闻-快讯",
@@ -610,6 +613,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时37分 ~ 18时32分]"
+        },
+        {
+          "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
+          "url": "https://wallstreetcn.com/livenews/3039703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时23分]"
         },
         {
           "title": "高市早苗将于1月23日解散众议院",
@@ -636,18 +651,6 @@
           "time_info": "[05时21分 ~ 09时58分]"
         },
         {
-          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时32分]"
-        },
-        {
           "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
           "url": "https://wallstreetcn.com/articles/3763551",
           "source": "华尔街见闻",
@@ -655,8 +658,21 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 19时23分]"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时55分 ~ 14时42分]"
+          "time_info": "[17时37分 ~ 19时23分]"
         },
         {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
@@ -731,16 +747,16 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
+          "title": "英媒：特朗普撼动世界，世界却爱上中国",
+          "url": "https://wallstreetcn.com/livenews/3039698",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8
+            8,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时32分]"
+          "time_info": "[18时32分 ~ 19时23分]"
         },
         {
           "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
@@ -926,15 +942,15 @@
           "time_info": "13时34分"
         },
         {
-          "title": "英媒：特朗普撼动世界，世界却爱上中国",
-          "url": "https://wallstreetcn.com/livenews/3039698",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟委员会发言人：目前达沃斯尚未安排欧盟委员会主席冯德莱恩与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260119191243867800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "19时23分"
         },
         {
           "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
@@ -946,6 +962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "日本首相高市早苗宣布将于23日解散众议院",
+          "url": "https://www.cls.cn/detail/2262332",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "日本首相高市早苗：将请求获得继续担任首相的授权。 我的首相生涯取决于这次选举。 在即将召开的会议上将讨论一些影响深远的法案。 认为选举是民众选择首相的机会。 执政联盟保持多数席位将意味我将继续担任首相。 曾担心我的政府还没有经受过选举的考验。 我的财政政策是对经济政策的根本性改变。",
@@ -992,15 +1019,37 @@
           "time_info": "17时37分"
         },
         {
+          "title": "据AXIOS：马斯克投入1000万美元，助力Nate Morris角逐肯塔基州参议员席位。",
+          "url": "https://flash.jin10.com/detail/20260119190316208800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "美元兑日元小幅走低，日本首相高市早苗表示，将密切关注外汇市场的投机性波动，随时准备采取必要行动。",
           "url": "https://wallstreetcn.com/livenews/3039684",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "德总理称特朗普关税威胁损害跨大西洋关系",
+          "url": "https://wallstreetcn.com/livenews/3039709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "专家：若特朗普对欧关税威胁落实，欧盟将集体反击美国",
@@ -1020,9 +1069,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-19）",
+          "url": "https://flash.jin10.com/detail/20260119185844242800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "市场分析：特朗普对欧洲的关税威胁最终将反噬自身",
@@ -1080,6 +1140,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "德国政府发言人：不认同美国总统特朗普的和平委员会会削弱联合国的担忧。",
+          "url": "https://flash.jin10.com/detail/20260119184647494800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "特朗普致信挪威首相：“不再有义务只考虑和平”",
           "url": "https://wallstreetcn.com/livenews/3039642",
           "source": "华尔街见闻-快讯",
@@ -1089,6 +1160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
+        },
+        {
+          "title": "德国政府发言人：德国感谢美国总统特朗普发出的和平理事会邀请。",
+          "url": "https://flash.jin10.com/detail/20260119184323133800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "法国财长Lescure：朋友之间勒索不可接受。 将在未来几天召集七国集团会议。 特朗普的言论代表着维度的转变。",
@@ -1105,7 +1187,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "马杜罗政府实权人物被曝曾长期与美国接触",
@@ -1166,6 +1248,21 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "创历史新高！重磅报告：全球亿万富翁财富飙升至18.3万亿美元",
+          "url": "https://www.cls.cn/detail/2261835",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时31分 ~ 19时23分]"
+        },
+        {
           "title": "中东股市收盘播报｜沙特股市周日收涨约0.9%，埃及股市涨1.4%创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3039286",
           "source": "华尔街见闻-快讯",
@@ -1178,20 +1275,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时20分 ~ 06时22分]"
-        },
-        {
-          "title": "创历史新高！重磅报告：全球亿万富翁财富飙升至18.3万亿美元",
-          "url": "https://www.cls.cn/detail/2261835",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时31分 ~ 18时32分]"
         },
         {
           "title": "韩国KOSPI指数最高上涨0.4%，创下4,860.84点的历史新高。",
@@ -1213,8 +1296,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时23分]"
         },
         {
           "title": "日本40年期国债收益率升至3.895%，创历史新高。",
@@ -1249,6 +1332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "2025年天津跨境人民币收付总量突破6300亿元，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3039718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "今年春运民航旅客运输量有望创历史新高",
