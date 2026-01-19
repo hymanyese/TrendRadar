@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T02:36:11.714162+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-01-20T03:22:06.290664+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 03时22分]"
         },
         {
           "title": "摊牌了！高市早苗宣布解散众议院",
@@ -39,8 +39,30 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时22分]"
+        },
+        {
+          "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
+          "url": "https://news.ifeng.com/c/8q3GKEPO18N",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "time_info": "[02时35分 ~ 03时22分]"
+        },
+        {
+          "title": "普京被邀请加入特朗普“和平委员会”",
+          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -65,15 +87,40 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
-          "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
-          "url": "https://news.ifeng.com/c/8q3GKEPO18N",
-          "source": "凤凰网",
+          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
+          "url": "https://wallstreetcn.com/articles/3763623",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
+        },
+        {
+          "title": "经济学家：特朗普加征关税或使英国陷入衰退",
+          "url": "https://flash.jin10.com/detail/20260120030440450800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
@@ -87,40 +134,26 @@
           "time_info": "00时33分"
         },
         {
-          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
-          "url": "https://wallstreetcn.com/articles/3763623",
-          "source": "华尔街见闻",
+          "title": "摩洛哥外交部：摩洛哥接受特朗普邀请，加入加沙和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260120025838329800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
-        },
-        {
-          "title": "普京被邀请加入特朗普“和平委员会”",
-          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
-          "source": "凤凰网",
-          "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "特朗普拒绝说明是否会以武力夺取格陵兰",
@@ -147,70 +180,64 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
-        },
-        {
           "title": "特朗普打关税牌吞格陵兰能得逞吗",
           "url": "https://www.toutiao.com/trending/7597071517846867510/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 03时22分]"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
           "url": "https://wallstreetcn.com/livenews/3039882",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
         },
         {
           "title": "马克龙据悉将拒绝特朗普“和平委员会”的邀请",
           "url": "https://flash.jin10.com/detail/20260120013738284800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
         },
         {
           "title": "芬兰总统：欧盟在格陵兰问题上有工具让特朗普就范",
           "url": "https://wallstreetcn.com/livenews/3039881",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
         },
         {
           "title": "报道：法国总统将拒绝特朗普“和平委员会”的加入邀请",
           "url": "https://wallstreetcn.com/livenews/3039877",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
         },
         {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
@@ -307,7 +334,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -318,16 +345,54 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "纪录片《重返狼群》爆火，妈妈李微漪和狼王格林故事为何令人动容？为什么格林要还回保存 7 年的妈妈红围巾？",
+          "url": "https://www.zhihu.com/question/1994800806659056339",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时22分]"
+        },
+        {
+          "title": "如何看待日本 20 年期国债收益率升至 3.165% 创历史新高？将对全球金融市场产生哪些「蝴蝶效应」？",
+          "url": "https://www.zhihu.com/question/1994713115321995889",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时22分]"
+        },
+        {
           "title": "欧洲军工股多数收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨0.27%，报35.375欧元，再次创收盘历史新高，早盘涨至36.029999欧元创盘中历史新高，随后逐步回吐涨幅。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨0.43%，也继续创收盘历史新高。",
           "url": "https://wallstreetcn.com/livenews/3039876",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时22分]"
+        },
+        {
+          "title": "出口额创历史新高，中国变压器在海外卖爆了！",
+          "url": "https://wallstreetcn.com/articles/3763590",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "知情人士：欧洲央行“二号人物”之争仅剩四名候选人",
@@ -342,52 +407,17 @@
           "time_info": "[01时26分 ~ 02时36分]"
         },
         {
-          "title": "纪录片《重返狼群》爆火，妈妈李微漪和狼王格林故事为何令人动容？为什么格林要还回保存 7 年的妈妈红围巾？",
-          "url": "https://www.zhihu.com/question/1994800806659056339",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时36分]"
-        },
-        {
-          "title": "如何看待日本 20 年期国债收益率升至 3.165% 创历史新高？将对全球金融市场产生哪些「蝴蝶效应」？",
-          "url": "https://www.zhihu.com/question/1994713115321995889",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时36分]"
-        },
-        {
-          "title": "出口额创历史新高，中国变压器在海外卖爆了！",
-          "url": "https://wallstreetcn.com/articles/3763590",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
-        },
-        {
           "title": "纽约银日内涨幅超过6.5%，刷新盘中历史高位至94.365美元/盎司。 现货白银日内涨幅超过5.0%，刷新历史高位至94.6291美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3039870",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时22分]"
         },
         {
           "title": "现货白银日内大涨5.00%，现报94.58美元/盎司，将历史新高刷新至94.6美元/盎司。",
