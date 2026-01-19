@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T05:22:43.756982+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-01-20T06:24:53.924804+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时35分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时35分 ~ 06时24分]"
         },
         {
           "title": "摊牌了！高市早苗宣布解散众议院",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时35分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时35分 ~ 06时24分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
@@ -70,11 +70,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -86,8 +87,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时24分]"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时22分]"
         },
         {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
@@ -152,11 +153,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时24分]"
         },
         {
           "title": "摩洛哥外交部：摩洛哥接受特朗普邀请，加入加沙和平委员会。",
@@ -245,6 +247,18 @@
           "time_info": "[04时28分 ~ 05时22分]"
         },
         {
+          "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
+          "url": "https://flash.jin10.com/detail/20260120045515099800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时24分]"
+        },
+        {
           "title": "特朗普和将于当时时间周四上午10:30（北京时间17:30）在达沃斯举行和平委员会宪章签署仪式。",
           "url": "https://flash.jin10.com/detail/20260120035235865800",
           "source": "金十数据",
@@ -281,17 +295,6 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
-          "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
-          "url": "https://flash.jin10.com/detail/20260120045515099800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
           "url": "https://flash.jin10.com/detail/20260119235643384800",
           "source": "金十数据",
@@ -312,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "李稻葵：马斯克的预言是“AI乌托邦”",
+          "url": "https://www.toutiao.com/trending/7596717546255581227/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "美国总统特朗普：尽管他们嘴上这么说，挪威完全掌控着诺贝尔和平奖的评选。",
@@ -394,7 +408,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "纪录片《重返狼群》爆火，妈妈李微漪和狼王格林故事为何令人动容？为什么格林要还回保存 7 年的妈妈红围巾？",
@@ -405,11 +419,12 @@
             12,
             14,
             13,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "如何看待日本 20 年期国债收益率升至 3.165% 创历史新高？将对全球金融市场产生哪些「蝴蝶效应」？",
@@ -419,8 +434,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "出口额创历史新高，中国变压器在海外卖爆了！",
@@ -431,8 +446,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "欧洲军工股多数收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨0.27%，报35.375欧元，再次创收盘历史新高，早盘涨至36.029999欧元创盘中历史新高，随后逐步回吐涨幅。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨0.43%，也继续创收盘历史新高。",
@@ -489,11 +504,34 @@
           "url": "https://wallstreetcn.com/livenews/3039916",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时24分]"
+        },
+        {
+          "title": "加拿大股市创收盘历史新高，投资者关注格陵兰局势",
+          "url": "https://wallstreetcn.com/livenews/3039932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时22分"
+          "time_info": "06时24分"
+        },
+        {
+          "title": "周一（1月19日）纽约尾盘，现货黄金涨1.63%，报4670.87美元/盎司，亚太盘初急剧拉升、北京时间07:32涨至4690.59美元创历史新高。 现货白银涨4.66%，报94.3270美元/盎司，亚太盘初显著拉升，之后也持续高位震荡，01:31刷新历史高位至94.6805美元。",
+          "url": "https://wallstreetcn.com/livenews/3039930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         }
       ]
     }
