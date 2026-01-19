@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T17:37:52.586528+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-01-19T18:32:36.574140+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 86,
+      "match_count": 93,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时58分 ~ 17时37分]"
+          "appearance_count": 13,
+          "time_info": "[09时58分 ~ 18时32分]"
         },
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -86,8 +87,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时55分 ~ 17时37分]"
+          "appearance_count": 12,
+          "time_info": "[11时55分 ~ 18时32分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -125,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时58分 ~ 17时37分]"
+          "appearance_count": 13,
+          "time_info": "[09时58分 ~ 18时32分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -139,6 +140,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 05时21分]"
+        },
+        {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 18时32分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -250,19 +264,6 @@
           "time_info": "[02时31分 ~ 06时22分]"
         },
         {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时55分 ~ 17时37分]"
-        },
-        {
           "title": "报道：欧盟考虑重启930亿欧元关税行动，来反击特朗普",
           "url": "https://wallstreetcn.com/livenews/3039301",
           "source": "华尔街见闻-快讯",
@@ -290,15 +291,37 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
+          "title": "高市早苗宣布将于23日解散众议院",
+          "url": "https://news.ifeng.com/c/8q2oBwuyTAK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "日本首相高市早苗：战略性财政支出将增加就业和家庭收入，从而带来更高的税收收入。",
           "url": "https://flash.jin10.com/detail/20260119171116381800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
+        },
+        {
+          "title": "金十整理：从突袭委内瑞拉、威胁伊朗到为格陵兰岛对欧发动关税战，特朗普开年三周的“三连击”将如何搅动市场？",
+          "url": "https://flash.jin10.com/detail/20260119182634326800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
@@ -359,15 +382,15 @@
           "time_info": "16时37分"
         },
         {
-          "title": "【日本首相高市早苗宣布2月8日举行众议院选举】据新华社，日本首相高市早苗19日在记者会上表示，将于23日解散众议院，2月8日举行众议院选举。本届日本国会众议院议员的任期原定于2028年10月届满。日本宪法规定，众议院选举后30天内须召集国会，举行首相指名选举。",
-          "url": "https://wallstreetcn.com/livenews/3039676",
+          "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
+          "url": "https://wallstreetcn.com/livenews/3039707",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时32分"
         },
         {
           "title": "日本首相高市早苗：我的政府将结束过度紧缩的财政政策。",
@@ -376,18 +399,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "出于多重考虑 特朗普没有下达对伊朗动武指令",
-          "url": "https://wallstreetcn.com/livenews/3039672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -398,9 +410,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
+        },
+        {
+          "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
+          "url": "https://wallstreetcn.com/livenews/3039703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "日本首相高市早苗：我将请求获得继续担任首相的授权。",
@@ -409,7 +432,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -423,17 +446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
-        },
-        {
-          "title": "高市早苗将于1月23日解散众议院",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E4%BA%8E1%E6%9C%8823%E6%97%A5%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "伊朗：将追究特朗普等人责任",
@@ -576,6 +588,42 @@
           "time_info": "[15时32分 ~ 16时37分]"
         },
         {
+          "title": "【日本首相高市早苗宣布2月8日举行众议院选举】据新华社，日本首相高市早苗19日在记者会上表示，将于23日解散众议院，2月8日举行众议院选举。本届日本国会众议院议员的任期原定于2028年10月届满。日本宪法规定，众议院选举后30天内须召集国会，举行首相指名选举。",
+          "url": "https://wallstreetcn.com/livenews/3039676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时32分]"
+        },
+        {
+          "title": "出于多重考虑 特朗普没有下达对伊朗动武指令",
+          "url": "https://wallstreetcn.com/livenews/3039672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时32分]"
+        },
+        {
+          "title": "高市早苗将于1月23日解散众议院",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E4%BA%8E1%E6%9C%8823%E6%97%A5%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
           "url": "https://wallstreetcn.com/articles/3763529",
           "source": "华尔街见闻",
@@ -586,6 +634,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时21分 ~ 09时58分]"
+        },
+        {
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时32分]"
         },
         {
           "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
@@ -610,18 +670,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时31分]"
-        },
-        {
-          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时37分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”，我已跟他通电话",
@@ -649,6 +697,18 @@
           "time_info": "[16时37分 ~ 17时37分]"
         },
         {
+          "title": "日本首相高市早苗：将结束过度紧缩的财政政策。 必须大胆投资风险管理，必须摆脱过度紧缩的束缚。 战略性财政支出将增加就业、提高家庭收入，并带来更高的税收收入。 食品通胀预计将维持高企。 计划暂停征收食品消费税两年。 将不再预设额外预算。 将通过降低日本债务/GDP的比率来确保日本财政状况的可持续性。",
+          "url": "https://wallstreetcn.com/livenews/3039665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时32分]"
+        },
+        {
           "title": "马斯克：特斯拉将重启Dojo 3项目",
           "url": "https://www.toutiao.com/trending/7596908680889516051/",
           "source": "今日头条",
@@ -669,6 +729,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时32分]"
         },
         {
           "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
@@ -743,6 +815,17 @@
           "time_info": "[12时55分 ~ 13时34分]"
         },
         {
+          "title": "高市早苗宣布23日解散众议院",
+          "url": "https://www.douyin.com/hot/2373087",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时32分]"
+        },
+        {
           "title": "民调发现特朗普提升了中国全球影响力",
           "url": "https://www.toutiao.com/trending/7596570077421191211/",
           "source": "今日头条",
@@ -805,7 +888,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -821,24 +904,13 @@
           "time_info": "14时42分"
         },
         {
-          "title": "日本首相高市早苗：将结束过度紧缩的财政政策。 必须大胆投资风险管理，必须摆脱过度紧缩的束缚。 战略性财政支出将增加就业、提高家庭收入，并带来更高的税收收入。 食品通胀预计将维持高企。 计划暂停征收食品消费税两年。 将不再预设额外预算。 将通过降低日本债务/GDP的比率来确保日本财政状况的可持续性。",
-          "url": "https://wallstreetcn.com/livenews/3039665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
           "title": "日本首相高市早苗：将于1月23日解散众议院并提前举行大选。",
           "url": "https://flash.jin10.com/detail/20260119170209250800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -854,15 +926,15 @@
           "time_info": "13时34分"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
+          "title": "英媒：特朗普撼动世界，世界却爱上中国",
+          "url": "https://wallstreetcn.com/livenews/3039698",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时32分"
         },
         {
           "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
@@ -882,7 +954,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -915,9 +987,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
+        },
+        {
+          "title": "美元兑日元小幅走低，日本首相高市早苗表示，将密切关注外汇市场的投机性波动，随时准备采取必要行动。",
+          "url": "https://wallstreetcn.com/livenews/3039684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "专家：若特朗普对欧关税威胁落实，欧盟将集体反击美国",
@@ -931,15 +1014,15 @@
           "time_info": "16时37分"
         },
         {
-          "title": "高市早苗宣布23日解散众议院",
-          "url": "https://www.douyin.com/hot/2373087",
-          "source": "抖音",
+          "title": "日本首相高市早苗：消费税减免的资金问题仍在考虑中。 可能会削减补贴，并将修改整体预算。 将寻求不依赖债券发行来筹资。",
+          "url": "https://wallstreetcn.com/livenews/3039683",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时32分"
         },
         {
           "title": "市场分析：特朗普对欧洲的关税威胁最终将反噬自身",
@@ -992,7 +1075,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1003,7 +1086,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1014,7 +1097,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
@@ -1097,6 +1180,20 @@
           "time_info": "[01时20分 ~ 06时22分]"
         },
         {
+          "title": "创历史新高！重磅报告：全球亿万富翁财富飙升至18.3万亿美元",
+          "url": "https://www.cls.cn/detail/2261835",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时31分 ~ 18时32分]"
+        },
+        {
           "title": "韩国KOSPI指数最高上涨0.4%，创下4,860.84点的历史新高。",
           "url": "https://flash.jin10.com/detail/20260119093650159800",
           "source": "金十数据",
@@ -1108,28 +1205,16 @@
           "time_info": "09时58分"
         },
         {
-          "title": "创历史新高！重磅报告：全球亿万富翁财富飙升至18.3万亿美元",
-          "url": "https://www.cls.cn/detail/2261835",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时31分 ~ 17时37分]"
-        },
-        {
           "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
           "url": "https://www.zhihu.com/question/1995464531351135851",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时37分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时32分]"
         },
         {
           "title": "日本40年期国债收益率升至3.895%，创历史新高。",
