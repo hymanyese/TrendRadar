@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T13:32:09.491731+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-01-20T14:40:23.925724+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 58,
+      "match_count": 69,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 13时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 14时40分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -82,19 +82,6 @@
           "time_info": "[00时33分 ~ 09时53分]"
         },
         {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时23分]"
-        },
-        {
           "title": "特朗普写了一封信，杀气腾腾，槽点满满",
           "url": "https://news.ifeng.com/c/8q3qn0KjEks",
           "source": "凤凰网",
@@ -104,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 14时40分]"
         },
         {
           "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
@@ -118,8 +105,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 14时40分]"
+        },
+        {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时23分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
@@ -145,6 +145,18 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 14时40分]"
+        },
+        {
           "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
           "url": "https://news.ifeng.com/c/8q2uSgRf3ld",
           "source": "凤凰网",
@@ -156,15 +168,28 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
-          "title": "美国总统特朗普：没有回头路可走。 格陵兰对国家和世界安全至关重要。 我同意在达沃斯与各方举行会议。 与北约秘书长马克·吕特进行了非常愉快的电话交谈。",
-          "url": "https://wallstreetcn.com/livenews/3040163",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
+          "url": "https://news.ifeng.com/c/8q4ARvfivFN",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "14时40分"
+        },
+        {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 14时40分]"
         },
         {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
@@ -178,16 +203,17 @@
           "time_info": "00时33分"
         },
         {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            6
+            7,
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时53分 ~ 13时32分]"
+          "time_info": "[09时53分 ~ 14时40分]"
         },
         {
           "title": "美国总统特朗普：我将对法国葡萄酒和香槟征收200%的关税，法国总统马克龙将加入和平委员会。",
@@ -196,7 +222,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -227,16 +253,28 @@
           "time_info": "[04时28分 ~ 06时24分]"
         },
         {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：没有回头路可走。 格陵兰对国家和世界安全至关重要。 我同意在达沃斯与各方举行会议。 与北约秘书长马克·吕特进行了非常愉快的电话交谈。",
+          "url": "https://wallstreetcn.com/livenews/3040163",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 14时40分]"
+        },
+        {
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时32分]"
+          "time_info": "[12时48分 ~ 14时40分]"
         },
         {
           "title": "摩洛哥外交部：摩洛哥接受特朗普邀请，加入加沙和平委员会。",
@@ -287,6 +325,30 @@
           "time_info": "[09时53分 ~ 13时32分]"
         },
         {
+          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
+          "url": "https://www.cls.cn/detail/2262836",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 14时40分]"
+        },
+        {
+          "title": "高市早苗放话：如果此次选举执政联盟未获半数席位，将辞任首相",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32422495",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 14时40分]"
+        },
+        {
           "title": "特朗普打关税牌吞格陵兰能得逞吗",
           "url": "https://www.toutiao.com/trending/7597071517846867510/",
           "source": "今日头条",
@@ -297,30 +359,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时35分 ~ 03时22分]"
-        },
-        {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 13时32分]"
-        },
-        {
-          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
-          "url": "https://www.cls.cn/detail/2263060",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 13时32分]"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
@@ -347,29 +385,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
-          "url": "https://www.cls.cn/detail/2262836",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 13时32分]"
-        },
-        {
-          "title": "高市早苗放话：如果此次选举执政联盟未获半数席位，将辞任首相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32422495",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 13时32分]"
         },
         {
           "title": "叙利亚总统府：叙利亚总统沙拉与美国总统特朗普在电话中讨论了叙利亚局势的最新发展，沙拉和特朗普同意继续合作打击“伊斯兰国”。沙拉和特朗普强调，有必要在叙利亚国家框架内维护库尔德人民的权利。",
@@ -406,6 +421,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时22分]"
+        },
+        {
+          "title": "特朗普：我将对法国葡萄酒和香槟征收200%的关税，届时马克龙将加入 “和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3040147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 14时40分]"
         },
         {
           "title": "马克龙据悉将拒绝特朗普“和平委员会”的邀请",
@@ -450,7 +477,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -461,9 +488,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "美国总统特朗普在其社交平台“真实社交”上发图，暗示吞并丹麦自治领地格陵兰岛。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3040187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美国总统特朗普：（谈美联储）我知道我想要谁担任美联储主席。",
@@ -472,20 +510,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
         {
-          "title": "特朗普：我将对法国葡萄酒和香槟征收200%的关税，届时马克龙将加入 “和平委员会”。",
-          "url": "https://wallstreetcn.com/livenews/3040147",
-          "source": "华尔街见闻-快讯",
+          "title": "高市早苗：1月23日解散众议院，2月8日举行众议院选举",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32415582",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "14时40分"
         },
         {
           "title": "美国总统特朗普：别指望欧盟会在格陵兰问题上做出太大让步。",
@@ -494,9 +532,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "“星条旗插在格陵兰土地上” 特朗普用AI描绘自己的领土野心",
+          "url": "https://flash.jin10.com/detail/20260120140732774800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美国总统特朗普：我们将在达沃斯讨论格陵兰岛。",
@@ -505,7 +554,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -516,7 +565,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -527,7 +576,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -538,9 +587,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "特朗普展示马克龙短信截图",
+          "url": "https://wallstreetcn.com/livenews/3040178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
@@ -552,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普公布马克龙短信 后者称“无法理解”特朗普格陵兰岛立场",
+          "url": "https://flash.jin10.com/detail/20260120135740697800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美国总统特朗普，欧洲应关注俄乌，而“不要关注格陵兰”。",
@@ -631,6 +702,28 @@
           "time_info": "00时33分"
         },
         {
+          "title": "市场分析：高市早苗政策将刺激通胀 加剧债市恐慌情绪",
+          "url": "https://flash.jin10.com/detail/20260120135359113800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "特朗普称，我与北约秘书长吕特就格陵兰问题进行了非常好的电话交谈。 将在达沃斯就格陵兰问题与“各方”会面。",
+          "url": "https://wallstreetcn.com/livenews/3040165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "据NBC新闻：特朗普拒绝表态是否会动用武力夺取格陵兰岛。",
           "url": "https://flash.jin10.com/detail/20260119233812359800",
           "source": "金十数据",
@@ -640,6 +733,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普霸凌欧洲引发反弹 “让美国滚开”棒球帽在欧美走红",
+          "url": "https://flash.jin10.com/detail/20260120134838323800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "社交媒体平台X工程团队表示，已将新的X算法开源，该算法采用与Grok模型相同的Transformer架构。马斯克转发称，这个算法很笨拙，需要大幅改进，但可以实时、透明地看到改进过程。",
+          "url": "https://flash.jin10.com/detail/20260120133012767800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
@@ -662,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：我已同意在瑞士达沃斯举行多方会议。",
+          "url": "https://flash.jin10.com/detail/20260120132801977800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "特朗普被爆私下密集谈论加拿大",
@@ -689,7 +815,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "出口额创历史新高，中国变压器在海外卖爆了！",
@@ -702,8 +828,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 13时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 14时40分]"
         },
         {
           "title": "纪录片《重返狼群》爆火，妈妈李微漪和狼王格林故事为何令人动容？为什么格林要还回保存 7 年的妈妈红围巾？",
@@ -745,6 +871,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "日本30年期国债收益率上涨25个基点至3.860%，创历史新高。40年期收益率上涨26个基点，至4.205%。",
+          "url": "https://flash.jin10.com/detail/20260120141255156800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "欧洲军工股多数收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨0.27%，报35.375欧元，再次创收盘历史新高，早盘涨至36.029999欧元创盘中历史新高，随后逐步回吐涨幅。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨0.43%，也继续创收盘历史新高。",
           "url": "https://wallstreetcn.com/livenews/3039876",
           "source": "华尔街见闻-快讯",
@@ -775,11 +912,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 14时40分]"
         },
         {
           "title": "纽约银日内涨幅超过6.5%，刷新盘中历史高位至94.365美元/盎司。 现货白银日内涨幅超过5.0%，刷新历史高位至94.6291美元/盎司。",
@@ -849,7 +987,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
