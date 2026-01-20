@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T16:35:59.510718+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-01-20T17:35:55.535170+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 81,
+      "match_count": 84,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 16时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 17时35分]"
         },
         {
           "title": "特朗普写了一封信，杀气腾腾，槽点满满",
@@ -110,6 +110,19 @@
           "time_info": "[00时33分 ~ 09时53分]"
         },
         {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 17时35分]"
+        },
+        {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
           "url": "https://wallstreetcn.com/articles/3763548",
           "source": "华尔街见闻",
@@ -123,27 +136,43 @@
           "time_info": "[00时33分 ~ 07时23分]"
         },
         {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 16时35分]"
-        },
-        {
           "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
           "url": "https://news.ifeng.com/c/8q4ARvfivFN",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 16时35分]"
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 17时35分]"
+        },
+        {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 17时35分]"
+        },
+        {
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 17时35分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
@@ -156,32 +185,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 07时23分]"
-        },
-        {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 16时35分]"
-        },
-        {
-          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
-          "url": "https://www.cls.cn/detail/2263060",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 16时35分]"
         },
         {
           "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
@@ -220,13 +223,25 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
+          "title": "高市早苗宣布2月8号举行众议院选举：将结束过度紧缩的财政政策",
+          "url": "https://wallstreetcn.com/articles/3763597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 17时35分]"
+        },
+        {
           "title": "特朗普“颠覆性”的政策手段引燃贵金属行情",
           "url": "https://flash.jin10.com/detail/20260120161310643800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -264,16 +279,16 @@
           "time_info": "13时32分"
         },
         {
-          "title": "高市早苗宣布2月8号举行众议院选举：将结束过度紧缩的财政政策",
-          "url": "https://wallstreetcn.com/articles/3763597",
-          "source": "华尔街见闻",
+          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
+          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 16时35分]"
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时35分]"
         },
         {
           "title": "经济学家：特朗普加征关税或使英国陷入衰退",
@@ -386,6 +401,17 @@
           "time_info": "[12时48分 ~ 14时40分]"
         },
         {
+          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1996630471031928598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 17时35分]"
+        },
+        {
           "title": "特朗普打关税牌吞格陵兰能得逞吗",
           "url": "https://www.toutiao.com/trending/7597071517846867510/",
           "source": "今日头条",
@@ -435,17 +461,6 @@
           "time_info": "[02时36分 ~ 04时28分]"
         },
         {
-          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1996630471031928598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 16时35分]"
-        },
-        {
           "title": "叙利亚总统府：叙利亚总统沙拉与美国总统特朗普在电话中讨论了叙利亚局势的最新发展，沙拉和特朗普同意继续合作打击“伊斯兰国”。沙拉和特朗普强调，有必要在叙利亚国家框架内维护库尔德人民的权利。",
           "url": "https://flash.jin10.com/detail/20260120035612237800",
           "source": "金十数据",
@@ -456,6 +471,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时22分]"
+        },
+        {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时35分]"
         },
         {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
@@ -506,6 +533,18 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
+          "title": "特朗普发图暗示吞并加拿大、格陵兰和委内瑞拉",
+          "url": "https://www.cls.cn/detail/2263322",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时35分]"
+        },
+        {
           "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
           "url": "https://wallstreetcn.com/livenews/3040101",
           "source": "华尔街见闻-快讯",
@@ -541,15 +580,16 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
-          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
-          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
-          "source": "凤凰网",
+          "title": "外交部回应特朗普计划4月访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%924%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
           "ranks": [
-            6
+            27,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时35分]"
         },
         {
           "title": "美国总统特朗普：我们必须拥有格陵兰岛。",
@@ -561,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "特朗普发登上格陵兰岛图",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E7%99%BB%E4%B8%8A%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%9B%BE%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国总统特朗普：北约20年来一直在就俄罗斯威胁向丹麦发出警告。",
@@ -585,6 +636,28 @@
           "time_info": "14时40分"
         },
         {
+          "title": "特朗普称因未获诺奖不再考虑和平",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%9B%A0%E6%9C%AA%E8%8E%B7%E8%AF%BA%E5%A5%96%E4%B8%8D%E5%86%8D%E8%80%83%E8%99%91%E5%92%8C%E5%B9%B3%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "“特朗普计划4月访华”，中方回应",
+          "url": "https://www.cls.cn/detail/2263523",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "美国总统特朗普：（谈美联储）我知道我想要谁担任美联储主席。",
           "url": "https://flash.jin10.com/detail/20260120124746796800",
           "source": "金十数据",
@@ -594,17 +667,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
-          "url": "https://www.cls.cn/detail/2263371",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普：别指望欧盟会在格陵兰问题上做出太大让步。",
@@ -635,7 +697,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -668,7 +730,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -693,17 +755,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "特朗普发图暗示吞并加拿大、格陵兰和委内瑞拉",
-          "url": "https://www.cls.cn/detail/2263322",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "特朗普展示马克龙短信截图",
@@ -789,7 +840,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -869,17 +920,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
-        },
-        {
-          "title": "外交部回应特朗普计划4月访华",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%924%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "社交媒体平台X工程团队表示，已将新的X算法开源，该算法采用与Grok模型相同的Transformer架构。马斯克转发称，这个算法很笨拙，需要大幅改进，但可以实时、透明地看到改进过程。",
@@ -1005,11 +1045,12 @@
             10,
             23,
             30,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 17时35分]"
         },
         {
           "title": "美国银行全球基金经理调查：现金持有比例降至3.2%的历史新低，而针对市场回调的防护水平已降至2018年1月以来的最低。",
