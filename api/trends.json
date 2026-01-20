@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T01:32:08.057779+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-01-21T02:40:21.534127+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时40分]"
         },
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时40分]"
         },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -38,41 +38,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时32分]"
-        },
-        {
-          "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3040619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时40分]"
         },
         {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
           "url": "https://www.zhihu.com/question/1996539214104322510",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时40分]"
         },
         {
           "title": "赌上首相生涯！高市早苗：若执政联盟未在选举获半数席位，我辞职",
           "url": "https://m.thepaper.cn/newsDetail_forward_32423190",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时40分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -82,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时40分]"
         },
         {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
@@ -91,11 +82,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时40分]"
         },
         {
           "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
@@ -105,8 +97,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时40分]"
         },
         {
           "title": "特朗普计划于4月访华？外交部回应",
@@ -114,11 +106,24 @@
           "source": "今日头条",
           "ranks": [
             24,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时40分]"
+        },
+        {
+          "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3040619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 02时40分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -128,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时40分]"
         },
         {
           "title": "马斯克建议：不要让你的亲人使用ChatGPT",
@@ -156,6 +161,17 @@
           "time_info": "[00时39分 ~ 01时32分]"
         },
         {
+          "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
+          "url": "https://wallstreetcn.com/livenews/3040625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
           "title": "立陶宛总统：希望在达沃斯听到美国总统特朗普就缓和格陵兰岛问题传来的令人鼓舞的消息。",
           "url": "https://flash.jin10.com/detail/20260121003051968800",
           "source": "金十数据",
@@ -167,13 +183,24 @@
           "time_info": "00时39分"
         },
         {
+          "title": "消息人士：美国总统特朗普和俄罗斯总统普京的特使进入世界经济论坛的“美国之家（USA HOUSE）”。",
+          "url": "https://flash.jin10.com/detail/20260121020112692800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
           "title": "特朗普：没有任何人为北约做的贡献能超过我",
           "url": "https://flash.jin10.com/detail/20260121005513850800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -184,9 +211,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "特朗普公开马克龙给他的私信",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%A9%AC%E5%85%8B%E9%BE%99%E7%BB%99%E4%BB%96%E7%9A%84%E7%A7%81%E4%BF%A1%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         },
         {
           "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
@@ -195,7 +233,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -211,6 +249,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "巴林外交部：巴林接受邀请，加入美国总统特朗普的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260121012528219800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
           "title": "欧盟首次回应特朗普：欧洲议会冻结美欧贸易协议批准程序",
           "url": "https://wallstreetcn.com/livenews/3040572",
           "source": "华尔街见闻-快讯",
@@ -220,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "市场消息：特朗普将参加下午1点（北京时间凌晨2点）的白宫新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260121011502558800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         },
         {
           "title": "加拿大总理卡尼：我们支持格陵兰，呼吁（丹麦+格陵兰的）盟友们（针对特朗普的吞并野心）团结一致。 （特朗普主张的所谓）“和平委员会”应当用于解决加沙（实现和平的）需求。",
@@ -236,19 +296,53 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "创历史！U23国足进亚洲杯决赛",
+          "url": "https://www.toutiao.com/trending/7596494392681414692/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "创造历史！U23国足闯入亚洲杯决赛",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%EF%BC%81U23%E5%9B%BD%E8%B6%B3%E9%97%AF%E5%85%A5%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "现货黄金涨幅扩大至2.00%，报4765.25美元/盎司，继续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3040632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
         {
           "title": "重大历史题材剧《太平年》即将开播",
           "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E5%8E%86%E5%8F%B2%E9%A2%98%E6%9D%90%E5%89%A7%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E5%8D%B3%E5%B0%86%E5%BC%80%E6%92%AD",
           "source": "百度热搜",
           "ranks": [
             22,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时40分]"
         },
         {
           "title": "我的姥爷上过历史课本",
@@ -260,6 +354,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 00时39分]"
+        },
+        {
+          "title": "再创历史！中国U23男足首次晋级亚洲杯决赛",
+          "url": "https://wallstreetcn.com/livenews/3040624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "U23男足又创造历史",
+          "url": "https://s.weibo.com/weibo?q=%23U23%E7%94%B7%E8%B6%B3%E5%8F%88%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "现货黄金突破4760美元/盎司，续刷历史新高，日内涨1.91%。",
+          "url": "https://flash.jin10.com/detail/20260121015610889800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "大瑶出演东北警察故事3",
+          "url": "https://www.douyin.com/hot/2374426",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         }
       ]
     }
