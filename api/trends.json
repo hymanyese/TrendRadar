@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T21:50:13.834281+08:00",
-  "total_titles_processed": 1899,
+  "generated_at": "2026-01-20T22:34:17.274764+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 103,
+      "match_count": 110,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -96,8 +96,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 21时50分]"
+          "appearance_count": 12,
+          "time_info": "[11时46分 ~ 22时34分]"
         },
         {
           "title": "摊牌了！高市早苗宣布解散众议院",
@@ -113,6 +113,18 @@
           "time_info": "[00时33分 ~ 09时53分]"
         },
         {
+          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
+          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 22时34分]"
+        },
+        {
           "title": "普京被邀请加入特朗普“和平委员会”",
           "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
           "source": "凤凰网",
@@ -123,6 +135,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时33分 ~ 09时53分]"
+        },
+        {
+          "title": "“特朗普计划4月访华”，中方回应",
+          "url": "https://www.cls.cn/detail/2263523",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时35分 ~ 22时34分]"
         },
         {
           "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
@@ -138,16 +164,15 @@
           "time_info": "[09时53分 ~ 17时35分]"
         },
         {
-          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
-          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
-          "source": "凤凰网",
+          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1996630471031928598",
+          "source": "知乎",
           "ranks": [
-            6,
-            1
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 21时50分]"
+          "appearance_count": 11,
+          "time_info": "[15时31分 ~ 22时34分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -175,15 +200,18 @@
           "time_info": "[14时40分 ~ 17时35分]"
         },
         {
-          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1996630471031928598",
-          "source": "知乎",
+          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
+          "url": "https://wallstreetcn.com/articles/3763675",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            6,
+            4,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时31分 ~ 21时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 22时34分]"
         },
         {
           "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
@@ -211,17 +239,15 @@
           "time_info": "[00时33分 ~ 07时23分]"
         },
         {
-          "title": "“特朗普计划4月访华”，中方回应",
-          "url": "https://www.cls.cn/detail/2263523",
-          "source": "财联社热门",
+          "title": "不可能既要又要，诺贝尔和平奖得主批特朗普政府",
+          "url": "https://news.ifeng.com/c/8q4TQszY1yW",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 21时50分]"
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 22时34分]"
         },
         {
           "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
@@ -238,19 +264,6 @@
           "time_info": "[09时53分 ~ 16时35分]"
         },
         {
-          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
-          "url": "https://wallstreetcn.com/articles/3763675",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时50分]"
-        },
-        {
           "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
           "url": "https://www.cls.cn/detail/2263371",
           "source": "财联社热门",
@@ -263,6 +276,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时35分 ~ 21时50分]"
+        },
+        {
+          "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
+          "url": "https://www.zhihu.com/question/1996539214104322510",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 22时34分]"
         },
         {
           "title": "外交部回应特朗普计划4月访华",
@@ -314,6 +341,17 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
+          "title": "法国总统马克龙：我不打算在达沃斯与特朗普对话。",
+          "url": "https://flash.jin10.com/detail/20260120220334788800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "高市早苗宣布2月8号举行众议院选举：将结束过度紧缩的财政政策",
           "url": "https://wallstreetcn.com/articles/3763597",
           "source": "华尔街见闻",
@@ -359,17 +397,6 @@
           "time_info": "15时32分"
         },
         {
-          "title": "不可能既要又要，诺贝尔和平奖得主批特朗普政府",
-          "url": "https://news.ifeng.com/c/8q4TQszY1yW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时50分]"
-        },
-        {
           "title": "美国总统特朗普：我将对法国葡萄酒和香槟征收200%的关税，法国总统马克龙将加入和平委员会。",
           "url": "https://flash.jin10.com/detail/20260120125358466800",
           "source": "金十数据",
@@ -381,17 +408,27 @@
           "time_info": "13时32分"
         },
         {
-          "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
-          "url": "https://www.zhihu.com/question/1996539214104322510",
-          "source": "知乎",
+          "title": "赌上首相生涯！高市早苗：若执政联盟未在选举获半数席位，我辞职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32423190",
+          "source": "澎湃新闻",
           "ranks": [
-            15,
-            9,
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时50分]"
+          "time_info": "[20时55分 ~ 22时34分]"
+        },
+        {
+          "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时55分 ~ 22时34分]"
         },
         {
           "title": "经济学家：特朗普加征关税或使英国陷入衰退",
@@ -566,17 +603,6 @@
           "time_info": "[14时40分 ~ 15时32分]"
         },
         {
-          "title": "赌上首相生涯！高市早苗：若执政联盟未在选举获半数席位，我辞职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32423190",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 21时50分]"
-        },
-        {
           "title": "芬兰总统：欧盟在格陵兰问题上有工具让特朗普就范",
           "url": "https://wallstreetcn.com/livenews/3039881",
           "source": "华尔街见闻-快讯",
@@ -588,18 +614,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时28分]"
-        },
-        {
-          "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 21时50分]"
         },
         {
           "title": "特朗普发登上格陵兰岛图",
@@ -771,7 +785,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -859,7 +873,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -928,6 +942,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "芬兰总统：格陵兰岛军事演习是与特朗普之间产生的误会。",
+          "url": "https://flash.jin10.com/detail/20260120215217666800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "外媒：特朗普改口批英国将查戈斯群岛主权移交毛里求斯“非常愚蠢”，英国政府回应",
@@ -1040,6 +1065,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "美国财长贝森特：鼓励欧洲人对格陵兰岛持开放态度。 重申勿对美国就格陵兰岛的举措采取报复行动。 多亏了特朗普，北约联盟才如此安全稳固。 很难将市场反应与日本内部正在发生的情况分离开来。 我已经和日本财务大臣谈过了。 可以肯定的是，日本会发表一些言论以“稳定市场情绪”。 通过金融稳定监督委员会，银行监管机构进行了大量的放松管制措施。",
+          "url": "https://wallstreetcn.com/livenews/3040511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
           "source": "澎湃新闻",
@@ -1073,6 +1109,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "芬兰总统：美国总统特朗普发给挪威的短信是“正常的”。",
+          "url": "https://flash.jin10.com/detail/20260120214539548800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "特朗普称，我与北约秘书长吕特就格陵兰问题进行了非常好的电话交谈。 将在达沃斯就格陵兰问题与“各方”会面。",
           "url": "https://wallstreetcn.com/livenews/3040165",
           "source": "华尔街见闻-快讯",
@@ -1082,6 +1129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "丹麦养老基金AkademikerPension拟卖美债 称特朗普政策引发信用风险",
+          "url": "https://wallstreetcn.com/livenews/3040510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "据NBC新闻：特朗普拒绝表态是否会动用武力夺取格陵兰岛。",
@@ -1139,6 +1197,17 @@
           "time_info": "19时25分"
         },
         {
+          "title": "美国财长贝森特：我们正朝着在美国总统特朗普任期结束前将赤字削减至占GDP 3%的目标迈进。",
+          "url": "https://flash.jin10.com/detail/20260120213957221800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "社交媒体平台X工程团队表示，已将新的X算法开源，该算法采用与Grok模型相同的Transformer架构。马斯克转发称，这个算法很笨拙，需要大幅改进，但可以实时、透明地看到改进过程。",
           "url": "https://flash.jin10.com/detail/20260120133012767800",
           "source": "金十数据",
@@ -1192,6 +1261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "美国财长贝森特：欧盟不应对美国总统特朗普的关税威胁采取报复措施。",
+          "url": "https://flash.jin10.com/detail/20260120213807235800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "特朗普被爆私下密集谈论加拿大",
@@ -1263,11 +1343,12 @@
             23,
             30,
             18,
-            28
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时48分 ~ 21时50分]"
+          "appearance_count": 13,
+          "time_info": "[12时48分 ~ 22时34分]"
         },
         {
           "title": "如何看待日本 20 年期国债收益率升至 3.165% 创历史新高？将对全球金融市场产生哪些「蝴蝶效应」？",
@@ -1340,6 +1421,18 @@
         },
         {
           "title": "重大历史题材剧《太平年》即将开播",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E5%8E%86%E5%8F%B2%E9%A2%98%E6%9D%90%E5%89%A7%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E5%8D%B3%E5%B0%86%E5%BC%80%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时49分 ~ 22时34分]"
+        },
+        {
+          "title": "重大历史题材剧《太平年》即将开播",
           "url": "https://www.toutiao.com/trending/7597246161464311846/",
           "source": "今日头条",
           "ranks": [
@@ -1362,17 +1455,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 03时22分]"
-        },
-        {
-          "title": "重大历史题材剧《太平年》即将开播",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%A7%E5%8E%86%E5%8F%B2%E9%A2%98%E6%9D%90%E5%89%A7%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E5%8D%B3%E5%B0%86%E5%BC%80%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 21时50分]"
         },
         {
           "title": "现货白银日内大涨5.00%，现报94.58美元/盎司，将历史新高刷新至94.6美元/盎司。",
