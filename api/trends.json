@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T02:40:21.534127+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-01-21T04:14:04.594285+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 25,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时14分]"
         },
         {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时14分]"
         },
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -38,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 04时14分]"
         },
         {
           "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
@@ -47,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时14分]"
         },
         {
           "title": "赌上首相生涯！高市早苗：若执政联盟未在选举获半数席位，我辞职",
@@ -59,11 +61,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时14分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -73,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时14分]"
         },
         {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
@@ -83,22 +86,24 @@
           "ranks": [
             28,
             16,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时14分]"
         },
         {
           "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
           "url": "https://www.zhihu.com/question/1996630471031928598",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时14分]"
         },
         {
           "title": "特朗普计划于4月访华？外交部回应",
@@ -110,8 +115,85 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时14分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
+          "url": "https://flash.jin10.com/detail/20260121034907075800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
+          "url": "https://flash.jin10.com/detail/20260121034837826800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "特朗普：将很快开始打击陆路毒品走私",
+          "url": "https://flash.jin10.com/detail/20260121034546306800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：我们占领了墨西哥湾，现在它成了美国湾。我们拥有92%的海岸线。这事儿一直让我耿耿于怀……我本来想把它叫做“特朗普湾”。我开玩笑的。不过这名字听起来确实不错。",
+          "url": "https://flash.jin10.com/detail/20260121033913590800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
+          "url": "https://flash.jin10.com/detail/20260121033511635800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：美国下一年不会有贸易赤字/贸易逆差。",
+          "url": "https://wallstreetcn.com/livenews/3040652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 04时14分]"
         },
         {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
@@ -126,15 +208,16 @@
           "time_info": "[01时32分 ~ 02时40分]"
         },
         {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
-          "source": "华尔街见闻",
+          "title": "特朗普公开马克龙给他的私信",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%A9%AC%E5%85%8B%E9%BE%99%E7%BB%99%E4%BB%96%E7%9A%84%E7%A7%81%E4%BF%A1%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时40分]"
+          "time_info": "[02时40分 ~ 04时14分]"
         },
         {
           "title": "马斯克建议：不要让你的亲人使用ChatGPT",
@@ -165,11 +248,67 @@
           "url": "https://wallstreetcn.com/livenews/3040625",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 04时14分]"
+        },
+        {
+          "title": "美国总统特朗普：很快就会打击陆路毒品走私。",
+          "url": "https://flash.jin10.com/detail/20260121032735551800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：通过征收关税，我将贸易逆差削减了惊人的77%……我们与占美国贸易总额40%的国家达成了历史性的贸易协议，降低了美国出口壁垒。",
+          "url": "https://flash.jin10.com/detail/20260121032620646800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：很多人合法入境，但他们必须证明他们热爱我们的国家。",
+          "url": "https://flash.jin10.com/detail/20260121032605295800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：我们接手时油价很高，但我们大幅降低了油价。看看汽油价格——现在美国有些地方的汽油价格是每加仑1.99美元，其他地方是每加仑2.50美元。在拜登执政时期，汽油价格是每加仑4美元、5美元，甚至更高。",
+          "url": "https://flash.jin10.com/detail/20260121032437725800",
+          "source": "金十数据",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：我目前非常喜欢委内瑞拉，他们一直都和我们配合得很好。 多家石油公司准备“大规模投资”委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/3040645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "立陶宛总统：希望在达沃斯听到美国总统特朗普就缓和格陵兰岛问题传来的令人鼓舞的消息。",
@@ -189,9 +328,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "美国总统特朗普：我们签署了《大美丽法案》，实现了历史上最大规模的减税。我们在一年内将联邦预算赤字削减了27%。",
+          "url": "https://flash.jin10.com/detail/20260121032407064800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "特朗普：没有任何人为北约做的贡献能超过我",
@@ -205,6 +355,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "美国总统特朗普：我们获得了最惠国待遇协议，将药品价格削减了300%、400%、500%甚至600%。",
+          "url": "https://flash.jin10.com/detail/20260121032138028800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "特朗普：我们国家如今面临的所有犯罪问题，都是“昏睡乔（美国前总统拜登）”和围在白宫椭圆形办公室决策桌旁的激进左翼暴徒一手造成的——当然，还包括对自动签字笔（Auto Pen）的非法使用！！！他们都该进监狱！",
           "url": "https://flash.jin10.com/detail/20260121005256279800",
           "source": "金十数据",
@@ -216,15 +377,70 @@
           "time_info": "01时32分"
         },
         {
-          "title": "特朗普公开马克龙给他的私信",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%A9%AC%E5%85%8B%E9%BE%99%E7%BB%99%E4%BB%96%E7%9A%84%E7%A7%81%E4%BF%A1%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：如果加州州长纽森赢得总统大选，美国将“很快”变成委内瑞拉。",
+          "url": "https://flash.jin10.com/detail/20260121031946574800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：美国贸易逆差下降77%。",
+          "url": "https://flash.jin10.com/detail/20260121031920273800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：如果一个国家不接受人们返回家园，那它就有问题。",
+          "url": "https://flash.jin10.com/detail/20260121031830393800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：明年我们将不会出现贸易逆差。",
+          "url": "https://flash.jin10.com/detail/20260121031225656800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：关于关税。 如果我们败诉，我们可能就得尽力偿还这笔钱了。",
+          "url": "https://flash.jin10.com/detail/20260121031204111800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：我不知道最高法院会在关税问题上做出什么裁决。",
+          "url": "https://flash.jin10.com/detail/20260121030957820800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
@@ -236,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国总统特朗普：（谈到了经济悲观情绪）经济前景良好。 我们没能把意思传达出去。或许我的公关人员太差劲了。",
+          "url": "https://flash.jin10.com/detail/20260121030938024800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "马斯克：不要让你的亲人使用 ChatGPT",
@@ -255,9 +482,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "美国总统特朗普：石油公司正准备在委内瑞拉进行大规模投资。",
+          "url": "https://flash.jin10.com/detail/20260121030415435800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "欧盟首次回应特朗普：欧洲议会冻结美欧贸易协议批准程序",
@@ -277,7 +515,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
@@ -291,12 +529,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "美国总统特朗普：索马里根本算不上一个国家，如果他们真算一个国家，那也是最糟糕的。",
+          "url": "https://flash.jin10.com/detail/20260121030043864800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：也许我们可以让玛丽亚·马查多以某种方式参与委内瑞拉事务。",
+          "url": "https://flash.jin10.com/detail/20260121025632649800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：我相信瑞士人民会热烈欢迎我的到来。",
+          "url": "https://flash.jin10.com/detail/20260121025444478800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "创历史！U23国足进亚洲杯决赛",
@@ -305,9 +576,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时14分]"
         },
         {
           "title": "创造历史！U23国足闯入亚洲杯决赛",
@@ -316,20 +587,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "现货黄金涨幅扩大至2.00%，报4765.25美元/盎司，继续创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3040632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时14分]"
         },
         {
           "title": "重大历史题材剧《太平年》即将开播",
@@ -338,11 +598,59 @@
           "ranks": [
             22,
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时14分]"
+        },
+        {
+          "title": "现货黄金涨幅扩大至2.00%，报4765.25美元/盎司，继续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3040632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 04时14分]"
+        },
+        {
+          "title": "大瑶出演东北警察故事3",
+          "url": "https://www.douyin.com/hot/2374426",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时14分]"
+        },
+        {
+          "title": "再创历史！中国U23男足首次晋级亚洲杯决赛",
+          "url": "https://wallstreetcn.com/livenews/3040624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 04时14分]"
+        },
+        {
+          "title": "视频丨3比0！U23国足再创历史，强势闯入亚洲杯决赛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32427723",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 04时14分]"
         },
         {
           "title": "我的姥爷上过历史课本",
@@ -356,24 +664,13 @@
           "time_info": "[00时38分 ~ 00时39分]"
         },
         {
-          "title": "再创历史！中国U23男足首次晋级亚洲杯决赛",
-          "url": "https://wallstreetcn.com/livenews/3040624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
           "title": "U23男足又创造历史",
           "url": "https://s.weibo.com/weibo?q=%23U23%E7%94%B7%E8%B6%B3%E5%8F%88%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
@@ -384,18 +681,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "大瑶出演东北警察故事3",
-          "url": "https://www.douyin.com/hot/2374426",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         }
