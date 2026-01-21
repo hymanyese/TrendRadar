@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T21:49:00.306713+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2026-01-21T22:34:08.445671+08:00",
+  "total_titles_processed": 2085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 159,
+      "match_count": 210,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -44,6 +44,18 @@
           "time_info": "[00时38分 ~ 15时31分]"
         },
         {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时35分 ~ 22时34分]"
+        },
+        {
           "title": "特朗普和马克龙，直接开干了",
           "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
           "source": "凤凰网",
@@ -71,18 +83,6 @@
           "time_info": "[16时35分 ~ 21时49分]"
         },
         {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 21时49分]"
-        },
-        {
           "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
           "url": "https://wallstreetcn.com/articles/3763739",
           "source": "华尔街见闻",
@@ -92,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 21时49分]"
+          "appearance_count": 12,
+          "time_info": "[11时46分 ~ 22时34分]"
         },
         {
           "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
@@ -222,6 +222,21 @@
           "time_info": "[00时38分 ~ 07时25分]"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时31分 ~ 22时34分]"
+        },
+        {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
           "url": "https://www.toutiao.com/trending/7597438425674812937/",
           "source": "今日头条",
@@ -247,6 +262,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时56分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时32分 ~ 22时34分]"
         },
         {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
@@ -298,32 +324,6 @@
           "time_info": "[09时56分 ~ 13时31分]"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            14,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时31分 ~ 20时54分]"
-        },
-        {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时32分 ~ 21时49分]"
-        },
-        {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
           "url": "https://flash.jin10.com/detail/20260121034907075800",
           "source": "金十数据",
@@ -335,13 +335,24 @@
           "time_info": "04时14分"
         },
         {
+          "title": "美国总统特朗普：上周我们从委内瑞拉获取了5000万桶原油。",
+          "url": "https://flash.jin10.com/detail/20260121220752711800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "特朗普：在达沃斯向朋友“以及少数敌人”发表讲话。 美国通胀已被战胜。 核心通胀率为1.5%，第四季度增长率预计为5.4%。 美国经济增长有望达到国际货币基金组织预测速度的两倍。 相信我的政策能够带来更高的经济增长。 旨在提高民众生活水平。 欧洲没有朝着正确的方向发展。 批评欧洲对绿色能源及移民问题的重视程度。 欧洲的一些地方已经变得面目全非，不再像以前那样了。",
           "url": "https://wallstreetcn.com/livenews/3041316",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -386,13 +397,24 @@
           "time_info": "04时14分"
         },
         {
+          "title": "在美国总统特朗普演讲之后，美国国债收益率走低，10年期收益率最新微跌至4.293%。",
+          "url": "https://flash.jin10.com/detail/20260121220737849800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "不同于特朗普的直言不讳 摩根大通CEO戴蒙称批评欧洲时他会“更委婉”",
           "url": "https://wallstreetcn.com/livenews/3041315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -441,6 +463,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "美国总统特朗普在达沃斯发表讲话后，美国股指期货跌幅收窄。",
+          "url": "https://flash.jin10.com/detail/20260121220648378800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国财长贝森特：丹麦在国债市场中的地位无关紧要，这个国家本身也是如此。 已与日本方面取得联系，他们将使市场趋于稳定。 格陵兰岛应当成为美国的一部分。 目前尚未安排与英国的贸易谈判事宜。 欧洲应该打破内部贸易壁垒。 欧洲也应该打破外部贸易壁垒。 特朗普到达沃斯会迟到大约三个小时。",
           "url": "https://wallstreetcn.com/livenews/3041067",
           "source": "华尔街见闻-快讯",
@@ -450,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "美国总统特朗普攻击企业购买住房的做法。",
+          "url": "https://wallstreetcn.com/livenews/3041349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "特朗普晒马克龙私信",
@@ -476,6 +520,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "美国总统特朗普：部分人很快将因2020年大选而被起诉。",
+          "url": "https://flash.jin10.com/detail/20260121220640142800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "特朗普发P图将委内瑞拉涂上星条旗，委政府呼吁民众发布官方地图打击“虚假信息”",
           "url": "https://wallstreetcn.com/livenews/3040808",
           "source": "华尔街见闻-快讯",
@@ -498,6 +553,17 @@
           "time_info": "19时27分"
         },
         {
+          "title": "美国总统特朗普：药品价格将大幅下降90%。",
+          "url": "https://wallstreetcn.com/livenews/3041348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
           "url": "https://flash.jin10.com/detail/20260121033511635800",
           "source": "金十数据",
@@ -518,6 +584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "在美国总统特朗普讲话之际，欧洲斯托克600指数跌幅收窄至0.4%。",
+          "url": "https://flash.jin10.com/detail/20260121220625736800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：美国下一年不会有贸易赤字/贸易逆差。",
@@ -690,6 +767,17 @@
           "time_info": "[00时39分 ~ 01时32分]"
         },
         {
+          "title": "欧盟首次回应特朗普关税威胁：欧洲议会冻结美欧贸易协议批准程序",
+          "url": "https://wallstreetcn.com/articles/3763744",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 22时34分]"
+        },
+        {
           "title": "欧盟委员会科技事务主管Virkkunen：正分析马斯克旗下社交媒体平台X公司（原名推特）的Grok政策变更是否仍然违反数字服务法案（DSA）。",
           "url": "https://wallstreetcn.com/livenews/3040589",
           "source": "华尔街见闻-快讯",
@@ -761,6 +849,17 @@
           "time_info": "[20时54分 ~ 21时49分]"
         },
         {
+          "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2265606",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
           "title": "特朗普：若最高法限制联邦政府关税政策，还可采用其他手段",
           "url": "https://wallstreetcn.com/livenews/3040674",
           "source": "华尔街见闻-快讯",
@@ -783,6 +882,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普称无意用武力获取格陵兰岛",
+          "url": "https://www.douyin.com/hot/2375599",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "高市早苗的政治“奇袭”能否奏效",
@@ -841,6 +951,28 @@
           "time_info": "14时40分"
         },
         {
+          "title": "美国总统特朗普：北约对美国极为不公。",
+          "url": "https://flash.jin10.com/detail/20260121220547170800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美国总统特朗普嘲笑法国总统马克龙佩戴太阳镜。",
+          "url": "https://wallstreetcn.com/livenews/3041346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "特朗普刚喊完中俄威胁转头就否了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E5%96%8A%E5%AE%8C%E4%B8%AD%E4%BF%84%E5%A8%81%E8%83%81%E8%BD%AC%E5%A4%B4%E5%B0%B1%E5%90%A6%E4%BA%86%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -874,6 +1006,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "美国总统特朗普：正寻求立即就收购格陵兰岛进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260121220538705800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "摩根大通CEO戴蒙：我基本上不赞成关税。 特朗普的信用卡利率上限将是一场“经济灾难”。 信用卡利率上限对经济造成的痛苦最大，而非银行。 美国经济“状况良好”。",
           "url": "https://wallstreetcn.com/livenews/3041288",
           "source": "华尔街见闻-快讯",
@@ -883,6 +1026,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "特朗普：美国受到北约不公平对待",
+          "url": "https://wallstreetcn.com/livenews/3041345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "雪佛龙在纠结：如何能迎合特朗普，又避免在委内瑞拉亏钱",
@@ -905,6 +1059,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：只有美国才能保护，开发并改善格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260121220457732800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美国总统特朗普：如果你们（格陵兰/丹麦）拒绝，我们会记住的。",
+          "url": "https://wallstreetcn.com/livenews/3041343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "这是在打货币战争？特朗普打击美元，高市早苗削弱日元",
@@ -951,6 +1127,17 @@
           "time_info": "11时46分"
         },
         {
+          "title": "特朗普达沃斯讲话：赞赏自己的经济政策 抨击欧洲往不正确的方向发展",
+          "url": "https://flash.jin10.com/detail/20260121220449666800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国财长贝森特：特朗普在调整改善全球经济。 增长是摆脱巨额债务的唯一出路。 建议瑞士不要在经济政策上追随欧盟。 英国在迪戈加西亚岛问题上让美国很失望。 欧洲向格陵兰派遣部队是“不切实际的空想”。 不清楚在缺乏内部调查的情况下，鲍威尔为何会支持库克。 对美联储缺乏内部调查感到非常失望。 鲍威尔在将美联储政治化，不应该如此。",
           "url": "https://wallstreetcn.com/livenews/3041056",
           "source": "华尔街见闻-快讯",
@@ -973,15 +1160,15 @@
           "time_info": "20时54分"
         },
         {
-          "title": "欧盟首次回应特朗普关税威胁：欧洲议会冻结美欧贸易协议批准程序",
-          "url": "https://wallstreetcn.com/articles/3763744",
-          "source": "华尔街见闻",
+          "title": "特朗普：不会武力夺取格陵兰岛，正寻求立即就收购格陵兰岛事宜展开谈判",
+          "url": "https://wallstreetcn.com/livenews/3041342",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时49分"
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：我们接手时油价很高，但我们大幅降低了油价。看看汽油价格——现在美国有些地方的汽油价格是每加仑1.99美元，其他地方是每加仑2.50美元。在拜登执政时期，汽油价格是每加仑4美元、5美元，甚至更高。",
@@ -993,6 +1180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：美国本应在二战后保留格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260121220420475800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：我目前非常喜欢委内瑞拉，他们一直都和我们配合得很好。 多家石油公司准备“大规模投资”委内瑞拉。",
@@ -1034,9 +1232,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "特朗普：格陵兰岛是美国的“核心国家安全利益”",
+          "url": "https://wallstreetcn.com/livenews/3041341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "立陶宛总统：希望在达沃斯听到美国总统特朗普就缓和格陵兰岛问题传来的令人鼓舞的消息。",
@@ -1092,6 +1301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：出台新版防务制度之后，美国将按照超前的速度生产武器。 不会再允许国防公司回购股票。",
+          "url": "https://wallstreetcn.com/livenews/3041340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "特朗普：没有任何人为北约做的贡献能超过我",
@@ -1160,6 +1380,17 @@
           "time_info": "20时54分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛是北美的一部分，这是我们的领土。",
+          "url": "https://flash.jin10.com/detail/20260121220346492800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国总统特朗普：允许人工智能公司自行发电。 用关税收入取代所得税是一个选项。",
           "url": "https://wallstreetcn.com/livenews/3040916",
           "source": "华尔街见闻-快讯",
@@ -1169,6 +1400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "美国总统特朗普：股市昨天下跌是因为冰岛的缘故。",
+          "url": "https://wallstreetcn.com/livenews/3041339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "特朗普：我们国家如今面临的所有犯罪问题，都是“昏睡乔（美国前总统拜登）”和围在白宫椭圆形办公室决策桌旁的激进左翼暴徒一手造成的——当然，还包括对自动签字笔（Auto Pen）的非法使用！！！他们都该进监狱！",
@@ -1202,6 +1444,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "美国总统特朗普：美国在战略国家安全方面需要丹麦。",
+          "url": "https://flash.jin10.com/detail/20260121220330428800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美国总统特朗普：今天会见乌克兰总统泽连斯基。",
+          "url": "https://wallstreetcn.com/livenews/3041338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：美国贸易逆差下降77%。",
@@ -1248,6 +1512,28 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛位于关键战略位置，却毫无防备。",
+          "url": "https://flash.jin10.com/detail/20260121220302476800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "现货黄金十五分钟内走低约40美元，现报4842.42美元/盎司。此前特朗普称，不会武力夺取格陵兰岛。",
+          "url": "https://wallstreetcn.com/livenews/3041337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国总统特朗普：如果一个国家不接受人们返回家园，那它就有问题。",
           "url": "https://flash.jin10.com/detail/20260121031830393800",
           "source": "金十数据",
@@ -1268,6 +1554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "美国总统特朗普：丹麦对格陵兰岛一事忘恩负义。",
+          "url": "https://flash.jin10.com/detail/20260121220253826800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：明年我们将不会出现贸易逆差。",
@@ -1298,9 +1595,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "美国总统特朗普：现在他们（格陵兰岛）竟然不知感恩。",
+          "url": "https://flash.jin10.com/detail/20260121220229186800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大因为美国而存在，（总理）卡尼你记住这点。",
+          "url": "https://wallstreetcn.com/livenews/3041335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：关于关税。 如果我们败诉，我们可能就得尽力偿还这笔钱了。",
@@ -1336,6 +1655,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国总统特朗普：很难把格陵兰岛称为陆地，它只是“一块冰”。",
+          "url": "https://flash.jin10.com/detail/20260121220155585800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国总统特朗普：格陵兰将大大提高“金穹”系统的效能。 在达沃斯期间可能会与欧洲达成某种解决方案。",
           "url": "https://wallstreetcn.com/livenews/3040907",
           "source": "华尔街见闻-快讯",
@@ -1345,6 +1675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "美股核电股盘前拉升，Oklo涨超8%，NANO Nuclear Energy涨超5%，NuScale Power涨超6%，此前特朗普称美国正在“大力发展”核能。",
+          "url": "https://wallstreetcn.com/livenews/3041334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：我不知道最高法院会在关税问题上做出什么裁决。",
@@ -1391,6 +1732,17 @@
           "time_info": "19时27分"
         },
         {
+          "title": "美国总统特朗普：二战结束后我们把格陵兰岛还了回去，我们当时是多么愚蠢。",
+          "url": "https://flash.jin10.com/detail/20260121220149925800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
           "url": "https://wallstreetcn.com/livenews/3040601",
           "source": "华尔街见闻-快讯",
@@ -1424,6 +1776,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "美国总统特朗普：美国为丹麦在格陵兰岛建立了基地，我们曾为丹麦而战。",
+          "url": "https://flash.jin10.com/detail/20260121220113095800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "马斯克：不要让你的亲人使用 ChatGPT",
           "url": "https://flash.jin10.com/detail/20260121002446496800",
           "source": "金十数据",
@@ -1444,6 +1807,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉证明了美国实力有多么强大。",
+          "url": "https://flash.jin10.com/detail/20260121220017590800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "特朗普称上周从委内瑞拉获取5000万桶原油",
+          "url": "https://wallstreetcn.com/livenews/3041331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：“收回”巴拿马运河在考虑范围内。",
@@ -1474,9 +1859,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "美国总统特朗普：没有哪个国家能像我们一样确保格陵兰岛的安全。",
+          "url": "https://flash.jin10.com/detail/20260121220005265800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美国总统特朗普：北约对美国非常不公平。 我们从来没有（向北约）伸手索要任何东西，我们从来没有（从北约）得到过任何东西。 如果美国遭到打击，不确定北约是否会提供帮助。 北约向帮助乌克兰，美国也将那样做。",
+          "url": "https://wallstreetcn.com/livenews/3041330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "特朗普：对美真正威胁是联合国和北约",
@@ -1534,6 +1941,17 @@
           "time_info": "20时54分"
         },
         {
+          "title": "美国总统特朗普：我对格陵兰岛和丹麦人民充满敬意。",
+          "url": "https://flash.jin10.com/detail/20260121215952849800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国参议院民主党成员们寻求关于特朗普司法部调查美联储主席鲍威尔的卷宗。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3040665",
           "source": "华尔街见闻-快讯",
@@ -1578,6 +1996,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛局势让这一问题更加清晰。",
+          "url": "https://flash.jin10.com/detail/20260121215933709800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国总统特朗普：美国“可能会”“强行收回”巴拿马运河。",
           "url": "https://wallstreetcn.com/livenews/3040664",
           "source": "华尔街见闻-快讯",
@@ -1595,9 +2024,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "（丹麦）维斯塔斯风力技术集团跌幅扩大至约3%，美国总统特朗普正谈及美国对风电的需求。",
+          "url": "https://wallstreetcn.com/livenews/3041328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：我认为在格陵兰问题上将出现对各方都有利的进展。",
@@ -1609,6 +2049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：我们想要的是强大的盟友，而不是被严重削弱的盟友。",
+          "url": "https://flash.jin10.com/detail/20260121215929223800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "欧盟首次回应特朗普：欧洲议会冻结美欧贸易协议批准程序",
@@ -1677,6 +2128,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "美国总统特朗普：经济增长、贸易和移民是强大而团结的西方的核心关切。",
+          "url": "https://flash.jin10.com/detail/20260121215923616800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "加拿大总理卡尼：我们支持格陵兰，呼吁（丹麦+格陵兰的）盟友们（针对特朗普的吞并野心）团结一致。 （特朗普主张的所谓）“和平委员会”应当用于解决加沙（实现和平的）需求。",
           "url": "https://wallstreetcn.com/livenews/3040571",
           "source": "华尔街见闻-快讯",
@@ -1686,6 +2148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "特朗普攻击丹麦“忘恩负义”，称格陵兰是美国的领土、美方寻求立即谈判获得它",
+          "url": "https://wallstreetcn.com/livenews/3041326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：索马里根本算不上一个国家，如果他们真算一个国家，那也是最糟糕的。",
@@ -1743,6 +2216,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国总统特朗普：我们深信我们与欧洲作为文明共同体所共享的纽带。",
+          "url": "https://flash.jin10.com/detail/20260121215856800800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
           "url": "https://wallstreetcn.com/livenews/3040660",
           "source": "华尔街见闻-快讯",
@@ -1752,6 +2236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "特朗普：德国总理默茨工作做得非常出色。 德国能源问题并非现任总理的过错。 我希望欧洲和英国“表现出色”。 默茨正在德国处理电力故障问题。 美国关心欧洲人民，我本人也源自欧洲。 能源、贸易、移民、经济增长是美国西部发展的关键因素。 我们想要的是实力强大的盟友，而不是实力严重削弱的盟友。 格陵兰岛的情况让这个问题更加清晰明了。 除了美国之外，没有哪个国家有能力掌控格陵兰岛。",
+          "url": "https://wallstreetcn.com/livenews/3041323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：我们已从委内瑞拉获得了5000万桶石油。",
@@ -1765,6 +2260,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "美国总统特朗普：美国关心欧洲人民，我源自欧洲。",
+          "url": "https://flash.jin10.com/detail/20260121215847932800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国总统特朗普谈“和平委员会”是否会取代联合国，声称：有可能。 我认为，你必须让联合国继续。",
           "url": "https://wallstreetcn.com/livenews/3040659",
           "source": "华尔街见闻-快讯",
@@ -1774,6 +2280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "特朗普再次抨击风力发电厂。 特朗普批评欧洲能源成本，并将矛头指向风力发电。",
+          "url": "https://wallstreetcn.com/livenews/3041322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美国总统特朗普：也许我们可以让玛丽亚·马查多以某种方式参与委内瑞拉事务。",
@@ -1809,6 +2326,28 @@
           "time_info": "14时40分"
         },
         {
+          "title": "美国总统特朗普：德国总理默茨正在解决德国的电力问题。",
+          "url": "https://flash.jin10.com/detail/20260121215654203800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "特朗普：美国正在“大力发展”核能。 现在能够以合理的价格获得核能，并且使用起来也很安全。 汽油价格很快就会低于每加仑2美元。",
+          "url": "https://wallstreetcn.com/livenews/3041321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "特朗普好友是吞并格陵兰岛核心推动者",
           "url": "https://www.toutiao.com/trending/7597618682956615218/",
           "source": "今日头条",
@@ -1840,13 +2379,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：英国在北海拥有资源，但却没有加以利用，那里的能源供应水平已经达到了灾难性的程度。英国国电价飙升了139%。",
+          "url": "https://flash.jin10.com/detail/20260121215650847800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "特朗普称所有大型石油公司都将进入委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3041320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "U23国足取胜越南幕后故事",
+          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B3%E5%8F%96%E8%83%9C%E8%B6%8A%E5%8D%97%E5%B9%95%E5%90%8E%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时32分 ~ 22时34分]"
+        },
         {
           "title": "视频丨3比0！U23国足再创历史，强势闯入亚洲杯决赛",
           "url": "https://m.thepaper.cn/newsDetail_forward_32427723",
@@ -1859,8 +2432,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[04时13分 ~ 21时49分]"
+          "appearance_count": 21,
+          "time_info": "[04时13分 ~ 22时34分]"
         },
         {
           "title": "创造历史！U23国足闯入亚洲杯决赛",
@@ -1879,18 +2452,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[02时40分 ~ 17时35分]"
-        },
-        {
-          "title": "U23国足取胜越南幕后故事",
-          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B3%E5%8F%96%E8%83%9C%E8%B6%8A%E5%8D%97%E5%B9%95%E5%90%8E%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时32分 ~ 21时49分]"
         },
         {
           "title": "创历史！U23国足进亚洲杯决赛",
@@ -1921,8 +2482,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时56分 ~ 21时49分]"
+          "appearance_count": 16,
+          "time_info": "[09时56分 ~ 22时34分]"
         },
         {
           "title": "重大历史题材剧《太平年》即将开播",
@@ -1938,6 +2499,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时25分]"
+        },
+        {
+          "title": "R 星破例让绝症粉丝提前游玩 GTA6，还有哪些游戏公司与玩家之间的感动故事吗？",
+          "url": "https://www.zhihu.com/question/1996278145163227675",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时26分 ~ 22时34分]"
         },
         {
           "title": "一个理工科大学生每天花 1 小时阅读历史专业课本，四年后她历史水平能超过 50% 的历史系学生吗？",
@@ -2000,19 +2575,6 @@
           "time_info": "[09时56分 ~ 14时40分]"
         },
         {
-          "title": "R 星破例让绝症粉丝提前游玩 GTA6，还有哪些游戏公司与玩家之间的感动故事吗？",
-          "url": "https://www.zhihu.com/question/1996278145163227675",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时26分 ~ 21时49分]"
-        },
-        {
           "title": "上期所沪金主力合约突破1100元，涨幅达4.43%，创历史新高。 现货黄金站上4880美元/盎司，日内涨2.46%。",
           "url": "https://wallstreetcn.com/livenews/3041015",
           "source": "华尔街见闻-快讯",
@@ -2022,6 +2584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "我国主干天然气管网日供气量超11亿立方米 创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3041347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "知乎 15 周年之际，分享一下你和刘看山的故事或瞬间？",
@@ -2154,6 +2727,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时25分]"
+        },
+        {
+          "title": "历史题材剧《太平年》定档1月23日",
+          "url": "https://www.toutiao.com/trending/7597064565586772031/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
         },
         {
           "title": "再创历史！中国U23男足首次晋级亚洲杯决赛",
