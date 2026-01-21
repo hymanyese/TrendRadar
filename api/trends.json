@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T16:35:32.508098+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-01-21T17:35:54.482287+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 126,
+      "match_count": 131,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -54,6 +54,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时56分 ~ 16时35分]"
+        },
+        {
+          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
+          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 17时35分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -120,19 +133,6 @@
           "time_info": "[00时38分 ~ 07时25分]"
         },
         {
-          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
-          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 16时35分]"
-        },
-        {
           "title": "特朗普2.0政府：月月惊奇桩桩怪象",
           "url": "https://www.toutiao.com/trending/7597438425674812937/",
           "source": "今日头条",
@@ -185,6 +185,35 @@
           "time_info": "[00时38分 ~ 05时23分]"
         },
         {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 17时35分]"
+        },
+        {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 17时35分]"
+        },
+        {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
           "url": "https://news.ifeng.com/c/8q4kJoceknE",
           "source": "凤凰网",
@@ -209,32 +238,19 @@
           "time_info": "[09时56分 ~ 13时31分]"
         },
         {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "title": "释新闻｜朝野都措手不及，高市早苗为何“豪赌”选举？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32424509",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16,
+            19,
+            17,
             15,
-            12,
-            9
+            14
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时56分 ~ 16时35分]"
-        },
-        {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 16时35分]"
+          "time_info": "[11时46分 ~ 17时35分]"
         },
         {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
@@ -262,8 +278,8 @@
           "time_info": "[02时40分 ~ 07时25分]"
         },
         {
-          "title": "释新闻｜朝野都措手不及，高市早苗为何“豪赌”选举？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32424509",
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
           "source": "澎湃新闻",
           "ranks": [
             20,
@@ -273,7 +289,7 @@
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时46分 ~ 16时35分]"
+          "time_info": "[12时47分 ~ 17时35分]"
         },
         {
           "title": "马克龙在达沃斯喊话特朗普",
@@ -302,6 +318,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "特朗普回应不去G7峰会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%8E%BBG7%E5%B3%B0%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "特朗普重返白宫一周年，过半美国民众：表现失败",
           "url": "https://news.ifeng.com/c/8q4dfuUNG75",
           "source": "凤凰网",
@@ -322,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普抵达达沃斯。",
+          "url": "https://flash.jin10.com/detail/20260121172709023800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国财长贝森特：丹麦在国债市场中的地位无关紧要，这个国家本身也是如此。 已与日本方面取得联系，他们将使市场趋于稳定。 格陵兰岛应当成为美国的一部分。 目前尚未安排与英国的贸易谈判事宜。 欧洲应该打破内部贸易壁垒。 欧洲也应该打破外部贸易壁垒。 特朗普到达沃斯会迟到大约三个小时。",
@@ -346,6 +384,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时46分 ~ 14时40分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国总统特朗普：我们占领了墨西哥湾，现在它成了美国湾。我们拥有92%的海岸线。这事儿一直让我耿耿于怀……我本来想把它叫做“特朗普湾”。我开玩笑的。不过这名字听起来确实不错。",
@@ -403,19 +452,6 @@
           "time_info": "04时14分"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 16时35分]"
-        },
-        {
           "title": "特朗普借他人之口自比巴菲特",
           "url": "https://flash.jin10.com/detail/20260121051916818800",
           "source": "金十数据",
@@ -450,6 +486,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时35分]"
         },
         {
           "title": "欧洲央行行长拉加德：（与美国总统特朗普紧密相关的）不确定性卷土重来。 特朗普的威胁是我们曾经观看过的电影。 （欧美之间的）信任正被破坏。",
@@ -515,6 +563,18 @@
           "time_info": "[11时46分 ~ 15时31分]"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时35分]"
+        },
+        {
           "title": "特朗普：不会前往巴黎参加七国集团峰会",
           "url": "https://wallstreetcn.com/livenews/3040683",
           "source": "华尔街见闻-快讯",
@@ -575,6 +635,18 @@
           "time_info": "[02时40分 ~ 04时14分]"
         },
         {
+          "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
+          "url": "https://www.cls.cn/detail/2264568",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时35分]"
+        },
+        {
           "title": "“令人震惊”！马斯克大手笔曝光",
           "url": "https://news.ifeng.com/c/8q4yjAnRTBj",
           "source": "凤凰网",
@@ -619,17 +691,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 16时35分]"
         },
         {
           "title": "特朗普和马克龙吵翻",
@@ -682,18 +743,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -852,17 +902,6 @@
           "time_info": "06时25分"
         },
         {
-          "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
-          "url": "https://www.cls.cn/detail/2264568",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "特朗普：没有任何人为北约做的贡献能超过我",
           "url": "https://flash.jin10.com/detail/20260121005513850800",
           "source": "金十数据",
@@ -913,7 +952,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -971,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "继挪威和法国之后，瑞典拒绝加入特朗普的“加沙和平委员会”",
+          "url": "https://flash.jin10.com/detail/20260121171832769800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国总统特朗普：如果一个国家不接受人们返回家园，那它就有问题。",
@@ -1114,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "以色列罕见与特朗普公开叫板",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%95%E8%A7%81%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "马斯克：不要让你的亲人使用 ChatGPT",
@@ -1473,8 +1534,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时13分 ~ 16时35分]"
+          "appearance_count": 13,
+          "time_info": "[04时13分 ~ 17时35分]"
         },
         {
           "title": "创造历史！U23国足闯入亚洲杯决赛",
@@ -1487,11 +1548,12 @@
             8,
             13,
             15,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时40分 ~ 16时35分]"
+          "appearance_count": 14,
+          "time_info": "[02时40分 ~ 17时35分]"
         },
         {
           "title": "创历史！U23国足进亚洲杯决赛",
@@ -1530,11 +1592,12 @@
             17,
             16,
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 17时35分]"
         },
         {
           "title": "一个理工科大学生每天花 1 小时阅读历史专业课本，四年后她历史水平能超过 50% 的历史系学生吗？",
@@ -1632,6 +1695,17 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
+          "title": "知乎 15 周年之际，分享一下你和刘看山的故事或瞬间？",
+          "url": "https://www.zhihu.com/question/1995145119440003339",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时35分]"
+        },
+        {
           "title": "U23亚洲杯历史第3次出现四档队进决赛",
           "url": "https://www.toutiao.com/trending/7596513065890807844/",
           "source": "今日头条",
@@ -1656,17 +1730,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时56分 ~ 12时47分]"
-        },
-        {
-          "title": "知乎 15 周年之际，分享一下你和刘看山的故事或瞬间？",
-          "url": "https://www.zhihu.com/question/1995145119440003339",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时35分]"
         },
         {
           "title": "大瑶出演东北警察故事3",
@@ -1769,7 +1832,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
