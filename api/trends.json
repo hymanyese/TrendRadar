@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T00:55:01.110911+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-22T01:57:11.266055+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 33,
+      "match_count": 46,
       "titles": [
         {
           "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
@@ -15,19 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
-          "title": "丹麦外长：丹麦方面拒绝特朗普提出的就收购格陵兰岛进行谈判的要求。",
-          "url": "https://flash.jin10.com/detail/20260122003620680800",
-          "source": "金十数据",
+          "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
+          "url": "https://news.ifeng.com/c/8q6fJC7opaZ",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 01时57分]"
         },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -36,42 +36,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美国总统特朗普：我们与埃及有着极好的关系。",
-          "url": "https://flash.jin10.com/detail/20260122003439909800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美国最高法院法官Kavanaugh：如果特朗普能够在未经审查的情况下解雇美联储理事库克，美联储的独立性可能会彻底崩塌。",
-          "url": "https://wallstreetcn.com/livenews/3041427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美国总统特朗普：将观察能否让埃及与埃塞俄比亚达成尼罗河大坝协议。",
-          "url": "https://wallstreetcn.com/livenews/3041425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
         },
         {
           "title": "特朗普刚喊完中俄威胁，转头就否了",
@@ -81,19 +48,68 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
+        },
+        {
+          "title": "丹麦外长：丹麦方面拒绝特朗普提出的就收购格陵兰岛进行谈判的要求。",
+          "url": "https://flash.jin10.com/detail/20260122003620680800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "time_info": "[00时55分 ~ 01时57分]"
+        },
+        {
+          "title": "美国总统特朗普：我们与埃及有着极好的关系。",
+          "url": "https://flash.jin10.com/detail/20260122003439909800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
+        },
+        {
+          "title": "美国最高法院法官Kavanaugh：如果特朗普能够在未经审查的情况下解雇美联储理事库克，美联储的独立性可能会彻底崩塌。",
+          "url": "https://wallstreetcn.com/livenews/3041427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
+        },
+        {
+          "title": "美国总统特朗普：将观察能否让埃及与埃塞俄比亚达成尼罗河大坝协议。",
+          "url": "https://wallstreetcn.com/livenews/3041425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
         },
         {
           "title": "伊朗警告特朗普",
           "url": "https://www.douyin.com/hot/2375552",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
@@ -103,19 +119,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
           "url": "https://www.cls.cn/detail/2265637",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -125,30 +142,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
           "url": "https://www.zhihu.com/question/1996540321803301777",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "特朗普：正寻求就收购格陵兰岛谈判",
           "url": "https://www.toutiao.com/trending/7597817035183099428/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "中方回应特朗普称联合国或被取代",
@@ -158,8 +177,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
@@ -168,53 +187,45 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
         },
         {
           "title": "美国总统特朗普：我在达沃斯的讲话得到很不错的关注。",
           "url": "https://wallstreetcn.com/livenews/3041422",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
         },
         {
           "title": "丹麦：拒绝美国总统特朗普就吞并格陵兰“立即进行谈判”的要求。",
           "url": "https://wallstreetcn.com/livenews/3041421",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
         },
         {
           "title": "特朗普达沃斯讲话要点总结",
           "url": "https://wallstreetcn.com/livenews/3041420",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美国总统特朗普在达沃斯会见了波兰总统纳夫罗基。",
-          "url": "https://flash.jin10.com/detail/20260122002539772800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
         },
         {
           "title": "还要等至少一个月！美国最高法院再次未就特朗普关税作出裁决",
@@ -223,31 +234,77 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
         },
         {
           "title": "欧洲股市大致收平，特朗普在达沃斯淡化武力抢夺格陵兰的风险",
           "url": "https://wallstreetcn.com/livenews/3041417",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
         },
         {
           "title": "特朗普在达沃斯演讲中誓言：美国绝不会成为“租房者之国”",
           "url": "https://wallstreetcn.com/livenews/3041415",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
+        },
+        {
+          "title": "特朗普就格陵兰问题表态“软化”",
+          "url": "https://www.toutiao.com/trending/7597760219610877482/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 01时57分]"
+        },
+        {
+          "title": "美国最高法院或拒绝特朗普罢免美联储理事库克的请求",
+          "url": "https://flash.jin10.com/detail/20260122010443055800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美国总统特朗普在达沃斯会见了波兰总统纳夫罗基。",
+          "url": "https://flash.jin10.com/detail/20260122002539772800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美联储对特朗普的批评与独立性不符。",
+          "url": "https://flash.jin10.com/detail/20260122005938386800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "联合声明：沙特、土耳其、埃及、约旦、印尼、巴基斯坦、卡塔尔接受邀请，加入美国总统特朗普的和平委员会；各国将根据本国法律程序签署加入文件。",
@@ -256,9 +313,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：美联储成员们似乎希望对所有事都有一个意见。 美联储谴责美国总统特朗普，这与他们自身的独立性不一致。 美联储主席候选人是如此之多。 预计对美联储的调查将迅速推进。",
+          "url": "https://wallstreetcn.com/livenews/3041433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -267,9 +335,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "据彭博报道，美国最高法院似乎对“总统特朗普解雇美联储理事库克的意图”持谨慎态度。 另据CNBC报道，美国最高法院庭辩结果表明，库克可能会在“特朗普罢免她”的官司中胜诉。",
+          "url": "https://wallstreetcn.com/livenews/3041432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "市场消息：美国最高法院似乎很可能拒绝特朗普立即罢免美联储理事库克的请求。",
+          "url": "https://flash.jin10.com/detail/20260122005246949800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "美国总统特朗普即将在达沃斯会见北约主管吕特。 在那之前，特朗普将在达沃斯对企业主管们讲话。",
@@ -278,7 +368,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -289,9 +379,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：美国经济增速可能会有两个季度超过5%。 总统特朗普正在搅局一个必须被打乱的（国际）秩序。 预计下一年对（财政/贸易）赤字的削减幅度将更大。",
+          "url": "https://wallstreetcn.com/livenews/3041430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "市场消息：特朗普将在达沃斯向商界领袖发表讲话，随后将与北约秘书长吕特举行会晤。",
@@ -300,7 +401,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -311,7 +412,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -322,7 +423,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -333,7 +434,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -344,9 +445,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国总统特朗普：那（指军事选项）没有必要。",
+          "url": "https://flash.jin10.com/detail/20260122004400902800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美国总统特朗普：在格陵兰岛问题上，军事选项不在考虑之列。",
+          "url": "https://flash.jin10.com/detail/20260122004341173800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "Citadel（城堡）的Ken Griffin：美国总统特朗普在为美国工人而努力。 特朗普必须弄明白，美国（应该）欢迎合法移民。 特朗普针对南部边境的那些政策“取得巨大成功”。 住房市场的真正问题在于缺乏供应。 住房许可太低，建筑规范臃肿冗长。（彭博电视）",
@@ -355,9 +478,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国总统特朗普：希望召集埃及和埃塞俄比亚的领导人，就涉及有争议大坝的协议展开磋商。",
+          "url": "https://flash.jin10.com/detail/20260122004327960800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "特朗普自夸药品价格将下降90%",
@@ -366,9 +500,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国总统特朗普：我们有很多优秀的人想加入和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260122004056949800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "埃及领导人：非常高兴能加入美国总统特朗普的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260122003811426800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     },
@@ -384,8 +540,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "U23国足取胜越南幕后故事",
@@ -395,8 +551,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "R 星破例让绝症粉丝提前游玩 GTA6，还有哪些游戏公司与玩家之间的感动故事吗？",
@@ -406,30 +562,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "U23亚洲杯历史性晋级决赛：胜利对中国足球真的很重要",
           "url": "https://m.thepaper.cn/newsDetail_forward_32430557",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "贵金属集体飙升，黄金白银双双刷新历史新高，这背后反映了哪些经济信号？",
           "url": "https://www.zhihu.com/question/1994322673698903855",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "美光科技股价涨幅扩大至7%，创历史新高，总市值达到4400亿美元。",
@@ -438,7 +596,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         }
@@ -453,11 +611,12 @@
           "url": "https://www.zhihu.com/question/1997397466979464980",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 01时57分]"
         }
       ]
     }
