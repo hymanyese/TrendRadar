@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T06:28:24.958311+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-01-22T07:28:31.118540+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 121,
+      "match_count": 130,
       "titles": [
         {
           "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时56分 ~ 07时28分]"
         },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -49,8 +49,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时28分]"
+        },
+        {
+          "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
+          "url": "https://wallstreetcn.com/articles/3763814",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时28分]"
         },
         {
           "title": "伊朗警告特朗普",
@@ -63,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
           "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
@@ -72,11 +84,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
@@ -88,8 +101,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
           "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
@@ -103,8 +116,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
           "title": "中方回应特朗普称联合国或被取代",
@@ -113,22 +126,23 @@
           "ranks": [
             30,
             29,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
-          "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
-          "url": "https://wallstreetcn.com/articles/3763814",
+          "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
+          "url": "https://wallstreetcn.com/articles/3763768",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国总统特朗普声称的格陵兰“协议”涉及“小块土地”。（纽约时报）",
@@ -162,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "特朗普称与北约达成格陵兰合作框架",
+          "url": "https://www.douyin.com/hot/2375664",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "特朗普：正寻求就收购格陵兰岛谈判",
@@ -465,6 +490,18 @@
           "time_info": "[04时34分 ~ 05时31分]"
         },
         {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
           "title": "北约秘书长吕特对美国总统特朗普说：“你的盟友将与你同在。”",
           "url": "https://flash.jin10.com/detail/20260122022442991800",
           "source": "金十数据",
@@ -584,6 +621,18 @@
           "time_info": "[00时55分 ~ 01时57分]"
         },
         {
+          "title": "美国加州州长Newsom：总统特朗普的白宫阻挠我前往达沃斯。",
+          "url": "https://wallstreetcn.com/livenews/3041535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
           "title": "俄罗斯总统普京：俄罗斯外交部正在研究美国总统特朗普加入“和平委员会”的提议，并将在适当的时候作出回应。",
           "url": "https://flash.jin10.com/detail/20260122043247641800",
           "source": "金十数据",
@@ -606,6 +655,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时31分]"
+        },
+        {
+          "title": "特朗普暗示美联储主席人选或已敲定，称鲍威尔若留任理事恐难如意",
+          "url": "https://wallstreetcn.com/livenews/3041533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时28分]"
         },
         {
           "title": "1月21日美国最高法院大法官对特朗普罢免美联储理事库克的庭辩要点总结",
@@ -632,6 +693,30 @@
           "time_info": "[04时34分 ~ 05时31分]"
         },
         {
+          "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
+          "url": "https://wallstreetcn.com/livenews/3041532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普称“欧洲和英国”需在移民和能源问题上“改变做法”",
+          "url": "https://wallstreetcn.com/livenews/3041531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普今天将与北约秘书长吕特会面。",
           "url": "https://flash.jin10.com/detail/20260122021927963800",
           "source": "金十数据",
@@ -656,6 +741,17 @@
           "time_info": "[02时48分 ~ 03时29分]"
         },
         {
+          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2265761",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "美国最高法院或拒绝特朗普罢免美联储理事库克的请求",
           "url": "https://flash.jin10.com/detail/20260122010443055800",
           "source": "金十数据",
@@ -665,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "特朗普再提北约秘书长叫他爸爸",
+          "url": "https://flash.jin10.com/detail/20260122065443877800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国总统特朗普：心中对美联储主席有一个人选。 希望哈塞特继续担任白宫顾问。 （除了哈塞特，剩下的四名候选人）可能会缩减至三个、两个、可能一个。 赞赏财长贝森特，他希望继续担任财长。",
@@ -687,6 +794,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
+          "url": "https://wallstreetcn.com/articles/3763857",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国总统特朗普在达沃斯会见了波兰总统纳夫罗基。",
@@ -733,15 +851,15 @@
           "time_info": "05时31分"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
-          "source": "财联社热门",
+          "title": "特朗普再施压鲍威尔离任，重申美联储新主席人选已接近确定",
+          "url": "https://flash.jin10.com/detail/20260122063506778800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时28分"
         },
         {
           "title": "特朗普一篇贴文 黄金暴跌超80美元",
@@ -753,17 +871,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        },
-        {
-          "title": "美国加州州长Newsom：总统特朗普的白宫阻挠我前往达沃斯。",
-          "url": "https://wallstreetcn.com/livenews/3041535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "联合声明：沙特、土耳其、埃及、约旦、印尼、巴基斯坦、卡塔尔接受邀请，加入美国总统特朗普的和平委员会；各国将根据本国法律程序签署加入文件。",
@@ -816,9 +923,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "特朗普称不用武力暂缓加税 丹麦：“夺岛”野心依旧明显",
+          "url": "https://flash.jin10.com/detail/20260122061923646800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -843,17 +961,6 @@
           "time_info": "01时57分"
         },
         {
-          "title": "特朗普暗示美联储主席人选或已敲定，称鲍威尔若留任理事恐难如意",
-          "url": "https://wallstreetcn.com/livenews/3041533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
           "title": "市场消息：美国最高法院似乎很可能拒绝特朗普立即罢免美联储理事库克的请求。",
           "url": "https://flash.jin10.com/detail/20260122005246949800",
           "source": "金十数据",
@@ -871,7 +978,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -885,17 +992,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
-          "url": "https://wallstreetcn.com/livenews/3041532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -931,6 +1027,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "美银CEO再遭白宫冷落，缺席达沃斯特朗普招待会",
+          "url": "https://flash.jin10.com/detail/20260122061550982800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "白宫经济顾问哈塞特：美国经济增速可能会有两个季度超过5%。 总统特朗普正在搅局一个必须被打乱的（国际）秩序。 预计下一年对（财政/贸易）赤字的削减幅度将更大。",
           "url": "https://wallstreetcn.com/livenews/3041430",
           "source": "华尔街见闻-快讯",
@@ -940,17 +1047,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "特朗普称“欧洲和英国”需在移民和能源问题上“改变做法”",
-          "url": "https://wallstreetcn.com/livenews/3041531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "市场消息：特朗普将在达沃斯向商界领袖发表讲话，随后将与北约秘书长吕特举行会晤。",
@@ -992,9 +1088,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "据英国《金融时报》：美国总统特朗普在达沃斯举办的招待会将美国银行(BAC.N)CEO莫伊尼汉排除在邀请名单之外。",
+          "url": "https://flash.jin10.com/detail/20260122060759912800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "特朗普：心中选定的美联储主席可能只剩一位，希望能像格林斯潘",
@@ -1406,11 +1513,12 @@
             4,
             3,
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
           "title": "U23国足取胜越南幕后故事",
@@ -1419,11 +1527,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时28分]"
         },
         {
           "title": "R 星破例让绝症粉丝提前游玩 GTA6，还有哪些游戏公司与玩家之间的感动故事吗？",
@@ -1439,6 +1548,21 @@
           "time_info": "[00时54分 ~ 04时34分]"
         },
         {
+          "title": "贵金属集体飙升，黄金白银双双刷新历史新高，这背后反映了哪些经济信号？",
+          "url": "https://www.zhihu.com/question/1994322673698903855",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            15,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时28分]"
+        },
+        {
           "title": "视频丨3比0！U23国足再创历史，强势闯入亚洲杯决赛",
           "url": "https://m.thepaper.cn/newsDetail_forward_32427723",
           "source": "澎湃新闻",
@@ -1450,20 +1574,6 @@
           "time_info": "[00时54分 ~ 01时57分]"
         },
         {
-          "title": "贵金属集体飙升，黄金白银双双刷新历史新高，这背后反映了哪些经济信号？",
-          "url": "https://www.zhihu.com/question/1994322673698903855",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
-        },
-        {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
           "url": "https://wallstreetcn.com/articles/3763773",
           "source": "华尔街见闻",
@@ -1471,8 +1581,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 06时28分]"
+          "appearance_count": 6,
+          "time_info": "[02时48分 ~ 07时28分]"
         },
         {
           "title": "标普500指数能源板块涨2.38%，报750.17点，突破2024年所创收盘历史最高位。",
@@ -1524,8 +1634,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时28分]"
         }
       ]
     }
