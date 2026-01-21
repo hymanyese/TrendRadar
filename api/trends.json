@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T11:46:42.558980+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-01-21T12:47:35.394988+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 108,
+      "match_count": 112,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -19,6 +19,18 @@
           "time_info": "[00时38分 ~ 07时25分]"
         },
         {
+          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
+          "url": "https://wallstreetcn.com/articles/3763675",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 12时47分]"
+        },
+        {
           "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
           "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
           "source": "澎湃新闻",
@@ -28,20 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 11时46分]"
-        },
-        {
-          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
-          "url": "https://wallstreetcn.com/articles/3763675",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 11时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时47分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -67,8 +67,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 11时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 12时47分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -144,8 +144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时47分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -156,8 +156,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时47分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -167,8 +167,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时47分]"
         },
         {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
@@ -178,8 +178,32 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时47分]"
+        },
+        {
+          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
+          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时46分]"
+          "time_info": "[11时46分 ~ 12时47分]"
+        },
+        {
+          "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
+          "url": "https://www.cls.cn/detail/2264274",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时47分]"
         },
         {
           "title": "美国总统特朗普：（谈庇护城市）庇护城市将不再获得资金，他们可以起诉我们，也许他们会赢。",
@@ -205,17 +229,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时40分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
-          "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
@@ -290,7 +303,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -330,18 +343,6 @@
           "time_info": "[01时32分 ~ 02时40分]"
         },
         {
-          "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
-          "url": "https://www.cls.cn/detail/2264274",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时46分]"
-        },
-        {
           "title": "周二（1月20日），降息赢家指数跌2.89%，报104.40点。 “特朗普关税输家”指数跌3.08%，报114.88点，跳空低开之后平滑地持续走低。 “特朗普金融指数”跌2.89%，报171.02点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.69%，报15.55点。",
           "url": "https://wallstreetcn.com/livenews/3040687",
           "source": "华尔街见闻-快讯",
@@ -376,6 +377,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时47分]"
+        },
+        {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时47分]"
         },
         {
           "title": "特朗普：不会前往巴黎参加七国集团峰会",
@@ -414,6 +439,18 @@
           "time_info": "[00时39分 ~ 01时32分]"
         },
         {
+          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
+          "url": "https://www.cls.cn/detail/2264207",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时47分]"
+        },
+        {
           "title": "欧盟委员会科技事务主管Virkkunen：正分析马斯克旗下社交媒体平台X公司（原名推特）的Grok政策变更是否仍然违反数字服务法案（DSA）。",
           "url": "https://wallstreetcn.com/livenews/3040589",
           "source": "华尔街见闻-快讯",
@@ -436,6 +473,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 04时14分]"
+        },
+        {
+          "title": "马克龙在达沃斯喊话特朗普",
+          "url": "https://www.douyin.com/hot/2374693",
+          "source": "抖音",
+          "ranks": [
+            23,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时47分]"
         },
         {
           "title": "“令人震惊”！马斯克大手笔曝光",
@@ -461,16 +510,27 @@
           "time_info": "[05时23分 ~ 06时25分]"
         },
         {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "title": "释新闻｜朝野都措手不及，高市早苗为何“豪赌”选举？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32424509",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时46分]"
+          "time_info": "[11时46分 ~ 12时47分]"
+        },
+        {
+          "title": "特朗普晒马克龙私信",
+          "url": "https://www.douyin.com/hot/2374658",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时47分]"
         },
         {
           "title": "特朗普和马克龙吵翻",
@@ -479,7 +539,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -517,17 +577,6 @@
           "time_info": "09时56分"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
           "title": "美国总统特朗普：通过征收关税，我将贸易逆差削减了惊人的77%……我们与占美国贸易总额40%的国家达成了历史性的贸易协议，降低了美国出口壁垒。",
           "url": "https://flash.jin10.com/detail/20260121032620646800",
           "source": "金十数据",
@@ -539,15 +588,15 @@
           "time_info": "04时14分"
         },
         {
-          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
-          "url": "https://www.cls.cn/detail/2264207",
-          "source": "财联社热门",
+          "title": "特朗普发插旗图有何目的",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%8F%92%E6%97%97%E5%9B%BE%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时46分"
+          "time_info": "12时47分"
         },
         {
           "title": "这是在打货币战争？特朗普打击美元，高市早苗削弱日元",
@@ -589,7 +638,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -710,7 +759,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -721,7 +770,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -781,6 +830,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "特朗普：不去G7峰会，因为马克龙干不长了",
+          "url": "https://flash.jin10.com/detail/20260121114444643800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "美国总统特朗普：明年我们将不会出现贸易逆差。",
           "url": "https://flash.jin10.com/detail/20260121031225656800",
           "source": "金十数据",
@@ -801,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "巴西总统：特朗普想用社交媒体“统治世界”",
+          "url": "https://wallstreetcn.com/livenews/3040936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "美国总统特朗普：关于关税。 如果我们败诉，我们可能就得尽力偿还这笔钱了。",
@@ -831,7 +902,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -891,15 +962,15 @@
           "time_info": "05时23分"
         },
         {
-          "title": "释新闻｜朝野都措手不及，高市早苗为何“豪赌”选举？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32424509",
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时46分"
+          "time_info": "12时47分"
         },
         {
           "title": "马斯克：不要让你的亲人使用 ChatGPT",
@@ -922,17 +993,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        },
-        {
-          "title": "特朗普晒马克龙私信",
-          "url": "https://www.douyin.com/hot/2374658",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "美国总统特朗普：“收回”巴拿马运河在考虑范围内。",
@@ -996,18 +1056,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "马克龙在达沃斯喊话特朗普",
-          "url": "https://www.douyin.com/hot/2374693",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -1205,7 +1254,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -1235,7 +1284,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "创造历史！U23国足闯入亚洲杯决赛",
@@ -1243,11 +1292,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时40分 ~ 11时46分]"
+          "appearance_count": 9,
+          "time_info": "[02时40分 ~ 12时47分]"
         },
         {
           "title": "重大历史题材剧《太平年》即将开播",
@@ -1270,11 +1320,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时40分 ~ 09时56分]"
+          "appearance_count": 8,
+          "time_info": "[02时40分 ~ 12时47分]"
         },
         {
           "title": "视频丨3比0！U23国足再创历史，强势闯入亚洲杯决赛",
@@ -1286,8 +1337,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时13分 ~ 11时46分]"
+          "appearance_count": 8,
+          "time_info": "[04时13分 ~ 12时47分]"
         },
         {
           "title": "现货铂金攀升至每盎司2511.10美元的历史新高。",
@@ -1307,7 +1358,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -1320,8 +1371,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时47分]"
         },
         {
           "title": "现货黄金涨幅扩大至2.00%，报4765.25美元/盎司，继续创历史新高。",
@@ -1348,6 +1399,44 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
+          "title": "全球股市全线下跌 金银“狂飙”再刷历史高位 | 环球市场",
+          "url": "https://www.cls.cn/detail/2264318",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时47分]"
+        },
+        {
+          "title": "U23 亚洲杯半决赛国足 3:0 战胜越南，打进决赛创造历史，将迎战日本，U23 国足夺冠可能性有多大？",
+          "url": "https://www.zhihu.com/question/1997118334769071695",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时47分]"
+        },
+        {
+          "title": "U23亚洲杯历史性晋级决赛：胜利对中国足球真的很重要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32430557",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时47分]"
+        },
+        {
           "title": "大瑶出演东北警察故事3",
           "url": "https://www.douyin.com/hot/2374426",
           "source": "抖音",
@@ -1358,18 +1447,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时40分 ~ 04时14分]"
-        },
-        {
-          "title": "全球股市全线下跌 金银“狂飙”再刷历史高位 | 环球市场",
-          "url": "https://www.cls.cn/detail/2264318",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时46分]"
         },
         {
           "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
@@ -1384,16 +1461,16 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
-          "title": "U23 亚洲杯半决赛国足 3:0 战胜越南，打进决赛创造历史，将迎战日本，U23 国足夺冠可能性有多大？",
-          "url": "https://www.zhihu.com/question/1997118334769071695",
-          "source": "知乎",
+          "title": "印度卢比兑美元汇率跌破91.0750，创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3040923",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            12
+            6,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时46分]"
+          "time_info": "[11时46分 ~ 12时47分]"
         },
         {
           "title": "纽约期金涨3.7%，一度刷新历史高位至4770美元上方",
@@ -1431,18 +1508,6 @@
           "time_info": "[02时40分 ~ 04时14分]"
         },
         {
-          "title": "U23亚洲杯历史性晋级决赛：胜利对中国足球真的很重要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32430557",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时46分]"
-        },
-        {
           "title": "我的姥爷上过历史课本",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E5%A7%A5%E7%88%B7%E4%B8%8A%E8%BF%87%E5%8E%86%E5%8F%B2%E8%AF%BE%E6%9C%AC",
           "source": "bilibili 热搜",
@@ -1454,15 +1519,15 @@
           "time_info": "[00时38分 ~ 00时39分]"
         },
         {
-          "title": "印度卢比兑美元汇率跌破91.0750，创历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3040923",
+          "title": "现货黄金日内涨1.85%，报4851美元/盎司，继续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3040950",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时46分"
+          "time_info": "12时47分"
         },
         {
           "title": "U23男足又创造历史",
@@ -1498,13 +1563,24 @@
           "time_info": "09时56分"
         },
         {
+          "title": "2025年上海市外贸进出口总额创历史新高，出口大幅增长10.8%",
+          "url": "https://wallstreetcn.com/livenews/3040932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "小金属板块持续走强，中钨高新触及涨停，章源钨业、厦门钨业涨超5%，股价均创历史新高，翔鹭钨业、宝武镁业、云南锗业跟涨。",
           "url": "https://wallstreetcn.com/livenews/3040895",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         }
