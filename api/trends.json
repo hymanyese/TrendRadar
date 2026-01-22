@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T01:31:40.880581+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-01-23T02:36:46.453071+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 29,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -69,20 +69,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
+          "url": "https://wallstreetcn.com/livenews/3042252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "马斯克：特斯拉开始在美国得州尝试不配置安全监督员的RoboTaxi驾驶服务。",
+          "url": "https://wallstreetcn.com/livenews/3042250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "特朗普180度转折，欧洲懵了",
           "url": "https://wallstreetcn.com/articles/3763911",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -92,8 +115,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
+        },
+        {
+          "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
+          "url": "https://wallstreetcn.com/articles/3763892",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -103,20 +139,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
-        },
-        {
-          "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
-          "url": "https://wallstreetcn.com/articles/3763892",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -126,19 +150,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
           "url": "https://wallstreetcn.com/articles/3763863",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -148,8 +173,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -157,11 +182,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "达沃斯迎来意外“客人”：马斯克首次现身 今晚发表讲话",
@@ -171,8 +197,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "特朗普态度大转弯：与北约就格陵兰达成“框架协议”，取消对欧关税",
@@ -180,11 +206,37 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
+        },
+        {
+          "title": "马克龙戴太阳镜亮相遭特朗普调侃",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%88%B4%E5%A4%AA%E9%98%B3%E9%95%9C%E4%BA%AE%E7%9B%B8%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%83%E4%BE%83",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
+        },
+        {
+          "title": "特朗普执政一年把美国推向何方",
+          "url": "https://www.douyin.com/hot/2376099",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "特朗普吐槽北约盟友“不孝顺”",
@@ -199,16 +251,26 @@
           "time_info": "[00时38分 ~ 01时31分]"
         },
         {
-          "title": "马克龙戴太阳镜亮相遭特朗普调侃",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E6%88%B4%E5%A4%AA%E9%98%B3%E9%95%9C%E4%BA%AE%E7%9B%B8%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%83%E4%BE%83",
-          "source": "百度热搜",
+          "title": "特朗普为啥时隔一天态度变了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            27,
-            26
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "time_info": "[01时31分 ~ 02时36分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：特斯拉Robotaxi在奥斯汀启动无人驾驶测试，车内无安全员。",
+          "url": "https://flash.jin10.com/detail/20260123020209881800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
@@ -222,15 +284,15 @@
           "time_info": "00时38分"
         },
         {
-          "title": "特朗普执政一年把美国推向何方",
-          "url": "https://www.douyin.com/hot/2376099",
-          "source": "抖音",
+          "title": "摩根大通声明：美国总统特朗普的指控“毫无根据”。",
+          "url": "https://wallstreetcn.com/livenews/3042242",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "02时36分"
         },
         {
           "title": "格陵兰岛总理：相信特朗普不会动用武力；可以谈谈如何在矿产资源方面加强伙伴关系。",
@@ -261,9 +323,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "罗马尼亚总统丹：仍在分析罗马尼亚是否能够加入美国总统特朗普的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260123014941696800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "据知情人士透露，马斯克旗下太空探索公司SpaceX已经选定四家银行为其IPO做准备。 美国银行、高盛、摩根大通、摩根士丹利将在其IPO中发挥高级作用。 最近数周，SpaceX的高管们已经与银行家门开会。 其他银行可能也会参与其IPO。（英国金融时报）",
@@ -277,6 +361,28 @@
           "time_info": "00时38分"
         },
         {
+          "title": "奥地利官员Stocker：（欧洲）与美国的关系处于艰难阶段。 如果美国通过贸易手段打击欧洲，将予以反制。 时间将表明（因美国总统特朗普关系而发生的）欧美关系所遭受的破坏是否会是永久性的。",
+          "url": "https://wallstreetcn.com/livenews/3042234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "法国总统马克龙：虽然形势变得更加让人容易接受，但仍然必须（对美国总统特朗普）保持警惕。 法国尊卑参与北约的军事演习。 我们仍然保持警惕，准备利用我们的工具（来反制美国）。 当得不到（特朗普）尊重时，欧洲和法国显然将采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3042233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "马斯克：特斯拉将在今年底、或明年向公众销售人形机器人",
           "url": "https://wallstreetcn.com/livenews/3042187",
           "source": "华尔街见闻-快讯",
@@ -288,6 +394,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "芬兰总理：必须承认，我们与美国的关系已经发生变化。 欧洲必须团结一致，必要时利用那些贸易工具（来打击报复美国总统特朗普）。 美国仍然是欧洲最重要的盟友。",
+          "url": "https://wallstreetcn.com/livenews/3042232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
           "url": "https://wallstreetcn.com/livenews/3042186",
           "source": "华尔街见闻-快讯",
@@ -297,6 +414,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "索赔至少50亿美元！特朗普起诉摩根大通及CEO，指控他们涉嫌“取消银行服务”",
+          "url": "https://wallstreetcn.com/livenews/3042231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "法国用特朗普表情包回怼特朗普",
+          "url": "https://www.toutiao.com/trending/7597353774646624262/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "摩根大通声明：尽管我们对美国总统特朗普的起诉感到遗憾，但我们认为这起诉讼毫无依据。",
+          "url": "https://flash.jin10.com/detail/20260123014546756800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "德国总理默茨：特朗普放弃吞并格陵兰的计划，这让人感激涕零。 欧洲团结一致，迫使特朗普在格陵兰吞并欲望方面改弦更张。 欧洲是北约的一部分，（欧洲自身）需要能够捍卫自己（的利益）。 必须在防务、竞争方面强化欧洲的韧性。",
+          "url": "https://wallstreetcn.com/livenews/3042228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "乌克兰总统泽连斯基：经济协议几乎已准备就绪，并已与美国总统特朗普讨论了自由贸易区事宜。",
@@ -321,22 +482,33 @@
           "time_info": "00时38分"
         },
         {
-          "title": "特朗普为啥时隔一天态度变了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "摩根大通股价回吐部分涨幅，现涨1.3%，此前外媒报道特朗普将起诉摩根大通及CEO戴蒙。",
+          "url": "https://flash.jin10.com/detail/20260123013230065800",
+          "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时36分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "现货黄金涨势未停，将历史纪录推高至4910美元/盎司，日内涨1.70%。",
+          "url": "https://flash.jin10.com/detail/20260123020349014800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
         {
           "title": "上证50八连跌！此前历史仅有3次，成分股均跌超2%，银行、食饮跌幅明显",
           "url": "https://www.cls.cn/detail/2266624",
@@ -345,8 +517,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "专访｜《小城大事》导演孙皓：把“厚重的故事”快乐地讲",
@@ -354,11 +526,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时36分]"
         },
         {
           "title": "现货铂金日内涨3%，创下2558.20美元/盎司的历史新高。",
@@ -372,6 +545,28 @@
           "time_info": "00时38分"
         },
         {
+          "title": "现货黄金涨超1.2%，刷新历史高位至4891美元上方，得益于美元走弱。 美元指数跌超0.4%，至98.31。",
+          "url": "https://wallstreetcn.com/livenews/3042235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "现货黄金历史性站上4900美元",
+          "url": "https://flash.jin10.com/detail/20260123014706873800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股市涨超0.5%创收盘历史新高，矿业股普跌",
           "url": "https://wallstreetcn.com/livenews/3042185",
           "source": "华尔街见闻-快讯",
@@ -381,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "多伦多股市指数盘中升至历史新高，超越1月19日的峰值。",
+          "url": "https://flash.jin10.com/detail/20260123014451141800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     }
