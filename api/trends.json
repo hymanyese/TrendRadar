@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T15:28:39.778752+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-23T16:34:33.000874+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 140,
+      "match_count": 152,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -44,6 +44,18 @@
           "time_info": "[00时38分 ~ 14时38分]"
         },
         {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时34分]"
+        },
+        {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
           "url": "https://wallstreetcn.com/articles/3763883",
           "source": "华尔街见闻",
@@ -65,18 +77,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时38分 ~ 06时26分]"
-        },
-        {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时53分 ~ 15时28分]"
         },
         {
           "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
@@ -102,6 +102,18 @@
           "time_info": "[00时38分 ~ 13时31分]"
         },
         {
+          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
+          "url": "https://wallstreetcn.com/articles/3763964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 16时34分]"
+        },
+        {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
@@ -110,8 +122,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 15时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 16时34分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -137,16 +149,28 @@
           "time_info": "[00时38分 ~ 14时38分]"
         },
         {
-          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
-          "url": "https://wallstreetcn.com/articles/3763964",
-          "source": "华尔街见闻",
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            3
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 16时34分]"
+        },
+        {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 16时34分]"
         },
         {
           "title": "达沃斯迎来意外“客人”：马斯克首次现身 今晚发表讲话",
@@ -205,30 +229,6 @@
           "time_info": "[00时38分 ~ 07时24分]"
         },
         {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 15时28分]"
-        },
-        {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 15时28分]"
-        },
-        {
           "title": "高市早苗决定解散众议院",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%B3%E5%AE%9A%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2",
           "source": "bilibili 热搜",
@@ -253,6 +253,17 @@
           "time_info": "[00时38分 ~ 06时26分]"
         },
         {
+          "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
+          "url": "https://news.ifeng.com/c/8q8vzmQpQIS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 16时34分]"
+        },
+        {
           "title": "特朗普为啥时隔一天态度变了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -264,6 +275,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时31分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时34分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -295,27 +318,17 @@
           "time_info": "[02时36分 ~ 07时24分]"
         },
         {
-          "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
-          "url": "https://news.ifeng.com/c/8q8vzmQpQIS",
-          "source": "凤凰网",
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
           "ranks": [
-            7
+            6,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 15时28分]"
-        },
-        {
-          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
-          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时34分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -338,6 +351,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 11时45分]"
+        },
+        {
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时34分]"
         },
         {
           "title": "特朗普提出动用北约保护美国南部边境",
@@ -406,6 +430,28 @@
           "time_info": "14时38分"
         },
         {
+          "title": "特朗普称将于4月访华 中方回应",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E%20%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：已与美国总统特朗普讨论了用于防空的额外导弹、PAC-3和反导系统，并希望取得积极成果。",
+          "url": "https://flash.jin10.com/detail/20260123162234105800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "日本首相高市早苗：如果食品消费税减免政策仅实施两年，政府可以找到足够的资金来源",
           "url": "https://wallstreetcn.com/livenews/3042630",
           "source": "华尔街见闻-快讯",
@@ -439,6 +485,20 @@
           "time_info": "09时53分"
         },
         {
+          "title": "马斯克达沃斯震撼发言：人类终将找到逆转衰老之法！",
+          "url": "https://www.cls.cn/detail/2267195",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 16时34分]"
+        },
+        {
           "title": "机器人、火箭、Robotaxi....马斯克在达沃斯“又画了很多饼”",
           "url": "https://wallstreetcn.com/articles/3763964",
           "source": "华尔街见闻",
@@ -448,17 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "达沃斯后，特朗普狂发80条帖子…",
-          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -522,18 +571,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 13时31分]"
-        },
-        {
-          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
-          "url": "https://www.cls.cn/detail/2267470",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时28分]"
         },
         {
           "title": "马斯克：特斯拉开始在美国得州尝试不配置安全监督员的RoboTaxi驾驶服务。",
@@ -620,19 +657,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 06时26分]"
-        },
-        {
-          "title": "马斯克达沃斯震撼发言：人类终将找到逆转衰老之法！",
-          "url": "https://www.cls.cn/detail/2267195",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 15时28分]"
         },
         {
           "title": "特朗普：启程返回华盛顿 达沃斯之行非常精彩",
@@ -765,6 +789,18 @@
           "time_info": "[02时36分 ~ 03时27分]"
         },
         {
+          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
+          "url": "https://www.cls.cn/detail/2267216",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时34分]"
+        },
+        {
           "title": "马斯克声称人工智能到2030-2031年将超越人类",
           "url": "https://flash.jin10.com/detail/20260123023731211800",
           "source": "金十数据",
@@ -874,7 +910,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -901,6 +937,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "美国总统特朗普在社交平台发文称，“到处都是创纪录的数字！我应该争取第四个任期吗？”",
           "url": "https://flash.jin10.com/detail/20260123063348094800",
           "source": "金十数据",
@@ -912,6 +959,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "特朗普称将于4月访华 中方回应",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "美国总统特朗普：美国将申办2035年世界博览会。",
           "url": "https://flash.jin10.com/detail/20260123034227435800",
           "source": "金十数据",
@@ -921,6 +979,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "高市早苗提前大选 赢面有多大",
+          "url": "https://www.toutiao.com/trending/7598405241280679466/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "据国际文传电讯社：美国特朗普女婿库什纳、美国总统特使威特科夫抵达莫斯科。",
@@ -965,17 +1034,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
-        },
-        {
-          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
-          "url": "https://www.cls.cn/detail/2267216",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
         },
         {
           "title": "美国总统特朗普：意大利需获得立法部门批准才能加入“和平委员会”。",
@@ -1187,6 +1245,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "地球上有外星人？马斯克：我就是",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32447398",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "法国总统马克龙：虽然形势变得更加让人容易接受，但仍然必须（对美国总统特朗普）保持警惕。 法国尊卑参与北约的军事演习。 我们仍然保持警惕，准备利用我们的工具（来反制美国）。 当得不到（特朗普）尊重时，欧洲和法国显然将采取行动。",
           "url": "https://wallstreetcn.com/livenews/3042233",
           "source": "华尔街见闻-快讯",
@@ -1220,6 +1289,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "马斯克称我就是外星人之一",
+          "url": "https://www.toutiao.com/trending/7597374213963431942/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "美国总统特朗普：杰米·戴蒙让我失去了银行账户。",
           "url": "https://flash.jin10.com/detail/20260123055540534800",
           "source": "金十数据",
@@ -1251,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "马斯克：特斯拉人形机器人预计2027年底向公众销售",
@@ -1295,6 +1386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：正在等待美国总统特朗普，以确定签署安全保障协议的日期和地点。",
+          "url": "https://flash.jin10.com/detail/20260123160742916800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
@@ -1361,6 +1463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "特朗普起诉摩根大通因政治原因关闭其账户 索赔50亿美元",
@@ -1473,6 +1586,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "高市早苗的“保命豪赌”能保命吗",
+          "url": "https://www.toutiao.com/trending/7597670421974581289/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "特斯拉(TSLA.O)涨超3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
           "url": "https://flash.jin10.com/detail/20260123020743543800",
           "source": "金十数据",
@@ -1537,6 +1661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "高市早苗把日本政坛拖入“混乱”",
+          "url": "https://www.toutiao.com/trending/7598427344889450034/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "据英国金融时报：埃隆·马斯克的太空探索技术公司为上市选定4家银行。",
@@ -1619,7 +1754,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "上证50八连跌！此前历史仅有3次，成分股均跌超2%，银行、食饮跌幅明显",
@@ -1655,11 +1790,12 @@
           "ranks": [
             16,
             8,
-            1
+            1,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 16时34分]"
         },
         {
           "title": "现货黄金周五小幅高开，现报4941美元/盎司，续刷历史新高。",
@@ -1671,6 +1807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "印度卢比兑美元跌破91.7425，跌至历史新低。",
+          "url": "https://flash.jin10.com/detail/20260123162248604800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
@@ -1855,7 +2002,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
