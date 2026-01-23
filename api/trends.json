@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-23T07:24:18.368669+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-01-23T09:53:18.525338+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 98,
+      "match_count": 113,
       "titles": [
+        {
+          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
+          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 09时53分]"
+        },
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
           "url": "https://www.cls.cn/detail/2266641",
@@ -19,15 +30,18 @@
           "time_info": "[00时38分 ~ 07时24分]"
         },
         {
-          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
-          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
-          "source": "凤凰网",
+          "title": "特朗普180度转折，欧洲懵了",
+          "url": "https://wallstreetcn.com/articles/3763911",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
+            5,
+            3,
             2
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "time_info": "[00时38分 ~ 09时53分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -53,20 +67,6 @@
           "time_info": "[00时38分 ~ 06时26分]"
         },
         {
-          "title": "特朗普180度转折，欧洲懵了",
-          "url": "https://wallstreetcn.com/articles/3763911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时24分]"
-        },
-        {
           "title": "特朗普达沃斯演讲，被群嘲了",
           "url": "https://news.ifeng.com/c/8q7oOaAst69",
           "source": "凤凰网",
@@ -74,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 09时53分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -85,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 09时53分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -96,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 09时53分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -108,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 09时53分]"
         },
         {
           "title": "达沃斯迎来意外“客人”：马斯克首次现身 今晚发表讲话",
@@ -234,6 +234,28 @@
           "time_info": "[00时38分 ~ 01时31分]"
         },
         {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普提出动用北约保护美国南部边境",
+          "url": "https://flash.jin10.com/detail/20260123093140940800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "德国总理默茨：特朗普放弃吞并格陵兰的计划，这让人感到欣慰。",
           "url": "https://wallstreetcn.com/livenews/3042228",
           "source": "华尔街见闻-快讯",
@@ -265,6 +287,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "高市早苗宣布解散众议院",
+          "url": "https://www.toutiao.com/trending/7598210015144463913/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "高市早苗决定解散众议院",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%B3%E5%AE%9A%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
+          "url": "https://www.cls.cn/detail/2267073",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普痛批加州州长纽森失职，称其不配竞选总统",
+          "url": "https://flash.jin10.com/detail/20260123092953807800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普提出动用北约保护美国南部边境",
+          "url": "https://wallstreetcn.com/livenews/3042452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "机器人、火箭、Robotaxi....马斯克在达沃斯“又画了很多饼”",
+          "url": "https://wallstreetcn.com/articles/3763964",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -496,6 +584,17 @@
           "time_info": "[00时38分 ~ 01时31分]"
         },
         {
+          "title": "特朗普态度为何突然转变",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%81%E5%BA%A6%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%BD%AC%E5%8F%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：特斯拉Robotaxi在奥斯汀启动无人驾驶测试，车内无安全员。",
           "url": "https://flash.jin10.com/detail/20260123020209881800",
           "source": "金十数据",
@@ -513,7 +612,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -546,7 +645,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -560,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "马斯克意外亮相达沃斯 冬季风暴继续推高天然气价格 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2266926",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "据国际文传电讯社：美国特朗普女婿库什纳、美国总统特使威特科夫抵达莫斯科。",
@@ -584,6 +694,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美国总统特朗普：意大利需获得立法部门批准才能加入“和平委员会”。",
           "url": "https://flash.jin10.com/detail/20260123055953116800",
           "source": "金十数据",
@@ -593,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "克里姆林宫：美方分享了他们对特朗普与泽连斯基会晤的评估。",
+          "url": "https://flash.jin10.com/detail/20260123092644578800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "美国总统特朗普：格陵兰协议正在谈判之中。",
@@ -733,9 +865,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "克里姆林宫：美国总统特朗普关于格陵兰岛与和平委员会的提议也得到了讨论。",
+          "url": "https://flash.jin10.com/detail/20260123092611955800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "据知情人士透露，马斯克旗下太空探索公司SpaceX已经选定四家银行为其IPO做准备。 美国银行、高盛、摩根大通、摩根士丹利将在其IPO中发挥高级作用。 最近数周，SpaceX的高管们已经与银行家门开会。 其他银行可能也会参与其IPO。（英国金融时报）",
@@ -769,6 +912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普称，美联储在鲍威尔任期内受到伤害并失去信誉。",
+          "url": "https://wallstreetcn.com/livenews/3042433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "美国总统特朗普：杰米·戴蒙让我失去了银行账户。",
@@ -843,7 +997,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -898,7 +1052,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -909,7 +1063,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -1035,6 +1189,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "美国总统特朗普：抵押贷款利率刚刚跌至三年低点，尽管杰罗姆·鲍威尔（“太迟”）始终执意维持高利率（对抗“特朗普！”）。这恰恰证明他从头到尾都错了，因为市场正在超越他的顽固。在“太迟”的统治期间，美联储已遭受重创并声名狼藉！",
+          "url": "https://flash.jin10.com/detail/20260123091214857800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯总统普京将做出让步。",
           "url": "https://flash.jin10.com/detail/20260123055019548800",
           "source": "金十数据",
@@ -1137,7 +1302,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "上证50八连跌！此前历史仅有3次，成分股均跌超2%，银行、食饮跌幅明显",
@@ -1173,7 +1338,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -1184,7 +1349,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -1250,7 +1415,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -1299,6 +1464,28 @@
           "time_info": "00时38分"
         },
         {
+          "title": "江苏外贸活跃企业数破十万家，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3042429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "历史剧《太平年》今晚首播",
+          "url": "https://www.toutiao.com/trending/7598335765164068402/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "多伦多股市指数盘中升至历史新高，超越1月19日的峰值。",
           "url": "https://flash.jin10.com/detail/20260123014451141800",
           "source": "金十数据",
@@ -1308,6 +1495,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "现货白银价格突破每盎司97.00美元关口，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3042420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "国际金价银价同创历史新高",
+          "url": "https://www.toutiao.com/trending/7597224144673194010/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "沪银主力合约日内涨超7%，现报24591元/千克，再创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260123090622824800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     }
