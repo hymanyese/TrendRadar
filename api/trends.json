@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T19:20:40.734808+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-01-24T20:44:41.760086+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
@@ -94,8 +94,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时37分 ~ 19时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 20时44分]"
         },
         {
           "title": "没想到特朗普这样侮辱人，英国气炸了",
@@ -131,8 +131,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时28分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时28分 ~ 20时44分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -172,6 +172,18 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时35分 ~ 20时44分]"
+        },
+        {
           "title": "加州州长怒批特朗普的腐败和贪污",
           "url": "https://www.toutiao.com/trending/7597629438666358794/",
           "source": "今日头条",
@@ -183,18 +195,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时24分]"
-        },
-        {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 19时20分]"
         },
         {
           "title": "马斯克“钦定”太空光伏：3年100GW，最优能源方案，效率5倍碾压",
@@ -212,6 +212,22 @@
           "time_info": "[09时50分 ~ 17时24分]"
         },
         {
+          "title": "UP主解读马斯克末日预言",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            12,
+            8,
+            19,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 20时44分]"
+        },
+        {
           "title": "报道：特朗普要求格陵兰全面放开军事限制",
           "url": "https://wallstreetcn.com/articles/3764043",
           "source": "华尔街见闻",
@@ -222,6 +238,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时50分 ~ 19时20分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 20时44分]"
         },
         {
           "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
@@ -250,36 +281,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时37分 ~ 15时22分]"
-        },
-        {
-          "title": "UP主解读马斯克末日预言",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            12,
-            8,
-            19,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时35分 ~ 19时20分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时35分 ~ 19时20分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -326,17 +327,6 @@
           "time_info": "[09时50分 ~ 14时35分]"
         },
         {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260124023137303800",
           "source": "金十数据",
@@ -347,6 +337,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时26分 ~ 07时24分]"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3043257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时44分]"
+        },
+        {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 20时44分]"
         },
         {
           "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
@@ -420,17 +436,17 @@
           "time_info": "[09时50分 ~ 11时29分]"
         },
         {
-          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3043257",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
+          "url": "https://flash.jin10.com/detail/20260124175804687800",
+          "source": "金十数据",
           "ranks": [
             4,
-            13,
-            17
+            12,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时20分]"
+          "time_info": "[18时24分 ~ 20时44分]"
         },
         {
           "title": "斯塔默要求特朗普道歉，白宫回应",
@@ -457,16 +473,16 @@
           "time_info": "[05时24分 ~ 06时21分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
-          "url": "https://flash.jin10.com/detail/20260124175804687800",
-          "source": "金十数据",
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
           "ranks": [
             4,
-            12
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时20分]"
+          "time_info": "[16时31分 ~ 20时44分]"
         },
         {
           "title": "特朗普政府正在考虑全面封锁古巴石油进口",
@@ -479,18 +495,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时24分]"
-        },
-        {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://www.cls.cn/detail/2268566",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 19时20分]"
         },
         {
           "title": "为何特朗普想要格陵兰岛",
@@ -570,6 +574,19 @@
           "time_info": "[17时24分 ~ 19时20分]"
         },
         {
+          "title": "特斯拉Optimus将进驻奥斯汀工厂 马斯克预测明年开售",
+          "url": "https://flash.jin10.com/detail/20260124173055843800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 20时44分]"
+        },
+        {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
           "url": "https://wallstreetcn.com/livenews/3043204",
           "source": "华尔街见闻-快讯",
@@ -603,18 +620,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "特斯拉Optimus将进驻奥斯汀工厂 马斯克预测明年开售",
-          "url": "https://flash.jin10.com/detail/20260124173055843800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -699,6 +704,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
+          "url": "https://flash.jin10.com/detail/20260124191803265800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
           "url": "https://wallstreetcn.com/livenews/3043110",
           "source": "华尔街见闻-快讯",
@@ -746,7 +762,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AH股震荡走高，商业航天、光伏大爆发，碳酸锂突破18万大关，沪银站上25000创历史新高",
@@ -772,8 +788,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 19时20分]"
+          "appearance_count": 14,
+          "time_info": "[09时49分 ~ 20时44分]"
         },
         {
           "title": "白银再创历史新高 英特尔上演“高台跳水” | 今夜看点",
@@ -832,6 +848,17 @@
           "time_info": "[05时24分 ~ 11时29分]"
         },
         {
+          "title": "U23亚洲杯决赛历史上曾两次出现加时",
+          "url": "https://www.toutiao.com/trending/7598729402063093802/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "巴西股指一度涨超1.1%，刷新盘中历史高位至17.75万点上方。 按美元计价，巴西股指本周已经累计上涨9.7%，在全球范围内领跑。",
           "url": "https://wallstreetcn.com/livenews/3043053",
           "source": "华尔街见闻-快讯",
@@ -881,6 +908,19 @@
           "time_info": "[16时31分 ~ 18时24分]"
         },
         {
+          "title": "海南机场2026年春运旅客吞吐量预计达817.5万人次，将创历史同期新高",
+          "url": "https://wallstreetcn.com/livenews/3043262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 20时44分]"
+        },
+        {
           "title": "现货白银涨7%，和铂金创历史新高，本周铂金涨约19%",
           "url": "https://wallstreetcn.com/livenews/3043147",
           "source": "华尔街见闻-快讯",
@@ -915,18 +955,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时24分]"
-        },
-        {
-          "title": "海南机场2026年春运旅客吞吐量预计达817.5万人次，将创历史同期新高",
-          "url": "https://wallstreetcn.com/livenews/3043262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "分析师：现货白银历史性进入“三位数”时代 此后或进入未知领域",
