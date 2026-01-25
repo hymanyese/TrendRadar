@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T07:22:29.814039+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-01-25T10:03:37.578869+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 15,
+      "match_count": 27,
       "titles": [
         {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 10时03分]"
         },
         {
           "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 10时03分]"
         },
         {
           "title": "美国财政部：特朗普将出席特朗普账户峰会",
@@ -58,6 +58,30 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://www.cls.cn/detail/2268653",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 10时03分]"
+        },
+        {
+          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
+          "url": "https://flash.jin10.com/detail/20260124214240253800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 10时03分]"
+        },
+        {
           "title": "UP主解读马斯克末日预言",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80",
           "source": "bilibili 热搜",
@@ -73,37 +97,16 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://www.cls.cn/detail/2268653",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
-          "url": "https://flash.jin10.com/detail/20260124214240253800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
           "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
           "url": "https://flash.jin10.com/detail/20260124214134476800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 10时03分]"
         },
         {
           "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
@@ -141,15 +144,37 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
-          "url": "https://wallstreetcn.com/livenews/3043311",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
+          "url": "https://news.ifeng.com/c/8qBty1JuFMx",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3043338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "日本首相高市早苗誓言就汇率波动采取行动 应对投机性市场行为",
+          "url": "https://flash.jin10.com/detail/20260125085035422800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -162,6 +187,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3043311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 10时03分]"
         },
         {
           "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
@@ -184,12 +221,111 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "日本首相高市早苗：政府将采取必要措施应对投机性、异常的市场波动。",
+          "url": "https://flash.jin10.com/detail/20260125084817262800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "日本首相高市早苗表示，政府将采取一切必要措施应对投机性和高度异常的市场波动。 高市早苗未具体说明其言论是否与日本国债收益率或日元有关。",
+          "url": "https://wallstreetcn.com/livenews/3043336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "挪威首相批评特朗普北约言论“有失尊重”",
+          "url": "https://flash.jin10.com/detail/20260125084239117800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普施压后，英国突然叫停",
+          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://flash.jin10.com/detail/20260125081127653800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "美国联邦移民执法中再次发生枪杀事件，特朗普指责明尼苏达州州长“煽动叛乱”",
+          "url": "https://wallstreetcn.com/livenews/3043320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普上任一年为何引起各方不满",
+          "url": "https://www.toutiao.com/trending/7597959432397144106/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普：美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://wallstreetcn.com/livenews/3043325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普：美对贩毒集团陆地打击行动可覆盖墨西哥等中南美地区",
+          "url": "https://wallstreetcn.com/livenews/3043324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "U23 决赛这盆冷水浇下来后，你有什么话想对已经创造了历史的队员和支持他们的球迷说？",
@@ -197,11 +333,26 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时33分 ~ 07时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时33分 ~ 10时03分]"
+        },
+        {
+          "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32459344",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时33分 ~ 10时03分]"
         },
         {
           "title": "邹市明创业失败，妻子分享孩子 39.5 元午餐等节俭细节引热议，公众人物此类「消费降级」分享恰当吗？",
@@ -215,19 +366,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32459344",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时33分 ~ 07时22分]"
         },
         {
           "title": "黄健翔力挺中国队：已是历史性突破",
@@ -262,6 +400,17 @@
           "time_info": "[02时33分 ~ 07时22分]"
         },
         {
+          "title": "国家体育总局、中国足协电贺U23男足创造历史最佳成绩",
+          "url": "https://wallstreetcn.com/livenews/3043337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "U23国足创历史最佳成绩",
           "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B3%E5%88%9B%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%B3%E6%88%90%E7%BB%A9",
           "source": "bilibili 热搜",
@@ -271,8 +420,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 10时03分]"
         },
         {
           "title": "U23国足已经创造历史",
