@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T10:03:37.578869+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-01-25T12:15:25.992500+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
@@ -66,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时15分]"
         },
         {
           "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
@@ -150,31 +150,44 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时15分]"
         },
         {
-          "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3043338",
+          "title": "美国州检察官起诉特朗普政府 指控其阻碍枪击案调查",
+          "url": "https://flash.jin10.com/detail/20260125113356104800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
+          "url": "https://wallstreetcn.com/livenews/3043350",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "12时15分"
         },
         {
-          "title": "日本首相高市早苗誓言就汇率波动采取行动 应对投机性市场行为",
-          "url": "https://flash.jin10.com/detail/20260125085035422800",
-          "source": "金十数据",
+          "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3043311",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2,
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 12时15分]"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -189,16 +202,88 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
-          "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
-          "url": "https://wallstreetcn.com/livenews/3043311",
+          "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3043338",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            14
+            3,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时22分 ~ 10时03分]"
+          "time_info": "[10时03分 ~ 12时15分]"
+        },
+        {
+          "title": "日本首相高市早苗誓言就汇率波动采取行动 应对投机性市场行为",
+          "url": "https://flash.jin10.com/detail/20260125085035422800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时15分]"
+        },
+        {
+          "title": "日本首相高市早苗：政府将采取必要措施应对投机性、异常的市场波动。",
+          "url": "https://flash.jin10.com/detail/20260125084817262800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时15分]"
+        },
+        {
+          "title": "日本首相高市早苗表示，政府将采取一切必要措施应对投机性和高度异常的市场波动。 高市早苗未具体说明其言论是否与日本国债收益率或日元有关。",
+          "url": "https://wallstreetcn.com/livenews/3043336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普施压后，英国突然叫停",
+          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时15分]"
+        },
+        {
+          "title": "挪威首相批评特朗普北约言论“有失尊重”",
+          "url": "https://flash.jin10.com/detail/20260125084239117800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://flash.jin10.com/detail/20260125081127653800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时15分]"
         },
         {
           "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
@@ -223,59 +308,48 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "日本首相高市早苗：政府将采取必要措施应对投机性、异常的市场波动。",
-          "url": "https://flash.jin10.com/detail/20260125084817262800",
-          "source": "金十数据",
+          "title": "高市早苗“发出信号”，美日联合干预市场“箭在弦上”？",
+          "url": "https://wallstreetcn.com/articles/3764085",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "12时15分"
         },
         {
-          "title": "日本首相高市早苗表示，政府将采取一切必要措施应对投机性和高度异常的市场波动。 高市早苗未具体说明其言论是否与日本国债收益率或日元有关。",
-          "url": "https://wallstreetcn.com/livenews/3043336",
+          "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://wallstreetcn.com/articles/3764087",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "意大利总理称特朗普有关北约的言论是“不可接受”的",
+          "url": "https://flash.jin10.com/detail/20260125094240876800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "特朗普称已获取7艘扣押油轮石油",
+          "url": "https://wallstreetcn.com/livenews/3043341",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "挪威首相批评特朗普北约言论“有失尊重”",
-          "url": "https://flash.jin10.com/detail/20260125084239117800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "特朗普施压后，英国突然叫停",
-          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
-          "url": "https://flash.jin10.com/detail/20260125081127653800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "12时15分"
         },
         {
           "title": "美国联邦移民执法中再次发生枪杀事件，特朗普指责明尼苏达州州长“煽动叛乱”",
@@ -284,7 +358,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -295,7 +369,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -306,7 +380,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -317,7 +391,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         }
@@ -325,7 +399,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "U23 决赛这盆冷水浇下来后，你有什么话想对已经创造了历史的队员和支持他们的球迷说？",
@@ -337,8 +411,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时33分 ~ 10时03分]"
+          "appearance_count": 9,
+          "time_info": "[02时33分 ~ 12时15分]"
         },
         {
           "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
@@ -351,8 +425,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时33分 ~ 10时03分]"
+          "appearance_count": 9,
+          "time_info": "[02时33分 ~ 12时15分]"
         },
         {
           "title": "邹市明创业失败，妻子分享孩子 39.5 元午餐等节俭细节引热议，公众人物此类「消费降级」分享恰当吗？",
@@ -400,15 +474,15 @@
           "time_info": "[02时33分 ~ 07时22分]"
         },
         {
-          "title": "国家体育总局、中国足协电贺U23男足创造历史最佳成绩",
-          "url": "https://wallstreetcn.com/livenews/3043337",
-          "source": "华尔街见闻-快讯",
+          "title": "成都涉事小学取消育人故事分享",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%B6%89%E4%BA%8B%E5%B0%8F%E5%AD%A6%E5%8F%96%E6%B6%88%E8%82%B2%E4%BA%BA%E6%95%85%E4%BA%8B%E5%88%86%E4%BA%AB%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "12时15分"
         },
         {
           "title": "U23国足创历史最佳成绩",
@@ -422,6 +496,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时33分 ~ 10时03分]"
+        },
+        {
+          "title": "国家体育总局、中国足协电贺U23男足创造历史最佳成绩",
+          "url": "https://wallstreetcn.com/livenews/3043337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时15分]"
         },
         {
           "title": "U23国足已经创造历史",
@@ -447,6 +533,17 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "电视剧《太平年》的历史还原度怎么样？",
+          "url": "https://www.zhihu.com/question/1998088653545698391",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "U23亚洲杯决赛历史上曾2次出现加时",
           "url": "https://www.baidu.com/s?wd=U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9B%BE2%E6%AC%A1%E5%87%BA%E7%8E%B0%E5%8A%A0%E6%97%B6",
           "source": "百度热搜",
@@ -456,6 +553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "现场看U23国足创造历史",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%BA%E7%9C%8BU23%E5%9B%BD%E8%B6%B3%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     },
