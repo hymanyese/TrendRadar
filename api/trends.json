@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T16:36:52.896628+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-01-26T17:37:41.036808+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 16时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 17时37分]"
         },
         {
           "title": "特朗普施压后，英国突然叫停",
@@ -98,17 +98,6 @@
           "time_info": "[00时28分 ~ 10时03分]"
         },
         {
-          "title": "10亿美元一席！特朗普任“主席”",
-          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
           "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
           "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
           "source": "凤凰网",
@@ -118,8 +107,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 16时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时17分 ~ 17时37分]"
+        },
+        {
+          "title": "10亿美元一席！特朗普任“主席”",
+          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
@@ -200,6 +200,17 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
+          "title": "高市早苗：若执政党阵营在众议院选举中未过半数，将即刻辞职",
+          "url": "https://news.ifeng.com/c/8qEG9CkTpxD",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 17时37分]"
+        },
+        {
           "title": "市场消息：俄罗斯副外长里亚布科夫证实，特朗普已收到访俄邀请。",
           "url": "https://flash.jin10.com/detail/20260125223326726800",
           "source": "金十数据",
@@ -228,15 +239,15 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
-          "title": "高市早苗：若执政党阵营在众议院选举中未过半数，将即刻辞职",
-          "url": "https://news.ifeng.com/c/8qEG9CkTpxD",
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 16时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "美国参议院民主党领导人Chuck Schumer告知共和党：敦促（总统特朗普所属共和党支持）修改国土安全部（DHS）预算的立法草案。 民主党不希望推进现行国土安全部融资草案。 要求共和党在截止日期之前推进五分拨款草案的立法程序。",
@@ -392,6 +403,18 @@
           "time_info": "[05时21分 ~ 07时22分]"
         },
         {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 17时37分]"
+        },
+        {
           "title": "大众CEO：若特朗普不削减关税，奥迪美国工厂计划可能搁置",
           "url": "https://wallstreetcn.com/livenews/3043413",
           "source": "华尔街见闻-快讯",
@@ -402,17 +425,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 16时36分]"
         },
         {
           "title": "特朗普达沃斯演讲有何深意",
@@ -487,9 +499,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
+          "url": "https://wallstreetcn.com/livenews/3043857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "日本首相高市早苗：计划发出适当信息，表明我们已充分考虑财政可持续性。",
@@ -583,7 +606,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "盘中创历史新高A股名单一览：多只有色金属股在列",
@@ -609,6 +632,20 @@
           "time_info": "[00时28分 ~ 01时21分]"
         },
         {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时17分 ~ 17时37分]"
+        },
+        {
           "title": "现货黄金历史性突破5000美元大关",
           "url": "https://flash.jin10.com/detail/20260126070023832800",
           "source": "金十数据",
@@ -618,19 +655,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时17分 ~ 16时36分]"
         },
         {
           "title": "美国关键的电网运营商PJM Interconnection LLC：电力需求峰值可能会连续七天突破13万MW，那将创历史纪录。 1月27日（周二）可能会目睹冬季电力负荷创历史新高。",
@@ -652,8 +676,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时37分]"
         },
         {
           "title": "数看上海2025外贸韧性：进出口、出口、进口均创历史新高",
@@ -668,6 +692,18 @@
           "time_info": "[13时34分 ~ 15时31分]"
         },
         {
+          "title": "太平年背后的真实历史",
+          "url": "https://www.douyin.com/hot/2380009",
+          "source": "抖音",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时37分]"
+        },
+        {
           "title": "现货白银延续涨势，最新上涨近5%，将历史新高刷新至107.99美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260126092657322800",
           "source": "金十数据",
@@ -677,6 +713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "创业板跌近1%，金银板块狂飙，商业航天集体调整，恒科指跌超1%，紫金矿业创历史新高，沪银飙涨13%",
+          "url": "https://wallstreetcn.com/articles/3764130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "万字拆解最新历史剧太平年",
@@ -699,17 +746,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "太平年背后的真实历史",
-          "url": "https://www.douyin.com/hot/2380009",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         },
         {
           "title": "现货黄金站上5100美元/盎司，续创历史新高，日内涨超2%。 纽约金日内涨幅达2.5%，报5142.8美元/盎司。",
@@ -743,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "现货白银站上110美元/盎司，续创历史新高，日内涨6.6%。",
+          "url": "https://wallstreetcn.com/livenews/3043836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
