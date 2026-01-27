@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T01:31:28.429735+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-01-28T02:42:06.509916+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 11,
+      "match_count": 22,
       "titles": [
         {
           "title": "外交部回应高市早苗涉台最新言论",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时42分]"
         },
         {
           "title": "“高市下台！”高市早苗选举拉票演讲第一站，遭日本民众抗议(图)",
@@ -26,41 +26,53 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时42分]"
         },
         {
           "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
           "url": "https://m.thepaper.cn/newsDetail_forward_32473117",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时42分]"
         },
         {
-          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
-          "url": "https://flash.jin10.com/detail/20260128010825738800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
-          "url": "https://flash.jin10.com/detail/20260128010748956800",
-          "source": "金十数据",
+          "title": "特朗普称国土安全部部长诺姆不会辞职",
+          "url": "https://wallstreetcn.com/livenews/3044932",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3044930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "特朗普就美国明尼苏达州枪击案致死事件发表评论：“你不能带着枪走进去”",
+          "url": "https://wallstreetcn.com/livenews/3044928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -70,8 +82,32 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时42分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
+          "url": "https://flash.jin10.com/detail/20260128010825738800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "time_info": "[01时31分 ~ 02时42分]"
+        },
+        {
+          "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
+          "url": "https://flash.jin10.com/detail/20260128010748956800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时42分]"
         },
         {
           "title": "外交部回应高市早苗涉台言论",
@@ -79,11 +115,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时42分]"
+        },
+        {
+          "title": "特朗普称国土安全部部长诺姆不会辞职",
+          "url": "https://flash.jin10.com/detail/20260128021631396800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -97,6 +145,28 @@
           "time_info": "00时33分"
         },
         {
+          "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3044921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国总统特朗普：希望看到利率下降。",
+          "url": "https://wallstreetcn.com/livenews/3044916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
           "url": "https://flash.jin10.com/detail/20260127232506292800",
           "source": "金十数据",
@@ -108,15 +178,70 @@
           "time_info": "00时33分"
         },
         {
+          "title": "美国总统特朗普谈及联邦执法人员在明尼苏达州枪杀Pretti事件，声称：正进行“大规模的”调查。 我将观看调查（过程/结果）。",
+          "url": "https://wallstreetcn.com/livenews/3044915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "拜登批评特朗普政府在明州的移民执法行动",
+          "url": "https://wallstreetcn.com/livenews/3044911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "德国央行行长：欧洲央行在制定货币政策时必须密切留意特朗普论调的外溢性",
+          "url": "https://wallstreetcn.com/livenews/3044929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
           "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
           "url": "https://flash.jin10.com/detail/20260128002342619800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰和俄罗斯之间正在发生非常好的事情。",
+          "url": "https://flash.jin10.com/detail/20260128011246828800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国总统特朗普：霍曼（边境事务协调员）稍后将在明尼阿波利斯会见州长和市长。",
+          "url": "https://flash.jin10.com/detail/20260128010909664800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "Pilot Travel Centers（伯克希尔哈撒韦附属公司）与马斯克旗下特斯拉公司达成合作伙伴关系协议。 特斯拉将帮助Pilot在美国加利福尼亚、弗吉尼亚、内华达、新墨西哥、以及得克萨斯等州打造重型电动半拖车充电网络。",
@@ -125,7 +250,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         }
@@ -141,22 +266,24 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时42分]"
         },
         {
           "title": "历史UP主评价太平年",
           "url": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%8F%B2UP%E4%B8%BB%E8%AF%84%E4%BB%B7%E5%A4%AA%E5%B9%B3%E5%B9%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时42分]"
         },
         {
           "title": "标普500指数盘中创下历史新高，涨幅0.5%。",
@@ -165,7 +292,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
