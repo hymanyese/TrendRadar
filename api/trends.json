@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T13:29:50.785148+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-01-27T14:39:33.238723+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 14时39分]"
         },
         {
           "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 14时39分]"
         },
         {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
@@ -73,8 +73,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 14时39分]"
         },
         {
           "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
@@ -85,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 14时39分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -97,8 +97,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 14时39分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -134,16 +146,17 @@
           "time_info": "07时25分"
         },
         {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
+          "title": "特朗普：提高对韩国多种商品关税税率至25%",
+          "url": "https://www.cls.cn/detail/2270499",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            10,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时25分 ~ 13时29分]"
+          "time_info": "[09时59分 ~ 14时39分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
@@ -252,19 +265,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普：提高对韩国多种商品关税税率至25%",
-          "url": "https://www.cls.cn/detail/2270499",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 13时29分]"
         },
         {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
@@ -447,6 +447,17 @@
           "time_info": "[02时39分 ~ 03时26分]"
         },
         {
+          "title": "被问及邪教文件高市早苗瞬间垮脸",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%97%AE%E5%8F%8A%E9%82%AA%E6%95%99%E6%96%87%E4%BB%B6%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9E%AC%E9%97%B4%E5%9E%AE%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 14时39分]"
+        },
+        {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元持股将多达16%",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -469,13 +480,24 @@
           "time_info": "04时31分"
         },
         {
+          "title": "被问及邪教文件，高市早苗笑容瞬间消失",
+          "url": "https://news.ifeng.com/c/8qFkGVfxr0H",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "韩国贸易特使：韩国政府仍在努力弄清美国总统特朗普的信息和措施的背景。",
           "url": "https://flash.jin10.com/detail/20260127130628798800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -612,6 +634,28 @@
           "time_info": "07时25分"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "韩国人还在睡梦中特朗普突然下手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
           "url": "https://flash.jin10.com/detail/20260127042724482800",
           "source": "金十数据",
@@ -678,17 +722,6 @@
           "time_info": "11时53分"
         },
         {
-          "title": "被问及邪教文件高市早苗瞬间垮脸",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%97%AE%E5%8F%8A%E9%82%AA%E6%95%99%E6%96%87%E4%BB%B6%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9E%AC%E9%97%B4%E5%9E%AE%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
           "title": "特朗普态度原地后空翻",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%81%E5%BA%A6%E5%8E%9F%E5%9C%B0%E5%90%8E%E7%A9%BA%E7%BF%BB%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -714,7 +747,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "市值重返万亿大关！“有色茅”再创历史新高，板块热度持续攀升，融资客重仓这些股",
@@ -764,8 +797,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 13时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 14时39分]"
         },
         {
           "title": "历史UP主评价太平年",
@@ -872,6 +905,19 @@
           "time_info": "[11时53分 ~ 12时50分]"
         },
         {
+          "title": "谢苗《东北警察故事 3》定档 1 月 30 日上映，票房会有多少？能否让谢苗在电影院旗开得胜？",
+          "url": "https://www.zhihu.com/question/1996185314172090272",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 14时39分]"
+        },
+        {
           "title": "现货黄金涨超0.2%，亚太尾盘刷新历史高位至5110美元上方，纽约中午以来显著回吐涨幅",
           "url": "https://wallstreetcn.com/livenews/3044208",
           "source": "华尔街见闻-快讯",
@@ -882,19 +928,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "谢苗《东北警察故事 3》定档 1 月 30 日上映，票房会有多少？能否让谢苗在电影院旗开得胜？",
-          "url": "https://www.zhihu.com/question/1996185314172090272",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时29分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市涨2%，与涨幅前三大的成分股同创收盘历史新高",
@@ -919,6 +952,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 13时29分]"
+        },
+        {
+          "title": "华虹公司午后涨超8%，股价再创历史新高，总市值突破2000亿。",
+          "url": "https://wallstreetcn.com/livenews/3044493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "当历史长剧走势低迷 漫剧热度颇高",
@@ -954,11 +998,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32465091",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 14时39分]"
         }
       ]
     }
