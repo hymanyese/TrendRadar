@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T15:31:43.544420+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-01-27T16:36:57.538652+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 67,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -53,6 +53,19 @@
           "time_info": "[09时59分 ~ 15时31分]"
         },
         {
+          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
+          "url": "https://www.cls.cn/detail/2270546",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 16时36分]"
+        },
+        {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
           "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
           "source": "凤凰网",
@@ -77,19 +90,6 @@
           "time_info": "[00时37分 ~ 12时50分]"
         },
         {
-          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
-          "url": "https://www.cls.cn/detail/2270546",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 15时31分]"
-        },
-        {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -98,8 +98,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 16时36分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -123,6 +123,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 05时27分]"
+        },
+        {
+          "title": "外交部回应高市早苗涉台最新言论",
+          "url": "https://news.ifeng.com/c/8qFzd3FvOdW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "韩总统府称将围绕特朗普加关税一事开会研究对策",
@@ -280,6 +291,31 @@
           "time_info": "[04时31分 ~ 09时59分]"
         },
         {
+          "title": "韩国人还在睡梦中特朗普突然下手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 16时36分]"
+        },
+        {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 16时36分]"
+        },
+        {
           "title": "被问及邪教文件高市早苗瞬间垮脸",
           "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%97%AE%E5%8F%8A%E9%82%AA%E6%95%99%E6%96%87%E4%BB%B6%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9E%AC%E9%97%B4%E5%9E%AE%E8%84%B8",
           "source": "百度热搜",
@@ -326,6 +362,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "高市早苗破防了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 16时36分]"
         },
         {
           "title": "被问及邪教文件，高市早苗笑容瞬间消失",
@@ -423,18 +471,6 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
-          "title": "韩国人还在睡梦中特朗普突然下手",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时31分]"
-        },
-        {
           "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
           "url": "https://flash.jin10.com/detail/20260127023746619800",
           "source": "金十数据",
@@ -457,17 +493,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时31分]"
-        },
-        {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时31分]"
         },
         {
           "title": "美国白宫：总统特朗普在周一与沃尔兹（明尼苏达州州长）的通话中概述了恢复秩序的路径；如果实施这些措施，将不再需要海关和边境巡逻队。总统特朗普呼吁国会通过立法，废除“庇护城市”政策。",
@@ -516,6 +541,28 @@
           "time_info": "04时31分"
         },
         {
+          "title": "视频：被问及邪教文件，高市早苗笑容瞬间消失",
+          "url": "https://news.ifeng.com/c/8qFkGVfxr0H",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "外交部回应高市早苗涉台最新言论",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E6%9C%80%E6%96%B0%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "韩国贸易特使：韩国政府仍在努力弄清美国总统特朗普的信息和措施的背景。",
           "url": "https://flash.jin10.com/detail/20260127130628798800",
           "source": "金十数据",
@@ -525,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "外交部回应高市早苗涉台言论",
+          "url": "https://www.douyin.com/hot/2381125",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "民调：特朗普严打移民 支持率降至低位",
@@ -566,7 +624,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -676,18 +734,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "高市早苗破防了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -758,6 +805,28 @@
           "time_info": "11时53分"
         },
         {
+          "title": "特朗普对移民执法枪击事件态度大转变",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E7%A7%BB%E6%B0%91%E6%89%A7%E6%B3%95%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E6%80%81%E5%BA%A6%E5%A4%A7%E8%BD%AC%E5%8F%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3044554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "特朗普态度原地后空翻",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%81%E5%BA%A6%E5%8E%9F%E5%9C%B0%E5%90%8E%E7%A9%BA%E7%BF%BB%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -778,6 +847,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "外交部回应高市早苗涉台最新言论",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E6%9C%80%E6%96%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
@@ -812,6 +892,20 @@
           "time_info": "[00时37分 ~ 11时53分]"
         },
         {
+          "title": "创业板跌近1%，金银板块狂飙，商业航天集体调整，恒科指跌超1%，紫金矿业创历史新高，沪银飙涨13%",
+          "url": "https://wallstreetcn.com/articles/3764130",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 16时36分]"
+        },
+        {
           "title": "【焦点复盘】创业板指放量跌近1%，资源股持续强势领涨，万亿市值油气龙头创历史新高",
           "url": "https://www.cls.cn/detail/2269857",
           "source": "财联社热门",
@@ -822,19 +916,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时25分]"
-        },
-        {
-          "title": "创业板跌近1%，金银板块狂飙，商业航天集体调整，恒科指跌超1%，紫金矿业创历史新高，沪银飙涨13%",
-          "url": "https://wallstreetcn.com/articles/3764130",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 15时31分]"
         },
         {
           "title": "历史UP主评价太平年",
