@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T14:39:33.238723+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-01-27T15:31:43.544420+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -17,6 +17,40 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普：提高对韩国关税",
+          "url": "https://news.ifeng.com/c/8qFDsemU0yq",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 15时31分]"
+        },
+        {
+          "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
+          "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 15时31分]"
+        },
+        {
+          "title": "韩国人还在睡梦中，特朗普突然下手了",
+          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 15时31分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -43,50 +77,29 @@
           "time_info": "[00时37分 ~ 12时50分]"
         },
         {
-          "title": "特朗普：提高对韩国关税",
-          "url": "https://news.ifeng.com/c/8qFDsemU0yq",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时39分]"
-        },
-        {
-          "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
-          "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时39分]"
-        },
-        {
-          "title": "韩国人还在睡梦中，特朗普突然下手了",
-          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时39分]"
-        },
-        {
           "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
           "url": "https://www.cls.cn/detail/2270546",
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 15时31分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 15时31分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -99,18 +112,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时59分 ~ 14时39分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 14时39分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -279,6 +280,18 @@
           "time_info": "[04时31分 ~ 09时59分]"
         },
         {
+          "title": "被问及邪教文件高市早苗瞬间垮脸",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%97%AE%E5%8F%8A%E9%82%AA%E6%95%99%E6%96%87%E4%BB%B6%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9E%AC%E9%97%B4%E5%9E%AE%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 15时31分]"
+        },
+        {
           "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
           "url": "https://flash.jin10.com/detail/20260127060902912800",
           "source": "金十数据",
@@ -313,6 +326,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "被问及邪教文件，高市早苗笑容瞬间消失",
+          "url": "https://news.ifeng.com/c/8qFkGVfxr0H",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时31分]"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -399,6 +423,18 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
+          "title": "韩国人还在睡梦中特朗普突然下手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时31分]"
+        },
+        {
           "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
           "url": "https://flash.jin10.com/detail/20260127023746619800",
           "source": "金十数据",
@@ -421,6 +457,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时31分]"
+        },
+        {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时31分]"
         },
         {
           "title": "美国白宫：总统特朗普在周一与沃尔兹（明尼苏达州州长）的通话中概述了恢复秩序的路径；如果实施这些措施，将不再需要海关和边境巡逻队。总统特朗普呼吁国会通过立法，废除“庇护城市”政策。",
@@ -447,17 +494,6 @@
           "time_info": "[02时39分 ~ 03时26分]"
         },
         {
-          "title": "被问及邪教文件高市早苗瞬间垮脸",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%97%AE%E5%8F%8A%E9%82%AA%E6%95%99%E6%96%87%E4%BB%B6%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9E%AC%E9%97%B4%E5%9E%AE%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 14时39分]"
-        },
-        {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元持股将多达16%",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -478,17 +514,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "被问及邪教文件，高市早苗笑容瞬间消失",
-          "url": "https://news.ifeng.com/c/8qFkGVfxr0H",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
         },
         {
           "title": "韩国贸易特使：韩国政府仍在努力弄清美国总统特朗普的信息和措施的背景。",
@@ -533,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "韩国青瓦台：就美国总统特朗普提及的关税一事，正通过多种渠道进行核实。",
+          "url": "https://flash.jin10.com/detail/20260127150805425800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普突然宣布将韩国商品的关税提高至25%，称韩国国会尚未通过与美国的贸易协定。",
@@ -634,26 +670,26 @@
           "time_info": "07时25分"
         },
         {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "韩国人还在睡梦中特朗普突然下手",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=19&Refer=top",
+          "title": "被问及邪教文件高市早苗笑容消失",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%97%AE%E5%8F%8A%E9%82%AA%E6%95%99%E6%96%87%E4%BB%B6%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%AC%91%E5%AE%B9%E6%B6%88%E5%A4%B1%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时39分"
+          "time_info": "15时31分"
+        },
+        {
+          "title": "高市早苗破防了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
@@ -797,8 +833,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 14时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 15时31分]"
         },
         {
           "title": "历史UP主评价太平年",
@@ -811,11 +847,12 @@
             1,
             28,
             17,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 13时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 15时31分]"
         },
         {
           "title": "国产动画的历史转折之年",
@@ -960,7 +997,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -1002,8 +1039,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 15时31分]"
         }
       ]
     }
