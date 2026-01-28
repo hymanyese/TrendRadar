@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T17:37:16.296831+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2026-01-28T18:32:11.966110+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 80,
+      "match_count": 82,
       "titles": [
         {
           "title": "外交部回应高市早苗涉台最新言论",
@@ -67,6 +67,19 @@
           "time_info": "[09时55分 ~ 15时28分]"
         },
         {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 18时32分]"
+        },
+        {
           "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
           "url": "https://m.thepaper.cn/newsDetail_forward_32473117",
           "source": "澎湃新闻",
@@ -93,19 +106,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时33分 ~ 07时25分]"
-        },
-        {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时47分 ~ 17时37分]"
         },
         {
           "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
@@ -141,8 +141,32 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时39分 ~ 18时32分]"
+        },
+        {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时39分 ~ 17时37分]"
+          "time_info": "[13时32分 ~ 18时32分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -201,19 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 17时37分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -386,6 +397,18 @@
           "time_info": "[14时39分 ~ 14时40分]"
         },
         {
+          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时32分]"
+        },
+        {
           "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
           "url": "https://flash.jin10.com/detail/20260128024954908800",
           "source": "金十数据",
@@ -510,17 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
-        },
-        {
-          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -710,6 +722,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "在美国总统特朗普（就美元疲软）发表评论后，美元期权交易者压倒性看空。",
+          "url": "https://flash.jin10.com/detail/20260128180558252800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "美国法官判定Martha旗下Vineyard风电项目胜诉，此前该国总统特朗普叫停其风电项目。",
           "url": "https://wallstreetcn.com/livenews/3044972",
           "source": "华尔街见闻-快讯",
@@ -738,7 +761,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -936,6 +959,18 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "近7亿！2025年出入境人次创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%917%E4%BA%BF%EF%BC%812025%E5%B9%B4%E5%87%BA%E5%85%A5%E5%A2%83%E4%BA%BA%E6%AC%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 18时32分]"
+        },
+        {
           "title": "马上评｜欣赏历史大剧，需要健康的舆论环境",
           "url": "https://m.thepaper.cn/newsDetail_forward_32473358",
           "source": "澎湃新闻",
@@ -948,20 +983,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时33分 ~ 17时37分]"
-        },
-        {
-          "title": "近7亿！2025年出入境人次创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%917%E4%BA%BF%EF%BC%812025%E5%B9%B4%E5%87%BA%E5%85%A5%E5%A2%83%E4%BA%BA%E6%AC%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 17时37分]"
+          "appearance_count": 25,
+          "time_info": "[00时33分 ~ 18时32分]"
         },
         {
           "title": "历史UP主评价太平年",
