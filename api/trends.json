@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:25:12.927967+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-01-28T09:55:38.292966+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "外交部回应高市早苗涉台最新言论",
@@ -51,11 +51,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 09时55分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -69,13 +70,35 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
+          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
           "url": "https://flash.jin10.com/detail/20260128070752669800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -86,9 +109,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "特朗普：将很快宣布新的美联储主席人选",
+          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
@@ -272,13 +306,24 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
+          "title": "特朗普，两天内动手？",
+          "url": "https://news.ifeng.com/c/8qGwey6pidp",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
           "url": "https://flash.jin10.com/detail/20260128065145858800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -289,7 +334,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -333,7 +378,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -355,7 +400,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -366,7 +411,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -388,7 +433,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -410,7 +455,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -682,7 +727,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "马上评｜欣赏历史大剧，需要健康的舆论环境",
@@ -693,11 +738,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 09时55分]"
         },
         {
           "title": "历史UP主评价太平年",
@@ -710,11 +756,12 @@
             20,
             21,
             16,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 09时55分]"
         },
         {
           "title": "市场消息：随着金属价格创下历史新高，城堡证券（Citadel）也加入了金属交易热潮。",
@@ -764,6 +811,17 @@
           "time_info": "[03时29分 ~ 04时32分]"
         },
         {
+          "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260128093741134800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "标普500指数盘中创下历史新高，涨幅0.5%。",
           "url": "https://flash.jin10.com/detail/20260128001605313800",
           "source": "金十数据",
@@ -810,11 +868,12 @@
             17,
             16,
             12,
-            11
+            11,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时29分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[03时29分 ~ 09时55分]"
         },
         {
           "title": "职场中，你能忍受领导的不专业吗？如果遇到，你会怎么破局？",
