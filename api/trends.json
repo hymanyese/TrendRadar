@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T14:40:04.905747+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-01-28T15:28:50.845284+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 15时28分]"
+        },
+        {
+          "title": "特朗普：将很快宣布新的美联储主席人选",
+          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 15时28分]"
         },
         {
           "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
@@ -68,19 +79,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普：将很快宣布新的美联储主席人选",
-          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 14时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 15时28分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -115,8 +115,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 14时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时47分 ~ 15时28分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -130,15 +130,31 @@
           "time_info": "07时25分"
         },
         {
-          "title": "“美元微笑理论”提出者称特朗普言论或意味着美元新一轮跌势的开始",
-          "url": "https://wallstreetcn.com/livenews/3045330",
-          "source": "华尔街见闻-快讯",
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
           "ranks": [
-            1
+            9,
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 15时28分]"
+        },
+        {
+          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
+          "url": "https://www.cls.cn/detail/2271889",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 15时28分]"
         },
         {
           "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
@@ -172,32 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 14时40分]"
-        },
-        {
-          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
-          "url": "https://www.cls.cn/detail/2271889",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 14时40分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -235,6 +225,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 12时46分]"
+        },
+        {
+          "title": "“美元微笑理论”提出者称特朗普言论或意味着美元新一轮跌势的开始",
+          "url": "https://wallstreetcn.com/livenews/3045330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 15时28分]"
         },
         {
           "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
@@ -342,8 +344,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 15时28分]"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 15时28分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -367,18 +382,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 14时40分]"
         },
         {
           "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
@@ -888,8 +891,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 14时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 15时28分]"
         },
         {
           "title": "历史UP主评价太平年",
@@ -929,8 +932,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 15时28分]"
         },
         {
           "title": "万字拆解最新历史剧太平年",
