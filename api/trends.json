@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T18:32:11.966110+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-01-28T19:25:55.833605+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "外交部回应高市早苗涉台最新言论",
@@ -41,6 +41,19 @@
           "time_info": "[09时55分 ~ 17时37分]"
         },
         {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时47分 ~ 19时25分]"
+        },
+        {
           "title": "外交部回应高市早苗涉台言论",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA",
           "source": "bilibili 热搜",
@@ -65,19 +78,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时55分 ~ 15时28分]"
-        },
-        {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 18时32分]"
         },
         {
           "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
@@ -108,6 +108,17 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
+          "title": "高市早苗现场拉票手持三个话筒，边讲边哭，不停抹泪",
+          "url": "https://v.ifeng.com/c/8qHKHS6xdTe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时39分 ~ 19时25分]"
+        },
+        {
           "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
           "url": "https://www.cls.cn/detail/2271977",
           "source": "财联社热门",
@@ -134,17 +145,6 @@
           "time_info": "[09时55分 ~ 13时32分]"
         },
         {
-          "title": "高市早苗现场拉票手持三个话筒，边讲边哭，不停抹泪",
-          "url": "https://v.ifeng.com/c/8qHKHS6xdTe",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时39分 ~ 18时32分]"
-        },
-        {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
           "url": "https://news.ifeng.com/c/8qHmjbQngoK",
           "source": "凤凰网",
@@ -152,8 +152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时25分]"
         },
         {
           "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
@@ -165,8 +165,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时32分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[13时32分 ~ 19时25分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -502,6 +502,17 @@
           "time_info": "12时46分"
         },
         {
+          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
           "url": "https://flash.jin10.com/detail/20260128065145858800",
           "source": "金十数据",
@@ -728,9 +739,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128183238468800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "美国法官判定Martha旗下Vineyard风电项目胜诉，此前该国总统特朗普叫停其风电项目。",
@@ -956,7 +978,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "近7亿！2025年出入境人次创历史新高",
@@ -967,8 +989,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时47分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[11时47分 ~ 19时25分]"
         },
         {
           "title": "马上评｜欣赏历史大剧，需要健康的舆论环境",
@@ -983,8 +1005,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时33分 ~ 18时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时33分 ~ 19时25分]"
         },
         {
           "title": "历史UP主评价太平年",
@@ -1073,6 +1095,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "日本2025年电影票房收入2744亿日元创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3045538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "阿斯麦恢复交易后股价上涨7.2%，创历史新高，此前其订单量远超预期。",
