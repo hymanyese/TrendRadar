@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T11:47:48.108756+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-01-28T12:46:59.649157+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 67,
+      "match_count": 70,
       "titles": [
         {
           "title": "外交部回应高市早苗涉台最新言论",
@@ -56,8 +56,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 11时47分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时46分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -90,8 +90,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
         },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -101,8 +101,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -116,15 +116,15 @@
           "time_info": "07时25分"
         },
         {
-          "title": "外媒：特朗普声称自己没有阿尔茨海默病，但忘了这个病名",
-          "url": "https://flash.jin10.com/detail/20260128113831950800",
+          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
+          "url": "https://flash.jin10.com/detail/20260128123413943800",
           "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时47分"
+          "time_info": "12时46分"
         },
         {
           "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
@@ -147,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
+          "url": "https://wallstreetcn.com/livenews/3045261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -172,6 +183,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时42分]"
+        },
+        {
+          "title": "外媒：特朗普声称自己没有阿尔茨海默病，但忘了这个病名",
+          "url": "https://flash.jin10.com/detail/20260128113831950800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时46分]"
         },
         {
           "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
@@ -244,8 +267,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
+        },
+        {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时47分]"
+          "time_info": "[11时47分 ~ 12时46分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -258,6 +292,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时29分]"
+        },
+        {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时46分]"
         },
         {
           "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
@@ -296,6 +341,18 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
+          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
+          "url": "https://www.cls.cn/detail/2271889",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时46分]"
+        },
+        {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
           "url": "https://wallstreetcn.com/livenews/3044921",
           "source": "华尔街见闻-快讯",
@@ -331,15 +388,15 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
+          "title": "特朗普称还有一支舰队正驶向伊朗",
+          "url": "https://www.douyin.com/hot/2381636",
+          "source": "抖音",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时47分"
+          "time_info": "12时46分"
         },
         {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
@@ -362,28 +419,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
-        },
-        {
-          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
-          "url": "https://www.cls.cn/detail/2271889",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -789,8 +824,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 11时47分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时46分]"
         },
         {
           "title": "历史UP主评价太平年",
@@ -859,6 +894,17 @@
           "time_info": "[03时29分 ~ 04时32分]"
         },
         {
+          "title": "近7亿！2025年出入境人次创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%917%E4%BA%BF%EF%BC%812025%E5%B9%B4%E5%87%BA%E5%85%A5%E5%A2%83%E4%BA%BA%E6%AC%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时46分]"
+        },
+        {
           "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
           "url": "https://flash.jin10.com/detail/20260128093741134800",
           "source": "金十数据",
@@ -879,17 +925,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "近7亿！2025年出入境人次创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%917%E4%BA%BF%EF%BC%812025%E5%B9%B4%E5%87%BA%E5%85%A5%E5%A2%83%E4%BA%BA%E6%AC%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
         },
         {
           "title": "香港2025年商品出口货值创历史新高",
@@ -932,8 +967,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时29分 ~ 11时47分]"
+          "appearance_count": 12,
+          "time_info": "[03时29分 ~ 12时46分]"
         },
         {
           "title": "职场中，你能忍受领导的不专业吗？如果遇到，你会怎么破局？",
