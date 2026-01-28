@@ -1,97 +1,12 @@
 {
-  "generated_at": "2026-01-28T23:36:26.679183+08:00",
-  "total_titles_processed": 2197,
+  "generated_at": "2026-01-29T00:40:52.204828+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 108,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "外交部回应高市早苗涉台最新言论",
-          "url": "https://news.ifeng.com/c/8qFzd3FvOdW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时25分]"
-        },
-        {
-          "title": "“高市下台！”高市早苗选举拉票演讲第一站，遭日本民众抗议(图)",
-          "url": "https://news.ifeng.com/c/8qFyqvPQsmw",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普：将很快宣布新的美联储主席人选",
-          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 17时37分]"
-        },
-        {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时31分 ~ 23时36分]"
-        },
-        {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时47分 ~ 23时36分]"
-        },
-        {
-          "title": "外交部回应高市早苗涉台言论",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            26,
-            25,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时26分]"
-        },
-        {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 15时28分]"
-        },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
           "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
@@ -100,1373 +15,201 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时55分 ~ 23时36分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32473117",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            7,
-            8,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 16时36分]"
-        },
-        {
-          "title": "高市早苗现场拉票手持三个话筒，边讲边哭，不停抹泪",
-          "url": "https://v.ifeng.com/c/8qHKHS6xdTe",
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
           "source": "凤凰网",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时39分 ~ 20时55分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时25分]"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时47分 ~ 17时37分]"
-        },
-        {
-          "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
-          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
-          "source": "凤凰网",
-          "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
           "url": "https://www.cls.cn/detail/2273107",
           "source": "财联社热门",
           "ranks": [
-            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时51分 ~ 23时36分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时32分 ~ 19时25分]"
-        },
-        {
-          "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
-          "url": "https://flash.jin10.com/detail/20260128070752669800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
-          "url": "https://www.cls.cn/detail/2271889",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 15时28分]"
-        },
-        {
-          "title": "巴克莱：受特朗普支持美元走弱的政策推动，投资者对持有美元的额外回报需求正在增长。",
-          "url": "https://flash.jin10.com/detail/20260128221221657800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
-          "url": "https://wallstreetcn.com/livenews/3045037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
-          "url": "https://flash.jin10.com/detail/20260128035859142800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "英媒：马斯克或将SpaceX上市日定于6月 行星连珠与生日共铸“吉时”",
-          "url": "https://flash.jin10.com/detail/20260128131808174800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "特朗普称国土安全部部长诺姆不会辞职",
-          "url": "https://wallstreetcn.com/livenews/3044932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时32分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
-          "url": "https://flash.jin10.com/detail/20260128010825738800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 02时42分]"
-        },
-        {
-          "title": "外媒：特朗普声称自己没有阿尔茨海默病，但忘了这个病名",
-          "url": "https://flash.jin10.com/detail/20260128113831950800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时46分]"
-        },
-        {
-          "title": "“美元微笑理论”提出者称特朗普言论或意味着美元新一轮跌势的开始",
-          "url": "https://wallstreetcn.com/livenews/3045330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时28分]"
-        },
-        {
-          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时55分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3044930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时32分]"
-        },
-        {
-          "title": "特朗普，两天内动手？",
-          "url": "https://news.ifeng.com/c/8qGwey6pidp",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 13时32分]"
-        },
-        {
-          "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
-          "url": "https://flash.jin10.com/detail/20260128010748956800",
+          "title": "美国总统特朗普：让泽尔丁负责洛杉矶山火重建许可。",
+          "url": "https://flash.jin10.com/detail/20260129002712537800",
           "source": "金十数据",
           "ranks": [
-            2,
-            27
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 02时42分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
-          "url": "https://flash.jin10.com/detail/20260128123413943800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时32分]"
-        },
-        {
-          "title": "策略师：新美联储主席或更顺从特朗普 这将强化黄金涨势",
-          "url": "https://flash.jin10.com/detail/20260128204309206800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 21时52分]"
-        },
-        {
-          "title": "特朗普再发声威胁：希望伊朗能“回到谈判桌前”",
-          "url": "https://wallstreetcn.com/livenews/3045595",
+          "title": "美国总统特朗普赞赏财长贝森特，称自己不想失去他。",
+          "url": "https://wallstreetcn.com/livenews/3045707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            22
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 21时52分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
-          "title": "特朗普就美国明尼苏达州枪击案致死事件发表评论：“你不能带着枪走进去”",
-          "url": "https://wallstreetcn.com/livenews/3044928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时32分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：（就对伊朗进行先发制人打击的可能性）特朗普总统会做出他想做的决定，以色列也会做出本国想做的决定。",
-          "url": "https://flash.jin10.com/detail/20260128030726732800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时32分]"
-        },
-        {
-          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
-          "url": "https://wallstreetcn.com/livenews/3045261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时32分]"
-        },
-        {
-          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
-          "url": "https://wallstreetcn.com/livenews/3045623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时34分]"
-        },
-        {
-          "title": "分析：特朗普或抢在FOMC期间宣布新任美联储主席",
-          "url": "https://flash.jin10.com/detail/20260128214203738800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时34分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
-          "url": "https://flash.jin10.com/detail/20260128030532843800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时32分]"
-        },
-        {
-          "title": "特朗普称国土安全部部长诺姆不会辞职",
-          "url": "https://flash.jin10.com/detail/20260128021631396800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时29分]"
-        },
-        {
-          "title": "特朗普回应美公民被ICE枪杀",
-          "url": "https://www.douyin.com/hot/2381946",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时32分]"
-        },
-        {
-          "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
-          "url": "https://flash.jin10.com/detail/20260128024954908800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时32分]"
-        },
-        {
-          "title": "美国总统特朗普：美方准备支持叙利亚重建。",
-          "url": "https://wallstreetcn.com/livenews/3044943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时32分]"
-        },
-        {
-          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
-          "url": "https://wallstreetcn.com/livenews/3045007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3044921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时29分]"
-        },
-        {
-          "title": "特朗普疯狂驱赶“非法移民”之际，美国去年人口增幅创2021年以来最慢",
-          "url": "https://wallstreetcn.com/livenews/3044937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时32分]"
-        },
-        {
-          "title": "外交部回应高市早苗涉台言论",
-          "url": "https://www.douyin.com/hot/2381125",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
-        },
-        {
-          "title": "韩国总统顾问：美国总统特朗普发出的对韩国加征关税的信息，反映了他对国会审议贸易协定进度缓慢的沮丧。",
-          "url": "https://flash.jin10.com/detail/20260128161628174800",
+          "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
+          "url": "https://flash.jin10.com/detail/20260129002349346800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "特朗普称还有一支舰队正驶向伊朗",
-          "url": "https://www.douyin.com/hot/2381636",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
-          "url": "https://flash.jin10.com/detail/20260128065145858800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "美国总统特朗普：农民们将开始感受到贸易协议带来的好处。",
-          "url": "https://wallstreetcn.com/livenews/3045031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "00时40分"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
           "url": "https://www.cls.cn/detail/2273193",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "韩国总统顾问：正如美国总统特朗普所说，我们会共同寻求关税解决方案。",
-          "url": "https://flash.jin10.com/detail/20260128161606852800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时36分"
+          "time_info": "00时40分"
         },
         {
-          "title": "美国财长贝森特：总统特朗普希望民主党不要让政府（在1月30日）关门。",
-          "url": "https://wallstreetcn.com/livenews/3045679",
+          "title": "美国总统特朗普在“特朗普账户”活动上讲话：（在获得捐款后）赞赏戴尔科技。",
+          "url": "https://wallstreetcn.com/livenews/3045705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "资管机构：预计美元今年将下探最近十一年低位，跌势可能至少会持续至特朗普任期届满",
+          "url": "https://wallstreetcn.com/livenews/3045703",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时36分"
+          "time_info": "00时40分"
         },
         {
-          "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
-          "url": "https://flash.jin10.com/detail/20260128045028664800",
+          "title": "美国国务卿鲁比奥：作为总司令，美国总统特朗普从未排除任何选项，但目前在委内瑞拉，唯一的军事存在形式将是驻在大使馆的海军卫队。",
+          "url": "https://flash.jin10.com/detail/20260129001106475800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "00时40分"
         },
         {
-          "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
-          "url": "https://wallstreetcn.com/livenews/3044866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "英镑兑美元涨1.4%，刷新2021年9月以来高位至1.3868，特朗普称不担心美元下跌。",
-          "url": "https://wallstreetcn.com/livenews/3044980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普的通话中，多次提及俄罗斯总统普京与乌克兰总统泽连斯基会晤的问题。特朗普曾建议我们考虑这种可能性，我们并不拒绝接触。",
-          "url": "https://flash.jin10.com/detail/20260128202218221800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3045027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "美国财长贝森特：在飞机上与总统特朗普长时间谈论美联储主席。 美联储主席候选人的规模没有变化（既没有增加、也没有减少）。 现在仍然还有四位候选人。 我不会推荐美联储主席，只是（向特朗普）提供建议而已。",
-          "url": "https://wallstreetcn.com/livenews/3045676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "特朗普再对伊朗放出威胁",
-          "url": "https://www.douyin.com/hot/2382486",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "特朗普：下次对伊朗的打击将更猛烈",
-          "url": "https://www.toutiao.com/trending/7600297879542399019/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "特朗普：我不认为美元贬值太多。",
-          "url": "https://flash.jin10.com/detail/20260128044932917800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：农业器械公司DEERE & CO将在北卡罗来纳州进行工厂投资。",
-          "url": "https://flash.jin10.com/detail/20260128063616851800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "美国总统特朗普被问及监管问题，称：将针对卡车采取某些行动。",
-          "url": "https://wallstreetcn.com/livenews/3045026",
+          "title": "报道：SpaceX上市时间可能定在6月以契合天象及马斯克生日",
+          "url": "https://wallstreetcn.com/livenews/3045700",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "特朗普：美元表现很好，不担心美元下跌",
-          "url": "https://wallstreetcn.com/livenews/3044976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普兜售在贸易协议中与英国和日本达成的共识。 特朗普称：许多人向我问及乙醇。",
-          "url": "https://wallstreetcn.com/livenews/3045025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "特朗普谈美元：我可以像玩悠悠球一样让它涨跌。",
-          "url": "https://flash.jin10.com/detail/20260128044753884800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "欧元4年多来首次升破1.2 分析师：特朗普讲话触发大规模止损",
-          "url": "https://flash.jin10.com/detail/20260128062845628800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "美国总统特朗普：希望看到利率下降。",
-          "url": "https://wallstreetcn.com/livenews/3044916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
-          "url": "https://flash.jin10.com/detail/20260127232506292800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "美国总统特朗普：美元正在回归其自身应有的水平，这是合理的。",
-          "url": "https://flash.jin10.com/detail/20260128044733633800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普警告：对伊朗下一次袭击将更严重",
-          "url": "https://flash.jin10.com/detail/20260128202043461800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "美国总统特朗普：市长雅各布·弗雷刚刚称明尼阿波利斯既不执行，也不会执行联邦移民法，令人惊讶。希望他身边的人能解释清楚，这种声明是对法律的严重违反，他这是在玩火！",
-          "url": "https://flash.jin10.com/detail/20260128212652226800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "美国总统特朗普谈及联邦执法人员在明尼苏达州枪杀Pretti事件，声称：正进行“大规模的”调查。 我将观看调查（过程/结果）。",
-          "url": "https://wallstreetcn.com/livenews/3044915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "美国总统特朗普：如果最高法院否决关税政策，将找到其他方式来处理贸易问题。",
-          "url": "https://wallstreetcn.com/livenews/3045001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美国总统特朗普：古巴非常接近失败。",
-          "url": "https://flash.jin10.com/detail/20260128044705003800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "在美国总统特朗普（就美元疲软）发表评论后，美元期权交易者压倒性看空。",
-          "url": "https://flash.jin10.com/detail/20260128180558252800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-28）",
-          "url": "https://flash.jin10.com/detail/20260128183238468800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "00时40分"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
           "source": "澎湃新闻",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
-          "url": "https://flash.jin10.com/detail/20260128212505003800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时52分"
+          "time_info": "00时40分"
         },
         {
-          "title": "美国法官判定Martha旗下Vineyard风电项目胜诉，此前该国总统特朗普叫停其风电项目。",
-          "url": "https://wallstreetcn.com/livenews/3044972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：日本一直都想让货币贬值。",
-          "url": "https://flash.jin10.com/detail/20260128044602406800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "惠誉评级：越南不断扩大的贸易顺差可能引发特朗普政府的更严格审查，增加了美国采取额外贸易措施的风险。",
-          "url": "https://flash.jin10.com/detail/20260128165630688800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "拜登批评特朗普政府在明州的移民执法行动",
-          "url": "https://wallstreetcn.com/livenews/3044911",
+          "title": "Rieder曾向特朗普对手和民主党高层捐款，恐给竞逐美联储主席添波折",
+          "url": "https://wallstreetcn.com/livenews/3045691",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "00时40分"
         },
         {
-          "title": "特朗普：明尼苏达州联邦执法将适度放缓 但不会停",
-          "url": "https://wallstreetcn.com/livenews/3045667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "在特朗普发表评论后，美元指数DXY拉升约10点。",
-          "url": "https://flash.jin10.com/detail/20260128044444108800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：美元的价值很棒，美元状况很好。",
-          "url": "https://flash.jin10.com/detail/20260128044418133800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：一支庞大的舰队正快速驶向伊朗，规模比派往委内瑞拉的舰队更大。",
-          "url": "https://flash.jin10.com/detail/20260128201559045800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "德国央行行长：欧洲央行在制定货币政策时必须密切留意特朗普论调的外溢性",
-          "url": "https://wallstreetcn.com/livenews/3044929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "美国总统特朗普：边境事务协调员汤姆·霍曼正在明尼苏达州；他会见了州长，并将会见明尼阿波利斯市长；进展非常顺利。",
-          "url": "https://flash.jin10.com/detail/20260128044026255800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "土耳其总统办公室：埃尔多安与美国总统特朗普通了电话，强调必须在叙利亚全面落实停火和整合协议。",
-          "url": "https://flash.jin10.com/detail/20260128043928475800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：下一次对伊朗的袭击将比对核设施的袭击更糟。",
-          "url": "https://flash.jin10.com/detail/20260128201504330800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "美国总统特朗普：对标普500指数涨至7000点表示欢迎。",
-          "url": "https://wallstreetcn.com/livenews/3045663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
-          "url": "https://flash.jin10.com/detail/20260128002342619800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "美国总统特朗普：乌克兰和俄罗斯之间正在发生非常好的事情。",
-          "url": "https://flash.jin10.com/detail/20260128011246828800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "悠悠球世界冠军上线！特朗普亲自画出大阴线丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260128155108590800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "美国总统特朗普：一支“庞大舰队”正迅速驶向伊朗，伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260128201349567800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "美国总统特朗普：霍曼（边境事务协调员）稍后将在明尼阿波利斯会见州长和市长。",
-          "url": "https://flash.jin10.com/detail/20260128010909664800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "美国总统特朗普：（当被问及提高对韩关税时）我们将与韩国一道找到解决方案。",
-          "url": "https://flash.jin10.com/detail/20260128053943397800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美国总统特朗普：对伊朗的下一次袭击将严重得多。",
-          "url": "https://flash.jin10.com/detail/20260128201325185800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普叫停的玛莎葡萄园岛（Martha' s Vineyard）风力发电项目被法官重启。",
-          "url": "https://flash.jin10.com/detail/20260128043052698800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普：联邦政府在明州的移民执法行动将适当降级",
-          "url": "https://flash.jin10.com/detail/20260128053911515800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美国总统特朗普：希望伊朗能尽快“坐到谈判桌前”，伊朗的时间不多了。",
-          "url": "https://flash.jin10.com/detail/20260128201304078800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "美国总统特朗普：我们与叙利亚共同解决了一个巨大的问题。",
-          "url": "https://flash.jin10.com/detail/20260128053828076800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "Pilot Travel Centers（伯克希尔哈撒韦附属公司）与马斯克旗下特斯拉公司达成合作伙伴关系协议。 特斯拉将帮助Pilot在美国加利福尼亚、弗吉尼亚、内华达、新墨西哥、以及得克萨斯等州打造重型电动半拖车充电网络。",
-          "url": "https://wallstreetcn.com/livenews/3044876",
+          "title": "美国财长贝森特：总统特朗普希望民主党不要让政府（在1月30日）关门。",
+          "url": "https://wallstreetcn.com/livenews/3045679",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "00时40分"
         },
         {
-          "title": "美国总统特朗普：我们必须利用关税来维护世界和平。如果最高法院废除关税，那将会给各方带来更多不便。",
-          "url": "https://flash.jin10.com/detail/20260128053802752800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美国总统特朗普：农民将是关税的最大受益者。",
-          "url": "https://flash.jin10.com/detail/20260128053757706800",
-          "source": "金十数据",
+          "title": "美国财长贝森特：在飞机上与总统特朗普长时间谈论美联储主席。 美联储主席候选人的规模没有变化（既没有增加、也没有减少）。 现在仍然还有四位候选人。 我不会推荐美联储主席，只是（向特朗普）提供建议而已。",
+          "url": "https://wallstreetcn.com/livenews/3045676",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "00时40分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "近7亿！2025年出入境人次创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%917%E4%BA%BF%EF%BC%812025%E5%B9%B4%E5%87%BA%E5%85%A5%E5%A2%83%E4%BA%BA%E6%AC%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时47分 ~ 20时55分]"
-        },
-        {
-          "title": "马上评｜欣赏历史大剧，需要健康的舆论环境",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32473358",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时33分 ~ 19时25分]"
-        },
-        {
-          "title": "历史UP主评价太平年",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%8F%B2UP%E4%B8%BB%E8%AF%84%E4%BB%B7%E5%A4%AA%E5%B9%B3%E5%B9%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            18,
-            15,
-            20,
-            21,
-            16,
-            17,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 11时47分]"
-        },
-        {
-          "title": "市场消息：随着金属价格创下历史新高，城堡证券（Citadel）也加入了金属交易热潮。",
-          "url": "https://flash.jin10.com/detail/20260128040528813800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "现货黄金站上5300美元/盎司，续创历史新高，日内涨超2%。 纽约金涨超4%，现报5331.90美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3045426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "万字拆解最新历史剧太平年",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E6%8B%86%E8%A7%A3%E6%9C%80%E6%96%B0%E5%8E%86%E5%8F%B2%E5%89%A7%E5%A4%AA%E5%B9%B3%E5%B9%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 06时26分]"
-        },
-        {
-          "title": "中东股市收盘播报｜沙特股市收涨约1%，埃及股指涨约0.7%继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3044941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时32分]"
-        },
-        {
-          "title": "美国纽约市周三（1月28日）电价飙涨31%，至历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3044955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时32分]"
-        },
-        {
-          "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
-          "url": "https://flash.jin10.com/detail/20260128093741134800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "日本2025年电影票房收入2744亿日元创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3045538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "阿斯麦恢复交易后股价上涨7.2%，创历史新高，此前其订单量远超预期。",
-          "url": "https://flash.jin10.com/detail/20260128160619855800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "欧股阿斯麦股价上涨7.2%，创下历史新高，此前公布了创纪录的第四季度订单量。",
-          "url": "https://wallstreetcn.com/livenews/3045404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "标普500指数盘中创下历史新高，涨幅0.5%。",
-          "url": "https://flash.jin10.com/detail/20260128001605313800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "香港2025年商品出口货值创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3044846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "美股半导体指数涨2.4%，创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3044981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
       "match_count": 2,
       "titles": [
         {
-          "title": "家长打印 A0 尺寸超大版寒假试卷火了，如何评价这一做法？在提升学习兴趣上，家长们还做过哪些特别尝试？",
-          "url": "https://www.zhihu.com/question/1999145951735013972",
-          "source": "知乎",
+          "title": "金价屡创历史新高意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            17,
-            16,
-            12,
-            11,
-            3,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时29分 ~ 14时40分]"
-        },
-        {
-          "title": "职场中，你能忍受领导的不专业吗？如果遇到，你会怎么破局？",
-          "url": "https://www.zhihu.com/question/14165630920",
-          "source": "知乎",
-          "ranks": [
-            20
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "00时40分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周三（1月28日），南非富时/JSE非洲领先40可交易指数收涨1.49%，时隔一个交易日再创收盘历史新高，逼近11.75万点。",
+          "url": "https://wallstreetcn.com/livenews/3045694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
         }
       ]
     }
