@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T09:55:38.292966+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-01-28T11:47:48.108756+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "外交部回应高市早苗涉台最新言论",
@@ -52,11 +52,12 @@
             5,
             6,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 11时47分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -76,20 +77,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时47分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
           "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普：将很快宣布新的美联储主席人选",
+          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时47分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -103,6 +116,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "外媒：特朗普声称自己没有阿尔茨海默病，但忘了这个病名",
+          "url": "https://flash.jin10.com/detail/20260128113831950800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
           "url": "https://wallstreetcn.com/livenews/3045037",
           "source": "华尔街见闻-快讯",
@@ -112,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "特朗普：将很快宣布新的美联储主席人选",
-          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         },
         {
           "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
@@ -223,6 +236,18 @@
           "time_info": "[03时29分 ~ 04时32分]"
         },
         {
+          "title": "特朗普，两天内动手？",
+          "url": "https://news.ifeng.com/c/8qGwey6pidp",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时47分]"
+        },
+        {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
           "url": "https://flash.jin10.com/detail/20260128021631396800",
           "source": "金十数据",
@@ -306,15 +331,15 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
-          "title": "特朗普，两天内动手？",
-          "url": "https://news.ifeng.com/c/8qGwey6pidp",
-          "source": "凤凰网",
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "11时47分"
         },
         {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
@@ -337,6 +362,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
+          "url": "https://www.cls.cn/detail/2271889",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -727,7 +774,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "马上评｜欣赏历史大剧，需要健康的舆论环境",
@@ -742,8 +789,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 11时47分]"
         },
         {
           "title": "历史UP主评价太平年",
@@ -757,11 +804,12 @@
             21,
             16,
             17,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 09时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 11时47分]"
         },
         {
           "title": "市场消息：随着金属价格创下历史新高，城堡证券（Citadel）也加入了金属交易热潮。",
@@ -817,7 +865,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -831,6 +879,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "近7亿！2025年出入境人次创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%917%E4%BA%BF%EF%BC%812025%E5%B9%B4%E5%87%BA%E5%85%A5%E5%A2%83%E4%BA%BA%E6%AC%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "香港2025年商品出口货值创历史新高",
@@ -869,11 +928,12 @@
             16,
             12,
             11,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时29分 ~ 09时55分]"
+          "appearance_count": 11,
+          "time_info": "[03时29分 ~ 11时47分]"
         },
         {
           "title": "职场中，你能忍受领导的不专业吗？如果遇到，你会怎么破局？",
