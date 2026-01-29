@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T15:41:37.309890+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-01-29T16:43:03.188657+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -73,6 +73,20 @@
           "time_info": "[00时40分 ~ 10时09分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时09分 ~ 16时43分]"
+        },
+        {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
@@ -83,19 +97,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 15时41分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -120,11 +121,12 @@
             12,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 16时43分]"
         },
         {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
@@ -133,11 +135,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 16时43分]"
         },
         {
           "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
@@ -149,8 +152,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 16时43分]"
         },
         {
           "title": "马斯克：特斯拉“有望”在4月份首发下一代Roadster。",
@@ -269,6 +272,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时09分 ~ 12时29分]"
+        },
+        {
+          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
+          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
@@ -722,6 +736,19 @@
           "time_info": "[01时34分 ~ 06时29分]"
         },
         {
+          "title": "三角洲蝶变时刻故事短片",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%9D%B6%E5%8F%98%E6%97%B6%E5%88%BB%E6%95%85%E4%BA%8B%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 16时43分]"
+        },
+        {
           "title": "现货黄金涨超3%，在鲍威尔新闻发布会结束之际刷新历史高位至5341.85美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3045814",
           "source": "华尔街见闻-快讯",
@@ -731,6 +758,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "章泽天翻车，陈鲁豫受捧，我们需要什么样的人物访谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32487178",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 16时43分]"
         },
         {
           "title": "现货黄金涨超4.5%，刷新历史高位至5400美元上方，纽约期金涨超5.8%",
@@ -766,40 +806,29 @@
           "time_info": "13时46分"
         },
         {
-          "title": "三角洲蝶变时刻故事短片",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%9D%B6%E5%8F%98%E6%97%B6%E5%88%BB%E6%95%85%E4%BA%8B%E7%9F%AD%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 15时41分]"
-        },
-        {
-          "title": "章泽天翻车，陈鲁豫受捧，我们需要什么样的人物访谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32487178",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 15时41分]"
-        },
-        {
           "title": "《太平年》的钱氏家族在历史上真实情况如何？真如网上说的那么厉害吗？",
           "url": "https://www.zhihu.com/question/1999875333021725095",
           "source": "知乎",
           "ranks": [
             15,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 15时41分]"
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 16时43分]"
+        },
+        {
+          "title": "如何评价三联生活《从教二十年，我目睹高中历史从必修到边缘》一文？",
+          "url": "https://www.zhihu.com/question/1999446887669991325",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 16时43分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（1月28日），南非富时/JSE非洲领先40可交易指数收涨1.49%，时隔一个交易日再创收盘历史新高，逼近11.75万点。",
@@ -878,17 +907,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
-        },
-        {
-          "title": "如何评价三联生活《从教二十年，我目睹高中历史从必修到边缘》一文？",
-          "url": "https://www.zhihu.com/question/1999446887669991325",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
         },
         {
           "title": "特鲁宾成欧冠历史第五位进球的门将",
