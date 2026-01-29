@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T07:28:58.328421+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-01-29T10:09:37.834787+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 10时09分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -39,11 +39,12 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 10时09分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -64,11 +65,12 @@
             14,
             12,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 10时09分]"
         },
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
@@ -83,13 +85,24 @@
           "time_info": "[00时40分 ~ 05时32分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "马斯克：特斯拉“有望”在4月份首发下一代Roadster。",
           "url": "https://wallstreetcn.com/livenews/3045887",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -286,13 +299,24 @@
           "time_info": "02时41分"
         },
         {
+          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
+          "url": "https://www.cls.cn/detail/2273332",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：不打算在特斯拉之外销售芯片，因为我们需要它们。",
           "url": "https://flash.jin10.com/detail/20260129071338403800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -306,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "特朗普再次暗示不会提名哈塞特执掌美联储",
@@ -358,7 +393,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -380,7 +415,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -391,9 +426,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "特朗普被曝正考虑对伊朗发动重大打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E6%AD%A3%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E9%87%8D%E5%A4%A7%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：预计随着时间的推移，将增加弗里蒙特工厂的员工人数。",
@@ -402,7 +448,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -424,7 +470,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -446,7 +492,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -501,7 +547,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -512,7 +558,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -542,7 +588,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "金价屡创历史新高意味着什么",
@@ -551,11 +597,12 @@
           "ranks": [
             3,
             12,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 10时09分]"
         },
         {
           "title": "怎么评价历史剧《太平年》？",
@@ -601,7 +648,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -624,7 +671,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -640,6 +687,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "特鲁宾成欧冠历史第五位进球的门将",
+          "url": "https://www.toutiao.com/trending/7600020247593779236/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "现货黄金突破5350美元/盎司，再创历史新高，日内涨3.29%。",
           "url": "https://wallstreetcn.com/livenews/3045817",
           "source": "华尔街见闻-快讯",
@@ -651,6 +709,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "贵金属板块继续大涨，白银有色8连板，中国黄金、四川黄金、豫光金铅5连板，招金黄金、湖南黄金4连板，西部黄金2连板，晓程科技涨近19%，股价续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3045976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
           "url": "https://wallstreetcn.com/livenews/3045814",
           "source": "华尔街见闻-快讯",
@@ -660,6 +729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "历史老街墙现低俗擦边标语 当地介入",
+          "url": "https://www.toutiao.com/trending/7600392319761858601/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -674,7 +754,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
