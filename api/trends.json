@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T06:31:21.292975+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-01-30T07:29:34.393716+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 61,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -38,8 +38,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时29分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -53,15 +53,26 @@
           "time_info": "[00时46分 ~ 05时30分]"
         },
         {
-          "title": "据知情人士透露，马斯克旗下SpaceX考虑与特斯拉合并，或者与xAI合并。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3046720",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：特朗普与民主党就资金问题达成协议，以避免政府停摆",
+          "url": "https://flash.jin10.com/detail/20260130071806657800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时29分"
+        },
+        {
+          "title": "美国总统特朗普：我正与国会紧密合作，以确保我们能够及时为政府提供充足资金，毫不拖延。",
+          "url": "https://flash.jin10.com/detail/20260130071202348800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "美国总统特朗普：与礼来制药老板对话。",
@@ -163,6 +174,18 @@
           "time_info": "[00时46分 ~ 01时39分]"
         },
         {
+          "title": "据知情人士透露，马斯克旗下SpaceX考虑与特斯拉合并，或者与xAI合并。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3046720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
           "title": "美国总统特朗普：下周将宣布美联储主席人选。",
           "url": "https://flash.jin10.com/detail/20260130011653273800",
           "source": "金十数据",
@@ -236,6 +259,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时52分 ~ 04时34分]"
+        },
+        {
+          "title": "特朗普：普京同意停火一周",
+          "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
         },
         {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
@@ -334,6 +368,18 @@
           "time_info": "[02时52分 ~ 03时32分]"
         },
         {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
           "title": "特朗普：普京同意停火一周",
           "url": "https://flash.jin10.com/detail/20260130011030336800",
           "source": "金十数据",
@@ -418,17 +464,6 @@
           "time_info": "[02时52分 ~ 03时32分]"
         },
         {
-          "title": "特朗普：普京同意停火一周",
-          "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
           "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
           "url": "https://flash.jin10.com/detail/20260130035139767800",
           "source": "金十数据",
@@ -440,15 +475,26 @@
           "time_info": "04时34分"
         },
         {
-          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
-          "url": "https://wallstreetcn.com/articles/3764456",
-          "source": "华尔街见闻",
+          "title": "在特朗普宣布与古巴相关的贸易威胁后，现货黄金突破5430美元/盎司，日内涨1.17%。",
+          "url": "https://flash.jin10.com/detail/20260130070435032800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "07时29分"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态 并对向古巴输油的国家加征关税",
+          "url": "https://flash.jin10.com/detail/20260130070318805800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -460,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普宣称：特使Witkoff有“好消息”。",
+          "url": "https://wallstreetcn.com/livenews/3046729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：更加接近避免美国发生政府关门。 总统特朗普的白宫正与民主党研究（与移民海关执法部门ICE/国土安全部HSD相关）的预算拨款方案。 国土安全部将根据应急方案获得临时性的资金支持。 但愿、希望众议院复会，帮助避免特朗普政府自去年10月1日以来再次发生停摆。",
@@ -583,6 +640,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "特朗普在椭圆形办公室活动结束时拒绝回答记者提问，这是他日内第二次这样做。",
+          "url": "https://flash.jin10.com/detail/20260130065813354800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "分析：特朗普不希望政府停摆重演",
           "url": "https://flash.jin10.com/detail/20260130005016712800",
           "source": "金十数据",
@@ -614,6 +682,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：俄乌局势取得很大进展，俄罗斯一周内不会进行开火。",
+          "url": "https://flash.jin10.com/detail/20260130065258833800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "美国总统特朗普：石油公司将为美国和委内瑞拉创造财富。",
@@ -693,6 +772,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "美国总统特朗普签署行政命令打击毒瘾和药物滥用，称之为“伟大的美国复苏计划”。",
+          "url": "https://flash.jin10.com/detail/20260130063308194800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "特朗普最新回应美军机南海坠毁，“有可能是燃油出了问题”",
           "url": "https://wallstreetcn.com/livenews/3046596",
           "source": "华尔街见闻-快讯",
@@ -702,6 +792,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：美国特使威特科夫带来了一些相当不错的消息。",
+          "url": "https://flash.jin10.com/detail/20260130063254804800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "美国政府停摆风险迫近，特朗普与民主党人接近达成协议",
@@ -718,7 +819,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何看待大批中成药将退出市场，结束说明书中「尚不明确」的历史？",
@@ -731,8 +832,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时29分]"
         },
         {
           "title": "章泽天翻车，陈鲁豫受捧，我们需要什么样的人物访谈",
@@ -743,8 +844,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时29分]"
         },
         {
           "title": "“历史性里程碑”，越南和欧盟升级外交关系",
@@ -756,6 +857,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 05时30分]"
+        },
+        {
+          "title": "苹果被问及印度市场，CEO库克称：苹果在12月那个财季于印度市场创收入历史新高。 其中，iPhone、Mac、iPad创历史新高。 地区服务也创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3046738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "非洲股市收盘播报｜周三（8月6日），南非富时/JSE非洲领先40可交易指数收涨0.17%，再次创收盘历史新高，逼近11.8万点，盘初飙升至11.9万点上方创盘中历史新高，随后回吐涨幅。",
@@ -810,7 +922,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -821,9 +933,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "苹果营收创历史新高 在中国市场强劲复苏",
+          "url": "https://flash.jin10.com/detail/20260130063938048800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         }
       ]
     }
