@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-30T05:30:52.677702+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-01-30T06:31:21.292975+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
+        {
+          "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
+        },
         {
           "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
           "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
@@ -19,15 +30,16 @@
           "time_info": "[00时46分 ~ 05时30分]"
         },
         {
-          "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 05时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 06时31分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -41,15 +53,15 @@
           "time_info": "[00时46分 ~ 05时30分]"
         },
         {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
+          "title": "据知情人士透露，马斯克旗下SpaceX考虑与特斯拉合并，或者与xAI合并。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3046720",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 05时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "美国总统特朗普：与礼来制药老板对话。",
@@ -406,6 +418,17 @@
           "time_info": "[02时52分 ~ 03时32分]"
         },
         {
+          "title": "特朗普：普京同意停火一周",
+          "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
           "url": "https://flash.jin10.com/detail/20260130035139767800",
           "source": "金十数据",
@@ -415,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -456,7 +490,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -684,30 +718,8 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "章泽天翻车，陈鲁豫受捧，我们需要什么样的人物访谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32487178",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 05时30分]"
-        },
-        {
-          "title": "“历史性里程碑”，越南和欧盟升级外交关系",
-          "url": "https://news.ifeng.com/c/8qJkP9GmafD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 05时30分]"
-        },
         {
           "title": "如何看待大批中成药将退出市场，结束说明书中「尚不明确」的历史？",
           "url": "https://www.zhihu.com/question/1999758459856504657",
@@ -717,6 +729,29 @@
             11,
             8,
             10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 06时31分]"
+        },
+        {
+          "title": "章泽天翻车，陈鲁豫受捧，我们需要什么样的人物访谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32487178",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 06时31分]"
+        },
+        {
+          "title": "“历史性里程碑”，越南和欧盟升级外交关系",
+          "url": "https://news.ifeng.com/c/8qJkP9GmafD",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -767,6 +802,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时39分]"
+        },
+        {
+          "title": "周四（1月29日））纽约尾盘，现货黄金涨0.43%，报5394.00美元/盎司，北京时间14:23涨至5595.47美元、继续创历史新高，23:00开始一波短线跳水行情、23:36刷新日低至5459.31美元。 COMEX黄金期货涨1.97%，报5408.30美元/盎司，14:22曾达到5586.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3046704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果业绩超预期，EPS创历史新高，大中华区收入超预期，股价盘后涨超2%",
+          "url": "https://wallstreetcn.com/livenews/3046702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     }
