@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T02:52:11.467402+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-01-30T03:32:26.475916+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时32分]"
         },
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -26,19 +26,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 03时32分]"
         },
         {
-          "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
-          "url": "https://flash.jin10.com/detail/20260130020218038800",
+          "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
+          "url": "https://flash.jin10.com/detail/20260130032628040800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "03时32分"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -48,8 +48,43 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时32分]"
+        },
+        {
+          "title": "美防长称五角大楼准备执行特朗普对伊朗的任何决定",
+          "url": "https://flash.jin10.com/detail/20260130031940786800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时32分]"
+        },
+        {
+          "title": "美国总统特朗普：与礼来制药老板对话。",
+          "url": "https://wallstreetcn.com/livenews/3046628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时32分]"
         },
         {
           "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
@@ -64,16 +99,17 @@
           "time_info": "[01时39分 ~ 02时52分]"
         },
         {
-          "title": "美国总统特朗普：与礼来制药老板对话。",
-          "url": "https://wallstreetcn.com/livenews/3046628",
+          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
+          "url": "https://wallstreetcn.com/livenews/3046625",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            18
+            4,
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时32分]"
         },
         {
           "title": "特朗普：利率应该低2到3个百分点",
@@ -86,6 +122,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时52分]"
+        },
+        {
+          "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
+          "url": "https://flash.jin10.com/detail/20260130020218038800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时32分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：我们（墨西哥方面/墨方和美国总统特朗普）的目标是，尽快与加拿大总理卡尼通电话。",
@@ -112,18 +160,6 @@
           "time_info": "[01时39分 ~ 02时52分]"
         },
         {
-          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
-          "url": "https://wallstreetcn.com/livenews/3046625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时52分]"
-        },
-        {
           "title": "美国总统特朗普：关税本可能会更高，我们已经非常客气了。",
           "url": "https://flash.jin10.com/detail/20260130011559284800",
           "source": "金十数据",
@@ -136,15 +172,16 @@
           "time_info": "[01时39分 ~ 02时52分]"
         },
         {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
+          "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
+          "url": "https://flash.jin10.com/detail/20260130020053884800",
+          "source": "金十数据",
           "ranks": [
-            13
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时52分]"
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时32分]"
         },
         {
           "title": "美国财长贝森特：100人已经签字申请“特朗普账户”（Trump Accounts）。",
@@ -157,6 +194,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时52分]"
+        },
+        {
+          "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
+          "url": "https://wallstreetcn.com/livenews/3046644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时32分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
+          "url": "https://flash.jin10.com/detail/20260130015932428800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时32分]"
         },
         {
           "title": "特朗普称美方计划重新开放委内瑞拉领空",
@@ -183,6 +244,30 @@
           "time_info": "[01时39分 ~ 02时52分]"
         },
         {
+          "title": "美国总统特朗普：一支庞大的舰队正驶往中东。",
+          "url": "https://flash.jin10.com/detail/20260130015749406800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时32分]"
+        },
+        {
+          "title": "美国总统特朗普声称：将索马里海盗列入“类似贩毒船只”清单。",
+          "url": "https://wallstreetcn.com/livenews/3046641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时32分]"
+        },
+        {
           "title": "特朗普：普京同意停火一周",
           "url": "https://flash.jin10.com/detail/20260130011030336800",
           "source": "金十数据",
@@ -207,6 +292,18 @@
           "time_info": "[01时39分 ~ 02时52分]"
         },
         {
+          "title": "美国总统特朗普：（谈及发电站）我们不需要电网。",
+          "url": "https://flash.jin10.com/detail/20260130014330273800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时32分]"
+        },
+        {
           "title": "美国总统特朗普：（谈中东）哈马斯是促成人质获释的重要因素。",
           "url": "https://flash.jin10.com/detail/20260130010650342800",
           "source": "金十数据",
@@ -219,92 +316,74 @@
           "time_info": "[01时39分 ~ 02时52分]"
         },
         {
-          "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
-          "url": "https://flash.jin10.com/detail/20260130020053884800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
-          "url": "https://wallstreetcn.com/livenews/3046644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
-          "url": "https://flash.jin10.com/detail/20260130015932428800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "美国总统特朗普：一支庞大的舰队正驶往中东。",
-          "url": "https://flash.jin10.com/detail/20260130015749406800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "美国总统特朗普声称：将索马里海盗列入“类似贩毒船只”清单。",
-          "url": "https://wallstreetcn.com/livenews/3046641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及发电站）我们不需要电网。",
-          "url": "https://flash.jin10.com/detail/20260130014330273800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
           "title": "特朗普讲话不到一小时，现货黄金反弹100美元",
           "url": "https://flash.jin10.com/detail/20260130014047592800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时32分]"
         },
         {
           "title": "美国总统特朗普：不想让房价下跌，将推高现存房主的住宅价值。",
           "url": "https://flash.jin10.com/detail/20260130013218508800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时32分]"
+        },
+        {
+          "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
+          "url": "https://wallstreetcn.com/livenews/3046634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时32分]"
+        },
+        {
+          "title": "美国总统特朗普：将推高现存房主的住宅价值。 不希望住房价值缩水。",
+          "url": "https://wallstreetcn.com/livenews/3046629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时32分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（回应特朗普关于普京同意停火一周的声明）我们期待协议得到落实，缓和举措有助于在结束战争方面取得进展。",
+          "url": "https://flash.jin10.com/detail/20260130031506457800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "03时32分"
+        },
+        {
+          "title": "加拿大总理卡尼：希望美国政府尊重加拿大主权。美国总统特朗普从未向我提及阿尔伯塔省或魁北克省分离主义的可能性。",
+          "url": "https://flash.jin10.com/detail/20260130031318071800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -316,17 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
-          "url": "https://wallstreetcn.com/livenews/3046634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：更加接近避免美国发生政府关门。 总统特朗普的白宫正与民主党研究（与移民海关执法部门ICE/国土安全部HSD相关）的预算拨款方案。 国土安全部将根据应急方案获得临时性的资金支持。 但愿、希望众议院复会，帮助避免特朗普政府自去年10月1日以来再次发生停摆。",
@@ -379,7 +447,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -412,7 +480,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -426,17 +494,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "美国总统特朗普：将推高现存房主的住宅价值。 不希望住房价值缩水。",
-          "url": "https://wallstreetcn.com/livenews/3046629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
         },
         {
           "title": "美国总统特朗普：希望我们不会出现政府停摆，民主党人也不希望政府停摆。",
@@ -606,8 +663,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时32分]"
         },
         {
           "title": "“历史性里程碑”，越南和欧盟升级外交关系",
@@ -617,8 +674,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时32分]"
         },
         {
           "title": "如何看待大批中成药将退出市场，结束说明书中「尚不明确」的历史？",
@@ -630,8 +687,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时32分]"
         },
         {
           "title": "历史剧《太平年》首次聚焦五代末年，钱弘俶、赵匡胤、郭荣三位君王在战争与用兵理念上有何不同？",
@@ -652,8 +709,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 03时32分]"
         }
       ]
     }
