@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T05:31:21.989573+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-01-31T06:29:04.159726+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 06时29分]"
         },
         {
           "title": "特朗普提名凯文·沃什担任美联储主席",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "特朗普起诉美政府部门",
@@ -75,11 +75,12 @@
           "ranks": [
             8,
             11,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
@@ -87,22 +88,24 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
           "url": "https://www.cls.cn/detail/2276010",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "俄方：普京收到了特朗普的请求",
@@ -115,8 +118,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -127,8 +130,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "沃什胜出！特朗普为何提名他任美联储主席？对市场有何影响？",
@@ -139,8 +142,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时29分]"
+        },
+        {
+          "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
+          "url": "https://news.ifeng.com/c/8qLcNkpSCsJ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 06时29分]"
         },
         {
           "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
@@ -153,28 +167,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 04时33分]"
-        },
-        {
-          "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
-          "url": "https://news.ifeng.com/c/8qLcNkpSCsJ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时31分]"
-        },
-        {
-          "title": "美国财政部下辖国税局（IRS）打算在特朗普政府停摆的第一周让所有工作人员到岗。",
-          "url": "https://wallstreetcn.com/livenews/3047587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
         },
         {
           "title": "美国总统特朗普：向伊朗派遣军舰，如果达不成协议会发生什么，就拭目以待了。",
@@ -223,6 +215,17 @@
           "time_info": "[03时34分 ~ 05时31分]"
         },
         {
+          "title": "特朗普：已告知伊朗达成协议的最后期限",
+          "url": "https://news.ifeng.com/c/8qLoYxRFqyl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 06时29分]"
+        },
+        {
           "title": "美国总统特朗普：美联储主席鲍威尔要么是无能之辈，要么是骗子（crook）。 （对于司法部对鲍威尔的刑事调查）翻修工程要么无能，要么就是盗窃。",
           "url": "https://wallstreetcn.com/livenews/3047514",
           "source": "华尔街见闻-快讯",
@@ -247,6 +250,18 @@
           "time_info": "[04时33分 ~ 05时31分]"
         },
         {
+          "title": "美国财政部下辖国税局（IRS）打算在特朗普政府停摆的第一周让所有工作人员到岗。",
+          "url": "https://wallstreetcn.com/livenews/3047587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时29分]"
+        },
+        {
           "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
           "url": "https://flash.jin10.com/detail/20260131025000000800",
           "source": "金十数据",
@@ -255,19 +270,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时31分]"
-        },
-        {
-          "title": "特朗普：已告知伊朗达成协议的最后期限",
-          "url": "https://news.ifeng.com/c/8qLoYxRFqyl",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时31分]"
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 06时29分]"
         },
         {
           "title": "特朗普称希望与伊朗达成协议",
@@ -294,6 +298,18 @@
           "time_info": "[01时36分 ~ 02时46分]"
         },
         {
+          "title": "美国总统特朗普将提名Brett Matsumoto担任劳工部下辖劳工统计局（BLS）的局长。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3047582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时29分]"
+        },
+        {
           "title": "纳斯达克100指数跌超1%，标普跌0.7%，道指下跌473点跌幅将近1%。 半导体指数跌幅扩大至2.2%。 此前，特朗普“赞赏标普创历史新高”的话音刚落。",
           "url": "https://wallstreetcn.com/livenews/3047508",
           "source": "华尔街见闻-快讯",
@@ -318,6 +334,17 @@
           "time_info": "[01时36分 ~ 02时46分]"
         },
         {
+          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276217",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
           "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
           "url": "https://wallstreetcn.com/livenews/3047544",
           "source": "华尔街见闻-快讯",
@@ -328,6 +355,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时33分]"
+        },
+        {
+          "title": "特朗普的美联储主席提名人出炉，两年期美债收益率跌超3.4个基点",
+          "url": "https://wallstreetcn.com/livenews/3047571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时29分]"
         },
         {
           "title": "特朗普关税在2025年导致加拿大铁路公司损失4亿美元",
@@ -387,17 +426,6 @@
           "time_info": "01时36分"
         },
         {
-          "title": "美国总统特朗普将提名Brett Matsumoto担任劳工部下辖劳工统计局（BLS）的局长。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3047582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
           "title": "美国总统特朗普赞赏标普500指数创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3047505",
           "source": "华尔街见闻-快讯",
@@ -418,17 +446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
-        },
-        {
-          "title": "特朗普的美联储主席提名人出炉，两年期美债收益率跌超3.4个基点",
-          "url": "https://wallstreetcn.com/livenews/3047571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
         },
         {
           "title": "据NBC新闻：特朗普今日将签署行政命令，禁止在华盛顿特区举行印地赛车比赛。",
@@ -478,7 +495,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "播客·半卷书｜五代十国，不是历史的垃圾时间",
@@ -489,8 +506,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "每天一个奇吧—中国历史吧",
@@ -500,8 +517,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 06时29分]"
         },
         {
           "title": "如何评价历史题材电视剧《太平年》?",
@@ -514,6 +531,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时42分 ~ 01时36分]"
+        },
+        {
+          "title": "巴西圣保罗证交所指数收跌1.25%，失守18.1万点，1月28日涨至18.5万点创收盘历史最高以来，连续第二个交易日撤离，29日曾涨至18.6万点继续创盘中历史最高。 本周，巴西股市累计上涨1.11%，1月份累计上涨12.24%，创2020年11月份以来最大单月涨幅。 1月份，巴西雷亚尔兑美元累计上涨大约4.23%。",
+          "url": "https://wallstreetcn.com/livenews/3047589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         }
       ]
     }
