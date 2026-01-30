@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T14:54:16.472879+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-01-30T15:42:35.738870+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -49,11 +49,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 15时42分]"
         },
         {
           "title": "高市早苗再发涉台谬论",
@@ -63,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 15时42分]"
         },
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -75,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 15时42分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -90,6 +91,29 @@
           "time_info": "[00时46分 ~ 05时30分]"
         },
         {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时42分]"
+        },
+        {
           "title": "特朗普宣布国家紧急状态",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -99,6 +123,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时42分]"
         },
         {
           "title": "特朗普称计划同伊朗对话",
@@ -112,29 +147,6 @@
           "time_info": "[10时09分 ~ 10时10分]"
         },
         {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 14时54分]"
-        },
-        {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 14时54分]"
-        },
-        {
           "title": "美国白宫：美国总统特朗普将于周五美国东部时间上午11点（北京时间周六零点）签署行政命令。",
           "url": "https://flash.jin10.com/detail/20260130123131643800",
           "source": "金十数据",
@@ -144,17 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
-        },
-        {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 14时54分]"
         },
         {
           "title": "美媒：特朗普与民主党就资金问题达成协议，以避免政府停摆",
@@ -177,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 15时42分]"
         },
         {
           "title": "美国总统特朗普：我正与国会紧密合作，以确保我们能够及时为政府提供充足资金，毫不拖延。",
@@ -214,17 +226,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时52分 ~ 04时34分]"
-        },
-        {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时54分]"
         },
         {
           "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
@@ -372,6 +373,18 @@
           "time_info": "[06时31分 ~ 12时42分]"
         },
         {
+          "title": "特朗普回应开会睡觉",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 15时42分]"
+        },
+        {
           "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
           "url": "https://wallstreetcn.com/livenews/3046644",
           "source": "华尔街见闻-快讯",
@@ -411,15 +424,15 @@
           "time_info": "[02时52分 ~ 04时34分]"
         },
         {
-          "title": "特朗普回应开会睡觉",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89",
-          "source": "bilibili 热搜",
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 15时42分]"
         },
         {
           "title": "特朗普：普京同意停火一周",
@@ -613,17 +626,6 @@
           "time_info": "[02时52分 ~ 03时32分]"
         },
         {
-          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
-        },
-        {
           "title": "知情人士透露，前美联储前理事凯文.沃什于周四在白宫会见了美国总统特朗普。（路透）",
           "url": "https://wallstreetcn.com/livenews/3046876",
           "source": "华尔街见闻-快讯",
@@ -688,6 +690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态 威胁对向古巴提供石油的国家加征关税",
+          "url": "https://www.cls.cn/detail/2274970",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -1004,7 +1017,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -1040,6 +1053,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "马斯克：特斯拉的最强对手来自中国",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%80%E5%BC%BA%E5%AF%B9%E6%89%8B%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "庞巴迪：关注到美国总统特朗普的帖子。正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
@@ -1113,11 +1137,12 @@
           "ranks": [
             8,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时42分]"
         },
         {
           "title": "苹果被问及印度市场，CEO库克称：苹果在12月那个财季于印度市场创收入历史新高。 其中，iPhone、Mac、iPad创历史新高。 地区服务也创历史新高。",
@@ -1148,11 +1173,25 @@
           "ranks": [
             19,
             18,
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 15时42分]"
+        },
+        {
+          "title": "电视剧《太平年》中钱弘俶、赵匡胤、郭荣的人物关系如何体现历史？",
+          "url": "https://www.zhihu.com/question/1998085483230688307",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时54分]"
+          "time_info": "[13时50分 ~ 15时42分]"
         },
         {
           "title": "三角洲蝶变时刻故事短片",
@@ -1165,18 +1204,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时39分 ~ 04时34分]"
-        },
-        {
-          "title": "电视剧《太平年》中钱弘俶、赵匡胤、郭荣的人物关系如何体现历史？",
-          "url": "https://www.zhihu.com/question/1998085483230688307",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 14时54分]"
         },
         {
           "title": "美国高评级债券销量突破2000亿美元，创历史最佳年度开局",
