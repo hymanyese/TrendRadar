@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T00:43:01.082170+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-31T01:36:16.446970+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 16,
+      "match_count": 26,
       "titles": [
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
@@ -15,30 +15,54 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
           "url": "https://wallstreetcn.com/articles/3764534",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时36分]"
         },
         {
           "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
           "url": "https://wallstreetcn.com/articles/3764603",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时36分]"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席鲍威尔要么是无能之辈，要么是骗子（crook）。 （对于司法部对鲍威尔的刑事调查）翻修工程要么无能，要么就是盗窃。",
+          "url": "https://wallstreetcn.com/livenews/3047514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "美国总统特朗普：向伊朗派遣军舰，如果达不成协议会发生什么，就拭目以待了。",
+          "url": "https://flash.jin10.com/detail/20260131010457097800",
+          "source": "金十数据",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时36分"
         },
         {
           "title": "特斯拉(TSLA.O)涨超5%；此前特斯拉CEO埃隆·马斯克旗下其他公司正就IPO与SpaceX进行合并谈判。",
@@ -47,9 +71,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国总统特朗普：庞大的舰队正驶向伊朗，规模甚至超过前往委内瑞拉的。",
+          "url": "https://flash.jin10.com/detail/20260131010332215800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
         },
         {
           "title": "特朗普提名凯文·沃什担任美联储主席",
@@ -59,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
@@ -70,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "特朗普起诉美政府部门",
@@ -81,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
@@ -92,8 +127,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
@@ -103,8 +138,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
@@ -114,8 +149,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
+        },
+        {
+          "title": "俄方：普京收到了特朗普的请求",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E6%94%B6%E5%88%B0%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E8%AF%B7%E6%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -125,30 +172,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "俄方：普京收到了特朗普的请求",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E6%94%B6%E5%88%B0%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E8%AF%B7%E6%B1%82",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "沃什胜出！特朗普为何提名他任美联储主席？对市场有何影响？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32498632",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
+        },
+        {
+          "title": "特朗普为啥选中沃什接棒鲍威尔",
+          "url": "https://www.toutiao.com/trending/7601024522976231430/",
+          "source": "今日头条",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "time_info": "[01时35分 ~ 01时36分]"
         },
         {
           "title": "美国总统特朗普将于十分钟后签署一项行政令。",
@@ -157,9 +205,75 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国总统特朗普称赞标普500指数创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260131010300000800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "特朗普：要求沃什降息可能不太合适，沃什想要降息",
+          "url": "https://wallstreetcn.com/livenews/3047509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "纳斯达克100指数跌超1%，标普跌0.7%，道指下跌473点跌幅将近1%。 半导体指数跌幅扩大至2.2%。 此前，特朗普“赞赏标普创历史新高”的话音刚落。",
+          "url": "https://wallstreetcn.com/livenews/3047508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "美国总统特朗普赞赏1月30日发布的“惊人”数字。",
+          "url": "https://wallstreetcn.com/livenews/3047506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "美国总统特朗普赞赏标普500指数创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3047505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "据NBC新闻：特朗普今日将签署行政命令，禁止在华盛顿特区举行印地赛车比赛。",
+          "url": "https://flash.jin10.com/detail/20260131003448280800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
         },
         {
           "title": "加拿大工业部长Joly：我们不会（针对特朗普政府）将飞机认证政治化。",
@@ -168,7 +282,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         },
@@ -179,7 +293,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
         }
@@ -194,22 +308,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32491662",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "如何评价历史题材电视剧《太平年》?",
           "url": "https://www.zhihu.com/question/1898889068177257375",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "每天一个奇吧—中国历史吧",
@@ -219,8 +335,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 01时36分]"
         }
       ]
     }
