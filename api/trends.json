@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T22:48:02.557084+08:00",
-  "total_titles_processed": 2102,
+  "generated_at": "2026-01-30T23:38:23.996070+08:00",
+  "total_titles_processed": 2177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 124,
+      "match_count": 128,
       "titles": [
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时42分 ~ 22时48分]"
+          "appearance_count": 12,
+          "time_info": "[12时42分 ~ 23时38分]"
         },
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -84,8 +84,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时53分 ~ 22时48分]"
+          "appearance_count": 14,
+          "time_info": "[14时53分 ~ 23时38分]"
+        },
+        {
+          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
+          "url": "https://www.cls.cn/detail/2276051",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时38分]"
         },
         {
           "title": "特朗普威胁对加拿大飞机加征50%关税",
@@ -125,18 +137,6 @@
           "time_info": "[16时43分 ~ 21时01分]"
         },
         {
-          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
-          "url": "https://www.cls.cn/detail/2276051",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时01分 ~ 22时48分]"
-        },
-        {
           "title": "特朗普：计划30日公布美联储下任主席提名",
           "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
           "source": "凤凰网",
@@ -147,6 +147,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时09分 ~ 16时43分]"
+        },
+        {
+          "title": "特朗普提名沃什担任美联储主席",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            15,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[21时00分 ~ 23时38分]"
         },
         {
           "title": "特朗普宣布国家紧急状态",
@@ -160,17 +174,30 @@
           "time_info": "[10时09分 ~ 16时43分]"
         },
         {
-          "title": "特朗普提名沃什担任美联储主席",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "bilibili 热搜",
+          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
+            18,
+            16,
             15,
-            19
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时00分 ~ 22时48分]"
+          "appearance_count": 8,
+          "time_info": "[19时31分 ~ 23时38分]"
+        },
+        {
+          "title": "特朗普提名凯文·沃什担任美联储主席",
+          "url": "https://news.ifeng.com/c/8qLGm417qYM",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[21时00分 ~ 23时38分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -206,18 +233,17 @@
           "time_info": "[10时09分 ~ 10时10分]"
         },
         {
-          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
-          "source": "澎湃新闻",
+          "title": "特朗普：提名凯文·沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276010",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            16,
-            15,
-            13
+            11,
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[19时31分 ~ 22时48分]"
+          "time_info": "[21时00分 ~ 23时38分]"
         },
         {
           "title": "特朗普称计划同伊朗对话",
@@ -231,15 +257,15 @@
           "time_info": "[10时09分 ~ 10时10分]"
         },
         {
-          "title": "特朗普提名凯文·沃什担任美联储主席",
-          "url": "https://news.ifeng.com/c/8qLGm417qYM",
-          "source": "凤凰网",
+          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
+          "url": "https://wallstreetcn.com/articles/3764603",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时00分 ~ 22时48分]"
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时38分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将于周五美国东部时间上午11点（北京时间周六零点）签署行政命令。",
@@ -251,19 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
-        },
-        {
-          "title": "特朗普：提名凯文·沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276010",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时00分 ~ 22时48分]"
         },
         {
           "title": "美媒：特朗普与民主党就资金问题达成协议，以避免政府停摆",
@@ -299,15 +312,15 @@
           "time_info": "21时01分"
         },
         {
-          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
-          "url": "https://wallstreetcn.com/articles/3764603",
-          "source": "华尔街见闻",
+          "title": "非洲股市收盘播报｜周五（1月30日），南非富时/JSE非洲领先40可交易指数收跌4.52%，刷新日低、逼近11.2万点，开盘跳水、随后持续走低，在特朗普宣布凯文·沃什为美联储主席提名人之际脱离历史最高位，本周累计下跌1.86%。",
+          "url": "https://wallstreetcn.com/livenews/3047474",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "23时38分"
         },
         {
           "title": "美国总统特朗普：我正与国会紧密合作，以确保我们能够及时为政府提供充足资金，毫不拖延。",
@@ -541,6 +554,28 @@
           "time_info": "[14时53分 ~ 15时42分]"
         },
         {
+          "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
+          "url": "https://news.ifeng.com/c/8qLLfsjtQ3f",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时38分]"
+        },
+        {
+          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
+          "url": "https://www.zhihu.com/question/2000660435238613290",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时38分]"
+        },
+        {
           "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
           "url": "https://wallstreetcn.com/livenews/3046644",
           "source": "华尔街见闻-快讯",
@@ -591,17 +626,6 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
-          "url": "https://news.ifeng.com/c/8qLLfsjtQ3f",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
-        },
-        {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
           "url": "https://flash.jin10.com/detail/20260130020053884800",
           "source": "金十数据",
@@ -636,17 +660,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时52分]"
-        },
-        {
-          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
-          "url": "https://www.zhihu.com/question/2000660435238613290",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
@@ -792,6 +805,18 @@
           "time_info": "[02时52分 ~ 03时32分]"
         },
         {
+          "title": "特朗普起诉美政府部门",
+          "url": "https://www.douyin.com/hot/2383706",
+          "source": "抖音",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 23时38分]"
+        },
+        {
           "title": "美国总统特朗普：不想让房价下跌，将推高现存房主的住宅价值。",
           "url": "https://flash.jin10.com/detail/20260130013218508800",
           "source": "金十数据",
@@ -888,7 +913,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -959,6 +984,17 @@
           "time_info": "13时50分"
         },
         {
+          "title": "加拿大工业部长Joly：我们不会（针对特朗普政府）将飞机认证政治化。",
+          "url": "https://wallstreetcn.com/livenews/3047464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "分析师：沃什或陷入特朗普目标与经济现实的夹缝",
           "url": "https://flash.jin10.com/detail/20260130203227764800",
           "source": "金十数据",
@@ -1001,17 +1037,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
-        },
-        {
-          "title": "特朗普起诉美政府部门",
-          "url": "https://www.douyin.com/hot/2383706",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：更加接近避免美国发生政府关门。 总统特朗普的白宫正与民主党研究（与移民海关执法部门ICE/国土安全部HSD相关）的预算拨款方案。 国土安全部将根据应急方案获得临时性的资金支持。 但愿、希望众议院复会，帮助避免特朗普政府自去年10月1日以来再次发生停摆。",
@@ -1328,7 +1353,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1353,6 +1378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "庞巴迪多伦多股价暴跌19.70%，至少创4月4日以来最差盘中表现，至147.56（加元），逼近11月14日底部142.40。 1月29日盘后，该公司声明称，关注到美国总统特朗普的帖子，正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3047446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "美国总统特朗普签署行政命令打击毒瘾和药物滥用，称之为“伟大的美国复苏计划”。",
@@ -1386,6 +1422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "俄方：普京收到了特朗普的请求",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E6%94%B6%E5%88%B0%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E8%AF%B7%E6%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "美国总统特朗普：美国特使威特科夫带来了一些相当不错的消息。",
@@ -1461,11 +1508,12 @@
             10,
             11,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时42分 ~ 22时48分]"
+          "appearance_count": 16,
+          "time_info": "[12时42分 ~ 23时38分]"
         },
         {
           "title": "每天一个奇吧—中国历史吧",
@@ -1485,8 +1533,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时09分 ~ 22时48分]"
+          "appearance_count": 18,
+          "time_info": "[10时09分 ~ 23时38分]"
         },
         {
           "title": "如何看待大批中成药将退出市场，结束说明书中「尚不明确」的历史？",
