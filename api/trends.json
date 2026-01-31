@@ -1,451 +1,44 @@
 {
-  "generated_at": "2026-01-31T23:27:31.916622+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2026-02-01T00:32:13.573783+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 72,
+      "match_count": 12,
       "titles": [
         {
-          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
-          "url": "https://wallstreetcn.com/articles/3764603",
-          "source": "华尔街见闻",
+          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
+          "url": "https://www.cls.cn/detail/2276487",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            3,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时43分 ~ 21时43分]"
-        },
-        {
-          "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
-          "url": "https://news.ifeng.com/c/8qLcNkpSCsJ",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[04时33分 ~ 18时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
           "url": "https://www.cls.cn/detail/2276051",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时42分 ~ 23时27分]"
-        },
-        {
-          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
-          "url": "https://wallstreetcn.com/articles/3764534",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 10时06分]"
-        },
-        {
-          "title": "斯塔默回击特朗普涉中英言论",
-          "url": "https://news.ifeng.com/c/8qMRPj6uboL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时42分 ~ 18时28分]"
-        },
-        {
-          "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
-          "url": "https://www.cls.cn/detail/2276487",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时42分 ~ 23时27分]"
-        },
-        {
-          "title": "沃什胜出！特朗普为何提名他任美联储主席？对市场有何影响？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498632",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            15,
-            18,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 15时31分]"
-        },
-        {
-          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
-          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时06分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普提名凯文·沃什担任美联储主席",
-          "url": "https://news.ifeng.com/c/8qLGm417qYM",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时28分]"
-        },
-        {
-          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
-          "url": "https://wallstreetcn.com/articles/3764623",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时26分 ~ 23时27分]"
-        },
-        {
-          "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
-          "url": "https://news.ifeng.com/c/8qM3KAFor4V",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时05分 ~ 20时52分]"
-        },
-        {
-          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
-          "url": "https://www.zhihu.com/question/2000660435238613290",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时28分]"
-        },
-        {
-          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 15时31分]"
-        },
-        {
-          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
-          "url": "https://www.cls.cn/detail/2276362",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时05分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普起诉美政府部门",
-          "url": "https://www.douyin.com/hot/2383706",
-          "source": "抖音",
-          "ranks": [
-            8,
-            11,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时28分]"
-        },
-        {
-          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时28分]"
-        },
-        {
-          "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276217",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时28分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普：提名凯文·沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276010",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 12时26分]"
-        },
-        {
-          "title": "高市早苗被曝与统一教关系深厚，野田佳彦等要求她给交代",
-          "url": "https://news.ifeng.com/c/8qMAdoCTbk9",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时26分 ~ 18时28分]"
-        },
-        {
-          "title": "俄方：普京收到了特朗普的请求",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E6%94%B6%E5%88%B0%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E8%AF%B7%E6%B1%82",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13,
-            25,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时28分]"
-        },
-        {
-          "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
-          "url": "https://news.ifeng.com/c/8qLLfsjtQ3f",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时33分]"
-        },
-        {
-          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
-          "url": "https://wallstreetcn.com/articles/3764621",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 23时27分]"
-        },
-        {
-          "title": "特朗普：已告知伊朗达成协议的最后期限",
-          "url": "https://news.ifeng.com/c/8qLoYxRFqyl",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时33分 ~ 10时06分]"
-        },
-        {
-          "title": "特朗普驱赶ABC记者",
-          "url": "https://www.douyin.com/hot/2385006",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时43分]"
-        },
-        {
-          "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
-          "url": "https://wallstreetcn.com/livenews/3047643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            9,
-            15,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 18时28分]"
-        },
-        {
-          "title": "观察丨美伊开打风险在回落？专家：特朗普虚实难辨，威胁与对话并存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32502341",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时31分 ~ 18时28分]"
-        },
-        {
-          "title": "美国总统特朗普：很高兴提名Brett Matsumoto担任美国劳工统计局（BLS）局长。 有信心Brett Matsumoto能够解决BLS的问题。",
-          "url": "https://wallstreetcn.com/livenews/3047625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            18,
-            21,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 16时34分]"
-        },
-        {
-          "title": "美国总统特朗普：向伊朗派遣军舰，如果达不成协议会发生什么，就拭目以待了。",
-          "url": "https://flash.jin10.com/detail/20260131010457097800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "爆“马斯克曾试图前往爱泼斯坦小岛”，马斯克回应",
           "url": "https://news.ifeng.com/c/8qMn5bUH1gz",
           "source": "凤凰网",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 23时27分]"
-        },
-        {
-          "title": "美国边境事务主管霍曼：特朗普总统上任刚满一年，我们已通过边境巡逻队和移民与海关执法局完成超过70万次驱逐，这创造了纪录……我经手的驱逐案例数量已超过自艾森豪威尔政府以来任何一位官员。",
-          "url": "https://flash.jin10.com/detail/20260131111222966800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时31分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)涨超5%；此前特斯拉CEO埃隆·马斯克旗下其他公司正就IPO与SpaceX进行合并谈判。",
-          "url": "https://flash.jin10.com/detail/20260130235532816800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美国总统特朗普：庞大的舰队正驶向伊朗，规模甚至超过前往委内瑞拉的。",
-          "url": "https://flash.jin10.com/detail/20260131010332215800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
-          "url": "https://flash.jin10.com/detail/20260131025000000800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时34分 ~ 07时28分]"
-        },
-        {
-          "title": "美国边境事务主管霍曼：我传达的信息与自1月20日特朗普总统入主白宫以来的一贯立场完全一致，即我们将开展大规模驱逐行动，但会优先逮捕犯罪分子和公共安全威胁者。",
-          "url": "https://flash.jin10.com/detail/20260131111141796800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时31分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "高市早苗被要求解释与宗教团体资金关联",
@@ -455,8 +48,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 23时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
+          "url": "https://www.cls.cn/detail/2276362",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
@@ -466,456 +70,81 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 23时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "美国参议院沃伦周五致信总统特朗普的美联储主席提名人凯文·沃什。 沃伦询问对方是否支持特朗普司法部对美联储主席鲍威尔和美联储理事Lisa Cook的调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3047555",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
+          "url": "https://wallstreetcn.com/premium/articles/3764615?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            6,
-            30
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
           "url": "https://wallstreetcn.com/livenews/3047706",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 23时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "美国财政部下辖国税局（IRS）打算在特朗普政府停摆的第一周让所有工作人员到岗。",
-          "url": "https://wallstreetcn.com/livenews/3047587",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            10,
-            22
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时28分]"
-        },
-        {
-          "title": "美国总统特朗普：美联储主席鲍威尔要么是无能之辈，要么是骗子（crook）。 （对于司法部对鲍威尔的刑事调查）翻修工程要么无能，要么就是盗窃。",
-          "url": "https://wallstreetcn.com/livenews/3047514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时46分]"
-        },
-        {
-          "title": "美联储理事鲍曼：期待与美国总统特朗普的美联储主席提名人凯文·沃什合作。",
-          "url": "https://wallstreetcn.com/livenews/3047605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 12时26分]"
-        },
-        {
-          "title": "美国参议院民主党党鞭Durbin就总统特朗普的美联储主席提名人沃什发表声明：质疑沃什是否有“胆量”指出特朗普的政策错误。 沃什具备美联储主席所需要的教育背景、训练、经验。 沃什对美联储独立性的看法将决定特朗普是否选对了人。",
-          "url": "https://wallstreetcn.com/livenews/3047560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
           "url": "https://flash.jin10.com/detail/20260131213021035800",
           "source": "金十数据",
           "ranks": [
-            5,
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 23时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普起诉美国财政部和国税局，索赔至少 100 亿美元，如何看待此举？他持续起诉的核心目的是什么？",
-          "url": "https://www.zhihu.com/question/2000500598013911312",
-          "source": "知乎",
+          "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
+          "url": "https://wallstreetcn.com/articles/3764623",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 14时43分]"
-        },
-        {
-          "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
-          "url": "https://wallstreetcn.com/livenews/3047616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 14时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "美司法部公布文件爆“马斯克曾协调个人日程试图前往爱泼斯坦小岛”，马斯克最新回应",
           "url": "https://wallstreetcn.com/livenews/3047683",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            16,
-            26,
             29
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时52分 ~ 23时27分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-31）",
-          "url": "https://flash.jin10.com/detail/20260131184250363800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时43分]"
-        },
-        {
-          "title": "特朗普宣布提名布雷特·松本为劳工统计局新任局长",
-          "url": "https://flash.jin10.com/detail/20260131085624557800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 13时40分]"
-        },
-        {
-          "title": "马斯克称曾多次拒绝爱泼斯坦的邀约",
-          "url": "https://flash.jin10.com/detail/20260131180157270800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时43分]"
-        },
-        {
-          "title": "高市早苗拉票哭了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8B%89%E7%A5%A8%E5%93%AD%E4%BA%86%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时31分]"
-        },
-        {
-          "title": "特朗普称希望与伊朗达成协议",
-          "url": "https://wallstreetcn.com/livenews/3047551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时33分]"
-        },
-        {
-          "title": "特朗普：要求沃什降息可能不太合适，沃什想要降息",
-          "url": "https://wallstreetcn.com/livenews/3047509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时46分]"
-        },
-        {
-          "title": "美国总统特朗普将提名Brett Matsumoto担任劳工部下辖劳工统计局（BLS）的局长。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3047582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时29分]"
-        },
-        {
-          "title": "纳斯达克100指数跌超1%，标普跌0.7%，道指下跌473点跌幅将近1%。 半导体指数跌幅扩大至2.2%。 此前，特朗普“赞赏标普创历史新高”的话音刚落。",
-          "url": "https://wallstreetcn.com/livenews/3047508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时46分]"
-        },
-        {
-          "title": "美国总统特朗普赞赏1月30日发布的“惊人”数字。",
-          "url": "https://wallstreetcn.com/livenews/3047506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时46分]"
-        },
-        {
-          "title": "详解特朗普和平委员会",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
-          "url": "https://wallstreetcn.com/livenews/3047544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时33分]"
-        },
-        {
-          "title": "特朗普的美联储主席提名人出炉，两年期美债收益率跌超3.4个基点",
-          "url": "https://wallstreetcn.com/livenews/3047571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时29分]"
-        },
-        {
-          "title": "特朗普关税在2025年导致加拿大铁路公司损失4亿美元",
-          "url": "https://wallstreetcn.com/livenews/3047541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时33分]"
-        },
-        {
-          "title": "特朗普：美正计划重建“传统意义上的战列舰”",
-          "url": "https://wallstreetcn.com/livenews/3047540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时33分]"
-        },
-        {
-          "title": "特朗普为啥选中沃什接棒鲍威尔",
-          "url": "https://www.toutiao.com/trending/7601024522976231430/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 01时36分]"
-        },
-        {
-          "title": "美国总统特朗普将于十分钟后签署一项行政令。",
-          "url": "https://flash.jin10.com/detail/20260130235000000800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美国总统特朗普称赞标普500指数创历史新高。",
-          "url": "https://flash.jin10.com/detail/20260131010300000800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "美国总统特朗普赞赏标普500指数创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3047505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：难以新任总统特朗普挑选的任何美联储主席（提名人）。",
-          "url": "https://wallstreetcn.com/livenews/3047528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "据NBC新闻：特朗普今日将签署行政命令，禁止在华盛顿特区举行印地赛车比赛。",
-          "url": "https://flash.jin10.com/detail/20260131003448280800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "特朗普又破防了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "加拿大工业部长Joly：我们不会（针对特朗普政府）将飞机认证政治化。",
-          "url": "https://wallstreetcn.com/livenews/3047464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美国总统特朗普政府正表现出“超级的财政责任感”。",
-          "url": "https://flash.jin10.com/detail/20260130232535649800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "掌管非农等关键数据的发布，特朗普拟提名Matsumoto担任BLS局长",
-          "url": "https://wallstreetcn.com/livenews/3047582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "特朗普又破防了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E7%A0%B4%E9%98%B2%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "特朗普：不担心沃什在参议院的确认程序",
-          "url": "https://flash.jin10.com/detail/20260131014733603800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "播客·半卷书｜五代十国，不是历史的垃圾时间",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491662",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时28分]"
-        },
         {
           "title": "台湾政治人物再爆发冲突！",
           "url": "https://v.ifeng.com/c/8qMfNsgtEjT",
@@ -924,151 +153,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 23时27分]"
-        },
-        {
-          "title": "每天一个奇吧—中国历史吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349912&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "《太平年》历史顾问胡耀飞：合理改编无关宏旨，但历史整体走向不得改变",
           "url": "https://m.thepaper.cn/newsDetail_forward_32505975",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            13,
-            9,
-            6,
-            5,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 23时27分]"
-        },
-        {
-          "title": "谢苗主演的动作电影《东北警察故事 3》首登院线，你如何评价这部电影？",
-          "url": "https://www.zhihu.com/question/2000156833986417635",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时26分 ~ 16时34分]"
-        },
-        {
-          "title": "历史性崩盘后，芝商所再上调金银交易保证金",
-          "url": "https://wallstreetcn.com/livenews/3047648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            10,
-            13,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 19时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "历史性崩盘后，CME再上调金银交易保证金",
           "url": "https://wallstreetcn.com/articles/3764651",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6,
             4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 23时27分]"
-        },
-        {
-          "title": "如何评价历史题材电视剧《太平年》?",
-          "url": "https://www.zhihu.com/question/1898889068177257375",
-          "source": "知乎",
-          "ranks": [
-            12,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 07时28分]"
-        },
-        {
-          "title": "如何评价《红楼梦》中贾元春这个人物？",
-          "url": "https://www.zhihu.com/question/4323952465",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 23时27分]"
-        },
-        {
-          "title": "巴西圣保罗证交所指数收跌1.25%，失守18.1万点，1月28日涨至18.5万点创收盘历史最高以来，连续第二个交易日撤离，29日曾涨至18.6万点继续创盘中历史最高。 本周，巴西股市累计上涨1.11%，1月份累计上涨12.24%，创2020年11月份以来最大单月涨幅。 1月份，巴西雷亚尔兑美元累计上涨大约4.23%。",
-          "url": "https://wallstreetcn.com/livenews/3047589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "史书上有哪些让你动容的小人物？",
-          "url": "https://www.zhihu.com/question/339984106",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 21时43分]"
-        },
-        {
-          "title": "德约38次大满贯决赛位列历史第一",
-          "url": "https://www.toutiao.com/trending/7600424956396142633/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "金晨就交通事故致歉：作为公众人物未能做好表率，会深刻反省",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32499360",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时31分"
+          "time_info": "00时32分"
         }
       ]
     }
