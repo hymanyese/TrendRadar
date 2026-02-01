@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T19:24:18.359725+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-02-01T20:55:03.308176+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -66,6 +66,19 @@
           "time_info": "[00时31分 ~ 10时34分]"
         },
         {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 20时55分]"
+        },
+        {
           "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
           "url": "https://www.cls.cn/detail/2276362",
           "source": "财联社热门",
@@ -87,6 +100,33 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 10时34分]"
+        },
+        {
+          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29,
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时39分 ~ 20时55分]"
+        },
+        {
+          "title": "特朗普：正与伊朗进行对话",
+          "url": "https://www.cls.cn/detail/2276668",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 20时55分]"
         },
         {
           "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
@@ -150,17 +190,15 @@
           "time_info": "[00时32分 ~ 07时25分]"
         },
         {
-          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
-          "source": "百度热搜",
+          "title": "高市早苗称日元走弱是“重大机遇”，挨批",
+          "url": "https://news.ifeng.com/c/8qOUjS45O3h",
+          "source": "凤凰网",
           "ranks": [
-            30,
-            29,
-            27
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时39分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时55分]"
         },
         {
           "title": "美国众议院议长约翰逊与众院少数派领导人Hakeem Jeffries周六对话，讨论政府融资立法草案事宜。 众议院民主党成员们不会帮助（总统特朗普所属共和党）批准关于（针对国土安全部/DHS）暂停拨款的应急资金方案。（PunchBowl）",
@@ -188,18 +226,6 @@
           "time_info": "[00时31分 ~ 01时26分]"
         },
         {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 19时24分]"
-        },
-        {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
           "url": "https://wallstreetcn.com/articles/3764623",
           "source": "华尔街见闻",
@@ -212,27 +238,15 @@
           "time_info": "[00时32分 ~ 07时25分]"
         },
         {
-          "title": "特朗普：正与伊朗进行对话",
-          "url": "https://www.cls.cn/detail/2276668",
-          "source": "财联社热门",
+          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
+          "url": "https://news.ifeng.com/c/8qOFedymx0W",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            12
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 19时24分]"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
-          "url": "https://flash.jin10.com/detail/20260201190247560800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "特朗普：美委将“分享”石油收益",
@@ -249,17 +263,6 @@
           "time_info": "[14时53分 ~ 18时29分]"
         },
         {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
-          "url": "https://flash.jin10.com/detail/20260201190211010800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
           "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
           "url": "https://wallstreetcn.com/livenews/3047726",
           "source": "华尔街见闻-快讯",
@@ -271,17 +274,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时26分 ~ 13时03分]"
-        },
-        {
-          "title": "高市早苗称日元走弱是“重大机遇”，挨批",
-          "url": "https://news.ifeng.com/c/8qOUjS45O3h",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
@@ -307,17 +299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
-          "url": "https://flash.jin10.com/detail/20260201185420868800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
@@ -351,11 +332,36 @@
           "source": "金十数据",
           "ranks": [
             1,
-            10
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时55分]"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
+          "url": "https://flash.jin10.com/detail/20260201190247560800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时24分]"
+          "time_info": "[19时24分 ~ 20时55分]"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
+          "url": "https://flash.jin10.com/detail/20260201190211010800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时55分]"
         },
         {
           "title": "特朗普称伊朗正“严肃”与美国对话",
@@ -369,6 +375,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时03分 ~ 16时36分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
+          "url": "https://flash.jin10.com/detail/20260201185420868800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时55分]"
         },
         {
           "title": "爱泼斯坦邮件继续爆大料：盖茨“向妻子隐瞒性病”，马斯克多次询问“上岛”",
@@ -483,6 +501,18 @@
           "time_info": "[13时02分 ~ 14时53分]"
         },
         {
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时55分]"
+        },
+        {
           "title": "爱泼斯坦曾邀请马斯克上岛",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%9B%BE%E9%82%80%E8%AF%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8A%E5%B2%9B%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -493,6 +523,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时39分 ~ 16时36分]"
+        },
+        {
+          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
+          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "特朗普放风：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -519,6 +560,28 @@
           "time_info": "[00时32分 ~ 01时26分]"
         },
         {
+          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
+          "url": "https://news.ifeng.com/c/8qOLT943YcA",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764683",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "特朗普：伊朗正“严肃”地与美国进行对话",
           "url": "https://flash.jin10.com/detail/20260201110314645800",
           "source": "金十数据",
@@ -528,17 +591,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
-        },
-        {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "特朗普称沃什有望获民主党人支持 并预期其将推动降息",
@@ -665,7 +717,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "台湾政治人物再爆发冲突！",
@@ -716,8 +768,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时25分 ~ 19时24分]"
+          "appearance_count": 15,
+          "time_info": "[07时25分 ~ 20时55分]"
+        },
+        {
+          "title": "《太平年》究竟想讲什么故事？",
+          "url": "https://www.zhihu.com/question/2000226277840406074",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
         }
       ]
     },
@@ -730,11 +793,12 @@
           "url": "https://www.zhihu.com/question/1999121124739539009",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时55分]"
         }
       ]
     }
