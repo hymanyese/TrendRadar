@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T16:47:20.955453+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-02-02T17:54:03.091139+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -42,11 +42,12 @@
             7,
             8,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时27分 ~ 16时47分]"
+          "appearance_count": 17,
+          "time_info": "[01时27分 ~ 17时54分]"
         },
         {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
@@ -137,6 +138,18 @@
           "time_info": "[12时59分 ~ 15时52分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时54分]"
+        },
+        {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
           "url": "https://news.ifeng.com/c/8qOLT943YcA",
           "source": "凤凰网",
@@ -185,26 +198,27 @@
           "time_info": "[12时59分 ~ 15时52分]"
         },
         {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时47分]"
-        },
-        {
           "title": "特朗普口风转软缓解供需忧虑 欧能股随国际油价重挫全线走低",
           "url": "https://flash.jin10.com/detail/20260202161737942800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "马斯克再次否认：我没去，是极左翼宣传者的反击",
+          "url": "https://news.ifeng.com/c/8qPmOlBP1jc",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时08分 ~ 17时54分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -305,18 +319,6 @@
           "time_info": "[05时25分 ~ 07时28分]"
         },
         {
-          "title": "马斯克再次否认：我没去，是极左翼宣传者的反击",
-          "url": "https://news.ifeng.com/c/8qPmOlBP1jc",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 16时47分]"
-        },
-        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
           "url": "https://flash.jin10.com/detail/20260201190211010800",
           "source": "金十数据",
@@ -372,6 +374,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
+          "title": "新爱泼斯坦档案特朗普被提超千次",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%A3%E6%A1%88%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8F%90%E8%B6%85%E5%8D%83%E6%AC%A1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -449,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "马斯克官宣干电极工艺量产",
+          "url": "https://wallstreetcn.com/livenews/3048239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     },
@@ -456,6 +480,17 @@
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
       "match_count": 8,
       "titles": [
+        {
+          "title": "爱泼斯坦案文件曝出美国众多「大人物」丑行，为什么仍难平息公众质疑？这些文件对美国政商界冲击有多大？",
+          "url": "https://www.zhihu.com/question/2001592697673179840",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时08分 ~ 17时54分]"
+        },
         {
           "title": "《太平年》究竟想讲什么故事？",
           "url": "https://www.zhihu.com/question/2000226277840406074",
@@ -473,15 +508,19 @@
           "time_info": "[00时33分 ~ 06时28分]"
         },
         {
-          "title": "爱泼斯坦案文件曝出美国众多「大人物」丑行，为什么仍难平息公众质疑？这些文件对美国政商界冲击有多大？",
-          "url": "https://www.zhihu.com/question/2001592697673179840",
-          "source": "知乎",
+          "title": "中考要退出历史舞台了吗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E8%A6%81%E9%80%80%E5%87%BA%E5%8E%86%E5%8F%B2%E8%88%9E%E5%8F%B0%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            5
+            24,
+            15,
+            13,
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 16时47分]"
+          "appearance_count": 7,
+          "time_info": "[12时59分 ~ 17时54分]"
         },
         {
           "title": "爱泼斯坦案爆出更多大人物的丑行",
@@ -509,30 +548,17 @@
           "time_info": "14时09分"
         },
         {
-          "title": "中考要退出历史舞台了吗",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E8%A6%81%E9%80%80%E5%87%BA%E5%8E%86%E5%8F%B2%E8%88%9E%E5%8F%B0%E4%BA%86%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时59分 ~ 16时47分]"
-        },
-        {
           "title": "多名权势人物被曝与爱泼斯坦关系密切",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E6%9D%83%E5%8A%BF%E4%BA%BA%E7%89%A9%E8%A2%AB%E6%9B%9D%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E5%85%B3%E7%B3%BB%E5%AF%86%E5%88%87",
           "source": "百度热搜",
           "ranks": [
             17,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时47分]"
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时54分]"
         },
         {
           "title": "创业板指涨超1%，CPO等算力硬件股延续强势，新易盛大涨超10%，股价续创历史新高，总市值突破4600亿。",
