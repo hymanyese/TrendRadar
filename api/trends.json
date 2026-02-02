@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T21:04:38.533761+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2026-02-02T22:43:30.656655+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
             14,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时27分 ~ 21时04分]"
+          "appearance_count": 22,
+          "time_info": "[01时27分 ~ 22时43分]"
         },
         {
           "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
@@ -355,6 +356,17 @@
           "time_info": "[10时25分 ~ 12时59分]"
         },
         {
+          "title": "高市早苗的眼泪，“奥斯卡级”",
+          "url": "https://news.ifeng.com/c/8qQCcWAY6A6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 22时43分]"
+        },
+        {
           "title": "马斯克罕见牵手印度裔女友",
           "url": "https://www.toutiao.com/trending/7602012192531300362/",
           "source": "今日头条",
@@ -418,18 +430,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "高市早苗的眼泪，“奥斯卡级”",
-          "url": "https://news.ifeng.com/c/8qQCcWAY6A6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -484,7 +485,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -517,7 +518,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -528,7 +529,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -539,7 +540,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -550,7 +551,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -591,7 +592,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "爱泼斯坦案文件曝出美国众多「大人物」丑行，为什么仍难平息公众质疑？这些文件对美国政商界冲击有多大？",
@@ -601,8 +602,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时08分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[14时08分 ~ 22时43分]"
         },
         {
           "title": "《太平年》究竟想讲什么故事？",
@@ -674,6 +675,17 @@
           "time_info": "[15时52分 ~ 17时54分]"
         },
         {
+          "title": "欧洲STOXX 600指数涨0.7%，创盘中历史新高。 欧股十一罗汉中，雀巢目前涨超3.2%，阿斯利康涨2.3%，葛兰素史克涨2%，德国思爱普Sap、赛诺菲、诺华至少涨1.8%，诺和诺德则跌0.5%，阿斯麦控股跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3048406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "创业板指涨超1%，CPO等算力硬件股延续强势，新易盛大涨超10%，股价续创历史新高，总市值突破4600亿。",
           "url": "https://wallstreetcn.com/livenews/3047948",
           "source": "华尔街见闻-快讯",
@@ -694,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "巴西家石油、天然气和生物燃料局：巴西2025年油气产量创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260202212257450800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
@@ -709,8 +732,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时47分 ~ 21时04分]"
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 22时43分]"
         }
       ]
     }
