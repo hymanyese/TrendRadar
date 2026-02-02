@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T10:25:48.656559+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-02-02T12:59:51.181268+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时27分 ~ 10时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时27分 ~ 12时59分]"
         },
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -51,11 +52,12 @@
           "ranks": [
             5,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 12时59分]"
         },
         {
           "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
@@ -67,6 +69,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时28分]"
+        },
+        {
+          "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764683",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 12时59分]"
         },
         {
           "title": "特朗普：美委将“分享”石油收益",
@@ -107,18 +122,6 @@
           "time_info": "[00时33分 ~ 07时28分]"
         },
         {
-          "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764683",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 10时25分]"
-        },
-        {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
           "url": "https://news.ifeng.com/c/8qOLT943YcA",
           "source": "凤凰网",
@@ -128,6 +131,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 06时28分]"
+        },
+        {
+          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时59分]"
+        },
+        {
+          "title": "马斯克暗示克林顿盖茨等人有罪",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BA%E5%85%8B%E6%9E%97%E9%A1%BF%E7%9B%96%E8%8C%A8%E7%AD%89%E4%BA%BA%E6%9C%89%E7%BD%AA%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -142,24 +167,13 @@
           "time_info": "[07时27分 ~ 10时25分]"
         },
         {
-          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
-          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
           "title": "高市早苗民调坚挺 自民党剑指众议院绝对多数",
           "url": "https://flash.jin10.com/detail/20260202094925629800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -176,6 +190,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "美元兑日元周一亚市盘初走高，此前日本首相高市早苗周末就日元汇率发表评论。",
@@ -249,6 +274,18 @@
           "time_info": "[00时33分 ~ 03时26分]"
         },
         {
+          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
+          "url": "https://news.ifeng.com/c/8qPOoB0E678",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时59分]"
+        },
+        {
           "title": "特朗普：原本可解决拖欠联合国会费的问题",
           "url": "https://flash.jin10.com/detail/20260202051310002800",
           "source": "金十数据",
@@ -272,15 +309,26 @@
           "time_info": "[07时27分 ~ 07时28分]"
         },
         {
-          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
-          "url": "https://news.ifeng.com/c/8qPOoB0E678",
-          "source": "凤凰网",
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "12时59分"
+        },
+        {
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -300,7 +348,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -322,15 +370,37 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "特朗普回应被爱泼斯坦案文件提及",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "马斯克：Grok Imagine 1.0 版本现已全面发布。",
+          "url": "https://flash.jin10.com/detail/20260202115750959800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "《太平年》究竟想讲什么故事？",
@@ -349,15 +419,48 @@
           "time_info": "[00时33分 ~ 06时28分]"
         },
         {
+          "title": "爱泼斯坦案爆出更多大人物的丑行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%88%86%E5%87%BA%E6%9B%B4%E5%A4%9A%E5%A4%A7%E4%BA%BA%E7%89%A9%E7%9A%84%E4%B8%91%E8%A1%8C%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "创业板指涨超1%，CPO等算力硬件股延续强势，新易盛大涨超10%，股价续创历史新高，总市值突破4600亿。",
           "url": "https://wallstreetcn.com/livenews/3047948",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "明朝历史上有哪些奇女子？",
+          "url": "https://www.zhihu.com/question/1998730588513928027",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "中考要退出历史舞台了吗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E8%A6%81%E9%80%80%E5%87%BA%E5%8E%86%E5%8F%B2%E8%88%9E%E5%8F%B0%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     }
