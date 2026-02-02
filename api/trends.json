@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T17:54:03.091139+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-02-02T18:48:04.409791+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -46,8 +46,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时27分 ~ 17时54分]"
+          "appearance_count": 19,
+          "time_info": "[01时27分 ~ 18时48分]"
         },
         {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
@@ -73,6 +73,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时28分]"
+        },
+        {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时52分 ~ 18时48分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -136,18 +148,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时59分 ~ 15时52分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 17时54分]"
         },
         {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
@@ -353,6 +353,17 @@
           "time_info": "[10时25分 ~ 12时59分]"
         },
         {
+          "title": "马斯克罕见牵手印度裔女友",
+          "url": "https://www.toutiao.com/trending/7602012192531300362/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
           "title": "特朗普：原本可解决拖欠联合国会费的问题",
           "url": "https://flash.jin10.com/detail/20260202051310002800",
           "source": "金十数据",
@@ -431,6 +442,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "特朗普回应被爱泼斯坦案文件提及",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -470,9 +492,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "克里姆林宫：对于此前就俄罗斯应特朗普请求短暂暂停打击乌克兰能源基础设施一事所作表态，已无更多补充。",
+          "url": "https://flash.jin10.com/detail/20260202175246532800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -488,8 +521,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时08分 ~ 17时54分]"
+          "appearance_count": 8,
+          "time_info": "[14时08分 ~ 18时48分]"
         },
         {
           "title": "《太平年》究竟想讲什么故事？",
@@ -581,6 +614,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "真的很讨厌上班，讨厌见到职场上的尔虞我诈和勾心斗角，怎么办呢？",
+          "url": "https://www.zhihu.com/question/2000926241801396886",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
         }
       ]
     }
