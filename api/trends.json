@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-02-03T01:40:29.059234+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-03T02:49:00.240446+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
-          "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
-          "url": "https://flash.jin10.com/detail/20260203011746385800",
-          "source": "金十数据",
+          "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
+          "url": "https://wallstreetcn.com/livenews/3048503",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "02时49分"
         },
         {
           "title": "高市早苗的眼泪，“奥斯卡级”",
@@ -26,8 +26,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时49分]"
+        },
+        {
+          "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
+          "url": "https://flash.jin10.com/detail/20260203011746385800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "【特朗普：美印达成一项贸易协议，“对等关税”将从25%降至18%】2月2日，美国总统特朗普在社交媒体平台“真实社交”上发文称，他于当日上午与印度总理莫迪进行了交谈。 特朗普表示，双方达成了一项美印贸易协议，美国对印度的“对等关税”将从25%降至18%。印度也将相应地降低对美国的关税和非关税壁垒，直至降至零。特朗普还称，莫迪承诺将大幅增加对美国产品的采购，包括价值超过5000亿美元的美国能源、技术、农产品、煤炭以及其他许多产品。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3048500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
@@ -37,8 +59,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时49分]"
+        },
+        {
+          "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3048475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时49分]"
         },
         {
           "title": "美国驻印度大事：总统特朗普刚刚与印度总理莫迪通话。",
@@ -53,15 +87,37 @@
           "time_info": "[00时45分 ~ 01时40分]"
         },
         {
-          "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
-          "url": "https://wallstreetcn.com/livenews/3048475",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：美国法官恢复了被特朗普叫停的沃旭能源纽约海上风电项目。",
+          "url": "https://flash.jin10.com/detail/20260203021528114800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国总统特朗普谈及明尼苏达州（移民相关问题），声称：我们想要一个东西，他们关押的人。",
+          "url": "https://wallstreetcn.com/livenews/3048498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "据华尔街日报：马斯克旗下的SpaceX限制俄罗斯无人机使用星链服务。",
+          "url": "https://flash.jin10.com/detail/20260203020849427800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "美国总统特朗普：除了价值逾5000亿美元的美国能源、科技、农产品、煤炭及其他产品外，印度总理还承诺“购买美国货”。",
@@ -70,9 +126,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "印度总理莫迪：美国总统特朗普将印度产品关税下调18%，这让人感到欣慰。",
+          "url": "https://wallstreetcn.com/livenews/3048493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "美国总统特朗普：从即日起，我们和印度双方同意建立美国与印度之间的贸易协议。根据该协议，美国将降低对印度的对等关税，从25%降至18%。他们也将逐步取消对美国的关税和非关税壁垒，直至完全消除。",
@@ -81,7 +148,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -92,7 +159,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -103,7 +170,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -125,7 +192,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -161,12 +228,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及明尼苏达州）我们可以很快离开那里。",
+          "url": "https://flash.jin10.com/detail/20260203015233342800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "爱泼斯坦案文件曝出美国众多「大人物」丑行，为什么仍难平息公众质疑？这些文件对美国政商界冲击有多大？",
@@ -176,8 +254,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时49分]"
+        },
+        {
+          "title": "欧洲军工股多数收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.08%，1月19日涨至36.029999欧元创历史新高以来，持续回撤。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3048490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "意大利银行板块涨1.8%，和英国股市创收盘历史新高",
@@ -186,7 +275,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -197,7 +286,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         }
@@ -215,8 +304,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时49分]"
         }
       ]
     }
