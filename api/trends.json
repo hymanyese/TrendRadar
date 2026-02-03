@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T21:05:14.207162+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-02-03T22:45:45.523323+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -31,8 +31,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 21时05分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 22时45分]"
+        },
+        {
+          "title": "特朗普希望中国也加入核军控谈判，中方回应",
+          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时44分 ~ 22时45分]"
         },
         {
           "title": "高市早苗扬言把自卫队写入宪法",
@@ -60,18 +72,6 @@
           "time_info": "[10时24分 ~ 16时40分]"
         },
         {
-          "title": "特朗普希望中国也加入核军控谈判，中方回应",
-          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 21时05分]"
-        },
-        {
           "title": "高市早苗的眼泪，“奥斯卡级”",
           "url": "https://news.ifeng.com/c/8qQCcWAY6A6",
           "source": "凤凰网",
@@ -81,6 +81,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 13时53分]"
+        },
+        {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时42分 ~ 22时45分]"
         },
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -93,11 +106,12 @@
             12,
             14,
             15,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时48分 ~ 21时05分]"
+          "appearance_count": 14,
+          "time_info": "[12时48分 ~ 22时45分]"
         },
         {
           "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
@@ -144,16 +158,18 @@
           "time_info": "[15时44分 ~ 21时05分]"
         },
         {
-          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
-          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
-          "source": "凤凰网",
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
+            10,
+            9,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时42分 ~ 21时05分]"
+          "appearance_count": 8,
+          "time_info": "[14时55分 ~ 22时45分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -209,20 +225,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时24分 ~ 15时45分]"
-        },
-        {
-          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
-          "url": "https://wallstreetcn.com/articles/3764775",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时55分 ~ 21时05分]"
         },
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
@@ -325,8 +327,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时45分]"
+        },
+        {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时45分]"
+        },
+        {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时45分]"
         },
         {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
@@ -365,17 +390,6 @@
           "time_info": "[00时45分 ~ 01时40分]"
         },
         {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
-        },
-        {
           "title": "阿联酋官员表示，与马斯克的BORING公司合作的迪拜环线第一阶段将立即启动。",
           "url": "https://flash.jin10.com/detail/20260203182452740800",
           "source": "金十数据",
@@ -398,17 +412,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时24分 ~ 12时48分]"
-        },
-        {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
         },
         {
           "title": "市场消息：美国法官恢复了被特朗普叫停的沃旭能源纽约海上风电项目。",
@@ -521,6 +524,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "马斯克被法司法部门传唤",
+          "url": "https://www.toutiao.com/trending/7602620308612189722/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "美国总统特朗普：我们谈了很多事情，包括贸易，以及结束俄罗斯和乌克兰的冲突。",
           "url": "https://flash.jin10.com/detail/20260203005909864800",
           "source": "金十数据",
@@ -593,7 +607,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -629,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "法国传唤马斯克",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E4%BC%A0%E5%94%A4%E9%A9%AC%E6%96%AF%E5%85%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "美国总统特朗普：哈佛大学长期以来一直存在严重的“反犹主义”倾向，并向日渐衰落的《纽约时报》散布了大量“无稽之谈”。",
@@ -791,7 +816,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -821,7 +846,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "记录我的春运返乡故事",
@@ -835,8 +860,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时55分 ~ 21时05分]"
+          "appearance_count": 11,
+          "time_info": "[14时55分 ~ 22时45分]"
         },
         {
           "title": "爱泼斯坦案文件曝出美国众多「大人物」丑行，为什么仍难平息公众质疑？这些文件对美国政商界冲击有多大？",
@@ -874,6 +899,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时44分 ~ 17时44分]"
+        },
+        {
+          "title": "汤森路透股价暴跌17%，创历史最大跌幅。",
+          "url": "https://flash.jin10.com/detail/20260203223315513800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "大 S 离世 1 周年，为什么和她相关的故事总能给我们带来触动？你有什么想对她说的？",
