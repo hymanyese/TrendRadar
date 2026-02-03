@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T03:50:03.069357+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-02-04T04:40:25.525431+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "马斯克，被传唤",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "法国司法部门搜查X平台办公室并传唤马斯克",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -73,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "马斯克被法司法部门传唤",
@@ -84,8 +84,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -96,8 +96,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -107,8 +107,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
+        },
+        {
+          "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
+          "url": "https://flash.jin10.com/detail/20260204042744936800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -122,15 +133,15 @@
           "time_info": "00时56分"
         },
         {
-          "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3049293",
-          "source": "华尔街见闻-快讯",
+          "title": "哥伦比亚总统佩特罗：和美国总统特朗普讨论了出口委内瑞拉天然气的问题。",
+          "url": "https://flash.jin10.com/detail/20260204042328878800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "04时40分"
         },
         {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
@@ -138,11 +149,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 04时40分]"
+        },
+        {
+          "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3049293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时50分]"
+          "time_info": "[03时50分 ~ 04时40分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -180,6 +204,18 @@
           "time_info": "[02时59分 ~ 03时50分]"
         },
         {
+          "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
+          "url": "https://wallstreetcn.com/livenews/3049283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时40分]"
+        },
+        {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
           "url": "https://flash.jin10.com/detail/20260204022425976800",
           "source": "金十数据",
@@ -197,7 +233,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -211,17 +247,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
-          "url": "https://wallstreetcn.com/livenews/3049283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时50分"
         },
         {
           "title": "白宫新闻秘书：特朗普认为政府停摆只会损害经济。",
@@ -252,7 +277,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         },
@@ -277,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "特朗普称有问题的是比尔盖茨那些人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     },
@@ -293,8 +329,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "伊朗外交部：双方强调要加强两国之间的友好历史关系，并就地区发展交换了意见。",
