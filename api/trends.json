@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T14:56:04.516527+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-02-04T15:46:19.278577+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 77,
+      "match_count": 82,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 15时46分]"
         },
         {
           "title": "马斯克，被传唤",
@@ -123,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 15时46分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -134,8 +134,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 15时46分]"
+        },
+        {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时46分]"
         },
         {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
@@ -147,6 +158,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 15时46分]"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -172,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
-        },
-        {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 14时56分]"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -229,6 +241,18 @@
           "time_info": "13时51分"
         },
         {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 15时46分]"
+        },
+        {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
           "url": "https://wallstreetcn.com/livenews/3049277",
           "source": "华尔街见闻-快讯",
@@ -254,18 +278,6 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时56分]"
-        },
-        {
           "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
           "url": "https://wallstreetcn.com/livenews/3049293",
           "source": "华尔街见闻-快讯",
@@ -288,17 +300,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 13时51分]"
-        },
-        {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 14时56分]"
         },
         {
           "title": "马斯克放弃Model S/X背后",
@@ -439,6 +440,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "诺和诺德(NVO.N)首席执行官：希望与美国总统特朗普政府达成一致的肥胖症药物医保覆盖将于今年“年中左右”启动。",
+          "url": "https://flash.jin10.com/detail/20260204152741614800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
           "url": "https://flash.jin10.com/detail/20260204022404753800",
           "source": "金十数据",
@@ -500,9 +512,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "马斯克“炒热”太空数据中心？亚马逊AWS CEO“泼冷水”：仍遥不可及！",
+          "url": "https://www.cls.cn/detail/2279787",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "美国总统特朗普：我希望普京结束战争。",
@@ -522,7 +545,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -547,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "高市早苗明确表达将自卫队写入宪法意愿，外交部：敦促日方深刻反省侵略历史",
+          "url": "https://wallstreetcn.com/livenews/3049666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "特朗普公布120亿美元“金库计划”",
@@ -577,7 +611,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -626,6 +660,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "晶科能源称与马斯克考察团队接触",
+          "url": "https://www.toutiao.com/trending/7602085526292643878/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "美国总统特朗普：我觉得哥伦比亚总统佩特罗很棒。",
           "url": "https://flash.jin10.com/detail/20260204054438114800",
           "source": "金十数据",
@@ -635,6 +680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "特朗普被问及爱泼斯坦案连怼记者",
+          "url": "https://wallstreetcn.com/livenews/3049655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "特朗普面对爱泼斯坦案追问怒斥CNN记者：你连微笑都没有，难怪你们没人看",
@@ -786,7 +842,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -797,7 +853,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -896,11 +952,12 @@
             2,
             9,
             16,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 15时46分]"
         },
         {
           "title": "AMD：去年数据中心的CPU市场份额创历史新高。",
@@ -949,11 +1006,12 @@
           "ranks": [
             18,
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时46分]"
         },
         {
           "title": "为什么即便是今天父母仍会给孩子报一堆没用的兴趣班?",
