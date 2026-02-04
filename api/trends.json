@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T07:31:13.566286+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-02-04T10:11:22.558220+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 10时11分]"
         },
         {
           "title": "马斯克，被传唤",
@@ -107,11 +107,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 10时11分]"
         },
         {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
@@ -302,6 +303,17 @@
           "time_info": "[06时32分 ~ 06时33分]"
         },
         {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
           "url": "https://flash.jin10.com/detail/20260204022425976800",
           "source": "金十数据",
@@ -368,6 +380,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "被传唤后，马斯克发声",
+          "url": "https://news.ifeng.com/c/8qSniTMsaqs",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "美国总统特朗普：联邦政府应介入选举事务。",
           "url": "https://flash.jin10.com/detail/20260204054655936800",
           "source": "金十数据",
@@ -407,9 +430,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普公布120亿美元“金库计划”",
+          "url": "https://news.ifeng.com/c/8qSe1tjtzmx",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美国总统特朗普将于美国东部时间下午4:30（北京时间今日05:30）在椭圆形办公室现场签署政府资金法案。",
@@ -462,7 +496,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -638,7 +672,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -689,11 +723,12 @@
             7,
             8,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 10时11分]"
         },
         {
           "title": "AMD：去年数据中心的CPU市场份额创历史新高。",
@@ -733,8 +768,19 @@
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "“00后整顿职场”为啥火了",
+          "url": "https://www.toutiao.com/trending/7602552686097104932/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
         {
           "title": "为什么即便是今天父母仍会给孩子报一堆没用的兴趣班?",
           "url": "https://www.zhihu.com/question/2001387270532535818",
