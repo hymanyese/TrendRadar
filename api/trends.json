@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T15:46:19.278577+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-02-04T16:44:34.272347+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 82,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时56分 ~ 15时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时56分 ~ 16时44分]"
         },
         {
           "title": "马斯克，被传唤",
@@ -66,6 +66,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时56分 ~ 07时31分]"
+        },
+        {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时44分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -115,16 +128,16 @@
           "time_info": "[00时56分 ~ 10时11分]"
         },
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
           "source": "凤凰网",
           "ranks": [
-            5,
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时46分]"
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 16时44分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -134,19 +147,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 16时44分]"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 16时44分]"
         },
         {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
@@ -160,16 +175,26 @@
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
+          "title": "高市早苗扬言将自卫队写入宪法，外交部回应",
+          "url": "https://news.ifeng.com/c/8qTGU8wdLkx",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 15时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "特朗普称同哥伦比亚总统的会晤“非常好” 哥总统：绝不接受胁迫",
+          "url": "https://wallstreetcn.com/livenews/3049732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -325,6 +350,18 @@
           "time_info": "[00时56分 ~ 01时55分]"
         },
         {
+          "title": "马斯克“炒热”太空数据中心？亚马逊AWS CEO“泼冷水”：仍遥不可及！",
+          "url": "https://www.cls.cn/detail/2279787",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时44分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
           "url": "https://wallstreetcn.com/livenews/3049273",
           "source": "华尔街见闻-快讯",
@@ -347,6 +384,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时31分]"
+        },
+        {
+          "title": "晶科能源称与马斯克考察团队接触",
+          "url": "https://www.toutiao.com/trending/7602085526292643878/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时44分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -446,7 +495,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -517,17 +566,6 @@
           "time_info": "14时56分"
         },
         {
-          "title": "马斯克“炒热”太空数据中心？亚马逊AWS CEO“泼冷水”：仍遥不可及！",
-          "url": "https://www.cls.cn/detail/2279787",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
           "title": "美国总统特朗普：我希望普京结束战争。",
           "url": "https://flash.jin10.com/detail/20260204054601265800",
           "source": "金十数据",
@@ -578,7 +616,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -592,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "马斯克：爱泼斯坦的客户被抓多少了？是0诶",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdnp",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "美国总统特朗普将于美国东部时间下午4:30（北京时间今日05:30）在椭圆形办公室现场签署政府资金法案。",
@@ -660,17 +709,6 @@
           "time_info": "07时31分"
         },
         {
-          "title": "晶科能源称与马斯克考察团队接触",
-          "url": "https://www.toutiao.com/trending/7602085526292643878/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
           "title": "美国总统特朗普：我觉得哥伦比亚总统佩特罗很棒。",
           "url": "https://flash.jin10.com/detail/20260204054438114800",
           "source": "金十数据",
@@ -688,7 +726,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -869,6 +907,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "曝马斯克团队“摸底”中国光伏产业链",
+          "url": "https://www.toutiao.com/trending/7602056837328371731/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "哥伦比亚总统佩特罗在与美国总统特朗普会面后表示，他喜欢“坦率的美国人”。",
           "url": "https://flash.jin10.com/detail/20260204044913626800",
           "source": "金十数据",
@@ -938,7 +987,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "记录我的春运返乡故事",
@@ -953,11 +1002,12 @@
             9,
             16,
             13,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时56分 ~ 15时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时56分 ~ 16时44分]"
         },
         {
           "title": "AMD：去年数据中心的CPU市场份额创历史新高。",
@@ -992,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "边画边讲五代十国人物关系",
+          "url": "https://www.douyin.com/hot/2388027",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
