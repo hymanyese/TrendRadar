@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T00:53:21.105421+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-05T01:48:40.272590+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时48分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时48分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时48分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时48分]"
         },
         {
           "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时48分]"
         },
         {
           "title": "马斯克被激怒",
@@ -70,8 +70,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时48分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -81,8 +81,30 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时48分]"
+        },
+        {
+          "title": "据知情人士透露，马斯克旗下SpaceX将向非美国银行开放IPO的承销行/簿记行遴选。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3050032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
+          "url": "https://flash.jin10.com/detail/20260205011600614800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时48分"
         },
         {
           "title": "马斯克：爱泼斯坦客户一个也没被捕",
@@ -92,8 +114,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时48分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -103,8 +125,52 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时48分]"
+        },
+        {
+          "title": "市场消息：马斯克旗下的SpaceX公司将向非美国银行开启首次公开募股路演。",
+          "url": "https://flash.jin10.com/detail/20260205011524314800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美国财长贝森特：总统特朗普明确表示，数字美元对他而言是“令人厌恶”的。",
+          "url": "https://wallstreetcn.com/livenews/3050036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美国总统特朗普考虑签署关于“加州欺诈工作组”的命令。 副总统万斯将牵头这个工作组的工作。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3050019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时48分"
         },
         {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
@@ -121,18 +187,41 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "记录我的春运返乡故事",
           "url": "https://www.douyin.com/hot/2388095",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时48分]"
+        },
+        {
+          "title": "意大利银行板块继续创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3050013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "01时48分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收涨0.27%，报619.57点，创收盘历史新高。 欧元区STOXX 50指数初步收跌0.17%，报5984.95点。 富时泛欧绩优300指数初步收涨0.21%，报2468.84点。",
+          "url": "https://wallstreetcn.com/livenews/3050012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时48分"
         }
       ]
     }
