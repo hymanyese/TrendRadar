@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T06:31:16.410424+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-02-06T07:26:27.661329+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "尼泊尔总统到访日本，高市早苗亲自帮其穿上日本服饰",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "石破茂被曝因反对高市早苗被“冷落”",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "高市早苗亲自帮尼泊尔总统穿衣",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -53,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "马斯克：Spacex并没有开发手机产品。",
@@ -104,6 +104,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时36分]"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 07时26分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
@@ -237,18 +250,6 @@
           "time_info": "[02时53分 ~ 03时39分]"
         },
         {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 02时53分]"
-        },
-        {
           "title": "美国白宫：（当被问及是否与俄罗斯就新削减战略武器条约达成了临时协议时）据我们所知，并没有。美国总统特朗普希望让我们的核专家着手制定一项全新的、经改进的且现代化的条约。",
           "url": "https://flash.jin10.com/detail/20260206033504426800",
           "source": "金十数据",
@@ -270,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
@@ -418,7 +430,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "该如何评价历史大剧太平年",
@@ -433,8 +445,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时26分]"
+        },
+        {
+          "title": "白银的历史大顶，从来不是“贵出来”的",
+          "url": "https://wallstreetcn.com/articles/3765066",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：从历史上看，大多数周期更多是由需求驱动的。",
