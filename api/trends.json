@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T12:49:47.975558+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-02-05T13:57:35.564042+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 12时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 13时57分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -104,8 +104,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时48分 ~ 12时49分]"
+          "appearance_count": 12,
+          "time_info": "[01时48分 ~ 13时57分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -132,6 +132,17 @@
           "time_info": "[07时30分 ~ 10时12分]"
         },
         {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 13时57分]"
+        },
+        {
           "title": "马斯克：爱泼斯坦客户一个也没被捕",
           "url": "https://www.toutiao.com/trending/7602995666331323955/",
           "source": "今日头条",
@@ -146,17 +157,6 @@
           "time_info": "[00时53分 ~ 07时31分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 12时49分]"
-        },
-        {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
           "url": "https://news.ifeng.com/c/8qTDVc9qcbD",
           "source": "凤凰网",
@@ -166,6 +166,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时57分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下SpaceX将向非美国银行开放IPO的承销行/簿记行遴选。（彭博）",
@@ -188,17 +200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
         },
         {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
@@ -236,6 +237,18 @@
           "time_info": "[03时40分 ~ 04时38分]"
         },
         {
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 13时57分]"
+        },
+        {
           "title": "美国总统特朗普：我认为沃什明白我想要降低利率，如果他曾表示想要加息，就不会得到这份工作。",
           "url": "https://flash.jin10.com/detail/20260205030645609800",
           "source": "金十数据",
@@ -258,6 +271,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时36分]"
+        },
+        {
+          "title": "高市早苗明确表达将自卫队写入宪法意愿，外交部：敦促日方深刻反省侵略历史",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531802",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 13时57分]"
         },
         {
           "title": "美国总统特朗普：伊朗最高领袖现在应深感忧虑。",
@@ -284,18 +310,6 @@
           "time_info": "[03时40分 ~ 04时38分]"
         },
         {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 12时49分]"
-        },
-        {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
           "url": "https://wallstreetcn.com/livenews/3050053",
           "source": "华尔街见闻-快讯",
@@ -307,18 +321,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时38分]"
-        },
-        {
-          "title": "高市早苗明确表达将自卫队写入宪法意愿，外交部：敦促日方深刻反省侵略历史",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32531802",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 12时49分]"
         },
         {
           "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
@@ -392,6 +394,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 02时55分]"
+        },
+        {
+          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时57分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
@@ -483,17 +497,6 @@
           "time_info": "01时48分"
         },
         {
-          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
           "title": "美国联邦住房金融局局长：没有在积极考虑“特朗普房”这个想法",
           "url": "https://wallstreetcn.com/livenews/3050090",
           "source": "华尔街见闻-快讯",
@@ -511,7 +514,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -574,7 +577,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -613,7 +616,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         }
