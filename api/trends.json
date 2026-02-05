@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-06T01:51:30.891300+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-02-06T02:53:18.151702+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "高市早苗亲自帮尼泊尔总统穿衣",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BA%B2%E8%87%AA%E5%B8%AE%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%80%BB%E7%BB%9F%E7%A9%BF%E8%A1%A3%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时51分]"
-        },
         {
           "title": "尼泊尔总统到访日本，高市早苗亲自帮其穿上日本服饰",
           "url": "https://v.ifeng.com/c/8qTDVc9qccJ",
@@ -26,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "石破茂被曝因反对高市早苗被“冷落”",
@@ -37,8 +26,53 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时53分]"
+        },
+        {
+          "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
+          "url": "https://wallstreetcn.com/livenews/3050842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "马斯克：Spacex并没有开发手机产品。",
+          "url": "https://wallstreetcn.com/livenews/3050840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "高市早苗亲自帮尼泊尔总统穿衣",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BA%B2%E8%87%AA%E5%B8%AE%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%80%BB%E7%BB%9F%E7%A9%BF%E8%A1%A3%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时53分]"
+        },
+        {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于美东时间19:00揭晓TrumpRX。",
@@ -53,15 +87,27 @@
           "time_info": "[00时53分 ~ 01时51分]"
         },
         {
-          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
-          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
-          "source": "凤凰网",
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
           "ranks": [
-            11
+            17,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时51分]"
+          "time_info": "[01时51分 ~ 02时53分]"
+        },
+        {
+          "title": "唐宁街发言人：英国首相斯塔默与美国总统特朗普一致认为，达成一项协议以确保在迪戈加西亚岛建立英美联合基地至关重要，而该基地对双方共同的安全利益依然至关重要。",
+          "url": "https://flash.jin10.com/detail/20260206022526998800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
@@ -75,6 +121,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "加拿大央行行长麦克勒姆：（在被问及央行的经济预测时）我们不可能对美国总统特朗普的每一项威胁都做出回应。那样的话，我们就是在自掘坟墓。",
+          "url": "https://flash.jin10.com/detail/20260206022354312800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
           "title": "美国总统特朗普将于周四深夜宣布启动TrumpRX。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3050781",
           "source": "华尔街见闻-快讯",
@@ -84,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "美国总统特朗普：与英国首相斯塔默讨论（印度洋）Diego Garcia岛屿问题，磋商富有成效。 美方保留在Diego Garcia动用武力来保持美国存在感的权利。 不会允许岛上的军事基地遭到破坏。 我理解，首相斯塔默（面对我的威胁）竭尽所能地达成了一份协议。 如果协议失败，美国可能会“保护”Diago Garcia。",
+          "url": "https://wallstreetcn.com/livenews/3050825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
@@ -97,15 +165,15 @@
           "time_info": "00时53分"
         },
         {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
+          "title": "特朗普：完全支持欧尔班再次担任匈牙利总理",
+          "url": "https://flash.jin10.com/detail/20260206021727047800",
+          "source": "金十数据",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "02时53分"
         },
         {
           "title": "贝森特：特朗普向IRS索赔的100亿美元可能会来自美国纳税人",
@@ -114,7 +182,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -150,6 +218,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "特朗普：已就迪戈加西亚岛问题与斯塔默交谈 保留军事手段的权利",
+          "url": "https://flash.jin10.com/detail/20260206020251009800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
+          "url": "https://flash.jin10.com/detail/20260206020145026800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         }
       ]
     },
@@ -163,11 +253,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时53分]"
         }
       ]
     }
