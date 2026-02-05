@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T13:57:35.564042+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-02-05T15:05:46.599569+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 13时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 15时05分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -104,8 +104,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时48分 ~ 13时57分]"
+          "appearance_count": 13,
+          "time_info": "[01时48分 ~ 15时05分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 15时05分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -130,17 +141,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时30分 ~ 10时12分]"
-        },
-        {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时57分]"
         },
         {
           "title": "马斯克：爱泼斯坦客户一个也没被捕",
@@ -176,8 +176,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 15时05分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下SpaceX将向非美国银行开放IPO的承销行/簿记行遴选。（彭博）",
@@ -213,6 +213,31 @@
           "time_info": "01时48分"
         },
         {
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 15时05分]"
+        },
+        {
+          "title": "高市早苗明确表达将自卫队写入宪法意愿，外交部：敦促日方深刻反省侵略历史",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531802",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 15时05分]"
+        },
+        {
           "title": "美国总统特朗普：仍必须就（移民执法）保持强硬的立场。",
           "url": "https://flash.jin10.com/detail/20260205031140205800",
           "source": "金十数据",
@@ -237,18 +262,6 @@
           "time_info": "[03时40分 ~ 04时38分]"
         },
         {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时57分]"
-        },
-        {
           "title": "美国总统特朗普：我认为沃什明白我想要降低利率，如果他曾表示想要加息，就不会得到这份工作。",
           "url": "https://flash.jin10.com/detail/20260205030645609800",
           "source": "金十数据",
@@ -271,19 +284,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时36分]"
-        },
-        {
-          "title": "高市早苗明确表达将自卫队写入宪法意愿，外交部：敦促日方深刻反省侵略历史",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32531802",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时57分]"
         },
         {
           "title": "美国总统特朗普：伊朗最高领袖现在应深感忧虑。",
@@ -555,7 +555,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "记录我的春运返乡故事",
@@ -569,6 +569,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时53分 ~ 10时12分]"
+        },
+        {
+          "title": "该如何评价历史大剧太平年",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A5%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%89%A7%E5%A4%AA%E5%B9%B3%E5%B9%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "ICE大斗争背后有何故事",
