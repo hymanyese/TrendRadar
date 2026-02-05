@@ -1,219 +1,22 @@
 {
-  "generated_at": "2026-02-05T23:43:38.807282+08:00",
-  "total_titles_processed": 2028,
+  "generated_at": "2026-02-06T00:53:55.577154+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 65,
+      "match_count": 11,
       "titles": [
         {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.douyin.com/hot/2389904",
-          "source": "抖音",
+          "title": "高市早苗亲自帮尼泊尔总统穿衣",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BA%B2%E8%87%AA%E5%B8%AE%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%80%BB%E7%BB%9F%E7%A9%BF%E8%A1%A3%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 10时12分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 21时07分]"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时31分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时31分]"
-        },
-        {
-          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
-          "url": "https://www.cls.cn/detail/2280661",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时31分]"
-        },
-        {
-          "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
-          "url": "https://www.cls.cn/detail/2280542",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时31分]"
-        },
-        {
-          "title": "马斯克被激怒",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%BF%80%E6%80%92%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            4,
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 10时12分]"
-        },
-        {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时45分 ~ 21时07分]"
-        },
-        {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            9,
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时48分 ~ 22时45分]"
-        },
-        {
-          "title": "石破茂被曝因反对高市早苗被“冷落”",
-          "url": "https://news.ifeng.com/c/8qUzCgVB1mL",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时49分 ~ 23时43分]"
-        },
-        {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 15时05分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 10时12分]"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 16时46分]"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.toutiao.com/trending/7603003215299149878/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时30分 ~ 10时12分]"
-        },
-        {
-          "title": "马斯克：爱泼斯坦客户一个也没被捕",
-          "url": "https://www.toutiao.com/trending/7602995666331323955/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时31分]"
-        },
-        {
-          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
-          "url": "https://news.ifeng.com/c/8qTDVc9qcbD",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时31分 ~ 07时31分]"
-        },
-        {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时11分 ~ 16时46分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "尼泊尔总统到访日本，高市早苗亲自帮其穿上日本服饰",
@@ -223,462 +26,89 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时43分]"
-        },
-        {
-          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 21时07分]"
-        },
-        {
-          "title": "贝森特：特朗普将决定是否就利率问题起诉美联储主席提名人沃什",
-          "url": "https://wallstreetcn.com/livenews/3050778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "00时53分"
         },
         {
-          "title": "据知情人士透露，马斯克旗下SpaceX将向非美国银行开放IPO的承销行/簿记行遴选。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3050032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
-          "url": "https://wallstreetcn.com/livenews/3050075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
-          "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
-          "url": "https://flash.jin10.com/detail/20260205011600614800",
-          "source": "金十数据",
+          "title": "石破茂被曝因反对高市早苗被“冷落”",
+          "url": "https://news.ifeng.com/c/8qUzCgVB1mL",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "00时53分"
         },
         {
-          "title": "高市早苗明确表达将自卫队写入宪法意愿，外交部：敦促日方深刻反省侵略历史",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32531802",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 15时05分]"
-        },
-        {
-          "title": "美国总统特朗普：仍必须就（移民执法）保持强硬的立场。",
-          "url": "https://flash.jin10.com/detail/20260205031140205800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时38分]"
-        },
-        {
-          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
-          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时06分 ~ 23时43分]"
-        },
-        {
-          "title": "美国总统特朗普：（就执法人员在明尼阿波利斯开枪击毙公民事件）我认为政府在移民执法行动中可以采取“更为温和”的方式。",
-          "url": "https://flash.jin10.com/detail/20260205030936691800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时38分]"
-        },
-        {
-          "title": "美国总统特朗普：我认为沃什明白我想要降低利率，如果他曾表示想要加息，就不会得到这份工作。",
-          "url": "https://flash.jin10.com/detail/20260205030645609800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时38分]"
-        },
-        {
-          "title": "美国联邦住房金融局局长Bill Pulte：如果两房（房利美+房地美）公开上市，可能会出售2.5%-5%的股份。 两房已经准备好上市，具体取决于总统特朗普。 在我看来，两房价值5000亿-750亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗最高领袖现在应深感忧虑。",
-          "url": "https://flash.jin10.com/detail/20260205030620611800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时38分]"
-        },
-        {
-          "title": "美国总统特朗普：必须继续采取足够的移民执法行动。",
-          "url": "https://wallstreetcn.com/livenews/3050073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时38分]"
-        },
-        {
-          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
-          "url": "https://wallstreetcn.com/livenews/3050053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 04时38分]"
-        },
-        {
-          "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3050048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 04时38分]"
-        },
-        {
-          "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E5%B0%86%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BF%BB%E7%AF%87%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时31分 ~ 07时31分]"
-        },
-        {
-          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
-          "url": "https://flash.jin10.com/detail/20260205021201236800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 03时40分]"
-        },
-        {
-          "title": "美国总统特朗普：利率将会下调，这“几乎是毫无疑问的”。",
-          "url": "https://flash.jin10.com/detail/20260205030511300800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时38分]"
-        },
-        {
-          "title": "美国核管理委员会表示，正根据美国总统特朗普推动核反应堆许可的举措进行重组，将在60天内制定新的组织架构图及管理计划。",
-          "url": "https://flash.jin10.com/detail/20260205025918193800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时38分]"
-        },
-        {
-          "title": "美国财长贝森特：总统特朗普明确表示，数字美元对他而言是“令人厌恶”的。",
-          "url": "https://wallstreetcn.com/livenews/3050036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 02时55分]"
-        },
-        {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时43分]"
-        },
-        {
-          "title": "马斯克团队光伏调研消息引爆A股",
-          "url": "https://www.toutiao.com/trending/7603022960940551734/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时38分]"
-        },
-        {
-          "title": "市场消息：马斯克旗下的SpaceX公司将向非美国银行开启首次公开募股路演。",
-          "url": "https://flash.jin10.com/detail/20260205011524314800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "特朗普：我提名的美联储主席沃什希望降低利率",
-          "url": "https://wallstreetcn.com/livenews/3050075",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于美东时间19:00揭晓TrumpRX。",
+          "url": "https://wallstreetcn.com/livenews/3050787",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "00时53分"
         },
         {
-          "title": "A股光伏板块爆发，马斯克下单了？",
-          "url": "https://wallstreetcn.com/articles/3764920",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美国联邦住房金融局局长普尔特：房利美和房地美已做好上市准备，接下来就看总统特朗普的决定了。",
-          "url": "https://flash.jin10.com/detail/20260205033722491800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "美国驻波兰大使Tom Rose声称，其将切断与波兰众议院议长沃齐米日·恰扎斯蒂 (Włodzimierz Czarzasty)的所有联系。 这位外交官宣称，该议长的表态“直接冒犯”美国总统特朗普，不利于曾称呼特朗普为“爸爸”的波兰总理图斯克和其政府与美方的“卓越关系”。",
-          "url": "https://wallstreetcn.com/livenews/3050769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-05）",
-          "url": "https://flash.jin10.com/detail/20260205180759718800",
-          "source": "金十数据",
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国财长贝森特：对特朗普是否有权因政策分歧解雇美联储主席或委员会成员一事不予置评。我认为美联储是一个独立机构。",
-          "url": "https://flash.jin10.com/detail/20260205015923547800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗正在谈判。",
-          "url": "https://flash.jin10.com/detail/20260205221446756800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren质疑马斯克旗下太空探索公司SpaceX与五角大楼的（利益）关系。",
-          "url": "https://wallstreetcn.com/livenews/3050762",
+          "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
+          "url": "https://wallstreetcn.com/livenews/3050783",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "据Politico：美国众议院议长约翰逊计划今天下午会见美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20260205015333473800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时55分"
+          "time_info": "00时53分"
         },
         {
-          "title": "巴西总统卢拉：或于3月第一周赴华盛顿会见美国总统特朗普。",
-          "url": "https://wallstreetcn.com/livenews/3050760",
+          "title": "美国总统特朗普将于周四深夜宣布启动TrumpRX。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3050781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
+          "url": "https://wallstreetcn.com/livenews/3050778",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "美国总统特朗普考虑签署关于“加州欺诈工作组”的命令。 副总统万斯将牵头这个工作组的工作。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3050019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "00时53分"
         },
         {
-          "title": "美国联邦住房金融局局长：没有在积极考虑“特朗普房”这个想法",
-          "url": "https://wallstreetcn.com/livenews/3050090",
-          "source": "华尔街见闻-快讯",
+          "title": "美国财长贝森特：特朗普已提议设定为期一年的信用卡利率上限。",
+          "url": "https://flash.jin10.com/detail/20260206001125529800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "00时53分"
         },
         {
-          "title": "特朗普降息言论难抵金银抛售潮 流动性匮乏放大波动",
-          "url": "https://flash.jin10.com/detail/20260205113340203800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "报道：马斯克的SpaceX向非美银行开启IPO宣讲",
-          "url": "https://wallstreetcn.com/livenews/3050032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "英国央行：特朗普关税对英国进口价格构成压力。",
-          "url": "https://wallstreetcn.com/livenews/3050656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "美国总统特朗普：重申与委内瑞拉相处得非常好。",
-          "url": "https://wallstreetcn.com/livenews/3050730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
-          "url": "https://flash.jin10.com/detail/20260204233806408800",
+          "title": "白宫发言人：美国总统特朗普将于周四推出TrumpRX网站。",
+          "url": "https://flash.jin10.com/detail/20260206000842000800",
           "source": "金十数据",
           "ranks": [
             24
@@ -688,213 +118,32 @@
           "time_info": "00时53分"
         },
         {
-          "title": "美国总统特朗普：尼日利亚政府必须“更强硬”。",
-          "url": "https://flash.jin10.com/detail/20260205230133804800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "日本首相高市早苗将于日本时间11:00会见台积电CEO。",
-          "url": "https://wallstreetcn.com/livenews/3050212",
+          "title": "美国驻波兰大使Tom Rose声称，其将切断与波兰众议院议长沃齐米日·恰扎斯蒂 (Włodzimierz Czarzasty)的所有联系。 这位外交官宣称，该议长的表态“直接冒犯”美国总统特朗普，不利于曾称呼特朗普为“爸爸”的波兰总理图斯克和其政府与美方的“卓越关系”。",
+          "url": "https://wallstreetcn.com/livenews/3050769",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "特朗普也该就爱泼斯坦案去国会作证？美众议长回应",
-          "url": "https://wallstreetcn.com/livenews/3050592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "摩根大通仍认为，美国总统特朗普政府最有可能推行分阶段实施的精炼铜进口关税。",
-          "url": "https://flash.jin10.com/detail/20260205202422263800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "美国总统特朗普再次抨击欧洲使用风能发电的行为。",
-          "url": "https://flash.jin10.com/detail/20260205221032241800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "美国总统特朗普重申对国土安全部部长诺姆的支持。",
-          "url": "https://flash.jin10.com/detail/20260205220826755800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "美国总统特朗普：正努力结束苏丹战争，即将完成。",
-          "url": "https://flash.jin10.com/detail/20260205225952323800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "00时53分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "该如何评价历史大剧太平年",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A5%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%89%A7%E5%A4%AA%E5%B9%B3%E5%B9%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            3,
-            8,
-            6,
-            9,
-            12,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时05分 ~ 23时43分]"
-        },
-        {
-          "title": "记录我的春运返乡故事",
-          "url": "https://www.douyin.com/hot/2388095",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 10时12分]"
-        },
-        {
-          "title": "ICE大斗争背后有何故事",
-          "url": "https://search.bilibili.com/all?keyword=ICE%E5%A4%A7%E6%96%97%E4%BA%89%E8%83%8C%E5%90%8E%E6%9C%89%E4%BD%95%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "谷歌母公司Alphabet跌7%，创5月7日以来最差盘中表现。 该公司出现历史性财务里程碑：年营收首破4000亿美元大关。季度合并营收同比增长18%，全年营收同比增长15%。预计2026年资本支出将进一步扩大至1750亿-1850亿美元，同比翻倍。",
-          "url": "https://wallstreetcn.com/livenews/3050751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时43分]"
-        },
-        {
-          "title": "高通低开11%，创2023年以来最差盘中表现。 该公司在2026财年第一季度营收123亿美元，非GAAP每股收益达3.50 美元，均创公司历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3050750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时43分]"
-        },
-        {
-          "title": "春运车站里，那些关于牵挂、团圆和远方的故事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32533273",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "意大利银行板块继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3050013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收涨0.27%，报619.57点，创收盘历史新高。 欧元区STOXX 50指数初步收跌0.17%，报5984.95点。 富时泛欧绩优300指数初步收涨0.21%，报2468.84点。",
-          "url": "https://wallstreetcn.com/livenews/3050012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "职场与同事相处有啥诀窍",
-          "url": "https://www.toutiao.com/trending/7603042650988937279/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "巴西总统卢拉：如果和平委员会要讨论加沙问题，巴西很感兴趣。",
-          "url": "https://flash.jin10.com/detail/20260205225555820800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "00时53分"
         }
       ]
     }
