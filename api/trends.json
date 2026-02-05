@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T19:37:38.289736+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2026-02-05T21:07:10.149604+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 19时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 21时07分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -92,6 +92,18 @@
           "time_info": "[00时53分 ~ 10时12分]"
         },
         {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时45分 ~ 21时07分]"
+        },
+        {
           "title": "详讯丨习近平同美国总统特朗普通电话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
           "source": "澎湃新闻",
@@ -104,8 +116,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时48分 ~ 19时37分]"
+          "appearance_count": 20,
+          "time_info": "[01时48分 ~ 21时07分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -117,18 +129,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时11分 ~ 15时05分]"
-        },
-        {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 19时37分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -154,6 +154,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时49分 ~ 16时46分]"
+        },
+        {
+          "title": "石破茂被曝因反对高市早苗被“冷落”",
+          "url": "https://news.ifeng.com/c/8qUzCgVB1mL",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时49分 ~ 21时07分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -205,15 +216,16 @@
           "time_info": "[10时11分 ~ 16时46分]"
         },
         {
-          "title": "石破茂被曝因反对高市早苗被“冷落”",
-          "url": "https://news.ifeng.com/c/8qUzCgVB1mL",
-          "source": "凤凰网",
+          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 21时07分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下SpaceX将向非美国银行开放IPO的承销行/簿记行遴选。（彭博）",
@@ -334,18 +346,6 @@
           "time_info": "[03时40分 ~ 04时38分]"
         },
         {
-          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 19时37分]"
-        },
-        {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
           "url": "https://wallstreetcn.com/livenews/3050053",
           "source": "华尔街见闻-快讯",
@@ -382,6 +382,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -565,6 +576,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "英国央行：特朗普关税对英国进口价格构成压力。",
+          "url": "https://wallstreetcn.com/livenews/3050656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -593,9 +615,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "摩根大通仍认为，美国总统特朗普政府最有可能推行分阶段实施的精炼铜进口关税。",
+          "url": "https://flash.jin10.com/detail/20260205202422263800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
@@ -624,11 +657,12 @@
             3,
             8,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时05分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[15时05分 ~ 21时07分]"
         },
         {
           "title": "ICE大斗争背后有何故事",
