@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T02:53:18.151702+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-02-06T03:39:05.290605+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "尼泊尔总统到访日本，高市早苗亲自帮其穿上日本服饰",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
           "title": "石破茂被曝因反对高市早苗被“冷落”",
@@ -26,19 +26,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时39分]"
         },
         {
-          "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
-          "url": "https://wallstreetcn.com/livenews/3050842",
-          "source": "华尔街见闻-快讯",
+          "title": "高市早苗亲自帮尼泊尔总统穿衣",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BA%B2%E8%87%AA%E5%B8%AE%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%80%BB%E7%BB%9F%E7%A9%BF%E8%A1%A3%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时39分]"
+        },
+        {
+          "title": "阿根廷宣布与特朗普政府签署贸易协议",
+          "url": "https://flash.jin10.com/detail/20260206032839248800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "特朗普即将推出“TrumpRX”药房网站 以提供折扣药品购买服务",
+          "url": "https://flash.jin10.com/detail/20260206032833892800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "马斯克：Spacex并没有开发手机产品。",
@@ -47,21 +71,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
-        },
-        {
-          "title": "高市早苗亲自帮尼泊尔总统穿衣",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BA%B2%E8%87%AA%E5%B8%AE%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%80%BB%E7%BB%9F%E7%A9%BF%E8%A1%A3%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -71,8 +83,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时39分]"
+        },
+        {
+          "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
+          "url": "https://wallstreetcn.com/livenews/3050842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时39分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于美东时间19:00揭晓TrumpRX。",
@@ -85,6 +109,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时51分]"
+        },
+        {
+          "title": "美国总统特朗普：与英国首相斯塔默讨论（印度洋）Diego Garcia岛屿问题，磋商富有成效。 美方保留在Diego Garcia动用武力来保持美国存在感的权利。 不会允许岛上的军事基地遭到破坏。 我理解，首相斯塔默（面对我的威胁）竭尽所能地达成了一份协议。 如果协议失败，美国可能会“保护”Diago Garcia。",
+          "url": "https://wallstreetcn.com/livenews/3050825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时39分]"
         },
         {
           "title": "沃什未上任已被特朗普施压",
@@ -105,9 +141,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "马斯克否认SpaceX研发星链手机",
+          "url": "https://wallstreetcn.com/livenews/3050840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
@@ -127,7 +174,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -141,17 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "美国总统特朗普：与英国首相斯塔默讨论（印度洋）Diego Garcia岛屿问题，磋商富有成效。 美方保留在Diego Garcia动用武力来保持美国存在感的权利。 不会允许岛上的军事基地遭到破坏。 我理解，首相斯塔默（面对我的威胁）竭尽所能地达成了一份协议。 如果协议失败，美国可能会“保护”Diago Garcia。",
-          "url": "https://wallstreetcn.com/livenews/3050825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
         },
         {
           "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
@@ -171,7 +207,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -209,6 +245,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "特朗普：与其延长“新削减战略武器条约” 不如制定新条约",
+          "url": "https://flash.jin10.com/detail/20260206025549486800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
           "title": "美国驻波兰大使Tom Rose声称，其将切断与波兰众议院议长沃齐米日·恰扎斯蒂 (Włodzimierz Czarzasty)的所有联系。 这位外交官宣称，该议长的表态“直接冒犯”美国总统特朗普，不利于曾称呼特朗普为“爸爸”的波兰总理图斯克和其政府与美方的“卓越关系”。",
           "url": "https://wallstreetcn.com/livenews/3050769",
           "source": "华尔街见闻-快讯",
@@ -226,7 +273,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -237,15 +284,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "美国总统特朗普：与其延长“新削减战略武器条约”，我们更应该让专家们着手制定一项全新、改进且现代化的条约，使其能够长久延续下去。",
+          "url": "https://flash.jin10.com/detail/20260206025002718800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "该如何评价历史大剧太平年",
@@ -254,11 +312,23 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 03时39分]"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：从历史上看，大多数周期更多是由需求驱动的。",
+          "url": "https://flash.jin10.com/detail/20260206030524288800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         }
       ]
     }
