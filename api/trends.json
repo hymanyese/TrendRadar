@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T21:04:15.122608+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2026-02-06T22:41:19.354026+08:00",
+  "total_titles_processed": 1979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "尼泊尔总统到访日本，高市早苗亲自帮其穿上日本服饰",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时11分 ~ 21时04分]"
+          "appearance_count": 13,
+          "time_info": "[10时11分 ~ 22时41分]"
         },
         {
           "title": "石破茂被曝因反对高市早苗被“冷落”",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时48分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[12时48分 ~ 22时41分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -64,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时44分 ~ 21时04分]"
+          "appearance_count": 7,
+          "time_info": "[16时44分 ~ 22时41分]"
         },
         {
           "title": "高市早苗亲自帮尼泊尔总统穿衣",
@@ -143,6 +143,21 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
+          "title": "扶桑谈｜高市早苗的“危机大选”：成就强人政权还是开启崩塌之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32543746",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时46分 ~ 22时41分]"
+        },
+        {
           "title": "马斯克：Spacex并没有开发手机产品。",
           "url": "https://wallstreetcn.com/livenews/3050840",
           "source": "华尔街见闻-快讯",
@@ -176,18 +191,28 @@
           "time_info": "14时58分"
         },
         {
-          "title": "扶桑谈｜高市早苗的“危机大选”：成就强人政权还是开启崩塌之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32543746",
-          "source": "澎湃新闻",
+          "title": "美国亚特兰大联储主席Bostic：不知道（总统特朗普的美联储主席提名人）凯文·沃什脑子里对于美联储“管理层变动”的想法。",
+          "url": "https://wallstreetcn.com/livenews/3051489",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            15,
-            10,
-            8
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29,
+            27,
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时46分 ~ 21时04分]"
+          "time_info": "[18时42分 ~ 22时41分]"
         },
         {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
@@ -226,19 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时36分]"
-        },
-        {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            29,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 21时04分]"
         },
         {
           "title": "马斯克弟弟卷入爱泼斯坦案",
@@ -620,6 +632,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "特朗普为何不愿保护乌克兰",
+          "url": "https://www.toutiao.com/trending/7603690740530548250/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "特朗普：与其延长“新削减战略武器条约” 不如制定新条约",
           "url": "https://flash.jin10.com/detail/20260206025549486800",
           "source": "金十数据",
@@ -678,7 +701,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "CME“本轮第六次加保证金”，白银重挫一周跌超40%，再现“历史大顶”模式",
@@ -690,8 +713,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 22时41分]"
         },
         {
           "title": "专访《太平年》编剧董哲：观众有权定义自己心中的历史正剧",
@@ -701,11 +724,12 @@
             9,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时48分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[12时48分 ~ 22时41分]"
         },
         {
           "title": "该如何评价历史大剧太平年",
@@ -782,6 +806,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "欧洲央行向欧盟首脑们发送经济政策清单。 其中包含储蓄、投资联盟、以及数字欧元。 欧洲央行呼吁捍卫（欧元区）单一市场，简化立法（程序）。 呼吁强化核心机构框架。 呼吁在五个关键领域采取集体性的欧盟紧急行动。 呼吁促进创新，保护独立自主。 欧元生态系统准备（根据历史经验）做出贡献。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3051484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：从历史上看，大多数周期更多是由需求驱动的。",
