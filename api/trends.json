@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T21:48:58.670785+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-02-08T22:31:57.338778+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 47,
+      "match_count": 53,
       "titles": [
         {
           "title": "选前最后一夜，高市早苗在干什么？",
@@ -190,6 +190,17 @@
           "time_info": "[00时33分 ~ 07时32分]"
         },
         {
+          "title": "秘密照片曝光！爱泼斯坦曾与马斯克、扎克伯格等共进晚餐(图)",
+          "url": "https://news.ifeng.com/c/8qa3p0ihw5V",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时31分]"
+        },
+        {
           "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
           "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
           "source": "凤凰网",
@@ -201,15 +212,16 @@
           "time_info": "[00时33分 ~ 05时29分]"
         },
         {
-          "title": "秘密照片曝光！爱泼斯坦曾与马斯克、扎克伯格等共进晚餐(图)",
-          "url": "https://news.ifeng.com/c/8qa3p0ihw5V",
-          "source": "凤凰网",
+          "title": "日本首相高市早苗：将加快关于食品减税的讨论。 如达成决定，将向国会提交税制改革法案。 有关日元疲软的言论被断章取义。 要建立对汇率变动有韧性的经济结构。 财政可持续性十分重要。",
+          "url": "https://wallstreetcn.com/livenews/3051830",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            2,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时48分]"
+          "time_info": "[21时48分 ~ 22时31分]"
         },
         {
           "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
@@ -223,26 +235,56 @@
           "time_info": "[00时33分 ~ 05时29分]"
         },
         {
-          "title": "日本首相高市早苗：目前不考虑对现任内阁阵容进行重大调整。",
-          "url": "https://flash.jin10.com/detail/20260208214128447800",
-          "source": "金十数据",
+          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
+          "url": "https://wallstreetcn.com/livenews/3051816",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3,
+            8,
+            11,
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 22时31分]"
         },
         {
-          "title": "日本首相高市早苗：将加快关于食品减税的讨论。 如达成决定，将向国会提交税制改革法案。 有关日元疲软的言论被断章取义。 要建立对汇率变动有韧性的经济结构。 财政可持续性十分重要。",
-          "url": "https://wallstreetcn.com/livenews/3051830",
+          "title": "马斯克发帖表示，是时候大规模重返月球了。",
+          "url": "https://wallstreetcn.com/livenews/3051815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            12,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 22时31分]"
+        },
+        {
+          "title": "日本首相高市早苗：希望做好危机管理投资和增长投资。",
+          "url": "https://wallstreetcn.com/livenews/3051833",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时48分"
+          "time_info": "22时31分"
+        },
+        {
+          "title": "日本首相高市早苗：希望加快南鸟岛的稀土项目，并邀请美国参与。",
+          "url": "https://flash.jin10.com/detail/20260208215850739800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "高市早苗将继续执政",
@@ -251,20 +293,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
         {
-          "title": "日本放送协会NHK：日本首相高市早苗领导的执政联盟势将赢得众议院至少三分之二的席位。",
-          "url": "https://flash.jin10.com/detail/20260208213235152800",
+          "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
+          "url": "https://flash.jin10.com/detail/20260208215651951800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时48分"
+          "time_info": "22时31分"
         },
         {
           "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
@@ -281,43 +323,15 @@
           "time_info": "[13时05分 ~ 16时36分]"
         },
         {
-          "title": "日本首相高市早苗：将努力落实减税承诺，因为我们已经做出了承诺。",
-          "url": "https://flash.jin10.com/detail/20260208212512789800",
+          "title": "日本首相高市早苗：希望做好危机管理投资和增长投资。",
+          "url": "https://flash.jin10.com/detail/20260208215521051800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
-          "url": "https://wallstreetcn.com/livenews/3051816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时48分]"
-        },
-        {
-          "title": "马斯克发帖表示，是时候大规模重返月球了。",
-          "url": "https://wallstreetcn.com/livenews/3051815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时48分]"
+          "time_info": "22时31分"
         },
         {
           "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
@@ -348,6 +362,18 @@
           "time_info": "[18时31分 ~ 20时54分]"
         },
         {
+          "title": "日本首相高市早苗：目前不考虑对现任内阁阵容进行重大调整。",
+          "url": "https://flash.jin10.com/detail/20260208214128447800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
+        },
+        {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
           "url": "https://flash.jin10.com/detail/20260208105726564800",
           "source": "金十数据",
@@ -362,6 +388,18 @@
           "time_info": "[13时05分 ~ 16时36分]"
         },
         {
+          "title": "日本放送协会NHK：日本首相高市早苗领导的执政联盟势将赢得众议院至少三分之二的席位。",
+          "url": "https://flash.jin10.com/detail/20260208213235152800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
+        },
+        {
           "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
           "url": "https://flash.jin10.com/detail/20260208105717509800",
           "source": "金十数据",
@@ -374,6 +412,44 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时05分 ~ 16时36分]"
+        },
+        {
+          "title": "日本首相高市早苗：将努力落实减税承诺，因为我们已经做出了承诺。",
+          "url": "https://flash.jin10.com/detail/20260208212512789800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
+        },
+        {
+          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
+          "url": "https://www.cls.cn/detail/2283869",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 22时31分]"
+        },
+        {
+          "title": "爱泼斯坦与马斯克共进晚餐照片曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B1%E8%BF%9B%E6%99%9A%E9%A4%90%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            26,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 22时31分]"
         },
         {
           "title": "马斯克：是时候大规模重返月球了。",
@@ -402,18 +478,6 @@
           "time_info": "[18时31分 ~ 20时54分]"
         },
         {
-          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
-          "url": "https://www.cls.cn/detail/2283869",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时48分]"
-        },
-        {
           "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
           "url": "https://flash.jin10.com/detail/20260208081050471800",
           "source": "金十数据",
@@ -440,17 +504,16 @@
           "time_info": "[14时54分 ~ 16时36分]"
         },
         {
-          "title": "爱泼斯坦与马斯克共进晚餐照片曝光",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B1%E8%BF%9B%E6%99%9A%E9%A4%90%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
+          "title": "市场消息：日本首相高市早苗表示愿意听取反对派的合理建议。",
+          "url": "https://flash.jin10.com/detail/20260208212320333800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            26,
-            18
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时48分]"
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
         },
         {
           "title": "高市早苗有望赢得众议院大选 日元恐将承压",
@@ -463,6 +526,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时54分 ~ 21时48分]"
+        },
+        {
+          "title": "日本首相高市早苗：与维新会的联盟将继续。",
+          "url": "https://flash.jin10.com/detail/20260208211507094800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
@@ -489,70 +564,75 @@
           "time_info": "[10时41分 ~ 13时05分]"
         },
         {
-          "title": "市场消息：日本首相高市早苗表示愿意听取反对派的合理建议。",
-          "url": "https://flash.jin10.com/detail/20260208212320333800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "日本首相高市早苗：与维新会的联盟将继续。",
-          "url": "https://flash.jin10.com/detail/20260208211507094800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "日本首相高市早苗：若政府委员会批准削减消费税，我们将提交该法案。",
           "url": "https://flash.jin10.com/detail/20260208210514086800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
+        },
+        {
+          "title": "马斯克与爱泼斯坦共进晚餐照曝光",
+          "url": "https://www.toutiao.com/trending/7603356374260547634/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
         },
         {
           "title": "日本首相高市早苗：将重视财政可持续性。",
           "url": "https://flash.jin10.com/detail/20260208210442714800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
         },
         {
           "title": "日本首相高市早苗：日元疲软有利有弊。将继续奉行负责任、积极的财政政策。目标是建立一个能够抵御外汇波动的韧性国家。",
           "url": "https://flash.jin10.com/detail/20260208210418824800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
         },
         {
           "title": "日本首相高市早苗：将加快考虑降低消费税。",
           "url": "https://flash.jin10.com/detail/20260208210342228800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
+        },
+        {
+          "title": "日本首相高市早苗：将放宽致命武器出口限制。",
+          "url": "https://flash.jin10.com/detail/20260208215253051800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时48分"
+          "time_info": "22时31分"
         },
         {
           "title": "高市早苗喊话俄罗斯",
@@ -566,15 +646,15 @@
           "time_info": "14时54分"
         },
         {
-          "title": "马斯克与爱泼斯坦共进晚餐照曝光",
-          "url": "https://www.toutiao.com/trending/7603356374260547634/",
+          "title": "特朗普被白头海雕打脸视频再度火了",
+          "url": "https://www.toutiao.com/trending/7603686321965662214/",
           "source": "今日头条",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时48分"
+          "time_info": "22时31分"
         },
         {
           "title": "民主党高层对特朗普爆粗口",
@@ -602,8 +682,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时41分 ~ 21时48分]"
+          "appearance_count": 12,
+          "time_info": "[10时41分 ~ 22时31分]"
         },
         {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
@@ -651,8 +731,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 21时48分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 22时31分]"
         },
         {
           "title": "看完这些才明白，真实故事比《生命树》更残酷更沉重",
@@ -678,11 +758,24 @@
             16,
             15,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时33分 ~ 21时48分]"
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 22时31分]"
+        },
+        {
+          "title": "爱泼斯坦案牵涉法国“重量级”人物",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E6%B6%89%E6%B3%95%E5%9B%BD%E2%80%9C%E9%87%8D%E9%87%8F%E7%BA%A7%E2%80%9D%E4%BA%BA%E7%89%A9",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
         },
         {
           "title": "苏翊鸣无缘卫冕仍创造历史",
@@ -727,17 +820,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
-        },
-        {
-          "title": "爱泼斯坦案牵涉法国“重量级”人物",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E6%B6%89%E6%B3%95%E5%9B%BD%E2%80%9C%E9%87%8D%E9%87%8F%E7%BA%A7%E2%80%9D%E4%BA%BA%E7%89%A9",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
         }
       ]
     },
@@ -751,22 +833,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时31分]"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
           "url": "https://flash.jin10.com/detail/20260208202122596800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
         },
         {
           "title": "人至少要有3个兴趣爱好",
@@ -775,7 +859,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         }
@@ -825,11 +909,12 @@
             2,
             7,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时48分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 22时31分]"
         }
       ]
     }
