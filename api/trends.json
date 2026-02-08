@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-08T14:54:32.486240+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-02-08T15:40:39.006844+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
       "match_count": 25,
       "titles": [
+        {
+          "title": "选前最后一夜，高市早苗在干什么？",
+          "url": "https://news.ifeng.com/c/8qYtaDExmOW",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时31分 ~ 15时40分]"
+        },
         {
           "title": "特朗普宣布取消对印度商品25%关税",
           "url": "https://www.toutiao.com/trending/7603508009587326995/",
@@ -31,19 +44,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 13时05分]"
-        },
-        {
-          "title": "选前最后一夜，高市早苗在干什么？",
-          "url": "https://news.ifeng.com/c/8qYtaDExmOW",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时31分 ~ 14时54分]"
         },
         {
           "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
@@ -81,8 +81,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 14时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 15时40分]"
         },
         {
           "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
@@ -216,11 +216,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 14时54分]"
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 15时40分]"
         },
         {
           "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
@@ -229,11 +230,38 @@
           "ranks": [
             9,
             18,
-            22
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 15时40分]"
+        },
+        {
+          "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
+          "url": "https://flash.jin10.com/detail/20260208105726564800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时41分 ~ 14时54分]"
+          "time_info": "[13时05分 ~ 15时40分]"
+        },
+        {
+          "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
+          "url": "https://flash.jin10.com/detail/20260208105717509800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 15时40分]"
         },
         {
           "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
@@ -247,30 +275,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时41分 ~ 14时54分]"
-        },
-        {
-          "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
-          "url": "https://flash.jin10.com/detail/20260208105726564800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 14时54分]"
-        },
-        {
-          "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
-          "url": "https://flash.jin10.com/detail/20260208105717509800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 14时54分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -289,11 +293,12 @@
           "url": "https://www.toutiao.com/trending/7604317625304223283/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时40分]"
         },
         {
           "title": "高市早苗喊话俄罗斯",
@@ -302,7 +307,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -321,7 +326,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
@@ -367,8 +372,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 14时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 15时40分]"
         },
         {
           "title": "看完这些才明白，真实故事比《生命树》更残酷更沉重",
@@ -394,8 +399,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 15时40分]"
         },
         {
           "title": "苏翊鸣无缘卫冕仍创造历史",
@@ -407,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "为什么同样是军阀混战，五代十国的历史评价远低于春秋战国？",
+          "url": "https://www.zhihu.com/question/1999568945749914495",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "牛弹琴：美代表团冬奥会被嘘创造历史",
