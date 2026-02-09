@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T10:27:27.169034+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-02-09T13:03:23.096092+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "高市早苗领导的执政联盟赢得大选",
@@ -61,11 +61,12 @@
           "ranks": [
             14,
             13,
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 10时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 13时03分]"
         },
         {
           "title": "“长沙马斯克”新公司估值2个亿",
@@ -176,13 +177,24 @@
           "time_info": "07时34分"
         },
         {
+          "title": "日本首相高市早苗：美日联盟和友谊建立在深度信任与紧密坚实合作之上。",
+          "url": "https://flash.jin10.com/detail/20260209120148652800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "唯一能治住特朗普的生物出现了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%94%AF%E4%B8%80%E8%83%BD%E6%B2%BB%E4%BD%8F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%94%9F%E7%89%A9%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -306,6 +318,39 @@
           "time_info": "[05时29分 ~ 06时31分]"
         },
         {
+          "title": "日本首相高市早苗：我们联盟的潜力是无限的。",
+          "url": "https://flash.jin10.com/detail/20260209115819128800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
+          "url": "https://flash.jin10.com/detail/20260209115712332800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
+          "url": "https://www.cls.cn/detail/2284254",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "美国总统特朗普祝贺日本首相高市早苗。",
           "url": "https://flash.jin10.com/detail/20260209071519790800",
           "source": "金十数据",
@@ -323,7 +368,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -339,13 +384,35 @@
           "time_info": "07时34分"
         },
         {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "高市早苗赌赢日本更危险了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B5%8C%E8%B5%A2%E6%97%A5%E6%9C%AC%E6%9B%B4%E5%8D%B1%E9%99%A9%E4%BA%86%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -353,7 +420,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "深一度｜创造历史最佳战绩！南方姑娘曾坪在冬奥会飞得更高",
@@ -367,6 +434,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 07时34分]"
+        },
+        {
+          "title": "日本大选结果冲击市场：日元跌至两周新低 日股创历史新高",
+          "url": "https://www.cls.cn/detail/2284129",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "日元跌至两周新低 日股创历史新高",
+          "url": "https://www.toutiao.com/trending/7604396311760126015/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "冬奥速滑男子5000米刘瀚彬创历史",
@@ -386,7 +475,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -397,7 +486,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
