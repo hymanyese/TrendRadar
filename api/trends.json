@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T16:57:09.559508+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-02-09T18:06:36.585974+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 41,
+      "match_count": 62,
       "titles": [
         {
           "title": "高市早苗领导的执政联盟赢得大选",
@@ -121,8 +121,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时06分]"
+        },
+        {
+          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
+          "url": "https://www.cls.cn/detail/2284254",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 18时06分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -153,30 +166,6 @@
           "time_info": "[00时34分 ~ 07时34分]"
         },
         {
-          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
-          "url": "https://www.cls.cn/detail/2284254",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 16时57分]"
-        },
-        {
-          "title": "萝莉岛去不成,马斯克改奔月球",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350442&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%8E%BB%E4%B8%8D%E6%88%90%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B9%E5%A5%94%E6%9C%88%E7%90%83",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
-        },
-        {
           "title": "日本首相高市早苗：希望做好危机管理投资和增长投资。",
           "url": "https://wallstreetcn.com/livenews/3051833",
           "source": "华尔街见闻-快讯",
@@ -189,6 +178,19 @@
           "time_info": "[00时35分 ~ 05时29分]"
         },
         {
+          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 18时06分]"
+        },
+        {
           "title": "日本首相高市早苗：将加快关于食品减税的讨论。 如达成决定，将向国会提交税制改革法案。 有关日元疲软的言论被断章取义。 要建立对汇率变动有韧性的经济结构。 财政可持续性十分重要。",
           "url": "https://wallstreetcn.com/livenews/3051830",
           "source": "华尔街见闻-快讯",
@@ -199,6 +201,41 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 05时29分]"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 18时06分]"
+        },
+        {
+          "title": "日本首相高市早苗：将与特朗普共同确认稳固的日美同盟关系。",
+          "url": "https://flash.jin10.com/detail/20260209173500472800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "萝莉岛去不成,马斯克改奔月球",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350442&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%8E%BB%E4%B8%8D%E6%88%90%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B9%E5%A5%94%E6%9C%88%E7%90%83",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时06分]"
         },
         {
           "title": "马斯克：SpaceX已将重心转向在月球上建设城市。",
@@ -223,6 +260,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
+          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "唯一能治住特朗普的生物出现了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%94%AF%E4%B8%80%E8%83%BD%E6%B2%BB%E4%BD%8F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%94%9F%E7%89%A9%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -232,31 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
-        },
-        {
-          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 16时57分]"
-        },
-        {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 16时57分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
@@ -366,6 +389,18 @@
           "time_info": "[05时29分 ~ 06时31分]"
         },
         {
+          "title": "外交部回应高市早苗将继续执政",
+          "url": "https://www.toutiao.com/trending/7604345142140571142/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时06分]"
+        },
+        {
           "title": "美国总统特朗普谈及通胀问题，宣称：我解决了问题。 对经济现状感到骄傲。",
           "url": "https://wallstreetcn.com/livenews/3051847",
           "source": "华尔街见闻-快讯",
@@ -376,17 +411,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时31分]"
-        },
-        {
-          "title": "外交部回应高市早苗将继续执政",
-          "url": "https://www.toutiao.com/trending/7604345142140571142/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "特朗普大骂美国冬奥运动员",
@@ -411,6 +435,17 @@
           "time_info": "[16时56分 ~ 16时57分]"
         },
         {
+          "title": "日本首相高市早苗：我希望打造一个能够抵御汇率波动的经济体系。",
+          "url": "https://flash.jin10.com/detail/20260209172953981800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "日本首相高市早苗：我们联盟的潜力是无限的。",
           "url": "https://flash.jin10.com/detail/20260209115819128800",
           "source": "金十数据",
@@ -420,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "日本首相高市早苗：希望在夏季之前就削减消费税达成共识。",
+          "url": "https://flash.jin10.com/detail/20260209172801980800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
@@ -433,6 +479,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "马斯克又改口：先造月球城市，再登陆火星",
+          "url": "https://news.ifeng.com/c/8qbdiwwFtGg",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "美国总统特朗普祝贺日本首相高市早苗。",
           "url": "https://flash.jin10.com/detail/20260209071519790800",
           "source": "金十数据",
@@ -442,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "日本首相高市早苗：将努力降低债务与GDP比率，以实现可持续财政，赢得市场对日本财政政策的信任。",
+          "url": "https://flash.jin10.com/detail/20260209172632699800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "马斯克称 SpaceX 已将重心转移至在月球建城市，10 年内有望实现，他为何将重心从火星转向月球？",
@@ -466,6 +534,94 @@
           "time_info": "07时34分"
         },
         {
+          "title": "日本首相高市早苗：一直密切关注包括外汇在内的市场动态。 希望打造一个能够抵御汇率波动的经济。 寻求降低债务占GDP比率来赢得市场信任。",
+          "url": "https://wallstreetcn.com/livenews/3052238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "日本首相高市早苗：已获得选民对政府支出、国家安全和情报等政策大胆变革的理解。",
+          "url": "https://flash.jin10.com/detail/20260209172601548800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "日本首相高市早苗：政府正密切关注包括外汇在内的市场走势。",
+          "url": "https://flash.jin10.com/detail/20260209172548622800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "日本首相高市早苗：愿意争取国民民主党（此前在众议院选举中获得28个议席）加入执政联盟。",
+          "url": "https://flash.jin10.com/detail/20260209172448718800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "日本首相高市早苗：拟于今年夏季前后在跨党派会议上公布关于暂停食品销售税的中期调查结果。",
+          "url": "https://flash.jin10.com/detail/20260209172307295800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "日本首相高市早苗：将推动全国范围内关于食品减税的讨论。 不会发行赤字债券来为消费税减免提供资金。 在确定资金之后将迅速实施减税。 将通过非税收入和补贴审查等方式筹措资金，争取尽早实现食品消费税暂停。 希望下月访问美国，与美国总统特朗普举行会谈。 必须让日本摆脱过度紧缩的财政政策和投资不足的困境。 政府必须采取大胆措施，推动危机管理和尖端技术领域的公私投资。 积极的财政政策将成为高市政府政策转型的关键组成部分。 将彻底改革日本国家预算制定方式，为促进企业研发和资本支出提供长期政策支持。",
+          "url": "https://wallstreetcn.com/livenews/3052226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "日本首相高市早苗：将努力创造环境，以举行关于是否修改宪法的全民公投。",
+          "url": "https://flash.jin10.com/detail/20260209172111520800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "高市早苗称正营造能参拜靖国神社的环境，外交部：否认罪责意味着重犯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32566283",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "高市早苗赌赢日本更危险了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B5%8C%E8%B5%A2%E6%97%A5%E6%9C%AC%E6%9B%B4%E5%8D%B1%E9%99%A9%E4%BA%86%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -475,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "日本首相高市早苗：将着手推动修宪相关准备工作。",
+          "url": "https://flash.jin10.com/detail/20260209171614202800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "马斯克：今年NASA（合同）仅占SpaceX收入的约5%。SpaceX收入的绝大部分来自商业星链系统。",
@@ -488,21 +655,87 @@
           "time_info": "15时08分"
         },
         {
+          "title": "特朗普说中场秀是对美国的侮辱",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9C%BA%E7%A7%80%E6%98%AF%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%BE%AE%E8%BE%B1%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "日本首相高市早苗：政府必须采取大胆举措，推动公私部门在危机管理和尖端技术领域的投资。",
+          "url": "https://flash.jin10.com/detail/20260209171307073800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "日本首相高市早苗：积极的财政政策将成为政府政策转型的关键组成部分。",
+          "url": "https://flash.jin10.com/detail/20260209171255352800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "特朗普称“期待高市实现以实力保障和平的政策”，外交部回应",
           "url": "https://wallstreetcn.com/livenews/3052163",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "日本首相高市早苗：将大幅加强国家安全政策。",
+          "url": "https://flash.jin10.com/detail/20260209171223725800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "日本首相高市早苗：必须让日本摆脱过度紧缩的财政政策和投资不足的困境。",
+          "url": "https://flash.jin10.com/detail/20260209171215077800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "日本首相高市早苗：将通过非税收入、补贴审查等方式确保财源，力争尽早实现暂停征收食品销售税。",
+          "url": "https://flash.jin10.com/detail/20260209171202281800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "深一度｜创造历史最佳战绩！南方姑娘曾坪在冬奥会飞得更高",
@@ -526,8 +759,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 18时06分]"
         },
         {
           "title": "日元跌至两周新低 日股创历史新高",
@@ -540,6 +773,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时03分 ~ 15时08分]"
+        },
+        {
+          "title": "股价一度突破300元！CPO龙头历史新高，板块均价居第二，百元股占比已达一成",
+          "url": "https://www.cls.cn/detail/2284684",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "冬奥速滑男子5000米刘瀚彬创历史",
@@ -575,13 +819,24 @@
           "time_info": "10时27分"
         },
         {
+          "title": "全红婵登《人物》年度面孔封面",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%99%BB%E3%80%8A%E4%BA%BA%E7%89%A9%E3%80%8B%E5%B9%B4%E5%BA%A6%E9%9D%A2%E5%AD%94%E5%B0%81%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "外交部：日本是走和平道路还是逆历史潮流值得深思",
           "url": "https://wallstreetcn.com/livenews/3052159",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
