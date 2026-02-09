@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T04:41:39.828720+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-02-10T05:41:07.693409+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "高市早苗召开胜选后记者会，声称正与中国保持沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
         },
         {
           "title": "胡锡进：高市早苗或野心爆棚，中国须出重招降妖",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
         },
         {
           "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
         },
         {
           "title": "外交部回应高市早苗涉参拜靖国神社言论",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
         },
         {
           "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
@@ -59,8 +59,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
+        },
+        {
+          "title": "马斯克：SpaceX将建立一个允许任何人前往月球和火星的系统。",
+          "url": "https://flash.jin10.com/detail/20260210050420895800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -71,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
         },
         {
           "title": "高市早苗称正营造能参拜靖国神社的环境，外交部：否认罪责意味着重犯",
@@ -82,19 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
-        },
-        {
-          "title": "SpaceX大转向！马斯克改口：火星太远月球更快，十年内建“月球城市”",
-          "url": "https://wallstreetcn.com/articles/3765295",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
         },
         {
           "title": "萝莉岛去不成,马斯克改奔月球",
@@ -104,8 +104,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
         },
         {
           "title": "高市早苗妄言为拜鬼营造环境：将寻求美国及邻国理解",
@@ -115,8 +115,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
         },
         {
           "title": "希望高市早苗政府奉行怎样的外交政策？外交部回应",
@@ -127,8 +127,42 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
+        },
+        {
+          "title": "SpaceX大转向！马斯克改口：火星太远月球更快，十年内建“月球城市”",
+          "url": "https://wallstreetcn.com/articles/3765295",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时41分]"
+        },
+        {
+          "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
+          "url": "https://www.cls.cn/detail/2284508",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 05时41分]"
+        },
+        {
+          "title": "外交部回应高市早苗将继续执政",
+          "url": "https://www.toutiao.com/trending/7604345142140571142/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时41分]"
         },
         {
           "title": "特朗普力推投资者独栋住宅购买禁令 遭国会共和党阻力",
@@ -140,17 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
-          "url": "https://www.cls.cn/detail/2284508",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
         },
         {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
@@ -192,7 +215,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -217,24 +240,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "外交部回应高市早苗将继续执政",
-          "url": "https://www.toutiao.com/trending/7604345142140571142/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
         {
           "title": "股价一度突破300元！CPO龙头历史新高，板块均价居第二，百元股占比已达一成",
           "url": "https://www.cls.cn/detail/2284684",
@@ -243,8 +266,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
         },
         {
           "title": "与企业共同出海 讲中国发展故事 界面财联社发布全链路中企出海服务矩阵",
@@ -254,8 +277,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时41分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 05时41分]"
         },
         {
           "title": "南非农产品出口额创历史新高，尽管对美贸易大幅下滑",
@@ -264,7 +287,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
