@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T13:03:23.096092+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-02-09T15:08:08.526961+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "高市早苗领导的执政联盟赢得大选",
@@ -183,7 +183,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -306,6 +306,41 @@
           "time_info": "[05时29分 ~ 06时31分]"
         },
         {
+          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
+          "url": "https://www.cls.cn/detail/2284254",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 15时08分]"
+        },
+        {
+          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 15时08分]"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 15时08分]"
+        },
+        {
           "title": "美国总统特朗普谈及通胀问题，宣称：我解决了问题。 对经济现状感到骄傲。",
           "url": "https://wallstreetcn.com/livenews/3051847",
           "source": "华尔街见闻-快讯",
@@ -318,13 +353,24 @@
           "time_info": "[05时29分 ~ 06时31分]"
         },
         {
+          "title": "特朗普大骂美国冬奥运动员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E7%BE%8E%E5%9B%BD%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 15时08分]"
+        },
+        {
           "title": "日本首相高市早苗：我们联盟的潜力是无限的。",
           "url": "https://flash.jin10.com/detail/20260209115819128800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -335,18 +381,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
-          "url": "https://www.cls.cn/detail/2284254",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -384,28 +419,6 @@
           "time_info": "07时34分"
         },
         {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
           "title": "高市早苗赌赢日本更危险了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%B5%8C%E8%B5%A2%E6%97%A5%E6%9C%AC%E6%9B%B4%E5%8D%B1%E9%99%A9%E4%BA%86%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -415,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "马斯克：今年NASA（合同）仅占SpaceX收入的约5%。SpaceX收入的绝大部分来自商业星链系统。",
+          "url": "https://flash.jin10.com/detail/20260209134342367800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
@@ -442,20 +466,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 15时08分]"
         },
         {
           "title": "日元跌至两周新低 日股创历史新高",
           "url": "https://www.toutiao.com/trending/7604396311760126015/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 15时08分]"
         },
         {
           "title": "冬奥速滑男子5000米刘瀚彬创历史",
