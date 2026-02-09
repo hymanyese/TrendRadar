@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T21:13:38.367271+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-02-09T22:54:45.727884+08:00",
+  "total_titles_processed": 1625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 68,
+      "match_count": 71,
       "titles": [
         {
           "title": "高市早苗领导的执政联盟赢得大选",
@@ -31,6 +31,33 @@
           "time_info": "[00时34分 ~ 07时34分]"
         },
         {
+          "title": "外交部回应高市早苗涉参拜靖国神社言论",
+          "url": "https://news.ifeng.com/c/8qbYOFaHIGW",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 22时54分]"
+        },
+        {
+          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时03分 ~ 22时54分]"
+        },
+        {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
           "url": "https://www.cls.cn/detail/2283869",
           "source": "财联社热门",
@@ -42,17 +69,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时34分 ~ 10时27分]"
-        },
-        {
-          "title": "外交部回应高市早苗涉参拜靖国神社言论",
-          "url": "https://news.ifeng.com/c/8qbYOFaHIGW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 21时13分]"
         },
         {
           "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
@@ -69,18 +85,19 @@
           "time_info": "[13时03分 ~ 19时47分]"
         },
         {
-          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            13,
+            15,
+            14,
+            11,
             8,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时03分 ~ 21时13分]"
+          "appearance_count": 10,
+          "time_info": "[13时03分 ~ 22时54分]"
         },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -139,30 +156,17 @@
           "time_info": "[00时35分 ~ 06时31分]"
         },
         {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时03分 ~ 21时13分]"
-        },
-        {
           "title": "萝莉岛去不成,马斯克改奔月球",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350442&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%8E%BB%E4%B8%8D%E6%88%90%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B9%E5%A5%94%E6%9C%88%E7%90%83",
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 21时13分]"
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 22时54分]"
         },
         {
           "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
@@ -175,6 +179,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时06分 ~ 21时13分]"
+        },
+        {
+          "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
+          "url": "https://news.ifeng.com/c/8qblkorBAnB",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 22时54分]"
         },
         {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
@@ -191,15 +207,18 @@
           "time_info": "[00时35分 ~ 06时31分]"
         },
         {
-          "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
-          "url": "https://news.ifeng.com/c/8qblkorBAnB",
-          "source": "凤凰网",
+          "title": "外交部回应高市早苗将继续执政",
+          "url": "https://www.toutiao.com/trending/7604345142140571142/",
+          "source": "今日头条",
           "ranks": [
-            5
+            10,
+            7,
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 21时13分]"
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 22时54分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -230,19 +249,6 @@
           "time_info": "[00时34分 ~ 07时34分]"
         },
         {
-          "title": "外交部回应高市早苗将继续执政",
-          "url": "https://www.toutiao.com/trending/7604345142140571142/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 21时13分]"
-        },
-        {
           "title": "日本首相高市早苗：希望做好危机管理投资和增长投资。",
           "url": "https://wallstreetcn.com/livenews/3051833",
           "source": "华尔街见闻-快讯",
@@ -265,6 +271,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 05时29分]"
+        },
+        {
+          "title": "胡锡进：高市早苗或野心爆棚，中国须出重招降妖",
+          "url": "https://news.ifeng.com/c/8qbtvmpKhhT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "日本首相高市早苗：将与特朗普共同确认稳固的日美同盟关系。",
@@ -300,6 +317,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "Tegna(TGNA.N)涨8.8%，此前特朗普公开支持Nexstar收购Tegna的交易。",
+          "url": "https://flash.jin10.com/detail/20260209223054152800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "唯一能治住特朗普的生物出现了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%94%AF%E4%B8%80%E8%83%BD%E6%B2%BB%E4%BD%8F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%94%9F%E7%89%A9%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -309,6 +337,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "高市早苗称正营造能参拜靖国神社的环境，外交部：否认罪责意味着重犯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32566283",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时06分 ~ 22时54分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
@@ -418,29 +459,17 @@
           "time_info": "[05时29分 ~ 06时31分]"
         },
         {
-          "title": "高市早苗称正营造能参拜靖国神社的环境，外交部：否认罪责意味着重犯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32566283",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时06分 ~ 21时13分]"
-        },
-        {
           "title": "高市早苗妄言为拜鬼营造环境：将寻求美国及邻国理解",
           "url": "https://m.thepaper.cn/newsDetail_forward_32566163",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 21时13分]"
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 22时54分]"
         },
         {
           "title": "美国总统特朗普谈及通胀问题，宣称：我解决了问题。 对经济现状感到骄傲。",
@@ -453,6 +482,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时31分]"
+        },
+        {
+          "title": "SpaceX大转向！马斯克改口：火星太远月球更快，十年内建“月球城市”",
+          "url": "https://wallstreetcn.com/articles/3765295",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时54分]"
+        },
+        {
+          "title": "希望高市早苗政府奉行怎样的外交政策？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32566453",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时54分]"
+        },
+        {
+          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
+          "url": "https://www.zhihu.com/question/2004143319609993151",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时54分]"
         },
         {
           "title": "特朗普大骂美国冬奥运动员",
@@ -565,17 +627,6 @@
           "time_info": "10时27分"
         },
         {
-          "title": "SpaceX大转向！马斯克改口：火星太远月球更快，十年内建“月球城市”",
-          "url": "https://wallstreetcn.com/articles/3765295",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
           "title": "花旗：若高市早苗在周日的选举中赢得压倒性胜利，日经225指数短期内可能涨至57,000点，东证指数可能涨至3,800点。",
           "url": "https://wallstreetcn.com/livenews/3051888",
           "source": "华尔街见闻-快讯",
@@ -653,17 +704,6 @@
           "time_info": "18时06分"
         },
         {
-          "title": "希望高市早苗政府奉行怎样的外交政策？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32566453",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
           "title": "日本首相高市早苗：将努力创造环境，以举行关于是否修改宪法的全民公投。",
           "url": "https://flash.jin10.com/detail/20260209172111520800",
           "source": "金十数据",
@@ -684,17 +724,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
-        },
-        {
-          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
-          "url": "https://www.zhihu.com/question/2004143319609993151",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
         },
         {
           "title": "日本首相高市早苗：将着手推动修宪相关准备工作。",
@@ -761,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "美国政府声明显示，特朗普寻求缩小被解雇联邦雇员复职的法律途径。",
+          "url": "https://flash.jin10.com/detail/20260209220003353800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "特朗普称“期待高市实现以实力保障和平的政策”，外交部回应",
@@ -847,8 +887,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时06分 ~ 21时13分]"
+          "appearance_count": 5,
+          "time_info": "[18时06分 ~ 22时54分]"
         },
         {
           "title": "全红婵登《人物》年度面孔封面",
@@ -857,11 +897,12 @@
           "ranks": [
             27,
             12,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时06分 ~ 21时13分]"
+          "appearance_count": 5,
+          "time_info": "[18时06分 ~ 22时54分]"
         },
         {
           "title": "日元跌至两周新低 日股创历史新高",
@@ -892,11 +933,12 @@
           "url": "https://www.cls.cn/detail/2284640",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时54分]"
         },
         {
           "title": "冬奥速滑男子5000米刘瀚彬创历史",
@@ -938,7 +980,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
