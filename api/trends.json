@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T06:38:58.577174+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-02-10T07:39:37.365454+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "高市早苗召开胜选后记者会，声称正与中国保持沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
         },
         {
           "title": "胡锡进：高市早苗或野心爆棚，中国须出重招降妖",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
         },
         {
           "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
         },
         {
           "title": "外交部回应高市早苗涉参拜靖国神社言论",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
         },
         {
           "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -69,44 +69,24 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
-        },
-        {
-          "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
-          "url": "https://flash.jin10.com/detail/20260210055913441800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "美国总统特朗普：如果美联储主席提名人凯文·沃什能够发挥自己的能力，美国经济可以增长15%。（福克斯商业新闻）",
-          "url": "https://wallstreetcn.com/livenews/3052529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
         },
         {
           "title": "高市早苗称正营造能参拜靖国神社的环境，外交部：否认罪责意味着重犯",
           "url": "https://m.thepaper.cn/newsDetail_forward_32566283",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
         },
         {
           "title": "萝莉岛去不成,马斯克改奔月球",
@@ -116,19 +96,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
         },
         {
           "title": "高市早苗妄言为拜鬼营造环境：将寻求美国及邻国理解",
           "url": "https://m.thepaper.cn/newsDetail_forward_32566163",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
         },
         {
           "title": "希望高市早苗政府奉行怎样的外交政策？外交部回应",
@@ -136,11 +117,47 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
+        },
+        {
+          "title": "美国总统特朗普：如果美联储主席提名人凯文·沃什能够发挥自己的能力，美国经济可以增长15%。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3052529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "SpaceX大转向！马斯克改口：火星太远月球更快，十年内建“月球城市”",
+          "url": "https://wallstreetcn.com/articles/3765295",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "time_info": "[03时15分 ~ 07时39分]"
+        },
+        {
+          "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
+          "url": "https://flash.jin10.com/detail/20260210055913441800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时39分]"
         },
         {
           "title": "马斯克：SpaceX将建立一个允许任何人前往月球和火星的系统。",
@@ -153,17 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时38分]"
-        },
-        {
-          "title": "SpaceX大转向！马斯克改口：火星太远月球更快，十年内建“月球城市”",
-          "url": "https://wallstreetcn.com/articles/3765295",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时15分 ~ 06时38分]"
         },
         {
           "title": "外交部回应高市早苗将继续执政",
@@ -190,6 +196,39 @@
           "time_info": "[04时41分 ~ 05时41分]"
         },
         {
+          "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
+          "url": "https://flash.jin10.com/detail/20260210070836785800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "美国总统特朗普：共和党应该在中期选举中“大获全胜”。 美国形势不错，将不得不在中期选举中“推销它”。",
+          "url": "https://wallstreetcn.com/livenews/3052547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "美国总统特朗普声称：将与加拿大启动关于密歇根大桥的磋商。",
+          "url": "https://wallstreetcn.com/livenews/3052545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
           "title": "特朗普力推投资者独栋住宅购买禁令 遭国会共和党阻力",
           "url": "https://flash.jin10.com/detail/20260210022934003800",
           "source": "金十数据",
@@ -199,6 +238,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美联储理事米兰：美联储缩减资产负债表（缩表）之前还需采取许多步骤。 如果货币政策没有（被总统特朗普）政治化，会有更好的结果。 如果保留美联储独立性，美联储就应该坚持其核心使命。",
+          "url": "https://wallstreetcn.com/livenews/3052543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "美国总统特朗普：在获得“全额补偿”之前，将不允许安大略省与密歇根州之间的大桥通车。",
+          "url": "https://flash.jin10.com/detail/20260210065107652800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "美国总统特朗普：将立即就双边问题与加拿大展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260210064635825800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         },
         {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
@@ -256,6 +328,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "特朗普：若沃什履职得当，美国经济可增长15%",
+          "url": "https://wallstreetcn.com/livenews/3052529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
           "title": "美民调：多数人不认可特朗普关税政策",
           "url": "https://www.toutiao.com/trending/7604360239181807658/",
           "source": "今日头条",
@@ -270,7 +353,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
@@ -288,22 +371,58 @@
           "url": "https://www.cls.cn/detail/2284684",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
+        },
+        {
+          "title": "科技股反弹提振市场，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，白银涨超7%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         },
         {
           "title": "与企业共同出海 讲中国发展故事 界面财联社发布全链路中企出海服务矩阵",
           "url": "https://www.cls.cn/detail/2284640",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时39分]"
+        },
+        {
+          "title": "宋祺武创男子跳台滑雪历史",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%BA%E6%AD%A6%E5%88%9B%E7%94%B7%E5%AD%90%E8%B7%B3%E5%8F%B0%E6%BB%91%E9%9B%AA%E5%8E%86%E5%8F%B2%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "全红婵登《人物》年度面孔封面",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%99%BB%E3%80%8A%E4%BA%BA%E7%89%A9%E3%80%8B%E5%B9%B4%E5%BA%A6%E9%9D%A2%E5%AD%94%E5%B0%81%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 07时39分]"
         },
         {
           "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点，连续第二个交易日收于5万点整数位心理关口上方——再次创收盘历史新高。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。",
@@ -312,7 +431,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -326,17 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "全红婵登《人物》年度面孔封面",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%99%BB%E3%80%8A%E4%BA%BA%E7%89%A9%E3%80%8B%E5%B9%B4%E5%BA%A6%E9%9D%A2%E5%AD%94%E5%B0%81%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
         },
         {
           "title": "意大利银行板块收涨超3%，创收盘历史新高，丹麦股市涨2%",
