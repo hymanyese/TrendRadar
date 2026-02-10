@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T04:01:35.976977+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-02-11T04:58:00.807692+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "高市早苗称应将自卫队写入宪法，国防部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时58分]"
         },
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -26,30 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时01分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
-          "url": "https://wallstreetcn.com/livenews/3053222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，美方应该对Gordie Howe Bridge大桥拥有一半的所有权。 特朗普今天打电话给加拿大总理卡尼，讨论安大略（跨境）大桥。",
-          "url": "https://wallstreetcn.com/livenews/3053221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时58分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -59,8 +37,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时58分]"
+        },
+        {
+          "title": "扶桑谈｜高市早苗靠强硬选举大胜，日本却正滑入美国战略套现轨道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572906",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时58分]"
+        },
+        {
+          "title": "萝莉岛去不成,马斯克改奔月球",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350442&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%8E%BB%E4%B8%8D%E6%88%90%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B9%E5%A5%94%E6%9C%88%E7%90%83",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时58分]"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -74,27 +75,28 @@
           "time_info": "00时16分"
         },
         {
-          "title": "扶桑谈｜高市早苗靠强硬选举大胜，日本却正滑入美国战略套现轨道",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572906",
-          "source": "澎湃新闻",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
+          "url": "https://wallstreetcn.com/livenews/3053222",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，美方应该对Gordie Howe Bridge大桥拥有一半的所有权。 特朗普今天打电话给加拿大总理卡尼，讨论安大略（跨境）大桥。",
+          "url": "https://wallstreetcn.com/livenews/3053221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时01分]"
-        },
-        {
-          "title": "萝莉岛去不成,马斯克改奔月球",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350442&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%8E%BB%E4%B8%8D%E6%88%90%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B9%E5%A5%94%E6%9C%88%E7%90%83",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时01分]"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时58分]"
         },
         {
           "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
@@ -113,11 +115,119 @@
           "url": "https://flash.jin10.com/detail/20260211030702917800",
           "source": "金十数据",
           "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普本周将聚焦能源和去监管。 特朗普将于2月11日主持一场关于煤炭的活动。",
+          "url": "https://wallstreetcn.com/livenews/3053211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "美国白宫：特朗普今天早些时候与加拿大总理卡尼通话，并明确阐述了他的立场。",
+          "url": "https://flash.jin10.com/detail/20260211030331166800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
+          "url": "https://wallstreetcn.com/livenews/3053209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "美国白宫：（就美加大桥）加拿大将拥有两侧土地的事实是不可接受的。特朗普认为，美国应共享主权，至少拥有50%的主权。",
+          "url": "https://flash.jin10.com/detail/20260211030322937800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
+          "url": "https://wallstreetcn.com/livenews/3053206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "特朗普：伊朗不会拥有核武器或导弹",
+          "url": "https://wallstreetcn.com/livenews/3053205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "美国总统特朗普预计，下周将与伊朗举行第二轮会谈。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3053203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "美国白宫：特朗普将于周四签署废除气候规则的决议。",
+          "url": "https://flash.jin10.com/detail/20260211025108837800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
+          "url": "https://flash.jin10.com/detail/20260211034403957800",
+          "source": "金十数据",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "04时58分"
         },
         {
           "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
@@ -131,101 +241,13 @@
           "time_info": "02时06分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普本周将聚焦能源和去监管。 特朗普将于2月11日主持一场关于煤炭的活动。",
-          "url": "https://wallstreetcn.com/livenews/3053211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "美国白宫：特朗普今天早些时候与加拿大总理卡尼通话，并明确阐述了他的立场。",
-          "url": "https://flash.jin10.com/detail/20260211030331166800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
-          "url": "https://wallstreetcn.com/livenews/3053209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "美国白宫：（就美加大桥）加拿大将拥有两侧土地的事实是不可接受的。特朗普认为，美国应共享主权，至少拥有50%的主权。",
-          "url": "https://flash.jin10.com/detail/20260211030322937800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
-          "url": "https://wallstreetcn.com/livenews/3053206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "特朗普：伊朗不会拥有核武器或导弹",
-          "url": "https://wallstreetcn.com/livenews/3053205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "美国总统特朗普预计，下周将与伊朗举行第二轮会谈。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3053203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "美国白宫：特朗普将于周四签署废除气候规则的决议。",
-          "url": "https://flash.jin10.com/detail/20260211025108837800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
           "title": "美国白宫：特朗普将于明日在白宫与以色列总理内塔尼亚胡举行双边会晤。",
           "url": "https://flash.jin10.com/detail/20260211024859257800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -247,7 +269,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -269,7 +291,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         }
@@ -287,8 +309,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时58分]"
         },
         {
           "title": "人民日报评电视剧《太平年》：纯正历史剧回归，前景可期",
@@ -298,8 +320,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时58分]"
         },
         {
           "title": "传媒股成“香饽饽”！板块成交额历史第三，人气热股十天翻倍，这些方向热度也高",
@@ -309,8 +331,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时58分]"
         },
         {
           "title": "EIA短期能源展望报告：预计美国馏分油消费量将在2027年创下历史新高。",
@@ -360,8 +382,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时58分]"
         }
       ]
     },
@@ -375,11 +397,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时58分]"
         }
       ]
     }
