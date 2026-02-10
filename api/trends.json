@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T15:07:27.200030+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-02-10T16:59:10.766526+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "高市早苗召开胜选后记者会，声称正与中国保持沟通",
@@ -70,11 +70,12 @@
             10,
             13,
             21,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时15分 ~ 15时07分]"
+          "appearance_count": 12,
+          "time_info": "[03时15分 ~ 16时59分]"
         },
         {
           "title": "希望高市早苗政府奉行怎样的外交政策？外交部回应",
@@ -106,6 +107,19 @@
           "time_info": "[03时15分 ~ 15时07分]"
         },
         {
+          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
+          "url": "https://www.cls.cn/detail/2285295",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时34分 ~ 16时59分]"
+        },
+        {
           "title": "扬言“拜鬼”，高市早苗“赌”赢令多方担忧",
           "url": "https://news.ifeng.com/c/8qcdpgR9IOX",
           "source": "凤凰网",
@@ -128,6 +142,17 @@
           "time_info": "[13时06分 ~ 15时07分]"
         },
         {
+          "title": "高市早苗称应将自卫队写入宪法，国防部回应",
+          "url": "https://news.ifeng.com/c/8qdCqLnxykk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 16时59分]"
+        },
+        {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
           "source": "澎湃新闻",
@@ -140,18 +165,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时15分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
-          "url": "https://www.cls.cn/detail/2285295",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时34分 ~ 15时07分]"
         },
         {
           "title": "马斯克：暂时搁置火星计划，重点转向建造月球城市",
@@ -267,6 +280,30 @@
           "time_info": "[06时38分 ~ 07时39分]"
         },
         {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 16时59分]"
+        },
+        {
+          "title": "马斯克弟弟回应爱泼斯坦案",
+          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 16时59分]"
+        },
+        {
           "title": "马斯克：SpaceX将建立一个允许任何人前往月球和火星的系统。",
           "url": "https://flash.jin10.com/detail/20260210050420895800",
           "source": "金十数据",
@@ -277,6 +314,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 16时59分]"
         },
         {
           "title": "外交部回应高市早苗将继续执政",
@@ -301,40 +350,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 05时41分]"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时07分]"
-        },
-        {
-          "title": "马斯克弟弟回应爱泼斯坦案",
-          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时07分]"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时07分]"
         },
         {
           "title": "美国众议院共和党人试图继续推迟对特朗普关税的投票",
@@ -436,6 +451,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "惠誉：高市早苗胜选预示日本财政政策转向宽松，信用风险或将上升",
+          "url": "https://wallstreetcn.com/livenews/3052885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
           "url": "https://flash.jin10.com/detail/20260210021604727800",
           "source": "金十数据",
@@ -534,11 +560,12 @@
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 15时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 16时59分]"
         },
         {
           "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
@@ -593,7 +620,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -617,8 +644,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时07分]"
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 16时59分]"
         },
         {
           "title": "全红婵登《人物》年度面孔封面",
@@ -689,20 +716,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时07分 ~ 16时59分]"
         },
         {
           "title": "年轻人整顿完职场后又来整顿年货",
           "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%95%B4%E9%A1%BF%E5%AE%8C%E8%81%8C%E5%9C%BA%E5%90%8E%E5%8F%88%E6%9D%A5%E6%95%B4%E9%A1%BF%E5%B9%B4%E8%B4%A7",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时07分 ~ 16时59分]"
         }
       ]
     }
