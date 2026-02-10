@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T13:06:42.736482+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-02-10T15:07:27.200030+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -69,11 +69,12 @@
           "ranks": [
             10,
             13,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时15分 ~ 13时06分]"
+          "appearance_count": 10,
+          "time_info": "[03时15分 ~ 15时07分]"
         },
         {
           "title": "希望高市早苗政府奉行怎样的外交政策？外交部回应",
@@ -83,11 +84,26 @@
             16,
             17,
             18,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时15分 ~ 13时06分]"
+          "appearance_count": 10,
+          "time_info": "[03时15分 ~ 15时07分]"
+        },
+        {
+          "title": "SpaceX大转向！马斯克改口：火星太远月球更快，十年内建“月球城市”",
+          "url": "https://wallstreetcn.com/articles/3765295",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 15时07分]"
         },
         {
           "title": "扬言“拜鬼”，高市早苗“赌”赢令多方担忧",
@@ -97,21 +113,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时06分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 15时07分]"
         },
         {
-          "title": "SpaceX大转向！马斯克改口：火星太远月球更快，十年内建“月球城市”",
-          "url": "https://wallstreetcn.com/articles/3765295",
-          "source": "华尔街见闻",
+          "title": "特朗普：我犯了大错",
+          "url": "https://news.ifeng.com/c/8qctqBdiVbv",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 13时06分]"
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 15时07分]"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -128,6 +142,18 @@
           "time_info": "[03时15分 ~ 07时39分]"
         },
         {
+          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
+          "url": "https://www.cls.cn/detail/2285295",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 15时07分]"
+        },
+        {
           "title": "马斯克：暂时搁置火星计划，重点转向建造月球城市",
           "url": "https://news.ifeng.com/c/8qbzcf39P2o",
           "source": "凤凰网",
@@ -137,17 +163,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
-          "title": "特朗普：我犯了大错",
-          "url": "https://news.ifeng.com/c/8qctqBdiVbv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         },
         {
           "title": "高市早苗称正营造能参拜靖国神社的环境，外交部：否认罪责意味着重犯",
@@ -180,7 +195,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -202,21 +217,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
-        },
-        {
-          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
-          "url": "https://www.cls.cn/detail/2285295",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时06分]"
         },
         {
           "title": "美国总统特朗普：如果美联储主席提名人凯文·沃什能够发挥自己的能力，美国经济可以增长15%。（福克斯商业新闻）",
@@ -239,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "美媒：丹麦另一领地或成特朗普的新目标",
+          "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 15时07分]"
         },
         {
           "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
@@ -278,17 +292,6 @@
           "time_info": "[03时15分 ~ 06时38分]"
         },
         {
-          "title": "美媒：丹麦另一领地或成特朗普的新目标",
-          "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时06分]"
-        },
-        {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
           "url": "https://www.cls.cn/detail/2284508",
           "source": "财联社热门",
@@ -300,6 +303,40 @@
           "time_info": "[04时41分 ~ 05时41分]"
         },
         {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 15时07分]"
+        },
+        {
+          "title": "马斯克弟弟回应爱泼斯坦案",
+          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 15时07分]"
+        },
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 15时07分]"
+        },
+        {
           "title": "美国众议院共和党人试图继续推迟对特朗普关税的投票",
           "url": "https://wallstreetcn.com/livenews/3052653",
           "source": "华尔街见闻-快讯",
@@ -309,17 +346,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         },
         {
           "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
@@ -344,17 +370,6 @@
           "time_info": "07时39分"
         },
         {
-          "title": "马斯克弟弟回应爱泼斯坦案",
-          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
           "title": "据华尔街日报：美国总统特朗普将在大规模监管撤销中推翻具有里程碑意义的气候裁决。",
           "url": "https://flash.jin10.com/detail/20260210100132498800",
           "source": "金十数据",
@@ -375,17 +390,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         },
         {
           "title": "特朗普力推投资者独栋住宅购买禁令 遭国会共和党阻力",
@@ -471,7 +475,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -523,7 +527,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -533,8 +537,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 13时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 15时07分]"
         },
         {
           "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
@@ -583,6 +587,17 @@
           "time_info": "[03时15分 ~ 07时39分]"
         },
         {
+          "title": "“早苗经济学”提振日股 日经225指数周二再度收于历史高位",
+          "url": "https://flash.jin10.com/detail/20260210150148442800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "宋祺武创男子跳台滑雪历史",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%BA%E6%AD%A6%E5%88%9B%E7%94%B7%E5%AD%90%E8%B7%B3%E5%8F%B0%E6%BB%91%E9%9B%AA%E5%8E%86%E5%8F%B2%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -592,6 +607,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "人民日报评电视剧《太平年》：纯正历史剧回归，前景可期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32571128",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 15时07分]"
         },
         {
           "title": "全红婵登《人物》年度面孔封面",
@@ -615,17 +642,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
-          "title": "人民日报评电视剧《太平年》：纯正历史剧回归，前景可期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32571128",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         },
         {
           "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点，连续第二个交易日收于5万点整数位心理关口上方——再次创收盘历史新高。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。",
@@ -659,6 +675,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "B站官宣1000+兴趣房间阵容",
+          "url": "https://search.bilibili.com/all?keyword=1000%2B%E5%85%B4%E8%B6%A3%E6%88%BF%E9%97%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "年轻人整顿完职场后又来整顿年货",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%95%B4%E9%A1%BF%E5%AE%8C%E8%81%8C%E5%9C%BA%E5%90%8E%E5%8F%88%E6%9D%A5%E6%95%B4%E9%A1%BF%E5%B9%B4%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         }
       ]
     }
