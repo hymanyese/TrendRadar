@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:52:57.987956+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-02-10T21:18:36.692460+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "高市早苗召开胜选后记者会，声称正与中国保持沟通",
@@ -63,6 +63,17 @@
           "time_info": "[03时15分 ~ 07时39分]"
         },
         {
+          "title": "高市早苗称应将自卫队写入宪法，国防部回应",
+          "url": "https://news.ifeng.com/c/8qdCqLnxykk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时58分 ~ 21时18分]"
+        },
+        {
           "title": "萝莉岛去不成,马斯克改奔月球",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350442&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%8E%BB%E4%B8%8D%E6%88%90%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B9%E5%A5%94%E6%9C%88%E7%90%83",
           "source": "贴吧",
@@ -76,8 +87,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时15分 ~ 19时52分]"
+          "appearance_count": 15,
+          "time_info": "[03时15分 ~ 21时18分]"
         },
         {
           "title": "希望高市早苗政府奉行怎样的外交政策？外交部回应",
@@ -122,17 +133,6 @@
           "time_info": "[10时34分 ~ 16时59分]"
         },
         {
-          "title": "高市早苗称应将自卫队写入宪法，国防部回应",
-          "url": "https://news.ifeng.com/c/8qdCqLnxykk",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 19时52分]"
-        },
-        {
           "title": "扬言“拜鬼”，高市早苗“赌”赢令多方担忧",
           "url": "https://news.ifeng.com/c/8qcdpgR9IOX",
           "source": "凤凰网",
@@ -142,6 +142,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时34分 ~ 15时07分]"
+        },
+        {
+          "title": "马斯克弟弟回应爱泼斯坦案",
+          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时06分 ~ 21时18分]"
         },
         {
           "title": "特朗普：我犯了大错",
@@ -178,17 +189,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
-          "title": "马斯克弟弟回应爱泼斯坦案",
-          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时06分 ~ 19时52分]"
         },
         {
           "title": "高市早苗称正营造能参拜靖国神社的环境，外交部：否认罪责意味着重犯",
@@ -345,6 +345,17 @@
           "time_info": "[03时15分 ~ 06时38分]"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 21时18分]"
+        },
+        {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
           "url": "https://www.cls.cn/detail/2284508",
           "source": "财联社热门",
@@ -354,17 +365,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 05时41分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时52分]"
         },
         {
           "title": "美国众议院共和党人试图继续推迟对特朗普关税的投票",
@@ -439,7 +439,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -505,7 +505,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -530,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "马斯克称十年内建成月球城市，此战略转变背后是出于哪些考量？",
+          "url": "https://www.zhihu.com/question/2004285312982086760",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "特朗普再威胁加拿大",
@@ -582,7 +593,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -596,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普称自己犯了大错",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%87%AA%E5%B7%B1%E7%8A%AF%E4%BA%86%E5%A4%A7%E9%94%99%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "特朗普威胁要阻止美加跨国大桥通车",
@@ -623,8 +645,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 19时52分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 21时18分]"
+        },
+        {
+          "title": "人民日报评电视剧《太平年》：纯正历史剧回归，前景可期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32571128",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时06分 ~ 21时18分]"
         },
         {
           "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
@@ -636,19 +672,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时38分]"
-        },
-        {
-          "title": "人民日报评电视剧《太平年》：纯正历史剧回归，前景可期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32571128",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时06分 ~ 19时52分]"
         },
         {
           "title": "股价一度突破300元！CPO龙头历史新高，板块均价居第二，百元股占比已达一成",
@@ -716,8 +739,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 21时18分]"
+        },
+        {
+          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时52分]"
+          "time_info": "[19时52分 ~ 21时18分]"
         },
         {
           "title": "全红婵登《人物》年度面孔封面",
@@ -741,17 +776,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
-          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
-          "url": "https://wallstreetcn.com/articles/3765361",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         },
         {
           "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点，连续第二个交易日收于5万点整数位心理关口上方——再次创收盘历史新高。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。",
@@ -782,7 +806,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -820,11 +844,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 21时18分]"
         },
         {
           "title": "年轻人整顿完职场后又来整顿年货",
