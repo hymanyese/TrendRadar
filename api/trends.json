@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T04:58:00.807692+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-02-11T05:50:41.208688+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "高市早苗称应将自卫队写入宪法，国防部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时50分]"
         },
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时50分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时50分]"
         },
         {
           "title": "扶桑谈｜高市早苗靠强硬选举大胜，日本却正滑入美国战略套现轨道",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时50分]"
         },
         {
           "title": "萝莉岛去不成,马斯克改奔月球",
@@ -60,8 +60,30 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时50分]"
+        },
+        {
+          "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
+          "url": "https://flash.jin10.com/detail/20260211053946147800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。",
+          "url": "https://flash.jin10.com/detail/20260211052951060800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -73,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美国总统特朗普：希望最高法院（在关税问题上）做出对国家有利的判决。",
+          "url": "https://wallstreetcn.com/livenews/3053258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -121,6 +154,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
+          "url": "https://flash.jin10.com/detail/20260211034403957800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时50分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普本周将聚焦能源和去监管。 特朗普将于2月11日主持一场关于煤炭的活动。",
@@ -219,15 +264,15 @@
           "time_info": "[04时01分 ~ 04时58分]"
         },
         {
-          "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
-          "url": "https://flash.jin10.com/detail/20260211034403957800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。 我们的利率应该比当前水平低2个点（即200个百分点）。",
+          "url": "https://wallstreetcn.com/livenews/3053255",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时50分"
         },
         {
           "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
@@ -239,6 +284,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "美国总统特朗普：我认为2026年将会很棒。",
+          "url": "https://flash.jin10.com/detail/20260211050353108800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
+          "url": "https://wallstreetcn.com/livenews/3053247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "吉利德科学四季度营收79.3亿美元，分析师预期77.1亿美元。 四季度Biktarvy营收39.7亿美元，分析师预期38.4亿美元。 四季度Trodelvy营收3.84亿美元，分析师预期3.868亿美元。 四季度Veklury营收2.12亿美元，分析师预期2.714亿美元。 四季度调整后每股收益（EPS）为1.86美元，分析师预期1.78美元。 预计2026年产品销售296亿-300亿美元，分析师预期300.3亿美元。 预计2026年Veklury营收6亿美元。 2026年业绩展望受到（与美国总统特朗普达成的）关税协议和医疗保健Medicare政策变化的冲击幅度为2%。",
+          "url": "https://wallstreetcn.com/livenews/3053241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
         },
         {
           "title": "美国白宫：特朗普将于明日在白宫与以色列总理内塔尼亚胡举行双边会晤。",
@@ -285,6 +363,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "特朗普：反对以色列推进约旦河西岸吞并举措",
+          "url": "https://wallstreetcn.com/livenews/3053235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
           "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
           "url": "https://flash.jin10.com/detail/20260211023104811800",
           "source": "金十数据",
@@ -309,8 +398,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 05时50分]"
         },
         {
           "title": "人民日报评电视剧《太平年》：纯正历史剧回归，前景可期",
@@ -320,8 +409,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时50分]"
         },
         {
           "title": "传媒股成“香饽饽”！板块成交额历史第三，人气热股十天翻倍，这些方向热度也高",
@@ -331,8 +420,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时50分]"
         },
         {
           "title": "EIA短期能源展望报告：预计美国馏分油消费量将在2027年创下历史新高。",
@@ -382,8 +471,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 05时50分]"
         }
       ]
     },
@@ -401,8 +490,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时50分]"
         }
       ]
     }
