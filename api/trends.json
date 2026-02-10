@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T16:59:10.766526+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-02-10T18:06:44.167611+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "高市早苗召开胜选后记者会，声称正与中国保持沟通",
@@ -71,11 +71,12 @@
             13,
             21,
             22,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时15分 ~ 16时59分]"
+          "appearance_count": 13,
+          "time_info": "[03时15分 ~ 18时06分]"
         },
         {
           "title": "希望高市早苗政府奉行怎样的外交政策？外交部回应",
@@ -131,6 +132,17 @@
           "time_info": "[10时34分 ~ 15时07分]"
         },
         {
+          "title": "高市早苗称应将自卫队写入宪法，国防部回应",
+          "url": "https://news.ifeng.com/c/8qdCqLnxykk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时06分]"
+        },
+        {
           "title": "特朗普：我犯了大错",
           "url": "https://news.ifeng.com/c/8qctqBdiVbv",
           "source": "凤凰网",
@@ -140,17 +152,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时06分 ~ 15时07分]"
-        },
-        {
-          "title": "高市早苗称应将自卫队写入宪法，国防部回应",
-          "url": "https://news.ifeng.com/c/8qdCqLnxykk",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -257,6 +258,30 @@
           "time_info": "10时35分"
         },
         {
+          "title": "马斯克弟弟回应爱泼斯坦案",
+          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 18时06分]"
+        },
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 18时06分]"
+        },
+        {
           "title": "美媒：丹麦另一领地或成特朗普的新目标",
           "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
           "source": "凤凰网",
@@ -293,17 +318,6 @@
           "time_info": "[13时06分 ~ 16时59分]"
         },
         {
-          "title": "马斯克弟弟回应爱泼斯坦案",
-          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时59分]"
-        },
-        {
           "title": "马斯克：SpaceX将建立一个允许任何人前往月球和火星的系统。",
           "url": "https://flash.jin10.com/detail/20260210050420895800",
           "source": "金十数据",
@@ -314,18 +328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时38分]"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时59分]"
         },
         {
           "title": "外交部回应高市早苗将继续执政",
@@ -361,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
@@ -457,7 +470,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -548,12 +561,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普威胁要阻止美加跨国大桥通车",
+          "url": "https://www.toutiao.com/trending/7604069122414231606/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -564,8 +588,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 16时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时35分 ~ 18时06分]"
         },
         {
           "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
@@ -644,8 +668,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时59分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 18时06分]"
         },
         {
           "title": "全红婵登《人物》年度面孔封面",
@@ -671,6 +695,17 @@
           "time_info": "[10时34分 ~ 10时35分]"
         },
         {
+          "title": "传媒股成“香饽饽”！板块成交额历史第三，人气热股十天翻倍，这些方向热度也高",
+          "url": "https://www.cls.cn/detail/2286027",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点，连续第二个交易日收于5万点整数位心理关口上方——再次创收盘历史新高。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。",
           "url": "https://wallstreetcn.com/livenews/3052512",
           "source": "华尔街见闻-快讯",
@@ -680,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "历史上的张彦泽真的如此残暴吗？",
+          "url": "https://www.zhihu.com/question/1999574203301589693",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "南非农产品出口额创历史新高，尽管对美贸易大幅下滑",
@@ -717,8 +763,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 16时59分]"
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 18时06分]"
         },
         {
           "title": "年轻人整顿完职场后又来整顿年货",
@@ -729,8 +775,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 16时59分]"
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 18时06分]"
         }
       ]
     }
