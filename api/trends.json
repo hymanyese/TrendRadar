@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T03:12:20.065036+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-02-12T04:41:37.539182+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 04时41分]"
         },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
@@ -41,15 +41,49 @@
           "time_info": "01时58分"
         },
         {
-          "title": "美国总统特朗普：坚持继续与伊朗谈判。 与以色列总理内塔尼亚胡的会谈没能达成明确成果。 优先考虑与伊朗达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3053922",
+          "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
+          "url": "https://flash.jin10.com/detail/20260212035557254800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "马斯克旗下xAI披露全体会议的视频。",
+          "url": "https://wallstreetcn.com/livenews/3053940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
+          "url": "https://wallstreetcn.com/livenews/3053939",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：坚持继续与伊朗谈判。 与以色列总理内塔尼亚胡的会谈没能达成明确成果。 优先考虑与伊朗达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3053922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时41分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -60,8 +94,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 04时41分]"
         },
         {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
@@ -71,8 +105,44 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时41分]"
+        },
+        {
+          "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
+          "url": "https://wallstreetcn.com/livenews/3053918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时12分]"
+          "time_info": "[03时12分 ~ 04时41分]"
+        },
+        {
+          "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
+          "url": "https://wallstreetcn.com/livenews/3053917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时41分]"
+        },
+        {
+          "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
+          "url": "https://wallstreetcn.com/livenews/3053914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时41分]"
         },
         {
           "title": "美国总统特朗普：上次伊朗认为不达成协议对他们更有利，结果他们遭遇了午夜铁锤，这对他们并不好。希望这次他们会更加理性和负责任。",
@@ -81,9 +151,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
+          "url": "https://wallstreetcn.com/livenews/3053938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "据Business Insider：马斯克在周二深夜主持xAI全体员工会议，讨论公司的重组事宜。",
@@ -103,7 +184,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -114,7 +195,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -125,20 +206,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
         {
-          "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
-          "url": "https://wallstreetcn.com/livenews/3053918",
+          "title": "美国财长贝森特：2025年GDP增速可能达到3%。 预计制造业就业人口将在未来几个月回升。 总统特朗普专注于住房市场。 抵押贷款利率和10年期美债收益率都在下跌。",
+          "url": "https://wallstreetcn.com/livenews/3053933",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "04时41分"
         },
         {
           "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
@@ -147,7 +228,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -163,37 +244,48 @@
           "time_info": "01时58分"
         },
         {
-          "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
-          "url": "https://wallstreetcn.com/livenews/3053917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
           "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
           "url": "https://flash.jin10.com/detail/20260212024236323800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
         {
-          "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
-          "url": "https://wallstreetcn.com/livenews/3053914",
-          "source": "华尔街见闻-快讯",
+          "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
+          "url": "https://flash.jin10.com/detail/20260212032551630800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
+          "url": "https://flash.jin10.com/detail/20260212032206474800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
+          "url": "https://flash.jin10.com/detail/20260212032127249800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "国会山警告特朗普的财政路径不可持续",
@@ -216,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "特朗普：要求与伊朗继续进行谈判 未与内塔尼亚胡达成任何其他决定",
+          "url": "https://flash.jin10.com/detail/20260212030900400800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "美国总统特朗普：美国应该承担更低的借债成本。 美国应该对债务支付更低的成本。 因此，美国应该支付（全球）最低的利率。",
@@ -250,11 +353,12 @@
           "url": "https://flash.jin10.com/detail/20260212030333471800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时41分]"
         },
         {
           "title": "欧洲股市创收盘历史新高",
