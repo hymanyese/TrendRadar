@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T01:58:19.494693+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-02-12T03:12:20.065036+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 11,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时12分]"
         },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
@@ -36,9 +36,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "美国总统特朗普：坚持继续与伊朗谈判。 与以色列总理内塔尼亚胡的会谈没能达成明确成果。 优先考虑与伊朗达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3053922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -49,19 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时58分]"
-        },
-        {
-          "title": "据Business Insider：马斯克在周二深夜主持xAI全体员工会议，讨论公司的重组事宜。",
-          "url": "https://flash.jin10.com/detail/20260212011336268800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时12分]"
         },
         {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
@@ -70,9 +70,86 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时12分]"
+        },
+        {
+          "title": "美国总统特朗普：上次伊朗认为不达成协议对他们更有利，结果他们遭遇了午夜铁锤，这对他们并不好。希望这次他们会更加理性和负责任。",
+          "url": "https://flash.jin10.com/detail/20260212025734183800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "据Business Insider：马斯克在周二深夜主持xAI全体员工会议，讨论公司的重组事宜。",
+          "url": "https://flash.jin10.com/detail/20260212011336268800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "美国总统特朗普：如果能够达成协议，我已告知内塔尼亚胡那将是优先选择。如果无法达成协议，我们只能拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260212025718088800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美国总统特朗普：除了我坚决要求与伊朗的谈判继续进行，看看是否能够达成协议外，与内塔尼亚胡的会晤没有达成任何决定。",
+          "url": "https://flash.jin10.com/detail/20260212025646659800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美国总统特朗普：已结束与以色列总理内塔尼亚胡的会晤，这是一次非常成功的会晤。与内塔尼亚胡讨论了加沙以及整个地区正在取得的巨大进展。",
+          "url": "https://flash.jin10.com/detail/20260212025541001800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
+          "url": "https://wallstreetcn.com/livenews/3053918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
+          "url": "https://flash.jin10.com/detail/20260212025205633800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
@@ -81,9 +158,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
+          "url": "https://wallstreetcn.com/livenews/3053917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
+          "url": "https://flash.jin10.com/detail/20260212024236323800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
+          "url": "https://wallstreetcn.com/livenews/3053914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "国会山警告特朗普的财政路径不可持续",
@@ -132,6 +242,34 @@
       ]
     },
     {
+      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国财政部：1月预算支出为6550亿美元，收入为5600亿美元，1月预算支出与收入创下当月历史新高。",
+          "url": "https://flash.jin10.com/detail/20260212030333471800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "欧洲股市创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3053870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ===== 航天动态 ===== 月球 登月 火星 宇宙 飞船",
       "match_count": 1,
       "titles": [
@@ -142,24 +280,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧洲股市创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3053870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         }
