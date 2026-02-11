@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T21:15:10.320430+08:00",
-  "total_titles_processed": 1653,
+  "generated_at": "2026-02-11T22:56:07.699024+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "高市早苗称应将自卫队写入宪法，国防部回应",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 22时56分]"
         },
         {
           "title": "特朗普又翻脸了，中国再躺枪",
@@ -90,17 +101,6 @@
           "time_info": "[10时32分 ~ 16时53分]"
         },
         {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 21时15分]"
-        },
-        {
           "title": "外交部回应特朗普涉中加合作言论",
           "url": "https://news.ifeng.com/c/8qetZSIVPBA",
           "source": "凤凰网",
@@ -154,6 +154,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时47分 ~ 22时56分]"
         },
         {
           "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
@@ -255,18 +268,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时50分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普在爱泼斯坦案文件出现100万次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 21时15分]"
         },
         {
           "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
@@ -495,6 +496,17 @@
           "time_info": "[04时01分 ~ 04时58分]"
         },
         {
+          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
+          "url": "https://www.zhihu.com/question/2004862099634016476",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
           "title": "美国白宫：特朗普将于周四签署废除气候规则的决议。",
           "url": "https://flash.jin10.com/detail/20260211025108837800",
           "source": "金十数据",
@@ -592,7 +604,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -713,7 +725,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         }
@@ -721,7 +733,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -804,6 +816,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
+        },
+        {
+          "title": "影石创新CEO刘靖康年会发言：2025年营收创历史新高，双摄云台相机定名“Luna”",
+          "url": "https://wallstreetcn.com/livenews/3053790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "微博发布2025年十大热搜“互联网人物” 雷军、罗永浩、刘强东位列前三",
+          "url": "https://wallstreetcn.com/livenews/3053788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "王王队的过年送礼故事",
