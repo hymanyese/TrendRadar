@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T05:36:31.034100+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-02-12T06:51:13.742093+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 33,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
-          "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
-          "url": "https://wallstreetcn.com/livenews/3053969",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
+          "url": "https://www.zhihu.com/question/2004862099634016476",
+          "source": "知乎",
           "ranks": [
-            1
+            17,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时51分]"
         },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
@@ -39,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "美国能源部长赖特：美国总统特朗普致力于转变与委内瑞拉的关系。",
-          "url": "https://flash.jin10.com/detail/20260212052606935800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
         },
         {
           "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
@@ -74,16 +64,40 @@
           "time_info": "04时41分"
         },
         {
-          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
-          "url": "https://www.zhihu.com/question/2004862099634016476",
-          "source": "知乎",
+          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
+          "url": "https://wallstreetcn.com/articles/3765521",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            12
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时36分]"
+          "time_info": "[01时58分 ~ 06时51分]"
+        },
+        {
+          "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
+          "url": "https://wallstreetcn.com/livenews/3053969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时51分]"
+        },
+        {
+          "title": "美国能源部长赖特：美国总统特朗普致力于转变与委内瑞拉的关系。",
+          "url": "https://flash.jin10.com/detail/20260212052606935800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时51分]"
         },
         {
           "title": "马斯克旗下xAI披露全体会议的视频。",
@@ -120,17 +134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时36分]"
-        },
-        {
-          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
-          "url": "https://wallstreetcn.com/articles/3765521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时36分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
@@ -204,6 +207,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
+          "url": "https://flash.jin10.com/detail/20260212055211838800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
           "title": "据Business Insider：马斯克在周二深夜主持xAI全体员工会议，讨论公司的重组事宜。",
           "url": "https://flash.jin10.com/detail/20260212011336268800",
           "source": "金十数据",
@@ -224,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美国总统特朗普签署命令，授意五角大楼（国防部）采购煤电。",
+          "url": "https://wallstreetcn.com/livenews/3053985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "美国总统特朗普：除了我坚决要求与伊朗的谈判继续进行，看看是否能够达成协议外，与内塔尼亚胡的会晤没有达成任何决定。",
@@ -248,6 +273,28 @@
           "time_info": "03时12分"
         },
         {
+          "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
+          "url": "https://flash.jin10.com/detail/20260212055115912800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
+          "url": "https://wallstreetcn.com/livenews/3053983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
           "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
           "url": "https://flash.jin10.com/detail/20260212025205633800",
           "source": "金十数据",
@@ -268,6 +315,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "美国总统特朗普：将通过美国军方购买大量煤炭。",
+          "url": "https://flash.jin10.com/detail/20260212054736263800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美国总统特朗普兜售标普和道指创新高。",
+          "url": "https://wallstreetcn.com/livenews/3053981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
@@ -292,6 +361,39 @@
           "time_info": "04时41分"
         },
         {
+          "title": "美国总统特朗普：将于周三签署一项命令，指示美国国防部从燃煤发电厂购买电力，以提振该行业。",
+          "url": "https://flash.jin10.com/detail/20260212054735155800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美国总统特朗普兜售贸易赤字缩小，称：下一年将转正（扭转为贸易盈余/贸易顺差）。",
+          "url": "https://wallstreetcn.com/livenews/3053980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美国总统特朗普：向世界各地出口煤炭。",
+          "url": "https://wallstreetcn.com/livenews/3053979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
           "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
           "url": "https://flash.jin10.com/detail/20260212032206474800",
           "source": "金十数据",
@@ -301,6 +403,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：今年煤电发电量将增长约25%至30%。",
+          "url": "https://flash.jin10.com/detail/20260212054446683800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "特朗普：美国今年煤炭发电量将增长大约25%-30%。",
+          "url": "https://wallstreetcn.com/livenews/3053975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
@@ -320,9 +444,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
+          "url": "https://wallstreetcn.com/livenews/3053974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美国总统特朗普：指示能源部向包括西弗吉尼亚州和俄亥俄州在内的各州的燃煤电厂拨款。",
+          "url": "https://flash.jin10.com/detail/20260212054108494800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "国会山警告特朗普的财政路径不可持续",
@@ -336,6 +482,28 @@
           "time_info": "00时04分"
         },
         {
+          "title": "美国总统特朗普：股市刚刚“创历史新高”。",
+          "url": "https://wallstreetcn.com/livenews/3053971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美国总统特朗普：煤炭是我们拥有的最可靠的能源形式。田纳西河谷管理局已采取行动，拯救田纳西州的两座主要燃煤电厂。",
+          "url": "https://flash.jin10.com/detail/20260212054016228800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
           "title": "墨西哥总统辛鲍姆：不认为美国总统特朗普会退出美国墨西哥加拿大贸易协议（USMCA）。",
           "url": "https://wallstreetcn.com/livenews/3053826",
           "source": "华尔街见闻-快讯",
@@ -345,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "美国总统特朗普：我们的股市刚刚创下了历史上的最高价。",
+          "url": "https://flash.jin10.com/detail/20260212053407550800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "特朗普：要求与伊朗继续进行谈判 未与内塔尼亚胡达成任何其他决定",
