@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T16:53:08.234542+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-02-11T17:56:18.199489+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "高市早苗称应将自卫队写入宪法，国防部回应",
@@ -77,6 +77,30 @@
           "time_info": "[10时32分 ~ 16时53分]"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 17时56分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://news.ifeng.com/c/8qetZSIVPBA",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "市场消息：美国总统特朗普指示美国国防部购买煤炭，以振兴该行业。",
           "url": "https://flash.jin10.com/detail/20260211101457510800",
           "source": "金十数据",
@@ -99,18 +123,6 @@
           "time_info": "13时04分"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 16时53分]"
-        },
-        {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
           "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
           "source": "凤凰网",
@@ -120,6 +132,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时32分 ~ 16时53分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -472,6 +495,17 @@
           "time_info": "[06时42分 ~ 07时40分]"
         },
         {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
           "url": "https://flash.jin10.com/detail/20260211061349478800",
           "source": "金十数据",
@@ -621,7 +655,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -748,26 +782,8 @@
       ]
     },
     {
-      "keyword_group": "# ===== 经济金融 ===== 黄金 美元 石油 稀土",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
-          "url": "https://wallstreetcn.com/articles/3765361",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 06时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "B站官宣1000+兴趣房间阵容",
@@ -784,6 +800,35 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 10时32分]"
+        },
+        {
+          "title": "荷兰国际：铜市投机兴趣依然浓厚，但短期交易预计仍将低迷",
+          "url": "https://flash.jin10.com/detail/20260211171411057800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 经济金融 ===== 黄金 美元 石油 稀土",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 06时42分]"
         }
       ]
     }
