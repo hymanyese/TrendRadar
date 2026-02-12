@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T19:42:23.514381+08:00",
-  "total_titles_processed": 1639,
+  "generated_at": "2026-02-12T21:13:02.185693+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 84,
+      "match_count": 85,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -19,6 +19,17 @@
           "time_info": "[00时04分 ~ 07时35分]"
         },
         {
+          "title": "特朗普将于4月初访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8qgc1cfon19",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 21时13分]"
+        },
+        {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
           "url": "https://wallstreetcn.com/articles/3765521",
           "source": "华尔街见闻",
@@ -30,31 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时58分 ~ 19时42分]"
-        },
-        {
-          "title": "特朗普将于4月初访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8qgc1cfon19",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 19时42分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 19时42分]"
+          "appearance_count": 15,
+          "time_info": "[01时58分 ~ 21时13分]"
         },
         {
           "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
@@ -66,8 +54,48 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 19时42分]"
+          "appearance_count": 8,
+          "time_info": "[15时54分 ~ 21时13分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 21时13分]"
+        },
+        {
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://www.cls.cn/detail/2288372",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 21时13分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时59分 ~ 21时13分]"
         },
         {
           "title": "特朗普否认了，仅拒邀两人",
@@ -96,17 +124,28 @@
           "time_info": "[14时10分 ~ 18时51分]"
         },
         {
-          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
-          "url": "https://www.cls.cn/detail/2288372",
-          "source": "财联社热门",
+          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
+          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 21时13分]"
+        },
+        {
+          "title": "中方回应特朗普预计4月初访华",
+          "url": "https://www.toutiao.com/trending/7605620935953956906/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 21时13分]"
         },
         {
           "title": "中方回应特朗普预计4月初访华",
@@ -120,18 +159,17 @@
           "time_info": "[16时51分 ~ 18时51分]"
         },
         {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
           "ranks": [
-            9,
             10,
-            8,
-            7
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时59分 ~ 19时42分]"
+          "time_info": "[15时54分 ~ 21时13分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -146,27 +184,18 @@
           "time_info": "[00时04分 ~ 07时35分]"
         },
         {
-          "title": "中方回应特朗普预计4月初访华",
-          "url": "https://www.toutiao.com/trending/7605620935953956906/",
-          "source": "今日头条",
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            7
+            11,
+            9,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时51分 ~ 19时42分]"
-        },
-        {
-          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
-          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时42分]"
+          "time_info": "[17时53分 ~ 21时13分]"
         },
         {
           "title": "美国总统特朗普：任何在众议院或参议院投票反对关税的共和党人，在选举时（包括初选）都将承担严重后果。",
@@ -178,18 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 19时42分]"
         },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
@@ -264,9 +281,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 21时13分]"
         },
         {
           "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
@@ -329,31 +359,6 @@
           "time_info": "[04时41分 ~ 05时36分]"
         },
         {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时42分]"
-        },
-        {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时42分]"
-        },
-        {
           "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
           "url": "https://flash.jin10.com/detail/20260212055211838800",
           "source": "金十数据",
@@ -388,6 +393,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时35分]"
+        },
+        {
+          "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
+          "url": "https://wallstreetcn.com/articles/3765571",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时13分]"
         },
         {
           "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
@@ -574,17 +590,6 @@
           "time_info": "15时54分"
         },
         {
-          "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
-          "url": "https://wallstreetcn.com/articles/3765571",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "美国总统特朗普：已结束与以色列总理内塔尼亚胡的会晤，这是一次非常成功的会晤。与内塔尼亚胡讨论了加沙以及整个地区正在取得的巨大进展。",
           "url": "https://flash.jin10.com/detail/20260212025541001800",
           "source": "金十数据",
@@ -646,7 +651,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -877,7 +882,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -913,6 +918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "美股煤炭股盘前上涨，Peabody Energy上涨5.2%，公司表示正与特朗普政府合作，探讨新建燃煤电厂的可能性。Core自然资源涨3.1%，Warrior冶金煤股份涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3054500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "美国总统特朗普：我们的股市刚刚创下了历史上的最高价。",
@@ -987,6 +1003,19 @@
           "time_info": "10时27分"
         },
         {
+          "title": "千亿“钨茅”历史新高！年内涨幅即将翻倍，今日新高热股扫描，这些方向也高占比",
+          "url": "https://www.cls.cn/detail/2288592",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 21时13分]"
+        },
+        {
           "title": "甲骨文们的指引一个比一个炸裂，但历史泼了一盆冷水",
           "url": "https://wallstreetcn.com/articles/3765501",
           "source": "华尔街见闻",
@@ -1009,19 +1038,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时41分]"
-        },
-        {
-          "title": "千亿“钨茅”历史新高！年内涨幅即将翻倍，今日新高热股扫描，这些方向也高占比",
-          "url": "https://www.cls.cn/detail/2288592",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时42分]"
         },
         {
           "title": "新加坡总理：历史告诉我们，如果新加坡面临危机，没有人会来拯救我们。",
