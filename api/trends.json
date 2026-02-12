@@ -1,88 +1,44 @@
 {
-  "generated_at": "2026-02-12T23:55:51.253543+08:00",
-  "total_titles_processed": 1973,
+  "generated_at": "2026-02-13T01:01:59.217663+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 96,
+      "match_count": 12,
       "titles": [
         {
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
           "title": "特朗普将于4月初访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8qgc1cfon19",
+          "url": "https://news.ifeng.com/c/8qgYPXi4vBX",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 23时55分]"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时35分]"
-        },
-        {
-          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
-          "url": "https://wallstreetcn.com/articles/3765521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时58分 ~ 21时13分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            2,
-            3,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时51分 ~ 23时55分]"
-        },
-        {
-          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
-          "url": "https://www.cls.cn/detail/2288275",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 21时13分]"
-        },
-        {
-          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
-          "url": "https://www.cls.cn/detail/2288372",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -92,1196 +48,113 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时51分 ~ 23时55分]"
-        },
-        {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时59分 ~ 22时50分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            12,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时54分 ~ 23时55分]"
-        },
-        {
-          "title": "特朗普否认了，仅拒邀两人",
-          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 19时42分]"
-        },
-        {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            6,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 23时55分]"
-        },
-        {
-          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
-          "url": "https://www.cls.cn/detail/2288046",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时10分 ~ 18时51分]"
-        },
-        {
-          "title": "中方回应特朗普预计4月初访华",
-          "url": "https://www.toutiao.com/trending/7605620935953956906/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 21时13分]"
-        },
-        {
-          "title": "中方回应特朗普预计4月初访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A14%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 18时51分]"
-        },
-        {
-          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
-          "url": "https://www.zhihu.com/question/2004862099634016476",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时35分]"
-        },
-        {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            13,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 23时55分]"
-        },
-        {
-          "title": "美国总统特朗普：任何在众议院或参议院投票反对关税的共和党人，在选举时（包括初选）都将承担严重后果。",
-          "url": "https://flash.jin10.com/detail/20260212072044373800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "01时01分"
         },
         {
-          "title": "特朗普发帖后 CNN都看不下去了",
-          "url": "https://www.toutiao.com/trending/7604706291541704723/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren发函给证券交易委员会（SEC）主席Paul Atkins。 Warren质询SEC对总统特朗普2025年围绕代理顾问们签署的一项命令的执行情况。 Warren认为，特朗普的命令“似乎意在削弱股东们的权益，让管理层掌握更大的权力”。 Warren询问，SEC已经采取了哪些行动、或者打算如何执行特朗普的命令。",
-          "url": "https://wallstreetcn.com/livenews/3054616",
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
+          "url": "https://wallstreetcn.com/livenews/3054633",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
-          "url": "https://flash.jin10.com/detail/20260212012609836800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "01时01分"
         },
         {
-          "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
-          "url": "https://flash.jin10.com/detail/20260212035557254800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美国众议院以219票对211票支持一项决议，该决议旨在阻止特朗普对加拿大的关税。",
-          "url": "https://flash.jin10.com/detail/20260212071906114800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "俄内部文件曝光：拟以“重返美元体系”为筹码构建对特朗普政府经济合作",
-          "url": "https://flash.jin10.com/detail/20260212223845081800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "美国总统特朗普：向胆敢“投票反对关税政策”的任何共和党众议员发出威胁。",
-          "url": "https://wallstreetcn.com/livenews/3054017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "美国众议院投票，否决特朗普对加拿大加征关税",
-          "url": "https://wallstreetcn.com/livenews/3054016",
+          "title": "派拉蒙天舞（Paramount SkyDance）高管Ellison上周会见了美国总统特朗普。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3054631",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "皮博迪能源盘前涨4.7%，此前特朗普指示能源部拨付资金维持燃煤电厂运营。",
-          "url": "https://flash.jin10.com/detail/20260212190634205800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
-          "url": "https://wallstreetcn.com/livenews/3053969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时51分]"
-        },
-        {
-          "title": "美国能源部长赖特：美国总统特朗普致力于转变与委内瑞拉的关系。",
-          "url": "https://flash.jin10.com/detail/20260212052606935800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时51分]"
-        },
-        {
-          "title": "煤炭概念股上涨，特朗普政府支持这种化石燃料，并提供资金支持。 Peabody Energy涨2.8%，Core Natural Resources涨3.1%，Hallador Energy涨2.9%，Alliance Resources涨2.5%，Alpha Metallurgical Resources涨3%。",
-          "url": "https://wallstreetcn.com/livenews/3054591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时55分]"
+          "time_info": "01时01分"
         },
         {
           "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
           "url": "https://wallstreetcn.com/articles/3765571",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时42分 ~ 23时55分]"
-        },
-        {
-          "title": "监狱概念股GEO惩教集团（GEO Group Inc.，GEO）跌14%，完全回吐特朗普在2024年11月赢得第二任期以来的所有涨幅。 白宫边境事务主管Homan宣称，特朗普政府将结束再明尼苏达的移民行动。",
-          "url": "https://wallstreetcn.com/livenews/3054590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时55分]"
-        },
-        {
-          "title": "马斯克旗下xAI披露全体会议的视频。",
-          "url": "https://wallstreetcn.com/livenews/3053940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
-        },
-        {
-          "title": "美国总统特朗普：坚持继续与伊朗谈判。 与以色列总理内塔尼亚胡的会谈没能达成明确成果。 优先考虑与伊朗达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3053922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时41分]"
-        },
-        {
-          "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
-          "url": "https://wallstreetcn.com/livenews/3053939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
-        },
-        {
-          "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
-          "url": "https://flash.jin10.com/detail/20260212055211838800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时35分]"
-        },
-        {
-          "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
-          "url": "https://wallstreetcn.com/livenews/3053938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
-        },
-        {
-          "title": "美国总统特朗普签署命令，授意五角大楼（国防部）采购煤电。",
-          "url": "https://wallstreetcn.com/livenews/3053985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时35分]"
-        },
-        {
-          "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
-          "url": "https://flash.jin10.com/detail/20260212055115912800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时35分]"
-        },
-        {
-          "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
-          "url": "https://wallstreetcn.com/livenews/3053918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时41分]"
-        },
-        {
-          "title": "美国财长贝森特：2025年GDP增速可能达到3%。 预计制造业就业人口将在未来几个月回升。 总统特朗普专注于住房市场。 抵押贷款利率和10年期美债收益率都在下跌。",
-          "url": "https://wallstreetcn.com/livenews/3053933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时36分]"
-        },
-        {
-          "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
-          "url": "https://wallstreetcn.com/livenews/3053983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
-          "url": "https://www.cls.cn/detail/2287759",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时10分]"
-        },
-        {
-          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
-          "url": "https://www.cls.cn/detail/2287874",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 15时54分]"
-        },
-        {
-          "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
-          "url": "https://wallstreetcn.com/livenews/3053917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时41分]"
-        },
-        {
-          "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
-          "url": "https://wallstreetcn.com/livenews/3053914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时41分]"
-        },
-        {
-          "title": "据AXIOS网站：部分美国众议院民主党人表示，他们打算违抗众议院民主党领袖杰弗里斯的指示，计划在2月24日特朗普发表国情咨文演讲期间进行抗议。",
-          "url": "https://flash.jin10.com/detail/20260212173940564800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 18时51分]"
-        },
-        {
-          "title": "美国总统特朗普：上次伊朗认为不达成协议对他们更有利，结果他们遭遇了午夜铁锤，这对他们并不好。希望这次他们会更加理性和负责任。",
-          "url": "https://flash.jin10.com/detail/20260212025734183800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "01时01分"
         },
         {
-          "title": "据Business Insider：马斯克在周二深夜主持xAI全体员工会议，讨论公司的重组事宜。",
-          "url": "https://flash.jin10.com/detail/20260212011336268800",
+          "title": "据CNN：派拉蒙公司的埃里森上周会见了特朗普。埃里森与特朗普进行了两次内容广泛的谈话。",
+          "url": "https://flash.jin10.com/detail/20260213003542856800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "01时01分"
         },
         {
-          "title": "美国总统特朗普：如果能够达成协议，我已告知内塔尼亚胡那将是优先选择。如果无法达成协议，我们只能拭目以待。",
-          "url": "https://flash.jin10.com/detail/20260212025718088800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "美国众议院多数议员支持一项旨在终止美国总统特朗普对加拿大关税的决议，投票仍在进行中。",
-          "url": "https://flash.jin10.com/detail/20260212071315046800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "美国总统特朗普：除了我坚决要求与伊朗的谈判继续进行，看看是否能够达成协议外，与内塔尼亚胡的会晤没有达成任何决定。",
-          "url": "https://flash.jin10.com/detail/20260212025646659800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "美股开盘，道指涨0.1%，标普500指数涨0.3%，纳指涨0.38%。存储概念股走强，美光科技(MU.O)涨3.1%，闪迪(SNDK.O)涨6.2%。皮博迪能源(BTU.N)涨2.5%，此前特朗普指示能源部拨付资金维持燃煤电厂运营。",
-          "url": "https://flash.jin10.com/detail/20260212223025630800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "马斯克谈Seedance2.0，感慨模型发展速度快",
-          "url": "https://wallstreetcn.com/livenews/3054200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
-          "url": "https://wallstreetcn.com/livenews/3054322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "美国总统特朗普：已结束与以色列总理内塔尼亚胡的会晤，这是一次非常成功的会晤。与内塔尼亚胡讨论了加沙以及整个地区正在取得的巨大进展。",
-          "url": "https://flash.jin10.com/detail/20260212025541001800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "马斯克谈Seedance2.0，感慨模型发展速度快",
-          "url": "https://flash.jin10.com/detail/20260212131655403800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
-          "url": "https://flash.jin10.com/detail/20260212025205633800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "特朗普针对英国广播公司（BBC）的100亿美元诉讼定于2027年2月开庭审理。",
-          "url": "https://flash.jin10.com/detail/20260212222330010800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3053889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "美国总统特朗普：将通过美国军方购买大量煤炭。",
-          "url": "https://flash.jin10.com/detail/20260212054736263800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-12）",
-          "url": "https://flash.jin10.com/detail/20260212190323631800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "白宫边境沙皇汤姆·霍曼：特朗普已同意结束对明尼苏达州的执法增援。",
-          "url": "https://flash.jin10.com/detail/20260212222136299800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "美国总统特朗普兜售标普和道指创新高。",
-          "url": "https://wallstreetcn.com/livenews/3053981",
+          "title": "美国总统特朗普：与委内瑞拉代总统罗德里格斯沟通得不错。",
+          "url": "https://wallstreetcn.com/livenews/3054624",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时51分"
+          "time_info": "01时01分"
         },
         {
-          "title": "Peabody Energy的CEO Jim Grech：公司正与美国总统特朗普的政府围绕修建新的煤炭发电厂的可能性合作。",
-          "url": "https://wallstreetcn.com/livenews/3054006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
-          "url": "https://flash.jin10.com/detail/20260212024236323800",
+          "title": "美国总统特朗普：委内瑞拉与美国的关系，用委婉的说法，可谓非同寻常。我们与罗德里格斯及其代表团合作非常顺利。石油已开始输送，多年未见的巨额资金即将为委内瑞拉人民带来巨大帮助。",
+          "url": "https://flash.jin10.com/detail/20260213002440911800",
           "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
-          "url": "https://flash.jin10.com/detail/20260212032551630800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美国总统特朗普：将于周三签署一项命令，指示美国国防部从燃煤发电厂购买电力，以提振该行业。",
-          "url": "https://flash.jin10.com/detail/20260212054735155800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美国总统特朗普兜售贸易赤字缩小，称：下一年将转正（扭转为贸易盈余/贸易顺差）。",
-          "url": "https://wallstreetcn.com/livenews/3053980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美国总统特朗普100亿美元起诉英国媒体BBC的案件将于2027年2月份进入庭审。",
-          "url": "https://wallstreetcn.com/livenews/3054578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "美国总统特朗普：向世界各地出口煤炭。",
-          "url": "https://wallstreetcn.com/livenews/3053979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
-          "url": "https://flash.jin10.com/detail/20260212032206474800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美国总统特朗普：今年煤电发电量将增长约25%至30%。",
-          "url": "https://flash.jin10.com/detail/20260212054446683800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "特朗普关税政策正迎来新的挑战",
-          "url": "https://www.toutiao.com/trending/7605755745048464905/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "马斯克xAI全员大会宣布裁员",
-          "url": "https://www.toutiao.com/trending/7605774882411908671/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "特朗普：美国今年煤炭发电量将增长大约25%-30%。",
-          "url": "https://wallstreetcn.com/livenews/3053975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
-          "url": "https://flash.jin10.com/detail/20260212032127249800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://wallstreetcn.com/livenews/3053948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
-          "url": "https://wallstreetcn.com/livenews/3053974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美国总统特朗普将两名民主党州长排除在州长会议邀请之外",
-          "url": "https://wallstreetcn.com/livenews/3054430",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时51分"
+          "time_info": "01时01分"
         },
         {
-          "title": "美国总统特朗普：指示能源部向包括西弗吉尼亚州和俄亥俄州在内的各州的燃煤电厂拨款。",
-          "url": "https://flash.jin10.com/detail/20260212054108494800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "国会山警告特朗普的财政路径不可持续",
-          "url": "https://wallstreetcn.com/livenews/3053828",
+          "title": "美国参议院民主党成员Warren发函给证券交易委员会（SEC）主席Paul Atkins。 Warren质询SEC对总统特朗普2025年围绕代理顾问们签署的一项命令的执行情况。 Warren认为，特朗普的命令“似乎意在削弱股东们的权益，让管理层掌握更大的权力”。 Warren询问，SEC已经采取了哪些行动、或者打算如何执行特朗普的命令。",
+          "url": "https://wallstreetcn.com/livenews/3054616",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时01分"
         },
         {
-          "title": "美国总统特朗普：股市刚刚“创历史新高”。",
-          "url": "https://wallstreetcn.com/livenews/3053971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "俄罗斯备忘录提议重返美元体系：向特朗普抛出橄榄枝",
-          "url": "https://wallstreetcn.com/livenews/3054572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "美国总统特朗普：煤炭是我们拥有的最可靠的能源形式。田纳西河谷管理局已采取行动，拯救田纳西州的两座主要燃煤电厂。",
-          "url": "https://flash.jin10.com/detail/20260212054016228800",
+          "title": "美媒：特朗普政府秘密向伊朗输送星链终端",
+          "url": "https://flash.jin10.com/detail/20260213001015137800",
           "source": "金十数据",
           "ranks": [
-            19
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "高市早苗或将释放三大恶魔",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%96%E5%B0%86%E9%87%8A%E6%94%BE%E4%B8%89%E5%A4%A7%E6%81%B6%E9%AD%94%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "特朗普下令军方采购煤电 多部委联动提振传统能源",
-          "url": "https://flash.jin10.com/detail/20260212062102198800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：不认为美国总统特朗普会退出美国墨西哥加拿大贸易协议（USMCA）。",
-          "url": "https://wallstreetcn.com/livenews/3053826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "分析师：高市早苗政府有望加强财政纪律 日元走强",
-          "url": "https://flash.jin10.com/detail/20260212111757545800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "美股煤炭股盘前上涨，Peabody Energy上涨5.2%，公司表示正与特朗普政府合作，探讨新建燃煤电厂的可能性。Core自然资源涨3.1%，Warrior冶金煤股份涨3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3054500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "美国总统特朗普：我们的股市刚刚创下了历史上的最高价。",
-          "url": "https://flash.jin10.com/detail/20260212053407550800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "特朗普：要求与伊朗继续进行谈判 未与内塔尼亚胡达成任何其他决定",
-          "url": "https://flash.jin10.com/detail/20260212030900400800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "特朗普诉BBC百亿美元诽谤案敲定2027年2月开庭",
-          "url": "https://flash.jin10.com/detail/20260212230324742800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美国总统特朗普：美国应该承担更低的借债成本。 美国应该对债务支付更低的成本。 因此，美国应该支付（全球）最低的利率。",
-          "url": "https://wallstreetcn.com/livenews/3053820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国总统特朗普：非农数据很棒，远超预期。",
-          "url": "https://wallstreetcn.com/livenews/3053819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国总统特朗普发布了指向《华尔街日报》关于第二艘航空母舰部署的报道链接。（此前该报报道，美国防部已指示第二个航空母舰打击群做好部署到中东的准备）",
-          "url": "https://flash.jin10.com/detail/20260212214800072800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "美国反对特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "01时01分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
         {
           "title": "千亿“钨茅”历史新高！年内涨幅即将翻倍，今日新高热股扫描，这些方向也高占比",
           "url": "https://www.cls.cn/detail/2288592",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 23时55分]"
-        },
-        {
-          "title": "历史上的柴荣，赵匡胤和钱弘俶三个人真的像《太平年》中一样亲如兄弟吗？",
-          "url": "https://www.zhihu.com/question/2003974524832605223",
-          "source": "知乎",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "甲骨文们的指引一个比一个炸裂，但历史泼了一盆冷水",
-          "url": "https://wallstreetcn.com/articles/3765501",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 16时52分]"
-        },
-        {
-          "title": "美国财政部：1月预算支出为6550亿美元，收入为5600亿美元，1月预算支出与收入创下当月历史新高。",
-          "url": "https://flash.jin10.com/detail/20260212030333471800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时41分]"
-        },
-        {
-          "title": "哈啰顺风车：已连续七年盈利，预计今年春运市场顺风车占比创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3054583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时55分]"
-        },
-        {
-          "title": "新加坡总理：历史告诉我们，如果新加坡面临危机，没有人会来拯救我们。",
-          "url": "https://flash.jin10.com/detail/20260212163322174800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "欧洲电力设备龙头绩后再创历史新高 不到两年股价翻10倍",
-          "url": "https://www.cls.cn/detail/2287708",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "日本2025年电诈损失创历史纪录",
-          "url": "https://wallstreetcn.com/livenews/3054571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "媒体：真实故事比《生命树》更沉重",
-          "url": "https://www.toutiao.com/trending/7604755160259002409/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "欧洲股市创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3053870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "2025年我国风电太阳能发电新增装机超4.3亿千瓦 再创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3054147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 航天动态 ===== 月球 登月 火星 宇宙 飞船",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我国首个载人登月发射工位首次执行点火发射任务",
-          "url": "https://wallstreetcn.com/livenews/3053869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "军事爱好者拍摄军用机场当场被抓",
-          "url": "https://www.baidu.com/s?wd=%E5%86%9B%E4%BA%8B%E7%88%B1%E5%A5%BD%E8%80%85%E6%8B%8D%E6%91%84%E5%86%9B%E7%94%A8%E6%9C%BA%E5%9C%BA%E5%BD%93%E5%9C%BA%E8%A2%AB%E6%8A%93",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时53分]"
+          "time_info": "01时01分"
         }
       ]
     }
