@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T07:32:00.670508+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-02-13T10:28:30.445782+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 10时28分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -46,11 +46,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 10时28分]"
         },
         {
           "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
@@ -58,11 +59,23 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 07时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 10时28分]"
+        },
+        {
+          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
+          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
@@ -88,6 +101,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时04分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
+          "url": "https://news.ifeng.com/c/8qhhXKN0MhC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
@@ -207,6 +231,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
+          "url": "https://www.cls.cn/detail/2289062",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "美国官员：特朗普将宣布，数个国家已承诺派遣数千名士兵加入维稳部队。",
           "url": "https://flash.jin10.com/detail/20260213023327754800",
           "source": "金十数据",
@@ -257,7 +292,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -282,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "OpenAI CEO：马斯克攻击我们很荒唐",
+          "url": "https://www.toutiao.com/trending/7605754485696135187/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "特朗普宣布美国环境保护署“温室气体危害认定”正式撤销",
@@ -485,7 +531,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "千亿“钨茅”历史新高！年内涨幅即将翻倍，今日新高热股扫描，这些方向也高占比",
@@ -521,6 +567,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时35分]"
+        },
+        {
+          "title": "台湾加权指数上涨1.9%，创下33,707.83点的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260213100055548800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "《鸣潮》3.1「远航星」主线剧情因其时间闭环和爱弥斯的人物弧光被称作「神回」，你如何评价？",
+          "url": "https://www.zhihu.com/question/2003151514898821514",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "据加纳矿业协会，加纳2025年黄金产量初步数据达600万盎司，创历史新高。 预计2026年黄金产量为650万盎司。",
