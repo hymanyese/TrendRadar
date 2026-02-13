@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T06:37:07.162614+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-02-14T07:33:26.945950+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "高市早苗因手部病情恶化就医检查",
@@ -16,8 +16,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 06时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
+          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时40分 ~ 07时33分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -32,19 +43,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
-          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时40分 ~ 06时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时33分]"
         },
         {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
@@ -55,8 +55,94 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时43分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[03时43分 ~ 07时33分]"
+        },
+        {
+          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
+          "url": "https://flash.jin10.com/detail/20260214023919171800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时54分 ~ 07时33分]"
+        },
+        {
+          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
+          "url": "https://flash.jin10.com/detail/20260214031056570800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 07时33分]"
+        },
+        {
+          "title": "SpaceX拟在IPO中采用双重股权结构 强化马斯克控制权",
+          "url": "https://flash.jin10.com/detail/20260214023821858800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时54分 ~ 07时33分]"
+        },
+        {
+          "title": "美国总统特朗普：通胀报告非常棒。",
+          "url": "https://flash.jin10.com/detail/20260214023609797800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时54分 ~ 07时33分]"
+        },
+        {
+          "title": "美国总统特朗普：希望与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030526351800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 07时33分]"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030421669800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时40分 ~ 07时33分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -71,57 +157,6 @@
           "time_info": "[00时51分 ~ 01时41分]"
         },
         {
-          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
-          "url": "https://flash.jin10.com/detail/20260214023919171800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时54分 ~ 06时37分]"
-        },
-        {
-          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
-          "url": "https://flash.jin10.com/detail/20260214031056570800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 06时37分]"
-        },
-        {
-          "title": "SpaceX拟在IPO中采用双重股权结构 强化马斯克控制权",
-          "url": "https://flash.jin10.com/detail/20260214023821858800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时54分 ~ 06时37分]"
-        },
-        {
-          "title": "美国总统特朗普：通胀报告非常棒。",
-          "url": "https://flash.jin10.com/detail/20260214023609797800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时54分 ~ 06时37分]"
-        },
-        {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
           "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
           "source": "凤凰网",
@@ -133,39 +168,17 @@
           "time_info": "[00时51分 ~ 03时44分]"
         },
         {
-          "title": "美国总统特朗普：希望与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030526351800",
+          "title": "市场消息：SpaceX正考虑在IPO中采用双重股权结构，以强化马斯克的控制权。",
+          "url": "https://flash.jin10.com/detail/20260214023400729800",
           "source": "金十数据",
           "ranks": [
-            3,
-            14
+            6,
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 06时37分]"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030421669800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普将访问委内瑞拉",
-          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时40分 ~ 06时37分]"
+          "appearance_count": 6,
+          "time_info": "[02时54分 ~ 07时33分]"
         },
         {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
@@ -193,19 +206,6 @@
           "time_info": "[01时41分 ~ 04时41分]"
         },
         {
-          "title": "市场消息：SpaceX正考虑在IPO中采用双重股权结构，以强化马斯克的控制权。",
-          "url": "https://flash.jin10.com/detail/20260214023400729800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时54分 ~ 06时37分]"
-        },
-        {
           "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
           "url": "https://wallstreetcn.com/livenews/3055318",
           "source": "华尔街见闻-快讯",
@@ -230,6 +230,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 03时44分]"
+        },
+        {
+          "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3055375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时33分]"
         },
         {
           "title": "美国总统特朗普重申：与北约关系良好。",
@@ -268,18 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时38分]"
-        },
-        {
-          "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
-          "url": "https://wallstreetcn.com/livenews/3055375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时37分]"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
@@ -513,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "曝高市早苗手部病情恶化",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%89%8B%E9%83%A8%E7%97%85%E6%83%85%E6%81%B6%E5%8C%96%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国最高法院将于2月20日就特朗普关税案公布意见",
