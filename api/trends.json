@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T16:46:02.956205+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-02-13T17:47:53.390518+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -51,8 +51,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 15时13分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 17时47分]"
         },
         {
           "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时28分 ~ 16时46分]"
+          "appearance_count": 7,
+          "time_info": "[10时28分 ~ 17时47分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -75,8 +75,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时28分 ~ 17时47分]"
+        },
+        {
+          "title": "路透社：特朗普访华前暂停对华科技禁令",
+          "url": "https://news.ifeng.com/c/8qhwigwSERf",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时28分 ~ 16时46分]"
+          "time_info": "[12时55分 ~ 17时47分]"
         },
         {
           "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
@@ -92,16 +104,15 @@
           "time_info": "[01时01分 ~ 14时01分]"
         },
         {
-          "title": "路透社：特朗普访华前暂停对华科技禁令",
-          "url": "https://news.ifeng.com/c/8qhwigwSERf",
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
           "source": "凤凰网",
           "ranks": [
-            3,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 16时46分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 17时47分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -116,17 +127,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时04分 ~ 12时55分]"
-        },
-        {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
         },
         {
           "title": "UP主在白宫向特朗普提问",
@@ -149,6 +149,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 17时47分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
@@ -184,17 +197,17 @@
           "time_info": "01时01分"
         },
         {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
           "ranks": [
+            13,
             10,
-            11,
             9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时55分 ~ 16时46分]"
+          "time_info": "[14时01分 ~ 17时47分]"
         },
         {
           "title": "美国总统特朗普将于下周宣布加沙重建计划。（路透）",
@@ -220,18 +233,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时28分 ~ 15时13分]"
-        },
-        {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 16时46分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -461,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "美国总统特朗普：尚未与卢特尼克讨论此事。",
