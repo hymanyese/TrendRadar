@@ -1,22 +1,67 @@
 {
-  "generated_at": "2026-02-14T00:51:57.789143+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2026-02-14T01:41:39.479098+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 8,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
           "url": "https://m.thepaper.cn/newsDetail_forward_32596885",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
+          "url": "https://wallstreetcn.com/livenews/3055319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
+          "url": "https://wallstreetcn.com/livenews/3055318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯想要达成协议，乌克兰总统泽连斯基必须行动起来。",
+          "url": "https://wallstreetcn.com/livenews/3055317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
+          "url": "https://wallstreetcn.com/livenews/3055316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "高市早苗因手部病情恶化就医检查",
@@ -26,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -37,8 +82,174 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "美国总统特朗普：美国是北约的重要成员。",
+          "url": "https://flash.jin10.com/detail/20260214005914666800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉的石油只有我们能提炼。",
+          "url": "https://flash.jin10.com/detail/20260214005844618800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：（谈委内瑞拉）我们关系非常好。",
+          "url": "https://flash.jin10.com/detail/20260214005802211800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：美国是北约内强大的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3055310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：与古巴关系非常好。",
+          "url": "https://flash.jin10.com/detail/20260214005706725800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：（被攫取的）石油流出委内瑞拉，仅仅美国能提炼。",
+          "url": "https://wallstreetcn.com/livenews/3055309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：目前正在就格陵兰岛问题进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260214005621423800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：（谈欧洲）我们相处得很好；我们正在谈判。",
+          "url": "https://flash.jin10.com/detail/20260214005611106800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：当前谈判格陵兰问题。",
+          "url": "https://wallstreetcn.com/livenews/3055307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗）如果我们达成协议，它们（航母打击群）很快就会离开。",
+          "url": "https://flash.jin10.com/detail/20260214005452299800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗，称：如果我们达成一份协议，它们（美军航母打击群）将会迅速离开（中东地区）。",
+          "url": "https://wallstreetcn.com/livenews/3055306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普称赞今日公布的良好经济数据。",
+          "url": "https://flash.jin10.com/detail/20260214005310841800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普称赞通胀下降，声称：今天发布了不错的金融数据。",
+          "url": "https://wallstreetcn.com/livenews/3055305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特朗普赞扬美国通胀下降。",
+          "url": "https://flash.jin10.com/detail/20260214005209209800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "美国最高法院将于2月20日就特朗普关税案公布意见",
@@ -57,17 +268,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -106,11 +306,12 @@
           "url": "https://flash.jin10.com/detail/20260214002952856800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时41分]"
         },
         {
           "title": "麦当劳（MCD）一度涨约1%，刷新盘中历史高位至335.67美元，Argus Research Corp.将评级从持有上调至买入。",
