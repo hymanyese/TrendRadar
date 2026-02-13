@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T01:41:39.479098+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-02-14T02:54:12.085392+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 26,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -20,48 +20,48 @@
           "time_info": "[00时51分 ~ 01时41分]"
         },
         {
-          "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
-          "url": "https://wallstreetcn.com/livenews/3055319",
-          "source": "华尔街见闻-快讯",
+          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
+          "url": "https://flash.jin10.com/detail/20260214023919171800",
+          "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时54分"
         },
         {
-          "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
-          "url": "https://wallstreetcn.com/livenews/3055318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯想要达成协议，乌克兰总统泽连斯基必须行动起来。",
-          "url": "https://wallstreetcn.com/livenews/3055317",
+          "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
+          "url": "https://wallstreetcn.com/livenews/3055332",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时54分"
         },
         {
-          "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
-          "url": "https://wallstreetcn.com/livenews/3055316",
-          "source": "华尔街见闻-快讯",
+          "title": "SpaceX拟在IPO中采用双重股权结构 强化马斯克控制权",
+          "url": "https://flash.jin10.com/detail/20260214023821858800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时54分"
+        },
+        {
+          "title": "美国总统特朗普：通胀报告非常棒。",
+          "url": "https://flash.jin10.com/detail/20260214023609797800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "高市早苗因手部病情恶化就医检查",
@@ -71,8 +71,32 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
+          "url": "https://wallstreetcn.com/livenews/3055319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "time_info": "[01时41分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
+          "url": "https://wallstreetcn.com/livenews/3055318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时54分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -82,8 +106,32 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯想要达成协议，乌克兰总统泽连斯基必须行动起来。",
+          "url": "https://wallstreetcn.com/livenews/3055317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "time_info": "[01时41分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
+          "url": "https://wallstreetcn.com/livenews/3055316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时54分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -91,11 +139,72 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            16
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普：美国是北约内强大的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3055310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "time_info": "[01时41分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普：（被攫取的）石油流出委内瑞拉，仅仅美国能提炼。",
+          "url": "https://wallstreetcn.com/livenews/3055309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普：当前谈判格陵兰问题。",
+          "url": "https://wallstreetcn.com/livenews/3055307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗，称：如果我们达成一份协议，它们（美军航母打击群）将会迅速离开（中东地区）。",
+          "url": "https://wallstreetcn.com/livenews/3055306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普称赞通胀下降，声称：今天发布了不错的金融数据。",
+          "url": "https://wallstreetcn.com/livenews/3055305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时54分]"
         },
         {
           "title": "美国总统特朗普：美国是北约的重要成员。",
@@ -104,9 +213,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "市场消息：SpaceX正考虑在IPO中采用双重股权结构，以强化马斯克的控制权。",
+          "url": "https://flash.jin10.com/detail/20260214023400729800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉的石油只有我们能提炼。",
@@ -115,7 +235,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -126,18 +246,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "美国总统特朗普：美国是北约内强大的一部分。",
-          "url": "https://wallstreetcn.com/livenews/3055310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -148,18 +257,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "美国总统特朗普：（被攫取的）石油流出委内瑞拉，仅仅美国能提炼。",
-          "url": "https://wallstreetcn.com/livenews/3055309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -170,7 +268,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -181,18 +279,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "美国总统特朗普：当前谈判格陵兰问题。",
-          "url": "https://wallstreetcn.com/livenews/3055307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -203,20 +290,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
         {
-          "title": "美国总统特朗普谈及伊朗，称：如果我们达成一份协议，它们（美军航母打击群）将会迅速离开（中东地区）。",
-          "url": "https://wallstreetcn.com/livenews/3055306",
+          "title": "特朗普：在俄乌冲突问题上，乌总统“必须行动起来”",
+          "url": "https://wallstreetcn.com/livenews/3055323",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时54分"
         },
         {
           "title": "美国总统特朗普称赞今日公布的良好经济数据。",
@@ -225,18 +312,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "美国总统特朗普称赞通胀下降，声称：今天发布了不错的金融数据。",
-          "url": "https://wallstreetcn.com/livenews/3055305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -247,9 +323,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "美国法官下令特朗普政府协助一名因违反法院命令而被驱逐至洪都拉斯的大学生返美。",
+          "url": "https://flash.jin10.com/detail/20260214022214783800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "特朗普称将访问委内瑞拉",
+          "url": "https://flash.jin10.com/detail/20260214021300671800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "美国最高法院将于2月20日就特朗普关税案公布意见",
@@ -283,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "美国民主党参议员敦促特朗普政府放弃拟对免签赴美访客实施的社交媒体审查政策。",
+          "url": "https://flash.jin10.com/detail/20260214015331303800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "马斯克旗下银团正商讨方案，旨在解决SpaceX与xAI合并后的债务问题",
