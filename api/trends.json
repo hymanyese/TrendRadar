@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T07:33:26.945950+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-02-14T10:09:55.289446+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 48,
+      "match_count": 54,
       "titles": [
         {
           "title": "高市早苗因手部病情恶化就医检查",
@@ -20,17 +20,6 @@
           "time_info": "[00时51分 ~ 07时33分]"
         },
         {
-          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
-          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时40分 ~ 07时33分]"
-        },
-        {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -43,8 +32,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 10时09分]"
+        },
+        {
+          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
+          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时40分 ~ 10时09分]"
         },
         {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
@@ -52,11 +53,23 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时43分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[03时43分 ~ 10时09分]"
+        },
+        {
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时40分 ~ 10时09分]"
         },
         {
           "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
@@ -134,17 +147,6 @@
           "time_info": "[03时44分 ~ 07时33分]"
         },
         {
-          "title": "特朗普将访问委内瑞拉",
-          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时40分 ~ 07时33分]"
-        },
-        {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
           "url": "https://m.thepaper.cn/newsDetail_forward_32596885",
           "source": "澎湃新闻",
@@ -179,6 +181,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时54分 ~ 07时33分]"
+        },
+        {
+          "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
+          "url": "https://flash.jin10.com/detail/20260214094023773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
+          "url": "https://wallstreetcn.com/livenews/3055429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
@@ -439,6 +463,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "美国总统特朗普：（谈委内瑞拉）我们关系非常好。",
           "url": "https://flash.jin10.com/detail/20260214005802211800",
           "source": "金十数据",
@@ -494,6 +529,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "美国总统特朗普称赞今日公布的良好经济数据。",
           "url": "https://flash.jin10.com/detail/20260214005310841800",
           "source": "金十数据",
@@ -522,7 +568,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -536,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "美国总统特朗普：无论国会是否批准，中期选举都将实行选民身份认证制度。",
+          "url": "https://flash.jin10.com/detail/20260214082157346800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "白宫贸易顾问纳瓦罗在通话中表示，有关特朗普政府计划削减钢铁和铝关税的说法没有“事实基础”。 对特朗普政府来说，金属关税“是神圣的”。（CNBC）",
@@ -558,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "赫尔佐格回击特朗普：我才是以色列总统",
+          "url": "https://wallstreetcn.com/livenews/3055398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国民主党参议员敦促特朗普政府放弃拟对免签赴美访客实施的社交媒体审查政策。",
@@ -585,7 +653,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "乌克兰总统泽连斯基：会见了伊朗反对派人物巴列维。",
@@ -598,6 +666,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "沪指失守4100点，半导体逆势走强，贵金属、海运调整，恒指跌1%，智谱狂飙超20%创历史新高，沪银大跌7%",
+          "url": "https://wallstreetcn.com/articles/3765643",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "武汉商界传奇人物毛冬声去世",
+          "url": "https://www.toutiao.com/trending/7606387103883051034/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "麦当劳（MCD）一度涨约1%，刷新盘中历史高位至335.67美元，Argus Research Corp.将评级从持有上调至买入。",
