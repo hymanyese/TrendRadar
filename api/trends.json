@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T03:28:08.035848+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-02-16T04:31:07.044839+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时31分]"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -40,41 +40,55 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
+          "url": "https://flash.jin10.com/detail/20260216042836136800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
           "url": "https://flash.jin10.com/detail/20260215212555860800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
           "url": "https://flash.jin10.com/detail/20260215211009575800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
           "url": "https://flash.jin10.com/detail/20260215183847434800",
           "source": "金十数据",
           "ranks": [
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
@@ -85,8 +99,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 04时31分]"
         }
       ]
     },
@@ -102,11 +116,12 @@
             6,
             5,
             16,
-            3
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时31分]"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -118,8 +133,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 03时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 04时31分]"
         },
         {
           "title": "国铁集团：网传2026年春运绿皮车严重超员视频系历史画面拼凑翻炒的不实信息",
@@ -129,8 +144,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         }
       ]
     }
