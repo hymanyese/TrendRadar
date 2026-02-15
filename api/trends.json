@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T21:48:43.002076+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-02-15T22:31:01.964053+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 21时48分]"
+          "appearance_count": 8,
+          "time_info": "[17时34分 ~ 22时31分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -54,6 +54,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[12时56分 ~ 19时24分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时37分 ~ 22时31分]"
         },
         {
           "title": "马斯克称擎天柱机器人将从明年开始改变人类生活",
@@ -126,21 +141,6 @@
           "time_info": "[12时56分 ~ 15时44分]"
         },
         {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时37分 ~ 21时48分]"
-        },
-        {
           "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
           "url": "https://news.ifeng.com/c/8qk233NwWb6",
           "source": "凤凰网",
@@ -178,6 +178,18 @@
           "time_info": "[00时33分 ~ 06时27分]"
         },
         {
+          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
+          "url": "https://flash.jin10.com/detail/20260215212555860800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
+        },
+        {
           "title": "马斯克预言：2026年底编程或将全面自动化",
           "url": "https://flash.jin10.com/detail/20260215134542489800",
           "source": "金十数据",
@@ -190,17 +202,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时58分 ~ 17时35分]"
-        },
-        {
-          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
-          "url": "https://flash.jin10.com/detail/20260215212555860800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
         },
         {
           "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
@@ -218,15 +219,18 @@
           "time_info": "[15时44分 ~ 20时55分]"
         },
         {
-          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
-          "url": "https://flash.jin10.com/detail/20260215211009575800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
           "source": "金十数据",
           "ranks": [
-            3
+            2,
+            7,
+            12,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 22时31分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -256,19 +260,6 @@
           "time_info": "[15时00分 ~ 16时37分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时48分]"
-        },
-        {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
           "url": "https://news.ifeng.com/c/8qk233NwWlu",
           "source": "凤凰网",
@@ -278,6 +269,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 03时26分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
+          "url": "https://flash.jin10.com/detail/20260215211009575800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
         },
         {
           "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
@@ -329,6 +332,17 @@
           "time_info": "[19时24分 ~ 21时48分]"
         },
         {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 22时31分]"
+        },
+        {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
           "url": "https://flash.jin10.com/detail/20260215112402089800",
           "source": "金十数据",
@@ -366,7 +380,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "2025年韩国证券公司净利润突破10万亿韩元，创历史新高",
@@ -388,17 +402,6 @@
           "time_info": "[12时56分 ~ 20时55分]"
         },
         {
-          "title": "国铁集团：网传2026年春运绿皮车严重超员视频系历史画面拼凑翻炒的不实信息",
-          "url": "https://wallstreetcn.com/livenews/3055624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "罗永浩称「seedance2.0 让电影只需要导演」，高端摄影设备会成为历史吗？",
           "url": "https://www.zhihu.com/question/2005293775132574173",
           "source": "知乎",
@@ -406,11 +409,37 @@
             12,
             9,
             10,
-            7
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 22时31分]"
+        },
+        {
+          "title": "国铁集团：网传2026年春运绿皮车严重超员视频系历史画面拼凑翻炒的不实信息",
+          "url": "https://wallstreetcn.com/livenews/3055624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时31分]"
+        },
+        {
+          "title": "乡村间谍故事",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A1%E6%9D%91%E9%97%B4%E8%B0%8D%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            9,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时29分 ~ 21时48分]"
+          "time_info": "[20时55分 ~ 22时31分]"
         },
         {
           "title": "如果马镫从来没有被发明，人类的历史会有什么不同？",
@@ -425,16 +454,15 @@
           "time_info": "[13时58分 ~ 15时01分]"
         },
         {
-          "title": "乡村间谍故事",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A1%E6%9D%91%E9%97%B4%E8%B0%8D%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
+          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时55分 ~ 21时48分]"
+          "time_info": "[22时30分 ~ 22时31分]"
         },
         {
           "title": "在《太平年》中，为何编剧要在战乱和权谋中加入孙太真这个人物，并进行着墨重写？",
