@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T19:24:52.116233+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-02-15T20:55:47.291085+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,17 @@
           "time_info": "[12时56分 ~ 19时24分]"
         },
         {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时55分]"
+        },
+        {
           "title": "马斯克称擎天柱机器人将从明年开始改变人类生活",
           "url": "https://wallstreetcn.com/livenews/3055580",
           "source": "华尔街见闻-快讯",
@@ -61,17 +72,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时28分 ~ 18时29分]"
-        },
-        {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时24分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
@@ -97,6 +97,22 @@
           "time_info": "[00时33分 ~ 07时27分]"
         },
         {
+          "title": "马斯克：Grok 4.20版本将于下周发布。相较于4.1版本，此次更新将带来显著改进。",
+          "url": "https://flash.jin10.com/detail/20260215144003417800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            18,
+            21,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时01分 ~ 20时55分]"
+        },
+        {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -108,21 +124,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时56分 ~ 15时44分]"
-        },
-        {
-          "title": "马斯克：Grok 4.20版本将于下周发布。相较于4.1版本，此次更新将带来显著改进。",
-          "url": "https://flash.jin10.com/detail/20260215144003417800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            18,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时01分 ~ 19时24分]"
         },
         {
           "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
@@ -162,6 +163,20 @@
           "time_info": "[00时33分 ~ 06时27分]"
         },
         {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 20时55分]"
+        },
+        {
           "title": "马斯克预言：2026年底编程或将全面自动化",
           "url": "https://flash.jin10.com/detail/20260215134542489800",
           "source": "金十数据",
@@ -176,28 +191,19 @@
           "time_info": "[13时58分 ~ 17时35分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
+          "url": "https://flash.jin10.com/detail/20260215144532247800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9
+            13,
+            17,
+            20,
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 19时24分]"
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 20时55分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -212,20 +218,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时01分 ~ 18时29分]"
-        },
-        {
-          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
-          "url": "https://flash.jin10.com/detail/20260215144532247800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            17,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 19时24分]"
         },
         {
           "title": "曝特朗普发涉种族主义视频被批后发怒",
@@ -250,6 +242,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 03时26分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时55分]"
         },
         {
           "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
@@ -301,6 +305,18 @@
           "time_info": "[12时56分 ~ 13时58分]"
         },
         {
+          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时55分]"
+        },
+        {
           "title": "马斯克：仍将推进火星计划",
           "url": "https://flash.jin10.com/detail/20260215100423003800",
           "source": "金十数据",
@@ -310,17 +326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
-        },
-        {
-          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
@@ -337,7 +342,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2025年韩国证券公司净利润突破10万亿韩元，创历史新高",
@@ -351,11 +356,12 @@
             12,
             17,
             20,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时56分 ~ 19时24分]"
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 20时55分]"
         },
         {
           "title": "如果马镫从来没有被发明，人类的历史会有什么不同？",
@@ -375,11 +381,23 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时55分]"
+        },
+        {
+          "title": "乡村间谍故事",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A1%E6%9D%91%E9%97%B4%E8%B0%8D%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "在《太平年》中，为何编剧要在战乱和权谋中加入孙太真这个人物，并进行着墨重写？",
