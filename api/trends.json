@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T19:42:42.090905+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-02-16T21:08:11.963016+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
@@ -57,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时29分 ~ 19时42分]"
+          "appearance_count": 14,
+          "time_info": "[07时29分 ~ 21时08分]"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时33分 ~ 10时25分]"
+        },
+        {
+          "title": "日媒民调：高市早苗内阁支持率达69%",
+          "url": "https://news.ifeng.com/c/8qnDkt3DaJW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时52分 ~ 21时08分]"
         },
         {
           "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
@@ -114,26 +125,18 @@
           "time_info": "[15时56分 ~ 16时52分]"
         },
         {
-          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
-          "url": "https://flash.jin10.com/detail/20260216191824464800",
-          "source": "金十数据",
+          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
+          "url": "https://wallstreetcn.com/livenews/3055714",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "日媒民调：高市早苗内阁支持率达69%",
-          "url": "https://news.ifeng.com/c/8qnDkt3DaJW",
-          "source": "凤凰网",
-          "ranks": [
-            7
+            1,
+            6,
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时52分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 21时08分]"
         },
         {
           "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
@@ -160,19 +163,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时34分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
-          "url": "https://wallstreetcn.com/livenews/3055714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 19时42分]"
         },
         {
           "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。 与首相讨论了经济问题。 此次会面仅为总体交换意见。",
@@ -237,6 +227,18 @@
           "time_info": "[16时52分 ~ 17时57分]"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
+          "url": "https://flash.jin10.com/detail/20260216191824464800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时08分]"
+        },
+        {
           "title": "日本央行行长植田和男：不便就与日本首相高市早苗会谈的具体细节置评。",
           "url": "https://flash.jin10.com/detail/20260216161909629800",
           "source": "金十数据",
@@ -265,22 +267,24 @@
           "url": "https://wallstreetcn.com/livenews/3055727",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时08分]"
         },
         {
           "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
           "url": "https://flash.jin10.com/detail/20260216191100927800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时08分]"
         },
         {
           "title": "马斯克：我的“净资产”几乎完全来自我在特斯拉和SpaceX的股份",
@@ -327,15 +331,37 @@
           "time_info": "18时55分"
         },
         {
+          "title": "匈牙利总理欧尔班：自美国总统特朗普上台以来，美匈关系中不存在任何冲突点。",
+          "url": "https://flash.jin10.com/detail/20260216192059299800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
           "url": "https://flash.jin10.com/detail/20260216185958619800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
+          "url": "https://wallstreetcn.com/livenews/3055729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "马斯克：星链服务太棒了。无论在地球何处，都能提供超高带宽和超低延迟。而且很快它就能不仅局限于地球。",
@@ -355,7 +381,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -366,7 +392,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
@@ -374,7 +400,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -472,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "标普500等权重指数跑赢基准的幅度历史少见 以往通常伴随重大市场转变",
+          "url": "https://wallstreetcn.com/livenews/3055733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     },
