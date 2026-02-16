@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T22:43:21.273579+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-02-16T23:43:02.926690+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
@@ -58,8 +58,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时29分 ~ 22时43分]"
+          "appearance_count": 17,
+          "time_info": "[07时29分 ~ 23时43分]"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -288,6 +288,17 @@
           "time_info": "[19时42分 ~ 21时08分]"
         },
         {
+          "title": "高市早苗，迎来坏消息",
+          "url": "https://news.ifeng.com/c/8qnPmJKPPlq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
+        },
+        {
           "title": "马斯克：我的“净资产”几乎完全来自我在特斯拉和SpaceX的股份",
           "url": "https://flash.jin10.com/detail/20260216062745335800",
           "source": "金十数据",
@@ -401,7 +412,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -464,6 +475,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时25分 ~ 15时56分]"
+        },
+        {
+          "title": "黄金多头无惧历史性回调 加码押注黄金远期看涨期权",
+          "url": "https://flash.jin10.com/detail/20260216230259950800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "MiniMax推出HighSpeed Coding Plan，股价创历史新高",
