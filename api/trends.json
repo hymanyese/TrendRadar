@@ -1,44 +1,91 @@
 {
-  "generated_at": "2026-02-17T02:48:03.577943+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-02-17T03:34:28.858305+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
-          "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
-          "url": "https://flash.jin10.com/detail/20260217020218911800",
-          "source": "金十数据",
+          "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3055826",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "03时34分"
         },
         {
-          "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
-          "url": "https://flash.jin10.com/detail/20260217014752278800",
+          "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
+          "url": "https://flash.jin10.com/detail/20260217024524973800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "03时34分"
         },
         {
-          "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20260217014706786800",
+          "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
+          "url": "https://wallstreetcn.com/livenews/3055823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260217024318964800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "03时34分"
+        },
+        {
+          "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
+          "url": "https://flash.jin10.com/detail/20260217020218911800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时34分]"
+        },
+        {
+          "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
+          "url": "https://flash.jin10.com/detail/20260217014752278800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时34分]"
+        },
+        {
+          "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20260217014706786800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时34分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -49,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 02时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 03时34分]"
         },
         {
           "title": "高市早苗，迎来坏消息",
@@ -60,8 +107,21 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 03时34分]"
+        },
+        {
+          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3055802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时39分 ~ 02时48分]"
+          "time_info": "[01时39分 ~ 03时34分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -76,24 +136,24 @@
           "time_info": "[01时39分 ~ 02时48分]"
         },
         {
+          "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
+          "url": "https://wallstreetcn.com/livenews/3055815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时34分]"
+        },
+        {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
           "url": "https://flash.jin10.com/detail/20260217002446619800",
           "source": "金十数据",
           "ranks": [
             10,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时48分]"
-        },
-        {
-          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3055802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -112,15 +172,15 @@
           "time_info": "[01时39分 ~ 02时48分]"
         },
         {
-          "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
-          "url": "https://wallstreetcn.com/livenews/3055815",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
+          "url": "https://flash.jin10.com/detail/20260217021035538800",
+          "source": "金十数据",
           "ranks": [
-            7
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "03时34分"
         },
         {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
@@ -137,8 +197,19 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "爱泼斯坦案“政治敏感人物”名单公布",
+          "url": "https://news.ifeng.com/c/8qnNgCTDt2B",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
         {
           "title": "墨西哥国家石油公司PEMEX上周发行315亿比索（折合18亿美元）本币债券，为该国历史上最大一笔公司债供应量。 Grupo Financiero Banorte数据显示，2月份墨西哥债券发行规模达到655亿比索，已经突破2022年11月（527亿比索）所创单月历史最高。",
           "url": "https://wallstreetcn.com/livenews/3055791",
