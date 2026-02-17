@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-02-18T03:11:31.240490+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-02-18T04:41:09.012169+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "美部长与下属传出婚外情，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时11分]"
-        },
         {
           "title": "哈梅内伊回应特朗普威胁",
           "url": "https://news.ifeng.com/c/8qpTdmSckn9",
@@ -28,8 +15,56 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时41分]"
+        },
+        {
+          "title": "美部长与下属传出婚外情，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 04时41分]"
+        },
+        {
+          "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
+          "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 04时41分]"
+        },
+        {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 04时41分]"
+        },
+        {
+          "title": "美国总统特朗普：宣布关于得州、俄亥俄州、以及佐治亚州的项目。 得州项目包括石油和天然其的战略领域。 佐治亚州项目与关键矿物有关。",
+          "url": "https://wallstreetcn.com/livenews/3056114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
@@ -49,29 +84,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "马斯克：Grok 4.2候选版现已开放公测，需手动选择使用。 诚邀反馈。 与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
-          "url": "https://wallstreetcn.com/livenews/3056096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
-          "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -82,20 +95,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
         {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
+          "title": "美国总统特朗普称，日本推进5500亿美元对美国投资承诺中的第一批投资。 目前，美元兑日元维持超过0.1%的跌幅，暂报153.27日元。",
+          "url": "https://wallstreetcn.com/livenews/3056110",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "马斯克：Grok 4.2候选版现已开放公测，需手动选择使用。 诚邀反馈。 与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
+          "url": "https://wallstreetcn.com/livenews/3056096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时11分]"
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时41分]"
         },
         {
           "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
@@ -110,6 +135,29 @@
           "time_info": "[02时01分 ~ 03时11分]"
         },
         {
+          "title": "马斯克机器人涉色情被爱尔兰调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B6%89%E8%89%B2%E6%83%85%E8%A2%AB%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 04时41分]"
+        },
+        {
+          "title": "特朗普涉台最新表态，台当局和日本都慌了",
+          "url": "https://news.ifeng.com/c/8qpOucjNxj3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 04时41分]"
+        },
+        {
           "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
           "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
           "source": "凤凰网",
@@ -119,6 +167,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时00分 ~ 02时01分]"
+        },
+        {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://news.ifeng.com/c/8qp8XbNLUh0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 04时41分]"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -132,38 +191,59 @@
           "time_info": "[01时00分 ~ 01时01分]"
         },
         {
-          "title": "马斯克机器人涉色情被爱尔兰调查",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B6%89%E8%89%B2%E6%83%85%E8%A2%AB%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时11分]"
-        },
-        {
-          "title": "特朗普涉台最新表态，台当局和日本都慌了",
-          "url": "https://news.ifeng.com/c/8qpOucjNxj3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
           "title": "据英国《金融时报》：美国总统特朗普加剧对美国消费者保护机构的攻击。",
           "url": "https://flash.jin10.com/detail/20260218022730380800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260218042000423800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国副总统万斯：总统特朗普在伊朗问题上有很多选择。",
+          "url": "https://wallstreetcn.com/livenews/3056109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
+          "url": "https://flash.jin10.com/detail/20260218041935194800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
+          "url": "https://wallstreetcn.com/livenews/3056103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
@@ -194,7 +274,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -234,8 +314,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 04时41分]"
         },
         {
           "title": "谷爱凌再添一银，创造历史背后，她的“敢于上场”更珍贵",
@@ -246,8 +326,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 04时41分]"
         },
         {
           "title": "创历史！中国队速滑男团追逐夺铜牌",
@@ -257,8 +337,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 04时41分]"
         },
         {
           "title": "中国速滑男团历史性夺铜",
@@ -266,11 +346,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 04时41分]"
         }
       ]
     },
