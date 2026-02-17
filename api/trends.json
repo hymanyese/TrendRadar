@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T13:59:58.627371+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-02-17T15:12:01.015616+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时39分 ~ 13时59分]"
+          "appearance_count": 16,
+          "time_info": "[01时39分 ~ 15时12分]"
         },
         {
           "title": "高市早苗，迎来坏消息",
@@ -38,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时14分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -70,6 +71,20 @@
           "time_info": "[03时34分 ~ 07时32分]"
         },
         {
+          "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
+          "url": "https://wallstreetcn.com/livenews/3055869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 15时12分]"
+        },
+        {
           "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
           "source": "澎湃新闻",
@@ -93,19 +108,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时35分]"
-        },
-        {
-          "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
-          "url": "https://wallstreetcn.com/livenews/3055869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时59分]"
         },
         {
           "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
@@ -160,6 +162,17 @@
           "time_info": "[03时34分 ~ 05时32分]"
         },
         {
+          "title": "“问题不容再有拖延”，高市早苗称期望会见金正恩",
+          "url": "https://news.ifeng.com/c/8qoNBBDr8Rf",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时12分]"
+        },
+        {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
           "url": "https://wallstreetcn.com/livenews/3055815",
           "source": "华尔街见闻-快讯",
@@ -171,6 +184,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时48分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
+          "url": "https://wallstreetcn.com/livenews/3055862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 15时12分]"
+        },
+        {
+          "title": "特朗普称他将间接参与美国和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3055860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
@@ -186,41 +227,42 @@
           "time_info": "[01时39分 ~ 04时35分]"
         },
         {
-          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3055862",
+          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
+          "url": "https://wallstreetcn.com/livenews/3055873",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            17,
-            25
+            7,
+            15,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时59分]"
+          "time_info": "[12时54分 ~ 15时12分]"
         },
         {
-          "title": "特朗普称他将间接参与美国和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3055860",
+          "title": "马斯克：Cybercab将于4月开始生产，没有踏板、方向盘",
+          "url": "https://wallstreetcn.com/livenews/3055872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            18,
-            26
+            8,
+            16,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时59分]"
+          "time_info": "[12时54分 ~ 15时12分]"
         },
         {
-          "title": "“问题不容再有拖延”，高市早苗称期望会见金正恩",
-          "url": "https://news.ifeng.com/c/8qoNBBDr8Rf",
-          "source": "凤凰网",
+          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 15时12分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -233,30 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时48分]"
-        },
-        {
-          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
-          "url": "https://wallstreetcn.com/livenews/3055873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时59分]"
-        },
-        {
-          "title": "马斯克：Cybercab将于4月开始生产，没有踏板、方向盘",
-          "url": "https://wallstreetcn.com/livenews/3055872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时59分]"
         },
         {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
@@ -317,17 +335,6 @@
           "time_info": "10时14分"
         },
         {
-          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
           "url": "https://flash.jin10.com/detail/20260217040455048800",
           "source": "金十数据",
@@ -345,7 +352,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -375,8 +382,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时34分 ~ 13时59分]"
+          "appearance_count": 13,
+          "time_info": "[03时34分 ~ 15时12分]"
+        },
+        {
+          "title": "国铁广州局2026年春运节前到发旅客6029万人次 创历史新高",
+          "url": "https://flash.jin10.com/detail/20260217133657604800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时12分]"
         },
         {
           "title": "墨西哥国家石油公司PEMEX上周发行315亿比索（折合18亿美元）本币债券，为该国历史上最大一笔公司债供应量。 Grupo Financiero Banorte数据显示，2月份墨西哥债券发行规模达到655亿比索，已经突破2022年11月（527亿比索）所创单月历史最高。",
@@ -389,17 +408,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时48分]"
-        },
-        {
-          "title": "国铁广州局2026年春运节前到发旅客6029万人次 创历史新高",
-          "url": "https://flash.jin10.com/detail/20260217133657604800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
         },
         {
           "title": "黄金多头无惧历史性回调 加码押注黄金远期看涨期权",
