@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T16:51:24.516814+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-02-17T17:53:36.091867+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 16时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 17时53分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时39分 ~ 07时32分]"
+        },
+        {
+          "title": "“问题不容再有拖延”，高市早苗称期望会见金正恩",
+          "url": "https://news.ifeng.com/c/8qoNBBDr8Rf",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时54分 ~ 17时53分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -77,20 +88,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
-        },
-        {
-          "title": "“问题不容再有拖延”，高市早苗称期望会见金正恩",
-          "url": "https://news.ifeng.com/c/8qoNBBDr8Rf",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 16时51分]"
         },
         {
           "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
@@ -300,6 +300,18 @@
           "time_info": "[01时39分 ~ 02时48分]"
         },
         {
+          "title": "马斯克母亲发视频拜年",
+          "url": "https://www.toutiao.com/trending/7607606769153589275/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时53分]"
+        },
+        {
           "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
           "url": "https://flash.jin10.com/detail/20260217021035538800",
           "source": "金十数据",
@@ -310,6 +322,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时35分]"
+        },
+        {
+          "title": "日本债市延续涨势 高市早苗胜选以来的首次常规性国债标售需求上升",
+          "url": "https://wallstreetcn.com/livenews/3055906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时53分]"
         },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
@@ -346,17 +370,6 @@
           "time_info": "10时14分"
         },
         {
-          "title": "马斯克母亲发视频拜年",
-          "url": "https://www.toutiao.com/trending/7607606769153589275/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
           "url": "https://flash.jin10.com/detail/20260217040455048800",
           "source": "金十数据",
@@ -368,24 +381,13 @@
           "time_info": "05时32分"
         },
         {
-          "title": "日本债市延续涨势 高市早苗胜选以来的首次常规性国债标售需求上升",
-          "url": "https://wallstreetcn.com/livenews/3055906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
           "title": "特朗普反应低调 日本怕中美搞大动作",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
           "source": "百度热搜",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -426,8 +428,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时34分 ~ 16时51分]"
+          "appearance_count": 15,
+          "time_info": "[03时34分 ~ 17时53分]"
         },
         {
           "title": "国铁广州局2026年春运节前到发旅客6029万人次 创历史新高",
@@ -442,6 +444,18 @@
           "time_info": "[13时59分 ~ 15时12分]"
         },
         {
+          "title": "谷爱凌再添一银，创造历史背后，她的“敢于上场”更珍贵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32624318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时53分]"
+        },
+        {
           "title": "墨西哥国家石油公司PEMEX上周发行315亿比索（折合18亿美元）本币债券，为该国历史上最大一笔公司债供应量。 Grupo Financiero Banorte数据显示，2月份墨西哥债券发行规模达到655亿比索，已经突破2022年11月（527亿比索）所创单月历史最高。",
           "url": "https://wallstreetcn.com/livenews/3055791",
           "source": "华尔街见闻-快讯",
@@ -452,17 +466,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时48分]"
-        },
-        {
-          "title": "谷爱凌再添一银，创造历史背后，她的“敢于上场”更珍贵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32624318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         },
         {
           "title": "黄金多头无惧历史性回调 加码押注黄金远期看涨期权",
@@ -486,11 +489,12 @@
           "url": "https://www.zhihu.com/question/2005699650552886454",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时53分]"
         }
       ]
     }
