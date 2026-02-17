@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-17T15:12:01.015616+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-02-17T16:51:24.516814+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "特朗普：将间接参与美伊谈判",
+          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 16时51分]"
+        },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
           "url": "https://www.cls.cn/detail/2290650",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时39分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普：将间接参与美伊谈判",
-          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时14分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -69,6 +69,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时34分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普与马里兰州州长就管道破裂和污水泄漏的应对措施发生冲突",
+          "url": "https://flash.jin10.com/detail/20260217164530562800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "“问题不容再有拖延”，高市早苗称期望会见金正恩",
+          "url": "https://news.ifeng.com/c/8qoNBBDr8Rf",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时51分]"
         },
         {
           "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
@@ -160,17 +182,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时34分 ~ 05时32分]"
-        },
-        {
-          "title": "“问题不容再有拖延”，高市早苗称期望会见金正恩",
-          "url": "https://news.ifeng.com/c/8qoNBBDr8Rf",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -335,6 +346,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "马斯克母亲发视频拜年",
+          "url": "https://www.toutiao.com/trending/7607606769153589275/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
           "url": "https://flash.jin10.com/detail/20260217040455048800",
           "source": "金十数据",
@@ -344,6 +366,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "日本债市延续涨势 高市早苗胜选以来的首次常规性国债标售需求上升",
+          "url": "https://wallstreetcn.com/livenews/3055906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "特朗普反应低调 日本怕中美搞大动作",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "市场消息：日本首相高市早苗考虑制定多年期预算以促进增长和危机管理。",
@@ -371,7 +415,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "爱泼斯坦案“政治敏感人物”名单公布",
@@ -382,8 +426,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时34分 ~ 15时12分]"
+          "appearance_count": 14,
+          "time_info": "[03时34分 ~ 16时51分]"
         },
         {
           "title": "国铁广州局2026年春运节前到发旅客6029万人次 创历史新高",
@@ -410,6 +454,17 @@
           "time_info": "[01时39分 ~ 02时48分]"
         },
         {
+          "title": "谷爱凌再添一银，创造历史背后，她的“敢于上场”更珍贵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32624318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "黄金多头无惧历史性回调 加码押注黄金远期看涨期权",
           "url": "https://flash.jin10.com/detail/20260216230259950800",
           "source": "金十数据",
@@ -419,6 +474,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "职场中怎么改掉弱者气息？",
+          "url": "https://www.zhihu.com/question/2005699650552886454",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     }
