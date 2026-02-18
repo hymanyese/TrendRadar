@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T06:37:03.491309+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-02-19T07:33:19.040600+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 07时33分]"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 07时33分]"
         },
         {
           "title": "再次连任日本首相的高市早苗，啥背景？",
@@ -66,17 +67,6 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
-          "url": "https://flash.jin10.com/detail/20260219061414903800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
           "url": "https://wallstreetcn.com/livenews/3056442",
           "source": "华尔街见闻-快讯",
@@ -88,6 +78,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时42分]"
+        },
+        {
+          "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
+          "url": "https://flash.jin10.com/detail/20260219061414903800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时33分]"
         },
         {
           "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
@@ -234,6 +236,39 @@
           "time_info": "[02时59分 ~ 03时52分]"
         },
         {
+          "title": "路透调查：三分之二的日本企业对日本首相高市早苗的财政纪律表示担忧。",
+          "url": "https://flash.jin10.com/detail/20260219070102769800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
+          "url": "https://flash.jin10.com/detail/20260219070013382800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
+          "url": "https://wallstreetcn.com/livenews/3056519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "特朗普：英国签迪戈加西亚百年租约是“大错”，若有必要美军将动用该基地",
           "url": "https://flash.jin10.com/detail/20260219025643641800",
           "source": "金十数据",
@@ -284,7 +319,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -328,7 +363,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -397,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "第二届高市早苗内阁正式成立",
+          "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E5%B1%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%85%E9%98%81%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     },
@@ -412,8 +458,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 07时33分]"
         },
         {
           "title": "速滑男团偷家荷兰,创历史摘铜",
@@ -424,8 +470,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 07时33分]"
         },
         {
           "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
@@ -434,11 +480,12 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 07时33分]"
         },
         {
           "title": "英国股市创收盘历史新高",
