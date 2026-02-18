@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-02-19T01:07:04.916076+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-19T02:59:17.798933+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 8,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "再次连任日本首相的高市早苗，啥背景？",
+          "url": "https://news.ifeng.com/c/8qqh0pKi2AT",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "日本高市早苗内阁集体辞职",
+          "url": "https://www.cls.cn/detail/2291375",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
         {
           "title": "高市早苗2.0在隐忧中起步",
           "url": "https://news.ifeng.com/c/8qqYUDjCbGq",
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "再次连任日本首相的高市早苗，啥背景？",
-          "url": "https://news.ifeng.com/c/8qqh0pKi2AT",
-          "source": "凤凰网",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -41,15 +53,26 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "日本高市早苗内阁集体辞职",
-          "url": "https://www.cls.cn/detail/2291375",
-          "source": "财联社热门",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
+          "url": "https://wallstreetcn.com/livenews/3056442",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
+          "url": "https://flash.jin10.com/detail/20260219024754983800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
@@ -59,8 +82,96 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
+          "url": "https://flash.jin10.com/detail/20260219024719874800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默在就迪戈加西亚签署百年租约一事上犯下了重大错误。",
+          "url": "https://flash.jin10.com/detail/20260219024624113800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
+          "url": "https://flash.jin10.com/detail/20260219024600016800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：我一直告诉英国首相斯塔默，就国家而言，租约毫无用处。",
+          "url": "https://flash.jin10.com/detail/20260219024522146800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
+          "url": "https://flash.jin10.com/detail/20260219024513181800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：英国首相斯塔默无论如何都不应失去对迪戈加西亚的控制，尤其是通过一项充其量只是脆弱的百年租约来实现。",
+          "url": "https://flash.jin10.com/detail/20260219024506455800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普随时准备介入华盛顿特区的供水危机。",
+          "url": "https://flash.jin10.com/detail/20260219024439079800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国白宫：外交是美国总统特朗普的首选方案。",
+          "url": "https://flash.jin10.com/detail/20260219024156843800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "高市早苗：希望日本央行与政府密切合作，以持久实现通胀目标",
@@ -69,9 +180,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
+          "url": "https://wallstreetcn.com/livenews/3056416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
@@ -80,7 +202,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -91,7 +213,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         }
@@ -109,30 +231,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "速滑男团偷家荷兰,创历史摘铜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "英国股市创收盘历史新高",
@@ -141,7 +265,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -152,7 +276,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         }
