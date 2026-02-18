@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-19T02:59:17.798933+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-02-19T03:52:37.517905+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "日本高市早苗内阁集体辞职",
+          "url": "https://www.cls.cn/detail/2291375",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时52分]"
+        },
         {
           "title": "再次连任日本首相的高市早苗，啥背景？",
           "url": "https://news.ifeng.com/c/8qqh0pKi2AT",
@@ -14,17 +26,6 @@
           "ranks": [
             2,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
-        },
-        {
-          "title": "日本高市早苗内阁集体辞职",
-          "url": "https://www.cls.cn/detail/2291375",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -57,22 +58,24 @@
           "url": "https://wallstreetcn.com/livenews/3056442",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时52分]"
         },
         {
           "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
           "url": "https://flash.jin10.com/detail/20260219024754983800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时52分]"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
@@ -82,96 +85,148 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时52分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
           "url": "https://flash.jin10.com/detail/20260219024719874800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时52分]"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默在就迪戈加西亚签署百年租约一事上犯下了重大错误。",
           "url": "https://flash.jin10.com/detail/20260219024624113800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时52分]"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
           "url": "https://flash.jin10.com/detail/20260219024600016800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时52分]"
         },
         {
           "title": "美国总统特朗普：我一直告诉英国首相斯塔默，就国家而言，租约毫无用处。",
           "url": "https://flash.jin10.com/detail/20260219024522146800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时52分]"
         },
         {
           "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
           "url": "https://flash.jin10.com/detail/20260219024513181800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时52分]"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默无论如何都不应失去对迪戈加西亚的控制，尤其是通过一项充其量只是脆弱的百年租约来实现。",
           "url": "https://flash.jin10.com/detail/20260219024506455800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时52分]"
         },
         {
           "title": "美国白宫：美国总统特朗普随时准备介入华盛顿特区的供水危机。",
           "url": "https://flash.jin10.com/detail/20260219024439079800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时52分]"
         },
         {
           "title": "美国白宫：外交是美国总统特朗普的首选方案。",
           "url": "https://flash.jin10.com/detail/20260219024156843800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时52分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
+          "url": "https://wallstreetcn.com/livenews/3056449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "03时52分"
+        },
+        {
+          "title": "特朗普：英国签迪戈加西亚百年租约是“大错”，若有必要美军将动用该基地",
+          "url": "https://flash.jin10.com/detail/20260219025643641800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗不与我达成一份协议，美国可能就需要英属迪戈加西亚岛（Diego Garcia）。 英国不应当放弃Diego Garcia，否则将是英国势衰的体现。",
+          "url": "https://wallstreetcn.com/livenews/3056447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
+          "url": "https://wallstreetcn.com/livenews/3056445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时52分"
         },
         {
           "title": "高市早苗：希望日本央行与政府密切合作，以持久实现通胀目标",
@@ -191,7 +246,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -231,8 +286,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时52分]"
         },
         {
           "title": "速滑男团偷家荷兰,创历史摘铜",
@@ -243,8 +298,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时52分]"
         },
         {
           "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
@@ -252,11 +307,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时52分]"
         },
         {
           "title": "英国股市创收盘历史新高",
