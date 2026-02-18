@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T17:59:05.213927+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-02-18T18:49:01.079379+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -31,6 +31,18 @@
           "time_info": "[02时01分 ~ 07时55分]"
         },
         {
+          "title": "日本高市早苗内阁集体辞职",
+          "url": "https://www.cls.cn/detail/2291375",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时55分 ~ 18时49分]"
+        },
+        {
           "title": "美部长与下属传出婚外情，特朗普回应",
           "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
           "source": "凤凰网",
@@ -45,16 +57,26 @@
           "time_info": "[01时00分 ~ 06时34分]"
         },
         {
-          "title": "日本高市早苗内阁集体辞职",
-          "url": "https://www.cls.cn/detail/2291375",
-          "source": "财联社热门",
+          "title": "高市早苗2.0在隐忧中起步",
+          "url": "https://news.ifeng.com/c/8qqYUDjCbGq",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 17时59分]"
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 18时49分]"
+        },
+        {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 18时49分]"
         },
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -69,17 +91,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时25分 ~ 16时51分]"
-        },
-        {
-          "title": "高市早苗2.0在隐忧中起步",
-          "url": "https://news.ifeng.com/c/8qqYUDjCbGq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 17时59分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -104,17 +115,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时51分 ~ 17时59分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 17时59分]"
         },
         {
           "title": "高市早苗再次当选日本首相",
@@ -164,6 +164,17 @@
           "time_info": "[15时51分 ~ 15时52分]"
         },
         {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 18时49分]"
+        },
+        {
           "title": "特朗普称希拉里精神错乱",
           "url": "https://news.ifeng.com/c/8qp8XbNLUh0",
           "source": "凤凰网",
@@ -180,11 +191,34 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 18时49分]"
+        },
+        {
+          "title": "马斯克母亲发帖用中文送春节祝福：新年快乐！恭喜发财",
+          "url": "https://wallstreetcn.com/livenews/3056291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2007370042841462456",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 18时49分]"
         },
         {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
@@ -231,6 +265,17 @@
           "time_info": "[10时25分 ~ 15时52分]"
         },
         {
+          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
+          "url": "https://wallstreetcn.com/livenews/3056288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
           "url": "https://flash.jin10.com/detail/20260218023219855800",
           "source": "金十数据",
@@ -252,17 +297,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时25分 ~ 15时52分]"
-        },
-        {
-          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
-          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 17时59分]"
         },
         {
           "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
@@ -370,17 +404,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时51分 ~ 16时51分]"
-        },
-        {
-          "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2007370042841462456",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 17时59分]"
         },
         {
           "title": "高市早苗再次当选日本首相",
@@ -840,6 +863,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "美媒：特朗普距离与伊朗爆发大规模战争更近一步",
+          "url": "https://flash.jin10.com/detail/20260218181638737800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "高市早苗当选日本新任首相",
           "url": "https://flash.jin10.com/detail/20260218145046585800",
           "source": "金十数据",
@@ -854,7 +888,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "创历史！中国队速滑男团追逐夺铜牌",
@@ -898,8 +932,22 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时00分 ~ 17时59分]"
+          "appearance_count": 21,
+          "time_info": "[01时00分 ~ 18时49分]"
+        },
+        {
+          "title": "速滑男团偷家荷兰,创历史摘铜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时55分 ~ 18时49分]"
         },
         {
           "title": "创历史！中国队速滑男团追逐夺铜牌",
@@ -914,18 +962,16 @@
           "time_info": "[01时00分 ~ 07时55分]"
         },
         {
-          "title": "速滑男团偷家荷兰,创历史摘铜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
-          "source": "贴吧",
+          "title": "《镖人》讲了什么故事",
+          "url": "https://www.toutiao.com/trending/7608119931766312467/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            8,
-            10,
-            11
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 17时59分]"
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 18时49分]"
         },
         {
           "title": "看交易类书籍对交易作用不大是为什么？",
@@ -939,22 +985,22 @@
           "time_info": "[15时51分 ~ 15时52分]"
         },
         {
+          "title": "年轻人给历史人物上坟，在曹操陵墓放止痛药、给张居正送痔疮膏，如何评价用追星方式追历史人物这种现象？",
+          "url": "https://www.zhihu.com/question/2006447012283905560",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
+        },
+        {
           "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
           "source": "澎湃新闻",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
-        },
-        {
-          "title": "《镖人》讲了什么故事",
-          "url": "https://www.toutiao.com/trending/7608119931766312467/",
-          "source": "今日头条",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -967,7 +1013,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -978,7 +1024,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
