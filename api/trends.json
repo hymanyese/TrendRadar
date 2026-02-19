@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T06:35:22.163958+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-02-20T07:33:00.411111+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 62,
+      "match_count": 69,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普宣称：美国已在“生活成本”战役中获胜",
+          "url": "https://wallstreetcn.com/livenews/3056824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 04时36分]"
-        },
-        {
-          "title": "美国总统特朗普：（建议人们）出门购买戴尔电脑。",
-          "url": "https://wallstreetcn.com/livenews/3056808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -106,6 +106,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时36分]"
+        },
+        {
+          "title": "美国总统特朗普：（建议人们）出门购买戴尔电脑。",
+          "url": "https://wallstreetcn.com/livenews/3056808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
         },
         {
           "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
@@ -259,6 +271,18 @@
           "time_info": "[04时36分 ~ 05时37分]"
         },
         {
+          "title": "美国总统特朗普赞赏商务部长卢特尼克。",
+          "url": "https://wallstreetcn.com/livenews/3056803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
           "title": "美国总统特朗普：并不知道外星人是否真实存在。",
           "url": "https://flash.jin10.com/detail/20260220034054475800",
           "source": "金十数据",
@@ -281,6 +305,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时37分]"
+        },
+        {
+          "title": "美国总统特朗普：（美国的）石油和天然气正在增产。 从委内瑞拉攫取的5000万桶石油正被运往得州休斯敦。",
+          "url": "https://wallstreetcn.com/livenews/3056800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -336,20 +372,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
         {
-          "title": "美国总统特朗普赞赏商务部长卢特尼克。",
-          "url": "https://wallstreetcn.com/livenews/3056803",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称在“可负担性”问题上赢得了胜利",
+          "url": "https://flash.jin10.com/detail/20260220064356197800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
         },
         {
           "title": "特朗普：那些假新闻喋喋不休地谈论“负担能力，负担能力”。你们注意到了吗？过去两周你们没听到哪个词？“负担能力”。因为我赢了。我赢得了负担能力。",
@@ -358,9 +394,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "十天内对伊朗动手？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
+          "url": "https://wallstreetcn.com/articles/3765876",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "特朗普：5000万桶委内瑞拉石油正运往休斯敦。",
@@ -369,20 +416,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
         {
-          "title": "美国总统特朗普：（美国的）石油和天然气正在增产。 从委内瑞拉攫取的5000万桶石油正被运往得州休斯敦。",
-          "url": "https://wallstreetcn.com/livenews/3056800",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普批评健康保险公司，并表示有关其股票上涨的报道让他感到不满。",
+          "url": "https://flash.jin10.com/detail/20260220064053130800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
         },
         {
           "title": "特朗普：石油和天然气产量上升了。",
@@ -391,7 +438,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -413,7 +460,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -427,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普谈及住房经适性，宣称：我们已经解决了这个问题。 正在终结华尔街公司购买住房这个“骗局”。",
+          "url": "https://wallstreetcn.com/livenews/3056813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国参议院少数党领袖舒默选择弗吉尼亚州民主党州长斯潘伯格下周就特朗普的国情咨文发表回应。",
@@ -446,7 +504,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -512,7 +570,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -523,7 +581,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -534,7 +592,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -545,7 +603,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -556,7 +614,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -567,9 +625,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "伊朗致联合国秘书长的信：特朗普的言论表明“存在军事侵略的真正风险”。",
+          "url": "https://flash.jin10.com/detail/20260220062210840800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国总统特朗普宣称：2月18日会见了诺华制药（NOVN.SW）的CEO。 对方说，美国关税迫使他修建新的工厂。",
@@ -578,7 +647,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -589,7 +658,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -600,7 +669,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -622,7 +691,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -633,7 +702,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -644,7 +713,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -655,7 +724,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -669,6 +738,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普主持加沙“和平委员会”首次会议 美国承诺出资100亿",
+          "url": "https://flash.jin10.com/detail/20260220061036766800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "特朗普：如果没有和伊朗达成协议，将会发生糟糕的事情",
@@ -688,7 +768,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -721,7 +801,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         }
@@ -740,8 +820,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 07时33分]"
         },
         {
           "title": "英国前王子安德鲁因涉及爱泼斯坦案被捕，如何看待此事？还有哪些涉案「大人物」可能被实质影响？",
@@ -751,19 +831,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时35分]"
-        },
-        {
-          "title": "速滑男团偷家荷兰,创历史摘铜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 07时33分]"
         },
         {
           "title": "最近想看一些投资入门的经典书籍，有没有推荐？",
@@ -773,11 +842,12 @@
             18,
             14,
             19,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时33分]"
         },
         {
           "title": "谷爱凌：我想改变历史",
@@ -786,11 +856,23 @@
           "ranks": [
             27,
             24,
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时52分 ~ 07时33分]"
+        },
+        {
+          "title": "速滑男团偷家荷兰,创历史摘铜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
+          "source": "贴吧",
+          "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时52分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 07时33分]"
         },
         {
           "title": "加拿大能源股因油价而飙升，有望创2008年以来首次历史新高",
