@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T22:51:10.784542+08:00",
-  "total_titles_processed": 1683,
+  "generated_at": "2026-02-19T23:52:15.137029+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 62,
+      "match_count": 86,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时06分 ~ 22时51分]"
+          "appearance_count": 26,
+          "time_info": "[01时06分 ~ 23时52分]"
         },
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -107,9 +107,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
+        },
+        {
+          "title": "特朗普称伊朗必须与美国达成“有意义的协议”",
+          "url": "https://wallstreetcn.com/livenews/3056683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "马斯克官宣Grok4.2公测版上线",
@@ -129,9 +140,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
+        },
+        {
+          "title": "特朗普：如果没有和伊朗达成协议，将会发生糟糕的事情",
+          "url": "https://flash.jin10.com/detail/20260219233551357800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
+          "title": "美国总统特朗普：我才不在乎诺贝尔奖。",
+          "url": "https://wallstreetcn.com/livenews/3056680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
@@ -156,15 +189,15 @@
           "time_info": "21时11分"
         },
         {
-          "title": "英国阻止特朗普使用英国的基地打击伊朗。（泰晤士报）",
-          "url": "https://wallstreetcn.com/livenews/3056653",
+          "title": "美国总统特朗普：挪威将主办一场关于“和平委员会”的活动。",
+          "url": "https://wallstreetcn.com/livenews/3056679",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "23时52分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -214,6 +247,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时52分]"
+        },
+        {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3056653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时52分]"
         },
         {
           "title": "美多家团体起诉特朗普政府撤销气候危害认定",
@@ -408,6 +453,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "美国总统特朗普：必须解决黎巴嫩的问题。 联合国为支持加沙而募集20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
           "url": "https://flash.jin10.com/detail/20260219070013382800",
           "source": "金十数据",
@@ -430,13 +486,24 @@
           "time_info": "14时01分"
         },
         {
+          "title": "美国总统特朗普：必须与伊朗达成一份具有实质性意义的协议。 伊朗不可以拥有核武器。 我们与伊朗还需付出努力。 或许十天能了解中东和平状况。 认为哈马斯会放弃武装，否则他们将遭到严厉袭击。",
+          "url": "https://wallstreetcn.com/livenews/3056674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国总统特朗普在“和平委员会”召开的首次会议上发表讲话。",
           "url": "https://flash.jin10.com/detail/20260219223603423800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -463,6 +530,17 @@
           "time_info": "19时40分"
         },
         {
+          "title": "特朗普称，挪威已同意主办和平委员会活动",
+          "url": "https://flash.jin10.com/detail/20260219232627238800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "特朗普：英国签迪戈加西亚百年租约是“大错”，若有必要美军将动用该基地",
           "url": "https://flash.jin10.com/detail/20260219025643641800",
           "source": "金十数据",
@@ -472,6 +550,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "特朗普称加沙地带有“小火苗” 哈马斯将会放下武器",
+          "url": "https://flash.jin10.com/detail/20260219232428917800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
+          "title": "美国总统特朗普：越南非常棒。",
+          "url": "https://wallstreetcn.com/livenews/3056669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "13位美国司法部长就终止能源和基础设施项目资金一事起诉特朗普政府。",
@@ -485,6 +585,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "美国总统特朗普：和平委员会将监督联合国。",
+          "url": "https://flash.jin10.com/detail/20260219232201749800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "市场消息：美国法官推翻移民上诉委员会支持特朗普政府大规模拘留政策的裁决。",
           "url": "https://flash.jin10.com/detail/20260219093138689800",
           "source": "金十数据",
@@ -494,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "美国总统特朗普：将确保联合国具有可行性。",
+          "url": "https://flash.jin10.com/detail/20260219232150771800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美媒：特朗普的和平委员会将承诺50亿美元用于重建加沙",
@@ -518,6 +640,17 @@
           "time_info": "14时01分"
         },
         {
+          "title": "美国总统特朗普：联合国确实拥有巨大的潜力。",
+          "url": "https://flash.jin10.com/detail/20260219232103100800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "据华尔街日报：美国总统特朗普的和平委员会将承诺50亿美元用于重建加沙。",
           "url": "https://flash.jin10.com/detail/20260219044503887800",
           "source": "金十数据",
@@ -540,6 +673,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "美国总统特朗普：美国将为和平委员会出资100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219231948694800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国总统特朗普：我们可以关照大西洋。",
           "url": "https://wallstreetcn.com/livenews/3056475",
           "source": "华尔街见闻-快讯",
@@ -549,6 +693,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：是伊朗加入我们、共同完成各项努力的时候了。",
+          "url": "https://flash.jin10.com/detail/20260219231927514800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗必须达成协议，否则将发生糟糕的事情。",
+          "url": "https://flash.jin10.com/detail/20260219231852587800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美国总统特朗普：我将在国情咨文中谈到经济问题。",
@@ -571,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "特朗普称俄乌冲突难以解决",
+          "url": "https://flash.jin10.com/detail/20260219231831770800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "高市早苗：希望日本央行与政府密切合作，以持久实现通胀目标",
@@ -606,6 +783,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "美国总统特朗普：联合国人道主义援助办公室正筹集20亿美元用于支持加沙。",
+          "url": "https://flash.jin10.com/detail/20260219231537395800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
           "url": "https://wallstreetcn.com/livenews/3056416",
           "source": "华尔街见闻-快讯",
@@ -628,6 +816,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "美国总统特朗普：国际足联将帮助为加沙的足球相关项目筹集7500万美元。",
+          "url": "https://flash.jin10.com/detail/20260219231532294800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美多家团体起诉特朗普政府撤销气候危害认定",
           "url": "https://flash.jin10.com/detail/20260219140818011800",
           "source": "金十数据",
@@ -637,6 +836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "美国总统特朗普表示他不在乎诺贝尔奖。",
+          "url": "https://flash.jin10.com/detail/20260219231505260800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美国总统特朗普兜售股市上涨。",
@@ -650,6 +860,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "美国总统特朗普：挪威已同意主办和平委员会活动。",
+          "url": "https://flash.jin10.com/detail/20260219231331547800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
           "url": "https://flash.jin10.com/detail/20260218233358175800",
           "source": "金十数据",
@@ -659,6 +880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "美国总统特朗普：全世界都在等着哈马斯，它是唯一阻碍我们前进的因素。",
+          "url": "https://flash.jin10.com/detail/20260219231311773800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美国总统特朗普声称：将在国情咨文中谈论经济形势。",
@@ -672,6 +904,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "美国总统特朗普：必须解决与黎巴嫩的问题。",
+          "url": "https://flash.jin10.com/detail/20260219231300377800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "日本时事通讯社民调显示，对日本首相高市早苗内阁的支持率上升了2.8个百分点，达到63.8%。",
           "url": "https://flash.jin10.com/detail/20260219140345667800",
           "source": "金十数据",
@@ -681,6 +924,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "美国总统特朗普：我认为没有必要派士兵去加沙作战。",
+          "url": "https://flash.jin10.com/detail/20260219231156454800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "第二届高市早苗内阁正式成立",
@@ -714,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
+        },
+        {
+          "title": "美国总统特朗普：加沙不再是激进主义和恐怖主义的温床。",
+          "url": "https://flash.jin10.com/detail/20260219231149143800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         }
       ]
     },
@@ -760,8 +1025,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时54分 ~ 22时51分]"
+          "appearance_count": 15,
+          "time_info": "[12时54分 ~ 23时52分]"
         },
         {
           "title": "速滑男团偷家荷兰,创历史摘铜",
@@ -779,8 +1044,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时06分 ~ 22时51分]"
+          "appearance_count": 26,
+          "time_info": "[01时06分 ~ 23时52分]"
         },
         {
           "title": "谷爱凌：我想改变历史",
@@ -815,11 +1080,12 @@
           "url": "https://www.zhihu.com/question/2007885873979613928",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
+          "appearance_count": 4,
+          "time_info": "[22时50分 ~ 23时52分]"
         },
         {
           "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
@@ -873,7 +1139,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
