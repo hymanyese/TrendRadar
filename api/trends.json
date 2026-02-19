@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T12:54:39.294266+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-02-19T14:01:36.604265+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时06分 ~ 12时54分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 14时01分]"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
@@ -45,6 +45,17 @@
           "time_info": "[01时06分 ~ 02时59分]"
         },
         {
+          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
+          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 14时01分]"
+        },
+        {
           "title": "高市早苗2.0在隐忧中起步",
           "url": "https://news.ifeng.com/c/8qqYUDjCbGq",
           "source": "凤凰网",
@@ -67,15 +78,15 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
-          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
+          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
+          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
           "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时24分 ~ 12时54分]"
+          "time_info": "[12时54分 ~ 14时01分]"
         },
         {
           "title": "马斯克官宣Grok4.2公测版上线",
@@ -98,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
-        },
-        {
-          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
-          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -146,6 +146,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时52分]"
+        },
+        {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 14时01分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
@@ -315,17 +326,6 @@
           "time_info": "07时33分"
         },
         {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
           "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
           "url": "https://flash.jin10.com/detail/20260219070013382800",
           "source": "金十数据",
@@ -335,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "马斯克表示，发现存在一个需要修复的漏洞，所以“X”大概会推迟到本周末发布新版本。（此前，马斯克宣布可以更新应用，以使用“为你推荐”功能）",
+          "url": "https://flash.jin10.com/detail/20260219132615256800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
@@ -390,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "据英国金融时报：据知情人士透露，摩根大通正在洽谈为特朗普的“和平委员会”提供银行服务。",
+          "url": "https://flash.jin10.com/detail/20260219130438457800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普的和平委员会将承诺50亿美元用于重建加沙。",
@@ -600,8 +622,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时06分 ~ 12时54分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 14时01分]"
+        },
+        {
+          "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
+          "url": "https://www.cls.cn/detail/2291363",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 14时01分]"
         },
         {
           "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
@@ -649,17 +683,6 @@
           "time_info": "04时42分"
         },
         {
-          "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
-          "url": "https://www.cls.cn/detail/2291363",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
           "title": "澳大利亚S&P/ASX200指数一度上涨1.24%，报9,118.30点，触及历史新高。",
           "url": "https://flash.jin10.com/detail/20260219092413180800",
           "source": "金十数据",
@@ -683,9 +706,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 14时01分]"
         }
       ]
     }
