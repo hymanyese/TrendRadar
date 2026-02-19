@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T15:14:15.062225+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-02-19T16:49:59.835285+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时06分 ~ 15时14分]"
+          "appearance_count": 16,
+          "time_info": "[01时06分 ~ 16时49分]"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
@@ -40,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 15时14分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 16时49分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -51,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时49分]"
         },
         {
           "title": "再次连任日本首相的高市早苗，啥背景？",
@@ -100,6 +101,17 @@
           "time_info": "10时24分"
         },
         {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时49分]"
+        },
+        {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
           "url": "https://news.ifeng.com/c/8qraTXTgXgI",
           "source": "凤凰网",
@@ -122,17 +134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时42分]"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 15时14分]"
         },
         {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
@@ -181,6 +182,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时52分]"
+        },
+        {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时49分]"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
@@ -335,17 +348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        },
-        {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3056582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         },
         {
           "title": "马斯克表示，发现存在一个需要修复的漏洞，所以“X”大概会推迟到本周末发布新版本。（此前，马斯克宣布可以更新应用，以使用“为你推荐”功能）",
@@ -541,7 +543,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -585,7 +587,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -610,12 +612,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "马斯克：“Ask Grok”功能尚未在4.20 版本中上线，应该会在一两天内上线。",
+          "url": "https://flash.jin10.com/detail/20260219155031833800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "徐梦桃夺冠成就历史第一人",
@@ -653,22 +666,12 @@
             14,
             19,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时06分 ~ 15时14分]"
-        },
-        {
-          "title": "韩国首尔综指收涨3.09%，报5677.25点，盘中一度触及历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3056586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
+          "appearance_count": 16,
+          "time_info": "[01时06分 ~ 16时49分]"
         },
         {
           "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
@@ -676,11 +679,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时49分]"
+        },
+        {
+          "title": "韩国首尔综指收涨3.09%，报5677.25点，盘中一度触及历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3056586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时49分]"
         },
         {
           "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
@@ -737,6 +753,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "深度解读镖人原著故事",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E9%95%96%E4%BA%BA%E5%8E%9F%E8%91%97%E6%95%85%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "谷爱凌：我想改变历史",
+          "url": "https://www.douyin.com/hot/2405731",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
