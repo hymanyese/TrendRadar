@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T14:01:36.604265+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-02-19T15:14:15.062225+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时06分 ~ 14时01分]"
+          "appearance_count": 15,
+          "time_info": "[01时06分 ~ 15时14分]"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
@@ -33,6 +33,28 @@
           "time_info": "[01时06分 ~ 07时33分]"
         },
         {
+          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
+          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时24分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
+          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时14分]"
+        },
+        {
           "title": "再次连任日本首相的高市早苗，啥背景？",
           "url": "https://news.ifeng.com/c/8qqh0pKi2AT",
           "source": "凤凰网",
@@ -43,17 +65,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时06分 ~ 02时59分]"
-        },
-        {
-          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
-          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 14时01分]"
         },
         {
           "title": "高市早苗2.0在隐忧中起步",
@@ -76,17 +87,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
-          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时01分]"
         },
         {
           "title": "马斯克官宣Grok4.2公测版上线",
@@ -124,6 +124,17 @@
           "time_info": "[02时59分 ~ 04时42分]"
         },
         {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时14分]"
+        },
+        {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
           "url": "https://flash.jin10.com/detail/20260219061414903800",
           "source": "金十数据",
@@ -146,17 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时52分]"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时01分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
@@ -337,13 +337,24 @@
           "time_info": "07时33分"
         },
         {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "马斯克表示，发现存在一个需要修复的漏洞，所以“X”大概会推迟到本周末发布新版本。（此前，马斯克宣布可以更新应用，以使用“为你推荐”功能）",
           "url": "https://flash.jin10.com/detail/20260219132615256800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -409,7 +420,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -524,6 +535,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://flash.jin10.com/detail/20260219140818011800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3056468",
           "source": "华尔街见闻-快讯",
@@ -557,6 +579,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "日本时事通讯社民调显示，对日本首相高市早苗内阁的支持率上升了2.8个百分点，达到63.8%。",
+          "url": "https://flash.jin10.com/detail/20260219140345667800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "第二届高市早苗内阁正式成立",
           "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E5%B1%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%85%E9%98%81%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B",
           "source": "百度热搜",
@@ -582,7 +615,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "徐梦桃夺冠成就历史第一人",
@@ -619,11 +652,23 @@
             13,
             14,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时06分 ~ 14时01分]"
+          "appearance_count": 15,
+          "time_info": "[01时06分 ~ 15时14分]"
+        },
+        {
+          "title": "韩国首尔综指收涨3.09%，报5677.25点，盘中一度触及历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3056586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
@@ -634,8 +679,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时14分]"
         },
         {
           "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
