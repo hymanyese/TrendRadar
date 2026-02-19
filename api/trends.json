@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T18:45:55.644820+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-02-19T19:40:30.949963+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时06分 ~ 18时45分]"
+          "appearance_count": 20,
+          "time_info": "[01时06分 ~ 19时40分]"
         },
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时24分 ~ 18时45分]"
+          "appearance_count": 10,
+          "time_info": "[10时24分 ~ 19时40分]"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
@@ -197,6 +197,18 @@
           "time_info": "[02时59分 ~ 03时52分]"
         },
         {
+          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260219181201454800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时40分]"
+        },
+        {
           "title": "美国总统特朗普：英国首相斯塔默在就迪戈加西亚签署百年租约一事上犯下了重大错误。",
           "url": "https://flash.jin10.com/detail/20260219024624113800",
           "source": "金十数据",
@@ -352,17 +364,6 @@
           "time_info": "07时33分"
         },
         {
-          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
-          "url": "https://flash.jin10.com/detail/20260219181201454800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
           "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
           "url": "https://flash.jin10.com/detail/20260219070013382800",
           "source": "金十数据",
@@ -394,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "特朗普政府扩大了移民与海关执法局拘留合法难民的权力。",
+          "url": "https://flash.jin10.com/detail/20260219184006351800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "特朗普：英国签迪戈加西亚百年租约是“大错”，若有必要美军将动用该基地",
@@ -696,8 +708,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时06分 ~ 18时45分]"
+          "appearance_count": 20,
+          "time_info": "[01时06分 ~ 19时40分]"
         },
         {
           "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
@@ -710,8 +722,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 18时45分]"
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 19时40分]"
+        },
+        {
+          "title": "谷爱凌：我想改变历史",
+          "url": "https://www.douyin.com/hot/2405731",
+          "source": "抖音",
+          "ranks": [
+            30,
+            26,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 19时40分]"
         },
         {
           "title": "韩国首尔综指收涨3.09%，报5677.25点，盘中一度触及历史新高。",
@@ -725,19 +751,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时14分 ~ 17时51分]"
-        },
-        {
-          "title": "谷爱凌：我想改变历史",
-          "url": "https://www.douyin.com/hot/2405731",
-          "source": "抖音",
-          "ranks": [
-            30,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 18时45分]"
         },
         {
           "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
