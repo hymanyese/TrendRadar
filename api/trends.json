@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T04:36:22.779468+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-02-20T05:37:27.712942+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 05时37分]"
+        },
+        {
+          "title": "美国总统特朗普：钢铁关税改变了游戏规则。",
+          "url": "https://wallstreetcn.com/livenews/3056780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
@@ -30,39 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 04时36分]"
-        },
-        {
-          "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
-          "url": "https://flash.jin10.com/detail/20260220034308215800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
-          "url": "https://wallstreetcn.com/livenews/3056754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
-          "url": "https://flash.jin10.com/detail/20260220034222845800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -116,6 +94,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时36分]"
+        },
+        {
+          "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
+          "url": "https://flash.jin10.com/detail/20260220034308215800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
+        },
+        {
+          "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
+          "url": "https://wallstreetcn.com/livenews/3056754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
+          "url": "https://flash.jin10.com/detail/20260220034222845800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
         },
         {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
@@ -209,6 +223,54 @@
           "time_info": "[02时54分 ~ 04时36分]"
         },
         {
+          "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260220034153793800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
+        },
+        {
+          "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
+          "url": "https://flash.jin10.com/detail/20260220034121662800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
+        },
+        {
+          "title": "美国总统特朗普：并不知道外星人是否真实存在。",
+          "url": "https://flash.jin10.com/detail/20260220034054475800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
+        },
+        {
+          "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
+          "url": "https://wallstreetcn.com/livenews/3056746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
+        },
+        {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
           "url": "https://wallstreetcn.com/livenews/3056702",
           "source": "华尔街见闻-快讯",
@@ -245,48 +307,48 @@
           "time_info": "[00时56分 ~ 02时54分]"
         },
         {
-          "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
-          "url": "https://flash.jin10.com/detail/20260220034153793800",
+          "title": "据AXIOS网站：特朗普在加沙问题和平委员会首次会议上承诺投入100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260220045423529800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时37分"
         },
         {
-          "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
-          "url": "https://flash.jin10.com/detail/20260220034121662800",
+          "title": "特朗普：计划在必要时利用冗长辩论来推动“拯救美国法案”在美国国会获得通过。",
+          "url": "https://flash.jin10.com/detail/20260220042253309800",
           "source": "金十数据",
           "ranks": [
-            7
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时37分"
         },
         {
-          "title": "美国总统特朗普：并不知道外星人是否真实存在。",
-          "url": "https://flash.jin10.com/detail/20260220034054475800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
-          "url": "https://wallstreetcn.com/livenews/3056746",
+          "title": "美国众议院民主党成员们要求调查总统特朗普家族的加密货币公司。 向特朗普的财政部长贝森特询问有关World Liberty财务问题。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3056763",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默选择弗吉尼亚州民主党州长斯潘伯格下周就特朗普的国情咨文发表回应。",
+          "url": "https://flash.jin10.com/detail/20260220042215481800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -309,6 +371,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普：法案将要求所有选民出示选民身份证，所有选民必须出示公民身份证明才能投票，并规定不接受邮寄选票。",
+          "url": "https://flash.jin10.com/detail/20260220041552319800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "特朗普：无论如何，我们都会通过《拯救美国法案》。",
+          "url": "https://flash.jin10.com/detail/20260220041454236800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国白宫经济顾问委员会代理主席Yared：投资推动供给侧增长。 无法从美国纽约联储的研究中推断出（总统特朗普挑起的）关税由谁承担。 对纽约联储研究结果的批评并非对美联储独立性的攻击。",
+          "url": "https://wallstreetcn.com/livenews/3056759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "特朗普支持的天然气项目令竞争对手因风险而战栗",
@@ -369,7 +464,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
@@ -380,8 +475,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 05时37分]"
         },
         {
           "title": "英国前王子安德鲁因涉及爱泼斯坦案被捕，如何看待此事？还有哪些涉案「大人物」可能被实质影响？",
@@ -391,8 +486,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 05时37分]"
+        },
+        {
+          "title": "速滑男团偷家荷兰,创历史摘铜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 05时37分]"
         },
         {
           "title": "最近想看一些投资入门的经典书籍，有没有推荐？",
@@ -408,17 +514,6 @@
           "time_info": "[00时56分 ~ 04时36分]"
         },
         {
-          "title": "速滑男团偷家荷兰,创历史摘铜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 04时36分]"
-        },
-        {
           "title": "谷爱凌：我想改变历史",
           "url": "https://www.douyin.com/hot/2405731",
           "source": "抖音",
@@ -428,8 +523,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 05时37分]"
         },
         {
           "title": "加拿大能源股因油价而飙升，有望创2008年以来首次历史新高",
@@ -442,6 +537,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时53分]"
+        },
+        {
+          "title": "加拿大股市能源指数突破2008年所创收盘历史最高位。",
+          "url": "https://wallstreetcn.com/livenews/3056771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "迪尔农机收涨12%，创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3056770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "约翰迪尔/迪尔农机（DE）涨超11%，报662.37美元，创盘中历史新高、市值大约1800亿美元。 迪尔公司高管称，联合收割机目前的库存水平仍比峰值低约15%，大马力拖拉机的库存水平较2025年3月的峰值下降了逾10%。",
