@@ -1,1186 +1,193 @@
 {
-  "generated_at": "2026-02-19T23:52:15.137029+08:00",
-  "total_titles_processed": 1772,
+  "generated_at": "2026-02-20T00:56:19.080262+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 86,
+      "match_count": 10,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
           "url": "https://www.cls.cn/detail/2291375",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时06分 ~ 23时52分]"
-        },
-        {
-          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
-          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时24分 ~ 21时11分]"
-        },
-        {
-          "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2007370042841462456",
-          "source": "知乎",
-          "ranks": [
-            11,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
-          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 16时49分]"
-        },
-        {
-          "title": "再次连任日本首相的高市早苗，啥背景？",
-          "url": "https://news.ifeng.com/c/8qqh0pKi2AT",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时59分]"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时54分 ~ 17时51分]"
-        },
-        {
-          "title": "高市早苗2.0在隐忧中起步",
-          "url": "https://news.ifeng.com/c/8qqYUDjCbGq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "美国总统特朗普：和平委员会成员在捐款方面非常慷慨。",
-          "url": "https://flash.jin10.com/detail/20260219224254310800",
-          "source": "金十数据",
-          "ranks": [
-            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "00时56分"
         },
         {
-          "title": "特朗普称伊朗必须与美国达成“有意义的协议”",
-          "url": "https://wallstreetcn.com/livenews/3056683",
+          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3056702",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "马斯克官宣Grok4.2公测版上线",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3Grok4.2%E5%85%AC%E6%B5%8B%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "00时56分"
         },
         {
-          "title": "美国总统特朗普：加沙局势非常复杂。",
-          "url": "https://flash.jin10.com/detail/20260219223828467800",
+          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
+          "url": "https://flash.jin10.com/detail/20260220001608477800",
           "source": "金十数据",
           "ranks": [
-            4
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普：联合国潜力巨大但未充分发挥，美国将提供资金并加强监督",
+          "url": "https://flash.jin10.com/detail/20260220001430719800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普政府计划取消“混合身份家庭”的住房补贴",
+          "url": "https://wallstreetcn.com/livenews/3056700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普称对台军售要跟中国商量",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E8%A6%81%E8%B7%9F%E4%B8%AD%E5%9B%BD%E5%95%86%E9%87%8F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普支持的天然气项目令竞争对手因风险而战栗",
+          "url": "https://wallstreetcn.com/livenews/3056692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普声称，他的和平委员会将“监督”联合国",
+          "url": "https://wallstreetcn.com/livenews/3056690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
         },
         {
           "title": "特朗普：如果没有和伊朗达成协议，将会发生糟糕的事情",
           "url": "https://flash.jin10.com/detail/20260219233551357800",
           "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美国总统特朗普：我才不在乎诺贝尔奖。",
-          "url": "https://wallstreetcn.com/livenews/3056680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
-          "url": "https://news.ifeng.com/c/8qraTXTgXgI",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "美国总统特朗普：在美国大选中我只想要美国人投票。",
-          "url": "https://flash.jin10.com/detail/20260219202807714800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美国总统特朗普：挪威将主办一场关于“和平委员会”的活动。",
-          "url": "https://wallstreetcn.com/livenews/3056679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
-          "url": "https://wallstreetcn.com/livenews/3056442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 04时42分]"
-        },
-        {
-          "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
-          "url": "https://flash.jin10.com/detail/20260219061414903800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时33分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-19）",
-          "url": "https://flash.jin10.com/detail/20260219174052852800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时45分]"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
-          "url": "https://flash.jin10.com/detail/20260219024754983800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时52分]"
-        },
-        {
-          "title": "英国阻止特朗普使用英国的基地打击伊朗。（泰晤士报）",
-          "url": "https://wallstreetcn.com/livenews/3056653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 23时52分]"
-        },
-        {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3056582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 17时51分]"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
-          "url": "https://flash.jin10.com/detail/20260219024719874800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时52分]"
-        },
-        {
-          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
-          "url": "https://flash.jin10.com/detail/20260219181201454800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时40分]"
-        },
-        {
-          "title": "美国总统特朗普：英国首相斯塔默在就迪戈加西亚签署百年租约一事上犯下了重大错误。",
-          "url": "https://flash.jin10.com/detail/20260219024624113800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时52分]"
-        },
-        {
-          "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
-          "url": "https://flash.jin10.com/detail/20260219024600016800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时52分]"
-        },
-        {
-          "title": "美国总统特朗普：我一直告诉英国首相斯塔默，就国家而言，租约毫无用处。",
-          "url": "https://flash.jin10.com/detail/20260219024522146800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时52分]"
-        },
-        {
-          "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
-          "url": "https://flash.jin10.com/detail/20260219024513181800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时52分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
-          "url": "https://wallstreetcn.com/livenews/3056449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时42分]"
-        },
-        {
-          "title": "美国总统特朗普：英国首相斯塔默无论如何都不应失去对迪戈加西亚的控制，尤其是通过一项充其量只是脆弱的百年租约来实现。",
-          "url": "https://flash.jin10.com/detail/20260219024506455800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时52分]"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗不与我达成一份协议，美国可能就需要英属迪戈加西亚岛（Diego Garcia）。 英国不应当放弃Diego Garcia，否则将是英国势衰的体现。",
-          "url": "https://wallstreetcn.com/livenews/3056447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时42分]"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普随时准备介入华盛顿特区的供水危机。",
-          "url": "https://flash.jin10.com/detail/20260219024439079800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时52分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
-          "url": "https://wallstreetcn.com/livenews/3056445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时42分]"
-        },
-        {
-          "title": "美国白宫：外交是美国总统特朗普的首选方案。",
-          "url": "https://flash.jin10.com/detail/20260219024156843800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时52分]"
-        },
-        {
-          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
-          "url": "https://wallstreetcn.com/livenews/3056538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 12时54分]"
-        },
-        {
-          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3056537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 12时54分]"
-        },
-        {
-          "title": "路透调查：三分之二的日本企业对日本首相高市早苗的财政纪律表示担忧。",
-          "url": "https://flash.jin10.com/detail/20260219070102769800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "00时56分"
         },
         {
-          "title": "美国总统特朗普：必须解决黎巴嫩的问题。 联合国为支持加沙而募集20亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056678",
+          "title": "特朗普称伊朗必须与美国达成“有意义的协议”",
+          "url": "https://wallstreetcn.com/livenews/3056683",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
-          "url": "https://flash.jin10.com/detail/20260219070013382800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "马斯克表示，发现存在一个需要修复的漏洞，所以“X”大概会推迟到本周末发布新版本。（此前，马斯克宣布可以更新应用，以使用“为你推荐”功能）",
-          "url": "https://flash.jin10.com/detail/20260219132615256800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "美国总统特朗普：必须与伊朗达成一份具有实质性意义的协议。 伊朗不可以拥有核武器。 我们与伊朗还需付出努力。 或许十天能了解中东和平状况。 认为哈马斯会放弃武装，否则他们将遭到严厉袭击。",
-          "url": "https://wallstreetcn.com/livenews/3056674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美国总统特朗普在“和平委员会”召开的首次会议上发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260219223603423800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
-          "url": "https://wallstreetcn.com/livenews/3056519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "特朗普政府扩大了移民与海关执法局拘留合法难民的权力。",
-          "url": "https://flash.jin10.com/detail/20260219184006351800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "特朗普称，挪威已同意主办和平委员会活动",
-          "url": "https://flash.jin10.com/detail/20260219232627238800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "特朗普：英国签迪戈加西亚百年租约是“大错”，若有必要美军将动用该基地",
-          "url": "https://flash.jin10.com/detail/20260219025643641800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "特朗普称加沙地带有“小火苗” 哈马斯将会放下武器",
-          "url": "https://flash.jin10.com/detail/20260219232428917800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美国总统特朗普：越南非常棒。",
-          "url": "https://wallstreetcn.com/livenews/3056669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "13位美国司法部长就终止能源和基础设施项目资金一事起诉特朗普政府。",
-          "url": "https://flash.jin10.com/detail/20260219045300437800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美国总统特朗普：和平委员会将监督联合国。",
-          "url": "https://flash.jin10.com/detail/20260219232201749800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "市场消息：美国法官推翻移民上诉委员会支持特朗普政府大规模拘留政策的裁决。",
-          "url": "https://flash.jin10.com/detail/20260219093138689800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "美国总统特朗普：将确保联合国具有可行性。",
-          "url": "https://flash.jin10.com/detail/20260219232150771800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美媒：特朗普的和平委员会将承诺50亿美元用于重建加沙",
-          "url": "https://flash.jin10.com/detail/20260219044932847800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "据英国金融时报：据知情人士透露，摩根大通正在洽谈为特朗普的“和平委员会”提供银行服务。",
-          "url": "https://flash.jin10.com/detail/20260219130438457800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "美国总统特朗普：联合国确实拥有巨大的潜力。",
-          "url": "https://flash.jin10.com/detail/20260219232103100800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "据华尔街日报：美国总统特朗普的和平委员会将承诺50亿美元用于重建加沙。",
-          "url": "https://flash.jin10.com/detail/20260219044503887800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美国高级官员：特朗普的国家安全顾问今天在白宫战情室会议上讨论了伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260219053215762800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "美国总统特朗普：美国将为和平委员会出资100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260219231948694800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美国总统特朗普：我们可以关照大西洋。",
-          "url": "https://wallstreetcn.com/livenews/3056475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美国总统特朗普：是伊朗加入我们、共同完成各项努力的时候了。",
-          "url": "https://flash.jin10.com/detail/20260219231927514800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗必须达成协议，否则将发生糟糕的事情。",
-          "url": "https://flash.jin10.com/detail/20260219231852587800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美国总统特朗普：我将在国情咨文中谈到经济问题。",
-          "url": "https://flash.jin10.com/detail/20260219043351935800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美国内政部长：天然气为美国家庭和工业提供动力。当生产增加时，公用事业账单就会减少。总统特朗普正在带来真正的成果，降低家庭开支。这就是美国能源主导的实际体现。",
-          "url": "https://flash.jin10.com/detail/20260219091602708800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "特朗普称俄乌冲突难以解决",
-          "url": "https://flash.jin10.com/detail/20260219231831770800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "高市早苗：希望日本央行与政府密切合作，以持久实现通胀目标",
-          "url": "https://flash.jin10.com/detail/20260218235340774800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "美国总统特朗普：（正在白宫旧址上拔地而起的）将是“有史以来最宏伟的宴会厅”——完全由美国爱国者捐助者出资，美国纳税人零成本！",
-          "url": "https://flash.jin10.com/detail/20260219052431658800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "特朗普称：若英国对迪戈加西亚岛“失去控制”，将影响盟友地位",
-          "url": "https://wallstreetcn.com/livenews/3056471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美国总统特朗普：联合国人道主义援助办公室正筹集20亿美元用于支持加沙。",
-          "url": "https://flash.jin10.com/detail/20260219231537395800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
-          "url": "https://wallstreetcn.com/livenews/3056416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
-          "url": "https://flash.jin10.com/detail/20260218234329184800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "美国总统特朗普：国际足联将帮助为加沙的足球相关项目筹集7500万美元。",
-          "url": "https://flash.jin10.com/detail/20260219231532294800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://flash.jin10.com/detail/20260219140818011800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "美国总统特朗普表示他不在乎诺贝尔奖。",
-          "url": "https://flash.jin10.com/detail/20260219231505260800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美国总统特朗普兜售股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3056468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美国总统特朗普：挪威已同意主办和平委员会活动。",
-          "url": "https://flash.jin10.com/detail/20260219231331547800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
-          "url": "https://flash.jin10.com/detail/20260218233358175800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "美国总统特朗普：全世界都在等着哈马斯，它是唯一阻碍我们前进的因素。",
-          "url": "https://flash.jin10.com/detail/20260219231311773800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美国总统特朗普声称：将在国情咨文中谈论经济形势。",
-          "url": "https://wallstreetcn.com/livenews/3056466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美国总统特朗普：必须解决与黎巴嫩的问题。",
-          "url": "https://flash.jin10.com/detail/20260219231300377800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "日本时事通讯社民调显示，对日本首相高市早苗内阁的支持率上升了2.8个百分点，达到63.8%。",
-          "url": "https://flash.jin10.com/detail/20260219140345667800",
-          "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "美国总统特朗普：我认为没有必要派士兵去加沙作战。",
-          "url": "https://flash.jin10.com/detail/20260219231156454800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "第二届高市早苗内阁正式成立",
-          "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E5%B1%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%85%E9%98%81%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "加州就终止能源中心资金起诉特朗普",
-          "url": "https://flash.jin10.com/detail/20260219084435962800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "马斯克：“Ask Grok”功能尚未在4.20 版本中上线，应该会在一两天内上线。",
-          "url": "https://flash.jin10.com/detail/20260219155031833800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        },
-        {
-          "title": "美国总统特朗普：加沙不再是激进主义和恐怖主义的温床。",
-          "url": "https://flash.jin10.com/detail/20260219231149143800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "00时56分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 14,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "徐梦桃夺冠成就历史第一人",
-          "url": "https://www.toutiao.com/trending/7607668536118345769/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 07时33分]"
-        },
-        {
-          "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            17,
-            18,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时06分 ~ 12时54分]"
-        },
         {
           "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
           "url": "https://www.cls.cn/detail/2291363",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            9,
-            10,
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时54分 ~ 23时52分]"
-        },
-        {
-          "title": "速滑男团偷家荷兰,创历史摘铜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            19,
-            22,
-            23,
-            25,
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时06分 ~ 23时52分]"
-        },
-        {
-          "title": "谷爱凌：我想改变历史",
-          "url": "https://www.douyin.com/hot/2405731",
-          "source": "抖音",
-          "ranks": [
-            30,
-            26,
-            28,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时49分 ~ 22时51分]"
-        },
-        {
-          "title": "韩国首尔综指收涨3.09%，报5677.25点，盘中一度触及历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3056586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 17时51分]"
+          "appearance_count": 1,
+          "time_info": "00时56分"
         },
         {
           "title": "英国前王子安德鲁因涉及爱泼斯坦案被捕，如何看待此事？还有哪些涉案「大人物」可能被实质影响？",
           "url": "https://www.zhihu.com/question/2007885873979613928",
           "source": "知乎",
           "ranks": [
-            15,
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时50分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "00时56分"
         },
         {
-          "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
-          "url": "https://wallstreetcn.com/livenews/3056536",
+          "title": "加拿大能源股因油价而飙升，有望创2008年以来首次历史新高",
+          "url": "https://wallstreetcn.com/livenews/3056699",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 12时54分]"
-        },
-        {
-          "title": "英国股市创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3056405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "欧洲股市创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3056404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "新西兰联储主席布雷曼：家庭消费开始增加，但与历史模式相比，增长相对疲弱。",
-          "url": "https://flash.jin10.com/detail/20260219033646340800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "Klarna股价暴跌18%，创历史最大跌幅。",
-          "url": "https://flash.jin10.com/detail/20260219223121460800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "澳大利亚S&P/ASX200指数一度上涨1.24%，报9,118.30点，触及历史新高。",
-          "url": "https://flash.jin10.com/detail/20260219092413180800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "深度解读镖人原著故事",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E9%95%96%E4%BA%BA%E5%8E%9F%E8%91%97%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "对于旅行摄影爱好者来说，全画幅相机真的比半画幅更有优势吗？",
-          "url": "https://www.zhihu.com/question/2001250829206840654",
-          "source": "知乎",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "最近想看一些投资入门的经典书籍，有没有推荐？",
+          "url": "https://www.zhihu.com/question/1915852736622231876",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "约翰迪尔/迪尔农机（DE）涨超11%，报662.37美元，创盘中历史新高、市值大约1800亿美元。 迪尔公司高管称，联合收割机目前的库存水平仍比峰值低约15%，大马力拖拉机的库存水平较2025年3月的峰值下降了逾10%。",
+          "url": "https://wallstreetcn.com/livenews/3056695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "速滑男团偷家荷兰,创历史摘铜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
         }
       ]
     }
