@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T15:01:07.014954+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-02-20T15:53:38.724459+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 15时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 15时53分]"
         },
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时53分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时53分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -56,29 +56,6 @@
           "time_info": "[10时12分 ~ 12时49分]"
         },
         {
-          "title": "特朗普赞叹中国仪仗队",
-          "url": "https://www.toutiao.com/trending/7607775152985899059/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时01分]"
-        },
-        {
-          "title": "日本首相高市早苗：将在不依赖赤字融资债券的情况下，暂停征收食品和饮料的销售税两年。将在初夏前拟定销售税减税的中期方案，并迅速提交税制改革法案。",
-          "url": "https://wallstreetcn.com/livenews/3056868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时01分]"
-        },
-        {
           "title": "特朗普开了前所未有的一个会",
           "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
           "source": "凤凰网",
@@ -86,8 +63,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 15时01分]"
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 15时53分]"
+        },
+        {
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 15时53分]"
+        },
+        {
+          "title": "特朗普赞叹中国仪仗队",
+          "url": "https://www.toutiao.com/trending/7607775152985899059/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 15时53分]"
+        },
+        {
+          "title": "日本首相高市早苗：将在不依赖赤字融资债券的情况下，暂停征收食品和饮料的销售税两年。将在初夏前拟定销售税减税的中期方案，并迅速提交税制改革法案。",
+          "url": "https://wallstreetcn.com/livenews/3056868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时53分]"
         },
         {
           "title": "日本首相高市早苗：日本将设立自己的“外国投资委员会（CFIUS）”，以审查外国投资。 日本将加快重启核反应堆，也将推进新一代反应堆的开发与安装具体计划。",
@@ -95,11 +108,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时53分]"
         },
         {
           "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
@@ -115,26 +129,15 @@
           "time_info": "[02时54分 ~ 04时36分]"
         },
         {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
           "source": "凤凰网",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 15时01分]"
-        },
-        {
-          "title": "微软(MSFT.O) CEO发文称，很高兴能将Grok 4.1 Fast添加到我们的多模型产品系列中。马斯克随后转发了该贴并表示，Grok4.20版本即将发布。",
-          "url": "https://flash.jin10.com/detail/20260220144504457800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时53分]"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -165,6 +168,30 @@
           "time_info": "[01时53分 ~ 04时36分]"
         },
         {
+          "title": "特朗普称奥巴马涉外星人言论泄密",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时53分]"
+        },
+        {
+          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时53分]"
+        },
+        {
           "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
           "url": "https://flash.jin10.com/detail/20260220021610767800",
           "source": "金十数据",
@@ -178,15 +205,17 @@
           "time_info": "[02时54分 ~ 04时36分]"
         },
         {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
+          "title": "日本首相高市早苗：日本国内的投资严重不足，将通过多年预算和长期基金推动大胆投资。 不会推行破坏市场信心的鲁莽财政政策。 将稳步降低债务与GDP比率，恢复财政可持续性；将维护市场信任，并将明确具体的财政指标。 将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。 政府将于下月开始为17个战略领域推出投资路线图。",
+          "url": "https://wallstreetcn.com/livenews/3056864",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            5,
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时53分]"
         },
         {
           "title": "美国总统特朗普：钢铁关税改变了游戏规则。",
@@ -237,6 +266,18 @@
           "time_info": "[13时55分 ~ 15时01分]"
         },
         {
+          "title": "微软(MSFT.O) CEO发文称，很高兴能将Grok 4.1 Fast添加到我们的多模型产品系列中。马斯克随后转发了该贴并表示，Grok4.20版本即将发布。",
+          "url": "https://flash.jin10.com/detail/20260220144504457800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时53分]"
+        },
+        {
           "title": "美国总统特朗普：（建议人们）出门购买戴尔电脑。",
           "url": "https://wallstreetcn.com/livenews/3056808",
           "source": "华尔街见闻-快讯",
@@ -249,16 +290,17 @@
           "time_info": "[06时35分 ~ 07时33分]"
         },
         {
-          "title": "日本首相高市早苗：日本国内的投资严重不足，将通过多年预算和长期基金推动大胆投资。 不会推行破坏市场信心的鲁莽财政政策。 将稳步降低债务与GDP比率，恢复财政可持续性；将维护市场信任，并将明确具体的财政指标。 将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。 政府将于下月开始为17个战略领域推出投资路线图。",
-          "url": "https://wallstreetcn.com/livenews/3056864",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
+          "url": "https://wallstreetcn.com/articles/3765884",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            8
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时01分]"
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 15时53分]"
         },
         {
           "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
@@ -309,40 +351,6 @@
           "time_info": "[04时36分 ~ 05时37分]"
         },
         {
-          "title": "特朗普称奥巴马涉外星人言论泄密",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 15时01分]"
-        },
-        {
-          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 15时01分]"
-        },
-        {
-          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
-          "url": "https://wallstreetcn.com/articles/3765884",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 15时01分]"
-        },
-        {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
           "url": "https://flash.jin10.com/detail/20260220021119038800",
           "source": "金十数据",
@@ -367,6 +375,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 04时36分]"
+        },
+        {
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时53分]"
         },
         {
           "title": "美国总统特朗普：无论如何都会就伊朗问题达成协议。如果未能达成伊朗协议，将会发生非常糟糕的事情。",
@@ -517,18 +538,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时37分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时01分]"
         },
         {
           "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
@@ -1368,8 +1377,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 15时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 15时53分]"
         },
         {
           "title": "英国前王子安德鲁因涉及爱泼斯坦案被捕，如何看待此事？还有哪些涉案「大人物」可能被实质影响？",
@@ -1414,11 +1423,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时53分]"
         },
         {
           "title": "加拿大能源股因油价而飙升，有望创2008年以来首次历史新高",
@@ -1489,7 +1499,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
