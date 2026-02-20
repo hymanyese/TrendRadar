@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T21:03:37.584077+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2026-02-20T22:41:21.663353+08:00",
+  "total_titles_processed": 1729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 120,
+      "match_count": 127,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时13分 ~ 21时03分]"
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 22时41分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -66,17 +66,6 @@
           "time_info": "[12时49分 ~ 21时03分]"
         },
         {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 18时40分]"
-        },
-        {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
           "url": "https://wallstreetcn.com/articles/3765884",
           "source": "华尔街见闻",
@@ -87,8 +76,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时49分 ~ 21时03分]"
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 22时41分]"
+        },
+        {
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时12分 ~ 18时40分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -162,7 +162,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -189,6 +189,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "白宫经济委员会主任哈塞特：特朗普经济增速接近3%，表现相当不错。 今日的GDP数据“有些令人失望”。 （谈自己对纽约联储的反应）可能有点情绪化了。",
+          "url": "https://wallstreetcn.com/livenews/3056970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "高市早苗宣称仍致力于缔结“和平条约”，克宫：不太可能",
+          "url": "https://news.ifeng.com/c/8qu7w9eaQzf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-20）",
@@ -240,6 +262,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时49分 ~ 15时53分]"
+        },
+        {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 22时41分]"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -398,18 +433,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 21时03分]"
         },
         {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
@@ -692,6 +715,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
+          "url": "https://news.ifeng.com/c/8qu28qoqKpX",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "特朗普称在“可负担性”问题上赢得了胜利",
           "url": "https://flash.jin10.com/detail/20260220064356197800",
           "source": "金十数据",
@@ -712,6 +746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "巴西总统卢拉欲就毒品贩运和稀土问题与美国总统特朗普展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260220221548754800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "特朗普：那些假新闻喋喋不休地谈论“负担能力，负担能力”。你们注意到了吗？过去两周你们没听到哪个词？“负担能力”。因为我赢了。我赢得了负担能力。",
@@ -857,6 +902,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "知情人士：特朗普考虑对伊朗实施“有限规模”的初步打击",
+          "url": "https://www.cls.cn/detail/2291926",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默选择弗吉尼亚州民主党州长斯潘伯格下周就特朗普的国情咨文发表回应。",
           "url": "https://flash.jin10.com/detail/20260220042215481800",
           "source": "金十数据",
@@ -888,6 +944,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
+          "url": "https://www.zhihu.com/question/2005421279541483469",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -1031,6 +1098,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "美国第四季度经济增长大幅放缓 特朗普提前给市场打预防针",
+          "url": "https://flash.jin10.com/detail/20260220214756529800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "美国总统特朗普谈及最高法院对其关税政策的审判，宣称：我一直都在等待（判决结果）。",
@@ -1541,7 +1619,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
