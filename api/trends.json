@@ -1,600 +1,99 @@
 {
-  "generated_at": "2026-02-20T23:39:44.048838+08:00",
-  "total_titles_processed": 1821,
+  "generated_at": "2026-02-21T00:42:23.231610+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 140,
+      "match_count": 29,
       "titles": [
         {
-          "title": "日本高市早苗内阁集体辞职",
-          "url": "https://www.cls.cn/detail/2291375",
-          "source": "财联社热门",
+          "title": "美国最高法院裁定特朗普关税政策违法",
+          "url": "https://news.ifeng.com/c/8quMh516WKs",
+          "source": "凤凰网",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时56分 ~ 19时35分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "特朗普政府全球关税被推翻！美最高法院裁定政策违法",
+          "url": "https://wallstreetcn.com/articles/3765909",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
           "url": "https://wallstreetcn.com/articles/3765876",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时13分 ~ 23时39分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
-          "title": "特朗普：高市早苗“特别喜欢我”",
-          "url": "https://news.ifeng.com/c/8qtWnv1ctZC",
-          "source": "凤凰网",
+          "title": "美国加州州长Newsom：呼吁退还关税。 （特朗普政府）必须立即退还这部分资金。",
+          "url": "https://wallstreetcn.com/livenews/3057017",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 18时40分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
-          "title": "特朗普开了前所未有的一个会",
-          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 18时40分]"
-        },
-        {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 21时03分]"
-        },
-        {
-          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
-          "url": "https://wallstreetcn.com/articles/3765884",
+          "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 23时39分]"
-        },
-        {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 18时40分]"
-        },
-        {
-          "title": "特朗普被曝考虑军事打击伊朗，细节披露",
-          "url": "https://news.ifeng.com/c/8qt5v4Gxsqm",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 12时49分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时55分 ~ 19时35分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
           "title": "高市早苗宣称仍致力于缔结“和平条约”，克宫：不太可能",
           "url": "https://news.ifeng.com/c/8qu7w9eaQzf",
           "source": "凤凰网",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 23时39分]"
-        },
-        {
-          "title": "特朗普赞叹中国仪仗队",
-          "url": "https://www.toutiao.com/trending/7607775152985899059/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 15时53分]"
-        },
-        {
-          "title": "日本首相高市早苗：将在不依赖赤字融资债券的情况下，暂停征收食品和饮料的销售税两年。将在初夏前拟定销售税减税的中期方案，并迅速提交税制改革法案。",
-          "url": "https://wallstreetcn.com/livenews/3056868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 16时43分]"
-        },
-        {
-          "title": "日本首相高市早苗：日本将设立自己的“外国投资委员会（CFIUS）”，以审查外国投资。 日本将加快重启核反应堆，也将推进新一代反应堆的开发与安装具体计划。",
-          "url": "https://wallstreetcn.com/livenews/3056867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 16时43分]"
-        },
-        {
-          "title": "最高法院驳回关税政策，特朗普的经济议程遭遇重大挫折",
-          "url": "https://flash.jin10.com/detail/20260220232119045800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "特朗普再次呼吁降低利率。特朗普表示，政府关门至少让美国损失了两个百分点的GDP。",
-          "url": "https://wallstreetcn.com/livenews/3056941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时03分"
+          "time_info": "00时42分"
         },
         {
-          "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
-          "url": "https://wallstreetcn.com/livenews/3056738",
+          "title": "美国总统特朗普：必须针对（这些）法院采取某些行动。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3057014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            5,
-            15
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时36分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
+          "url": "https://www.zhihu.com/question/2005421279541483469",
           "source": "知乎",
           "ranks": [
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时40分 ~ 23时39分]"
-        },
-        {
-          "title": "宾夕法尼亚大学沃顿商学院预算模型称，如果最高法院裁定特朗普败诉，美国可能面临超过1750亿美元的关税退税。",
-          "url": "https://flash.jin10.com/detail/20260220190226119800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "白宫经济委员会主任哈塞特：特朗普经济增速接近3%，表现相当不错。 今日的GDP数据“有些令人失望”。 （谈自己对纽约联储的反应）可能有点情绪化了。",
-          "url": "https://wallstreetcn.com/livenews/3056970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：关税政策被最高法院驳回之后，敦促特朗普政府对美国民众退税。",
-          "url": "https://wallstreetcn.com/livenews/3056996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-20）",
-          "url": "https://flash.jin10.com/detail/20260220185800297800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
-          "url": "https://wallstreetcn.com/livenews/3056724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 04时36分]"
-        },
-        {
-          "title": "特朗普主题ETF管理公司收购MAGA基金",
-          "url": "https://wallstreetcn.com/livenews/3056722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 04时36分]"
-        },
-        {
-          "title": "特朗普称奥巴马涉外星人言论泄密",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 15时53分]"
-        },
-        {
-          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 15时53分]"
-        },
-        {
-          "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
-          "url": "https://flash.jin10.com/detail/20260220021610767800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时36分]"
-        },
-        {
-          "title": "日本首相高市早苗：日本国内的投资严重不足，将通过多年预算和长期基金推动大胆投资。 不会推行破坏市场信心的鲁莽财政政策。 将稳步降低债务与GDP比率，恢复财政可持续性；将维护市场信任，并将明确具体的财政指标。 将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。 政府将于下月开始为17个战略领域推出投资路线图。",
-          "url": "https://wallstreetcn.com/livenews/3056864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时53分]"
-        },
-        {
-          "title": "美国总统特朗普：钢铁关税改变了游戏规则。",
-          "url": "https://wallstreetcn.com/livenews/3056780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普宣称：美国已在“生活成本”战役中获胜",
-          "url": "https://wallstreetcn.com/livenews/3056824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 10时13分]"
-        },
-        {
-          "title": "特朗普将因乌克兰问题对俄罗斯所实施的制裁延长一年",
-          "url": "https://flash.jin10.com/detail/20260220030505008800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时36分]"
-        },
-        {
-          "title": "日本首相高市早苗：希望有关修宪的讨论能够加速推进，并且公众讨论能够更加深入。",
-          "url": "https://flash.jin10.com/detail/20260220135106100800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时01分]"
-        },
-        {
-          "title": "微软(MSFT.O) CEO发文称，很高兴能将Grok 4.1 Fast添加到我们的多模型产品系列中。马斯克随后转发了该贴并表示，Grok4.20版本即将发布。",
-          "url": "https://flash.jin10.com/detail/20260220144504457800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时53分]"
-        },
-        {
-          "title": "美国总统特朗普：（建议人们）出门购买戴尔电脑。",
-          "url": "https://wallstreetcn.com/livenews/3056808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时33分]"
-        },
-        {
-          "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
-          "url": "https://flash.jin10.com/detail/20260220034308215800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时37分]"
-        },
-        {
-          "title": "日本首相高市早苗：将审查外国人土地收购规则。",
-          "url": "https://flash.jin10.com/detail/20260220134650460800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时01分]"
-        },
-        {
-          "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
-          "url": "https://wallstreetcn.com/livenews/3056754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时37分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
-          "url": "https://flash.jin10.com/detail/20260220034222845800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时37分]"
-        },
-        {
-          "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
-          "url": "https://flash.jin10.com/detail/20260220021119038800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时36分]"
-        },
-        {
-          "title": "美国总统特朗普：我很乐意让俄罗斯参与（伊朗谈判的）外交事务。",
-          "url": "https://flash.jin10.com/detail/20260220021016649800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时36分]"
-        },
-        {
-          "title": "美国总统特朗普：无论如何都会就伊朗问题达成协议。如果未能达成伊朗协议，将会发生非常糟糕的事情。",
-          "url": "https://flash.jin10.com/detail/20260220020836905800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时36分]"
-        },
-        {
-          "title": "特朗普签署“和平委员会”财政决议 誓言要整顿加沙",
-          "url": "https://flash.jin10.com/detail/20260220011157033800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 03时42分]"
-        },
-        {
-          "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
-          "url": "https://wallstreetcn.com/livenews/3056840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时55分]"
-        },
-        {
-          "title": "美国总统特朗普：“和平委员会”可能会有助于化解世界上的“（那些）热点”问题。",
-          "url": "https://wallstreetcn.com/livenews/3056716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 03时42分]"
-        },
-        {
-          "title": "美国美术委员会一致批准白宫宴会厅项目，特朗普发文感谢",
-          "url": "https://flash.jin10.com/detail/20260220015619763800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时36分]"
-        },
-        {
-          "title": "特朗普会见印尼总统普拉博沃，签经济安全协议",
-          "url": "https://wallstreetcn.com/livenews/3056728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时36分]"
-        },
-        {
-          "title": "美国一机场将更名为特朗普国际机场",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%9C%BA%E5%9C%BA%E5%B0%86%E6%9B%B4%E5%90%8D%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 15时01分]"
-        },
-        {
-          "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
-          "url": "https://flash.jin10.com/detail/20260220034153793800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时37分]"
-        },
-        {
-          "title": "日本首相高市早苗：将设立由首相主持的国家情报委员会，以整合各机构的情报收集工作。",
-          "url": "https://flash.jin10.com/detail/20260220134002939800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时01分]"
+          "time_info": "00时42分"
         },
         {
           "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
@@ -604,380 +103,63 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 23时39分]"
-        },
-        {
-          "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
-          "url": "https://flash.jin10.com/detail/20260220034121662800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时37分]"
-        },
-        {
-          "title": "美国总统特朗普赞赏商务部长卢特尼克。",
-          "url": "https://wallstreetcn.com/livenews/3056803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时33分]"
-        },
-        {
-          "title": "美国总统特朗普：并不知道外星人是否真实存在。",
-          "url": "https://flash.jin10.com/detail/20260220034054475800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时37分]"
-        },
-        {
-          "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
-          "url": "https://wallstreetcn.com/livenews/3056746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时37分]"
-        },
-        {
-          "title": "美国总统特朗普：（美国的）石油和天然气正在增产。 从委内瑞拉攫取的5000万桶石油正被运往得州休斯敦。",
-          "url": "https://wallstreetcn.com/livenews/3056800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时33分]"
-        },
-        {
-          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
-          "url": "https://www.zhihu.com/question/2005421279541483469",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 23时39分]"
-        },
-        {
-          "title": "特朗普：奥巴马涉外星人言论泄密",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%B6%89%E5%A4%96%E6%98%9F%E4%BA%BA%E8%A8%80%E8%AE%BA%E6%B3%84%E5%AF%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
-        },
-        {
-          "title": "特朗普称奥巴马涉外星人言论泄密",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%B6%89%E5%A4%96%E6%98%9F%E4%BA%BA%E8%A8%80%E8%AE%BA%E6%B3%84%E5%AF%86%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
-        },
-        {
-          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
-          "url": "https://wallstreetcn.com/livenews/3056702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
-        },
-        {
-          "title": "特朗普政府计划取消“混合身份家庭”的住房补贴",
-          "url": "https://wallstreetcn.com/livenews/3056700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
-        },
-        {
-          "title": "特朗普称对台军售要跟中国商量",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E8%A6%81%E8%B7%9F%E4%B8%AD%E5%9B%BD%E5%95%86%E9%87%8F%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
-        },
-        {
-          "title": "美最高法院裁定特朗普关税违法",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E8%BF%9D%E6%B3%95",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时39分"
+          "time_info": "00时42分"
         },
         {
-          "title": "据AXIOS网站：特朗普在加沙问题和平委员会首次会议上承诺投入100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260220045423529800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "特朗普：美委能源合作进展“非常顺利”。",
-          "url": "https://flash.jin10.com/detail/20260220055356682800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "美国最高法院裁定特朗普政府大规模关税政策违法",
-          "url": "https://wallstreetcn.com/livenews/3056991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "特朗普称在“可负担性”问题上赢得了胜利",
-          "url": "https://flash.jin10.com/detail/20260220064356197800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "日本首相高市早苗：我们将于今年修订日本的“安保三文件”。将加快审查日本的国防装备出口规则，以加强威慑力和日本的国防工业基础。",
-          "url": "https://flash.jin10.com/detail/20260220133915454800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "巴西总统卢拉欲就毒品贩运和稀土问题与美国总统特朗普展开谈判。",
-          "url": "https://flash.jin10.com/detail/20260220221548754800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "在美国最高法院裁定反对美国总统特朗普的全球关税后，美国玩具公司股价上涨。",
-          "url": "https://flash.jin10.com/detail/20260220231634690800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "美国最高法院推翻特朗普关税",
-          "url": "https://wallstreetcn.com/livenews/3056989",
+          "title": "专业人士提醒：要警惕输掉关税官司的特朗普政府可能会通过其他法规重新征收关税",
+          "url": "https://wallstreetcn.com/livenews/3057012",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "特朗普：那些假新闻喋喋不休地谈论“负担能力，负担能力”。你们注意到了吗？过去两周你们没听到哪个词？“负担能力”。因为我赢了。我赢得了负担能力。",
-          "url": "https://flash.jin10.com/detail/20260220055314185800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "00时42分"
         },
         {
-          "title": "日本首相高市早苗：旨在全方位进一步加强与美国的联系。",
-          "url": "https://flash.jin10.com/detail/20260220133514879800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "十天内对伊朗动手？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
-          "url": "https://wallstreetcn.com/articles/3765876",
+          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
+          "url": "https://wallstreetcn.com/articles/3765884",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "00时42分"
         },
         {
-          "title": "特朗普：5000万桶委内瑞拉石油正运往休斯敦。",
-          "url": "https://flash.jin10.com/detail/20260220055154408800",
-          "source": "金十数据",
+          "title": "欧洲议会贸易委员会将评估“美国最高法院判决特朗普关税政策违法”的影响。",
+          "url": "https://wallstreetcn.com/livenews/3057011",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "00时42分"
         },
         {
-          "title": "特朗普批评健康保险公司，并表示有关其股票上涨的报道让他感到不满。",
-          "url": "https://flash.jin10.com/detail/20260220064053130800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "日本首相高市早苗：若可能，最早将于下月访美。",
-          "url": "https://flash.jin10.com/detail/20260220133505793800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "特朗普：石油和天然气产量上升了。",
-          "url": "https://flash.jin10.com/detail/20260220055058967800",
-          "source": "金十数据",
+          "title": "耐克转跌，美国最高法院宣判特朗普关税政策违法之后，一度上涨4.4%。",
+          "url": "https://wallstreetcn.com/livenews/3057009",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "00时42分"
         },
         {
-          "title": "日本首相高市早苗：日本正面临自二战以来最复杂、最严峻的安全环境。",
-          "url": "https://flash.jin10.com/detail/20260220133141472800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "特朗普：计划在必要时利用冗长辩论来推动“拯救美国法案”在美国国会获得通过。",
-          "url": "https://flash.jin10.com/detail/20260220042253309800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "特朗普：我们的政策是让外包更艰难。",
-          "url": "https://flash.jin10.com/detail/20260220055037928800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "特朗普称将启动解密UFO与外星生命相关政府文件",
-          "url": "https://flash.jin10.com/detail/20260220093510098800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美国众议院民主党成员们要求调查总统特朗普家族的加密货币公司。 向特朗普的财政部长贝森特询问有关World Liberty财务问题。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3056763",
+          "title": "委内瑞拉内政部长Diosdado Cabello通过国家电视台宣布：（被特朗普派兵强行掳走的）总统马杜罗夫妇首次获得委领事探访。",
+          "url": "https://wallstreetcn.com/livenews/3057008",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美国总统特朗普谈及住房经适性，宣称：我们已经解决了这个问题。 正在终结华尔街公司购买住房这个“骗局”。",
-          "url": "https://wallstreetcn.com/livenews/3056813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "00时42分"
         },
         {
           "title": "知情人士：特朗普考虑对伊朗实施“有限规模”的初步打击",
@@ -988,62 +170,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "00时42分"
         },
         {
-          "title": "美国参议院少数党领袖舒默选择弗吉尼亚州民主党州长斯潘伯格下周就特朗普的国情咨文发表回应。",
-          "url": "https://flash.jin10.com/detail/20260220042215481800",
-          "source": "金十数据",
+          "title": "加拿大负责美国贸易事务的部长Leblanc：美国最高法院针对特朗普关税政策的判决结果表明，特朗普针对加拿大的关税立场是不公平的。",
+          "url": "https://wallstreetcn.com/livenews/3057006",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "00时42分"
         },
         {
-          "title": "特朗普：股市行情好，对大家都有好处。股市已经突破5万点了。",
-          "url": "https://flash.jin10.com/detail/20260220055003496800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "日本首相高市早苗：将在初夏前拟定销售税减税的中期方案，并迅速提交税制改革法案。",
-          "url": "https://flash.jin10.com/detail/20260220132935462800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
-          "url": "https://flash.jin10.com/detail/20260220001608477800",
-          "source": "金十数据",
+          "title": "标普500指数涨幅重新扩大至0.6%，纳斯达克综合指数日内涨幅达1.0%，报22910.12点。 “特朗普关税输家指数”一度从118.50点附近狂飙至122.02点，日内整体涨幅瞬间扩大至超过3.19%，目前涨幅不足1.20%。 现货白银日内涨幅达5.0%，报82.45美元/盎司。 纽约银日内涨幅达6.0%，报82.3美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3057005",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "日本首相高市早苗：将在不依赖赤字融资债券的情况下，暂停征收食品和饮料的销售税两年。",
-          "url": "https://flash.jin10.com/detail/20260220132914591800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "00时42分"
         },
         {
           "title": "美最高法院裁定特朗普关税违法",
@@ -1052,770 +201,147 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "特朗普：联合国潜力巨大但未充分发挥，美国将提供资金并加强监督",
-          "url": "https://flash.jin10.com/detail/20260220001430719800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "特朗普：法案将要求所有选民出示选民身份证，所有选民必须出示公民身份证明才能投票，并规定不接受邮寄选票。",
-          "url": "https://flash.jin10.com/detail/20260220041552319800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "特朗普：无论如何，我们都会通过《拯救美国法案》。",
-          "url": "https://flash.jin10.com/detail/20260220041454236800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "特朗普称奥巴马外星人言论泄密",
-          "url": "https://flash.jin10.com/detail/20260220093035383800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美国白宫经济顾问委员会代理主席Yared：投资推动供给侧增长。 无法从美国纽约联储的研究中推断出（总统特朗普挑起的）关税由谁承担。 对纽约联储研究结果的批评并非对美联储独立性的攻击。",
-          "url": "https://wallstreetcn.com/livenews/3056759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "特朗普称在考虑有限打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3056976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "日本首相高市早苗：将加速开发南鸟岛附近海底稀土资源。",
-          "url": "https://flash.jin10.com/detail/20260220131836639800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "特朗普称赞私营部门的就业增长。",
-          "url": "https://flash.jin10.com/detail/20260220054443140800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "日本首相高市早苗：也将推进新一代反应堆的开发与安装具体计划。",
-          "url": "https://flash.jin10.com/detail/20260220131700709800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "在最高法院裁定反对美国总统特朗普的全球关税后，iShares MSCI韩国ETF延续涨势，最新上涨3.2%。",
-          "url": "https://flash.jin10.com/detail/20260220231123679800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "美国总统特朗普赞赏私人行业的就业增长。",
-          "url": "https://wallstreetcn.com/livenews/3056792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "特朗普：诺华首席执行官告诉我，关税让他建立了新工厂。",
-          "url": "https://flash.jin10.com/detail/20260220054348601800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "日本首相高市早苗：日本将加快重启核反应堆。",
-          "url": "https://flash.jin10.com/detail/20260220131636098800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "美国第四季度经济增长大幅放缓 特朗普提前给市场打预防针",
-          "url": "https://flash.jin10.com/detail/20260220214756529800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "美国总统特朗普谈及最高法院对其关税政策的审判，宣称：我一直都在等待（判决结果）。",
-          "url": "https://wallstreetcn.com/livenews/3056791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "日本首相高市早苗：日本将设立自己的“外国投资委员会（CFIUS）”，以审查外国投资。",
-          "url": "https://flash.jin10.com/detail/20260220131630918800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "美国总统特朗普：共和党必须在选民身份和邮寄选票问题上取胜。",
-          "url": "https://wallstreetcn.com/livenews/3056790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "特朗普：如果没有关税，这个国家现在会陷入非常大的麻烦。",
-          "url": "https://flash.jin10.com/detail/20260220054228167800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "伊朗致联合国秘书长的信：特朗普的言论表明“存在军事侵略的真正风险”。",
-          "url": "https://flash.jin10.com/detail/20260220062210840800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "市场消息：特朗普将于美东时间周五上午9:30（北京时间22:30）会见各州州长。",
-          "url": "https://flash.jin10.com/detail/20260220112236461800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "美国总统特朗普宣称：2月18日会见了诺华制药（NOVN.SW）的CEO。 对方说，美国关税迫使他修建新的工厂。",
-          "url": "https://wallstreetcn.com/livenews/3056789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "特朗普抱怨最高法院迟迟未能就关税问题作出裁决。",
-          "url": "https://flash.jin10.com/detail/20260220054210982800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "美佛州棕榈滩机场将更名为“唐纳德·特朗普国际机场”",
-          "url": "https://flash.jin10.com/detail/20260220112156259800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "日本首相高市早苗：政府将于下月开始为17个战略领域推出投资路线图。",
-          "url": "https://flash.jin10.com/detail/20260220131303233800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "00时42分"
         },
         {
           "title": "美最高法院裁定特朗普关税违法",
-          "url": "https://flash.jin10.com/detail/20260220230812627800",
-          "source": "金十数据",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E8%BF%9D%E6%B3%95",
+          "source": "百度热搜",
           "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "美国总统特朗普声称，加拿大已经“盘剥”美国多年，现在不行了。",
-          "url": "https://wallstreetcn.com/livenews/3056788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "00时42分"
         },
         {
-          "title": "日本首相高市早苗：将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。",
-          "url": "https://flash.jin10.com/detail/20260220131214875800",
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "特朗普称最高法院关税裁决可耻",
+          "url": "https://wallstreetcn.com/livenews/3057003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "美国最高法院就特朗普的贸易案作出裁决后，现货黄金短线波幅较大，一度从5063.96美元/盎司下跌73美元至4990.9美元/盎司。现回升至5052美元/盎司，较低点回升约61美元。分析师James Athey指出，市场似乎不太确定该如何应对裁决。最大的问题原本在于关税退款事宜。",
+          "url": "https://flash.jin10.com/detail/20260220235013955800",
           "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "特朗普称最高法院关税裁决可耻",
+          "url": "https://flash.jin10.com/detail/20260220234122834800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "美国总统特朗普：最高法院裁决为“耻辱”。 我有关税备选方案。",
+          "url": "https://wallstreetcn.com/livenews/3056999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "美最高法院裁定特朗普关税违法",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E8%BF%9D%E6%B3%95%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren：关税政策被最高法院驳回之后，敦促特朗普政府对美国民众退税。",
+          "url": "https://wallstreetcn.com/livenews/3056996",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "00时42分"
         },
         {
-          "title": "欧洲汽车股飙升，此前美国最高法院驳回了特朗普的关税政策。",
-          "url": "https://flash.jin10.com/detail/20260220230723968800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "特朗普支持的天然气项目令竞争对手因风险而战栗",
-          "url": "https://wallstreetcn.com/livenews/3056692",
+          "title": "美国最高法院裁定特朗普政府大规模关税政策违法",
+          "url": "https://wallstreetcn.com/livenews/3056991",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "【报道：特朗普考虑有限打击逼伊朗达成协议】据美国《华尔街日报》报道，当地时间2月19日，美国总统特朗普正考虑对伊朗实施一次“有限规模”的军事打击，以迫使其接受美国提出的核协议要求。知情人士称，若获授权，该行动可能在数日内展开，目标将锁定伊朗“少数军事或政府设施”，意在施压，而非立即发动全面战争——相关方案被视为分阶段行动的第一步。报道指出，如果伊朗仍拒绝按特朗普要求停止铀浓缩活动，美国可能进一步扩大打击范围，甚至“不排除以动摇伊朗政权为目标”。 (CCTV国际时讯)",
-          "url": "https://wallstreetcn.com/livenews/3056787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "特朗普：周三会见了诺华制药首席执行官。",
-          "url": "https://flash.jin10.com/detail/20260220054056197800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "日本首相高市早苗：充分考虑财政纪律的政策定义了高市内阁的“负责任、积极主动的财政政策”。",
-          "url": "https://flash.jin10.com/detail/20260220131203809800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "美国总统特朗普兜售自己针对钢铁和钢铁衍生产品挑起的关税。 赞赏Coosa Steel Corp.。",
-          "url": "https://wallstreetcn.com/livenews/3056785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "特朗普：加拿大多年来一直在剥削我们，但这种情况不会再发生了。",
-          "url": "https://flash.jin10.com/detail/20260220053830055800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "日本首相高市早苗：将维护市场信任，并将明确具体的财政指标。",
-          "url": "https://flash.jin10.com/detail/20260220131115777800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "特朗普声称，他的和平委员会将“监督”联合国",
-          "url": "https://wallstreetcn.com/livenews/3056690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "日本首相高市早苗：将稳步降低债务与GDP比率，恢复财政可持续性。",
-          "url": "https://flash.jin10.com/detail/20260220131100941800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "白宫经济委员会主任哈塞特：特朗普经济增速接近3%，表现相当不错。 今日的GDP数据“有些令人失望”。 （谈自己对纽约联储的反应）可能有点情绪化了。 资本支出热潮已经持续了三个季度。",
-          "url": "https://wallstreetcn.com/livenews/3056970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "特朗普主持加沙“和平委员会”首次会议 美国承诺出资100亿",
-          "url": "https://flash.jin10.com/detail/20260220061036766800",
-          "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "00时42分"
         },
         {
-          "title": "美伊局势继续升级，特朗普下“最后通牒”，10到15天内是协议最后期限，更有美媒爆料其考虑有限打击以逼伊朗达成协议；今日晚些时候，美国将公布美联储青睐的12月PCE通胀数据，当前，黄金价格在5000美元附近徘徊，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260220110918759800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "日本首相高市早苗：不会推行破坏市场信心的鲁莽财政政策。",
-          "url": "https://flash.jin10.com/detail/20260220131017001800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "日本首相高市早苗：将通过多年预算和长期基金推动大胆投资。",
-          "url": "https://flash.jin10.com/detail/20260220131000438800",
-          "source": "金十数据",
+          "title": "美国最高法院推翻特朗普关税",
+          "url": "https://wallstreetcn.com/livenews/3056989",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "00时42分"
         },
         {
-          "title": "最高法院以6比3的投票结果裁定特朗普的贸易税政策不合法。欧股走强，英国富时100指数日内涨幅达1.00%。西班牙IBEX35指数日内涨幅达1.00%。法国CAC40指数向上触及8500点，日内涨1.31%。",
-          "url": "https://flash.jin10.com/detail/20260220230506391800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "特朗普：如果没有和伊朗达成协议，将会发生糟糕的事情",
-          "url": "https://flash.jin10.com/detail/20260219233551357800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "美媒：特朗普权衡实施初步有限打击 以迫使伊朗达成核协议",
-          "url": "https://flash.jin10.com/detail/20260220052552825800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "美国总统特朗普：将指示战争部长及其他相关部门和机构，开始识别和公布与外星人及外星生命相关的政府档案。",
-          "url": "https://flash.jin10.com/detail/20260220091509051800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "日本首相高市早苗：必要支出将尽可能通过初始预算来资助。",
-          "url": "https://flash.jin10.com/detail/20260220130932771800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "特朗普称伊朗必须与美国达成“有意义的协议”",
-          "url": "https://wallstreetcn.com/livenews/3056683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "美国总统特朗普：“和平委员会”将牵头处理加沙事务。",
-          "url": "https://flash.jin10.com/detail/20260220005449110800",
+          "title": "在美国最高法院裁定反对美国总统特朗普的全球关税后，内存芯片制造商的股价上涨。闪迪上涨2.1%，西部数据上涨1%。",
+          "url": "https://flash.jin10.com/detail/20260220233325578800",
           "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "特朗普：钢铁关税改变了游戏规则。",
-          "url": "https://flash.jin10.com/detail/20260220052040360800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "日本首相高市早苗：日本国内的投资严重不足。",
-          "url": "https://flash.jin10.com/detail/20260220130924936800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "00时42分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "谷爱凌：我想改变历史",
-          "url": "https://www.douyin.com/hot/2405731",
-          "source": "抖音",
-          "ranks": [
-            27,
-            24,
-            28,
-            21,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时52分 ~ 10时13分]"
-        },
-        {
-          "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
-          "url": "https://www.cls.cn/detail/2291363",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时56分 ~ 21时03分]"
-        },
-        {
-          "title": "英国前王子安德鲁因涉及爱泼斯坦案被捕，如何看待此事？还有哪些涉案「大人物」可能被实质影响？",
-          "url": "https://www.zhihu.com/question/2007885873979613928",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 10时13分]"
-        },
-        {
-          "title": "最近想看一些投资入门的经典书籍，有没有推荐？",
-          "url": "https://www.zhihu.com/question/1915852736622231876",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            19,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "速滑男团偷家荷兰,创历史摘铜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350761&amp;topic_name=%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%81%B7%E5%AE%B6%E8%8D%B7%E5%85%B0%2C%E5%88%9B%E5%8E%86%E5%8F%B2%E6%91%98%E9%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "为什么民众对历史的热情只增不减、历史专业的就业却依然困难？是否存在供需错配问题？",
-          "url": "https://www.zhihu.com/question/1994088415940068907",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 19时35分]"
-        },
-        {
-          "title": "突破2.7万车次 港珠澳大桥春节单日车流量创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3056865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时53分]"
-        },
-        {
-          "title": "加拿大能源股因油价而飙升，有望创2008年以来首次历史新高",
-          "url": "https://wallstreetcn.com/livenews/3056699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
-        },
-        {
-          "title": "加拿大股市能源指数突破2008年所创收盘历史最高位。",
-          "url": "https://wallstreetcn.com/livenews/3056771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "迪尔农机收涨12%，创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3056770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "三星电子股价飙至历史新高！报道：公司HBM4芯片拟大幅提价30%",
-          "url": "https://wallstreetcn.com/articles/3765873",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "历史上有哪些小人物干成了惊天动地的事情?",
-          "url": "https://www.zhihu.com/question/1913645275823740559",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "新加坡基准股指最高上涨0.5%，报5,024.57点，触及历史新高。",
-          "url": "https://flash.jin10.com/detail/20260220112613158800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "约翰迪尔/迪尔农机（DE）涨超11%，报662.37美元，创盘中历史新高、市值大约1800亿美元。 迪尔公司高管称，联合收割机目前的库存水平仍比峰值低约15%，大马力拖拉机的库存水平较2025年3月的峰值下降了逾10%。",
-          "url": "https://wallstreetcn.com/livenews/3056695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "富时新加坡海峡时报指数收涨0.3%，报5017.60点，收于历史新高。",
-          "url": "https://flash.jin10.com/detail/20260220172541172800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
       "match_count": 1,
       "titles": [
         {
-          "title": "乌克兰一位高级国防官员表示，至少有三个中东国家以及一个亚洲国家对可能的购买行为表示感兴趣。",
-          "url": "https://flash.jin10.com/detail/20260220140057042800",
-          "source": "金十数据",
+          "title": "历史上南方（江南）的经济是如何发展起来的？",
+          "url": "https://www.zhihu.com/question/49352503",
+          "source": "知乎",
           "ranks": [
-            22
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时01分"
+          "time_info": "00时42分"
         }
       ]
     }
