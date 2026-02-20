@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T18:40:26.340912+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-02-20T19:35:06.317589+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 117,
+      "match_count": 119,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时56分 ~ 18时40分]"
+          "appearance_count": 23,
+          "time_info": "[00时56分 ~ 19时35分]"
         },
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时13分 ~ 18时40分]"
+          "appearance_count": 9,
+          "time_info": "[10时13分 ~ 19时35分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -55,6 +55,17 @@
           "time_info": "[10时12分 ~ 18时40分]"
         },
         {
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 19时35分]"
+        },
+        {
           "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
           "url": "https://news.ifeng.com/c/8qtImyHlk4E",
           "source": "凤凰网",
@@ -66,15 +77,18 @@
           "time_info": "[10时12分 ~ 18时40分]"
         },
         {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
+          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
+          "url": "https://wallstreetcn.com/articles/3765884",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9,
+            8,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时49分 ~ 18时40分]"
+          "time_info": "[12时49分 ~ 19时35分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -89,18 +103,17 @@
           "time_info": "[10时12分 ~ 12时49分]"
         },
         {
-          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
-          "url": "https://wallstreetcn.com/articles/3765884",
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             9,
-            8,
-            7,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时49分 ~ 18时40分]"
+          "time_info": "[13时55分 ~ 19时35分]"
         },
         {
           "title": "特朗普赞叹中国仪仗队",
@@ -143,19 +156,6 @@
           "time_info": "[13时55分 ~ 16时43分]"
         },
         {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 18时40分]"
-        },
-        {
           "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
           "url": "https://wallstreetcn.com/livenews/3056738",
           "source": "华尔街见闻-快讯",
@@ -167,6 +167,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 04时36分]"
+        },
+        {
+          "title": "宾夕法尼亚大学沃顿商学院预算模型称，如果最高法院裁定特朗普败诉，美国可能面临超过1750亿美元的关税退税。",
+          "url": "https://flash.jin10.com/detail/20260220190226119800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-20）",
+          "url": "https://flash.jin10.com/detail/20260220185800297800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
@@ -469,6 +491,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 04时36分]"
+        },
+        {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 19时35分]"
         },
         {
           "title": "美国一机场将更名为特朗普国际机场",
@@ -933,17 +966,6 @@
           "time_info": "13时55分"
         },
         {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
           "title": "特朗普称赞私营部门的就业增长。",
           "url": "https://flash.jin10.com/detail/20260220054443140800",
           "source": "金十数据",
@@ -1391,8 +1413,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 18时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时56分 ~ 19时35分]"
         },
         {
           "title": "英国前王子安德鲁因涉及爱泼斯坦案被捕，如何看待此事？还有哪些涉案「大人物」可能被实质影响？",
@@ -1432,6 +1454,17 @@
           "time_info": "[00时56分 ~ 07时33分]"
         },
         {
+          "title": "为什么民众对历史的热情只增不减、历史专业的就业却依然困难？是否存在供需错配问题？",
+          "url": "https://www.zhihu.com/question/1994088415940068907",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 19时35分]"
+        },
+        {
           "title": "突破2.7万车次 港珠澳大桥春节单日车流量创历史新高",
           "url": "https://wallstreetcn.com/livenews/3056865",
           "source": "华尔街见闻-快讯",
@@ -1443,17 +1476,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时55分 ~ 15时53分]"
-        },
-        {
-          "title": "为什么民众对历史的热情只增不减、历史专业的就业却依然困难？是否存在供需错配问题？",
-          "url": "https://www.zhihu.com/question/1994088415940068907",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 18时40分]"
         },
         {
           "title": "加拿大能源股因油价而飙升，有望创2008年以来首次历史新高",
@@ -1496,7 +1518,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1529,7 +1551,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
