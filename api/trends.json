@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T22:41:21.663353+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2026-02-20T23:39:44.048838+08:00",
+  "total_titles_processed": 1821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 127,
+      "match_count": 140,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时13分 ~ 22时41分]"
+          "appearance_count": 12,
+          "time_info": "[10时13分 ~ 23时39分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时49分 ~ 22时41分]"
+          "appearance_count": 11,
+          "time_info": "[12时49分 ~ 23时39分]"
         },
         {
           "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
@@ -114,6 +114,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时55分 ~ 19时35分]"
+        },
+        {
+          "title": "高市早苗宣称仍致力于缔结“和平条约”，克宫：不太可能",
+          "url": "https://news.ifeng.com/c/8qu7w9eaQzf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时39分]"
         },
         {
           "title": "特朗普赞叹中国仪仗队",
@@ -156,6 +167,17 @@
           "time_info": "[13时55分 ~ 16时43分]"
         },
         {
+          "title": "最高法院驳回关税政策，特朗普的经济议程遭遇重大挫折",
+          "url": "https://flash.jin10.com/detail/20260220232119045800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "特朗普再次呼吁降低利率。特朗普表示，政府关门至少让美国损失了两个百分点的GDP。",
           "url": "https://wallstreetcn.com/livenews/3056941",
           "source": "华尔街见闻-快讯",
@@ -180,6 +202,19 @@
           "time_info": "[02时54分 ~ 04时36分]"
         },
         {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 23时39分]"
+        },
+        {
           "title": "宾夕法尼亚大学沃顿商学院预算模型称，如果最高法院裁定特朗普败诉，美国可能面临超过1750亿美元的关税退税。",
           "url": "https://flash.jin10.com/detail/20260220190226119800",
           "source": "金十数据",
@@ -197,20 +232,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
         {
-          "title": "高市早苗宣称仍致力于缔结“和平条约”，克宫：不太可能",
-          "url": "https://news.ifeng.com/c/8qu7w9eaQzf",
-          "source": "凤凰网",
+          "title": "美国参议院民主党成员Warren：关税政策被最高法院驳回之后，敦促特朗普政府对美国民众退税。",
+          "url": "https://wallstreetcn.com/livenews/3056996",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "23时39分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-20）",
@@ -262,19 +297,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时49分 ~ 15时53分]"
-        },
-        {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 22时41分]"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -575,6 +597,17 @@
           "time_info": "[13时55分 ~ 15时01分]"
         },
         {
+          "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
+          "url": "https://news.ifeng.com/c/8qu28qoqKpX",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时39分]"
+        },
+        {
           "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
           "url": "https://flash.jin10.com/detail/20260220034121662800",
           "source": "金十数据",
@@ -635,6 +668,18 @@
           "time_info": "[06时35分 ~ 07时33分]"
         },
         {
+          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
+          "url": "https://www.zhihu.com/question/2005421279541483469",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时39分]"
+        },
+        {
           "title": "特朗普：奥巴马涉外星人言论泄密",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%B6%89%E5%A4%96%E6%98%9F%E4%BA%BA%E8%A8%80%E8%AE%BA%E6%B3%84%E5%AF%86",
           "source": "百度热搜",
@@ -693,6 +738,17 @@
           "time_info": "[00时56分 ~ 02时54分]"
         },
         {
+          "title": "美最高法院裁定特朗普关税违法",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E8%BF%9D%E6%B3%95",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "据AXIOS网站：特朗普在加沙问题和平委员会首次会议上承诺投入100亿美元。",
           "url": "https://flash.jin10.com/detail/20260220045423529800",
           "source": "金十数据",
@@ -715,15 +771,15 @@
           "time_info": "06时35分"
         },
         {
-          "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
-          "url": "https://news.ifeng.com/c/8qu28qoqKpX",
-          "source": "凤凰网",
+          "title": "美国最高法院裁定特朗普政府大规模关税政策违法",
+          "url": "https://wallstreetcn.com/livenews/3056991",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "23时39分"
         },
         {
           "title": "特朗普称在“可负担性”问题上赢得了胜利",
@@ -754,9 +810,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
+        },
+        {
+          "title": "在美国最高法院裁定反对美国总统特朗普的全球关税后，美国玩具公司股价上涨。",
+          "url": "https://flash.jin10.com/detail/20260220231634690800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "美国最高法院推翻特朗普关税",
+          "url": "https://wallstreetcn.com/livenews/3056989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "特朗普：那些假新闻喋喋不休地谈论“负担能力，负担能力”。你们注意到了吗？过去两周你们没听到哪个词？“负担能力”。因为我赢了。我赢得了负担能力。",
@@ -908,7 +986,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -946,17 +1024,6 @@
           "time_info": "13时55分"
         },
         {
-          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
-          "url": "https://www.zhihu.com/question/2005421279541483469",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
           "url": "https://flash.jin10.com/detail/20260220001608477800",
           "source": "金十数据",
@@ -977,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "美最高法院裁定特朗普关税违法",
+          "url": "https://www.douyin.com/hot/2407242",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "特朗普：联合国潜力巨大但未充分发挥，美国将提供资金并加强监督",
@@ -1034,6 +1112,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "特朗普称在考虑有限打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3056976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "日本首相高市早苗：将加速开发南鸟岛附近海底稀土资源。",
           "url": "https://flash.jin10.com/detail/20260220131836639800",
           "source": "金十数据",
@@ -1065,6 +1154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "在最高法院裁定反对美国总统特朗普的全球关税后，iShares MSCI韩国ETF延续涨势，最新上涨3.2%。",
+          "url": "https://flash.jin10.com/detail/20260220231123679800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "美国总统特朗普赞赏私人行业的就业增长。",
@@ -1106,7 +1206,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1221,6 +1321,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "美最高法院裁定特朗普关税违法",
+          "url": "https://flash.jin10.com/detail/20260220230812627800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "美国总统特朗普声称，加拿大已经“盘剥”美国多年，现在不行了。",
           "url": "https://wallstreetcn.com/livenews/3056788",
           "source": "华尔街见闻-快讯",
@@ -1241,6 +1352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "欧洲汽车股飙升，此前美国最高法院驳回了特朗普的关税政策。",
+          "url": "https://flash.jin10.com/detail/20260220230723968800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "特朗普支持的天然气项目令竞争对手因风险而战栗",
@@ -1342,6 +1464,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "白宫经济委员会主任哈塞特：特朗普经济增速接近3%，表现相当不错。 今日的GDP数据“有些令人失望”。 （谈自己对纽约联储的反应）可能有点情绪化了。 资本支出热潮已经持续了三个季度。",
+          "url": "https://wallstreetcn.com/livenews/3056970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "特朗普主持加沙“和平委员会”首次会议 美国承诺出资100亿",
           "url": "https://flash.jin10.com/detail/20260220061036766800",
           "source": "金十数据",
@@ -1384,6 +1517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "最高法院以6比3的投票结果裁定特朗普的贸易税政策不合法。欧股走强，英国富时100指数日内涨幅达1.00%。西班牙IBEX35指数日内涨幅达1.00%。法国CAC40指数向上触及8500点，日内涨1.31%。",
+          "url": "https://flash.jin10.com/detail/20260220230506391800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "特朗普：如果没有和伊朗达成协议，将会发生糟糕的事情",
