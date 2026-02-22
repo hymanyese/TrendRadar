@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T21:46:04.609190+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-02-22T22:29:18.433954+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普的报复来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时24分 ~ 21时46分]"
+          "appearance_count": 16,
+          "time_info": "[10时24分 ~ 22时29分]"
         },
         {
           "title": "特朗普新加征关税加码至15%",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 21时46分]"
+          "appearance_count": 25,
+          "time_info": "[00时32分 ~ 22时29分]"
         },
         {
           "title": "泰国智库批特朗普关税政策：别人在搭桥，美国在筑墙",
@@ -79,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时51分 ~ 21时46分]"
+          "appearance_count": 11,
+          "time_info": "[12时51分 ~ 22时29分]"
         },
         {
           "title": "学者：特朗普或遭众叛亲离",
@@ -103,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 21时46分]"
+          "appearance_count": 25,
+          "time_info": "[00时32分 ~ 22时29分]"
         },
         {
           "title": "得知高院否决关税那一刻，特朗普“气炸了”，“破口大骂”",
@@ -161,8 +161,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[02时38分 ~ 21时46分]"
+          "appearance_count": 22,
+          "time_info": "[02时38分 ~ 22时29分]"
         },
         {
           "title": "印尼总统：（被问及美国最高法院对特朗普关税的裁决）已准备好应对所有可能性；呼吁尊重美国国内政治。",
@@ -197,8 +197,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时46分]"
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 22时29分]"
         },
         {
           "title": "特朗普批准美华盛顿特区灾难声明",
@@ -278,6 +278,23 @@
           "time_info": "[00时32分 ~ 07时27分]"
         },
         {
+          "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
+          "url": "https://wallstreetcn.com/livenews/3057250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            12,
+            15,
+            20,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 22时29分]"
+        },
+        {
           "title": "特朗普：C罗美国需要你",
           "url": "https://www.douyin.com/hot/2408278",
           "source": "抖音",
@@ -335,20 +352,16 @@
           "time_info": "[00时33分 ~ 02时38分]"
         },
         {
-          "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
-          "url": "https://wallstreetcn.com/livenews/3057250",
-          "source": "华尔街见闻-快讯",
+          "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
+          "url": "https://news.ifeng.com/c/8qxI3ju2UuK",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            5,
-            12,
-            15,
-            20,
-            21
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 22时29分]"
         },
         {
           "title": "特朗普开始报复了",
@@ -379,17 +392,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 14时52分]"
-        },
-        {
-          "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
-          "url": "https://news.ifeng.com/c/8qxI3ju2UuK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "高院否决，特朗普将被迫退税！华尔街“早就下注”，商务部长儿子甚至一度参与",
@@ -479,6 +481,17 @@
           "time_info": "[12时51分 ~ 16时36分]"
         },
         {
+          "title": "美州长向特朗普发账单，要求退回87亿美元关税",
+          "url": "https://news.ifeng.com/c/8qxUeFL6TqS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "据AXIOS网站：特朗普团队在与伊朗的谈判中展现出有限的灵活性。",
           "url": "https://flash.jin10.com/detail/20260222125635642800",
           "source": "金十数据",
@@ -491,6 +504,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时53分 ~ 16时36分]"
+        },
+        {
+          "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
+          "url": "https://wallstreetcn.com/livenews/3057262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 22时29分]"
         },
         {
           "title": "别为美最高法推翻特朗普关税高兴太早？华尔街预计市场反应或昙花一现",
@@ -519,6 +546,21 @@
           "time_info": "[15时37分 ~ 18时28分]"
         },
         {
+          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
+          "url": "https://wallstreetcn.com/livenews/3057256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            14,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 22时29分]"
+        },
+        {
           "title": "巴西总统卢拉：我与美国总统特朗普会晤的议程是贸易、移民和投资。",
           "url": "https://flash.jin10.com/detail/20260222124152678800",
           "source": "金十数据",
@@ -533,17 +575,15 @@
           "time_info": "[13时53分 ~ 16时36分]"
         },
         {
-          "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
-          "url": "https://wallstreetcn.com/livenews/3057262",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
+          "url": "https://www.cls.cn/detail/2292216",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            8,
-            9
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时46分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时29分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-22）",
@@ -610,20 +650,6 @@
           "time_info": "[13时53分 ~ 16时36分]"
         },
         {
-          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
-          "url": "https://wallstreetcn.com/livenews/3057256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 21时46分]"
-        },
-        {
           "title": "德国总理：将协调欧盟立场后赴美与特朗普讨论美关税政策",
           "url": "https://flash.jin10.com/detail/20260222084309762800",
           "source": "金十数据",
@@ -678,17 +704,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时51分 ~ 15时37分]"
-        },
-        {
-          "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
-          "url": "https://www.cls.cn/detail/2292216",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时46分]"
         },
         {
           "title": "“对等关税”被美国高院驳回，特朗普还有什么招？",
@@ -773,6 +788,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
+          "url": "https://flash.jin10.com/detail/20260222213944275800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         }
       ]
     },
@@ -860,8 +886,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 21时46分]"
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 22时29分]"
         },
         {
           "title": "5金4银6铜！中国冬奥军团刷新境外参赛历史最好成绩",
@@ -869,11 +895,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时29分]"
         },
         {
           "title": "长三角铁路春运返程客流增长，上海机场大年初四单日客流创历史新高",
