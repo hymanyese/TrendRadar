@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T04:53:38.008249+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-02-24T05:49:43.874061+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时49分]"
         },
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时49分]"
         },
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
@@ -38,19 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时53分]"
-        },
-        {
-          "title": "美国众议长约翰逊：国会山不可能将总统特朗普的关税写入法律。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3057636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 05时49分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -61,8 +50,43 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时49分]"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时49分]"
+        },
+        {
+          "title": "美国总统特朗普：如果不达成协议，伊朗来将面临极其糟糕的一天。我希望与伊朗达成协议，而不是发生战争。",
+          "url": "https://flash.jin10.com/detail/20260224051242405800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "美国总统特朗普：希望与伊朗达成协议，而不是开战。 我才是哪个决定是否发动战争的人。",
+          "url": "https://wallstreetcn.com/livenews/3057661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
@@ -76,19 +100,6 @@
           "time_info": "03时58分"
         },
         {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时53分]"
-        },
-        {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
           "url": "https://wallstreetcn.com/livenews/3057600",
           "source": "华尔街见闻-快讯",
@@ -100,6 +111,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 04时53分]"
+        },
+        {
+          "title": "美国众议长约翰逊：国会山不可能将总统特朗普的关税写入法律。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3057636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时49分]"
         },
         {
           "title": "德国10年期国债收益率跌约3个基点，特朗普关税带来的不确定性迫使投资者避险",
@@ -216,9 +239,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "据华尔街日报记者：五角大楼向特朗普总统表达了对卷入与伊朗的长期军事行动的担忧，并指出正在考虑的战争计划存在风险，包括美国及其盟国的人员伤亡、防空力量削弱以及军队不堪重负。",
+          "url": "https://flash.jin10.com/detail/20260224045821374800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "市场消息：特朗普正研究推出新的退休储蓄计划，可能在国情咨文中谈及退休储蓄计划。",
+          "url": "https://flash.jin10.com/detail/20260224045735002800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "美国民主党力推强制退款方案，此前最高法院判定特朗普关税违宪",
@@ -227,9 +272,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美国总统特朗普正在考虑新的退休储蓄计划。 特朗普料将在国情咨文中谈及退休计划。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3057647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "摩根士丹利：美国最高法院对特朗普关税政策的判决结果不至于在短期内改变赤字路径。 特朗普政府可能会挖空心思，从其他方面重新实施关税。 这将让投资者预计短期赤字路径“不至于发生实质性变化”。",
@@ -252,6 +308,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "市场消息：特朗普最近对全球加征了15%的关税，该关税将在150天后到期。届时，国会必须延长该关税。但据三位知情人士透露，一些资深共和党人私下表示，将不会有足够的票数来延长该关税。",
+          "url": "https://flash.jin10.com/detail/20260224044047321800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "美众议院议长：国会不太可能就特朗普关税的立法层面达成共识",
+          "url": "https://flash.jin10.com/detail/20260224043714344800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "短中期美债收益率至少跌4个基点，特朗普关税带来贸易不确定性风险",
+          "url": "https://wallstreetcn.com/livenews/3057637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "道指暴跌超600点，特朗普在周末上调全球关税——恐将让全球贸易重新陷入混乱",
@@ -277,11 +366,12 @@
           "ranks": [
             19,
             5,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 05时49分]"
         },
         {
           "title": "全球原油超级油轮长租成本飙升至超过9.2万美元/天，创历史新高",
