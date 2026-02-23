@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T22:50:52.547502+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-02-23T23:54:39.386291+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -78,6 +78,19 @@
           "time_info": "[00时33分 ~ 07时29分]"
         },
         {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 23时54分]"
+        },
+        {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
           "url": "https://www.cls.cn/detail/2292246",
           "source": "财联社热门",
@@ -102,17 +115,20 @@
           "time_info": "[13时00分 ~ 17时59分]"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            5,
-            2
+            14,
+            13,
+            12,
+            9,
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 22时50分]"
+          "appearance_count": 9,
+          "time_info": "[15时56分 ~ 23时54分]"
         },
         {
           "title": "特朗普的亲家、美驻法大使因“不当言论”被法国外交部召见",
@@ -143,22 +159,6 @@
           "time_info": "[00时33分 ~ 07时29分]"
         },
         {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            9,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时56分 ~ 22时50分]"
-        },
-        {
           "title": "连锁反应来了，印度打脸特朗普",
           "url": "https://news.ifeng.com/c/8qyEs3M9n4D",
           "source": "凤凰网",
@@ -184,6 +184,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时39分 ~ 07时29分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 23时54分]"
         },
         {
           "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
@@ -215,19 +229,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 07时29分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 22时50分]"
         },
         {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
@@ -271,7 +272,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -282,7 +283,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -304,7 +305,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -360,6 +361,18 @@
           "time_info": "[10时25分 ~ 14时11分]"
         },
         {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时54分]"
+        },
+        {
           "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
           "url": "https://www.cls.cn/detail/2292216",
           "source": "财联社热门",
@@ -395,6 +408,17 @@
           "time_info": "[14时11分 ~ 15时56分]"
         },
         {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时54分]"
+        },
+        {
           "title": "美媒：特朗普倾向未来几天对伊实施初步打击 未来数月可能发动更大规模攻击",
           "url": "https://flash.jin10.com/detail/20260223053731991800",
           "source": "金十数据",
@@ -405,18 +429,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时50分]"
         },
         {
           "title": "据纽约时报：知情人士透露，特朗普已告知顾问，如果外交手段或初步的针对性打击未能迫使伊朗屈服，将考虑在未来数月内发动更大规模攻击。",
@@ -484,9 +496,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
+        },
+        {
+          "title": "道指暴跌超600点，特朗普在周末上调全球关税——恐将让全球贸易重新陷入混乱",
+          "url": "https://wallstreetcn.com/livenews/3057558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "市场消息：在美国最高法院推翻特朗普征收关税的决定后，印度正研究此举对与美国双边贸易协定的影响。",
@@ -506,18 +529,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -657,7 +669,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "历史第一人！谷爱凌冬奥刷爆纪录",
@@ -692,11 +704,12 @@
             26,
             14,
             17,
-            20
+            20,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时00分 ~ 22时50分]"
+          "appearance_count": 11,
+          "time_info": "[13时00分 ~ 23时54分]"
         },
         {
           "title": "全球资金推动拉丁美洲股市创下历史性强劲开局",
@@ -749,6 +762,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜周一（2月23日），南非富时/JSE非洲领先40可交易指数收涨1.75%，逼近11.7万点，逼近1月29日所创11.8万点上方的收盘历史最高位和盘中所创历史最高位。",
+          "url": "https://wallstreetcn.com/livenews/3057552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "超16万人次，上海口岸单日查验出入境人员数量创历史新高",
