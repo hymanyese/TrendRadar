@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T07:29:23.880901+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-02-23T10:25:45.946209+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
           "url": "https://news.ifeng.com/c/8qxAuTEgS6q",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "美州长向特朗普发账单，要求退回87亿美元关税",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -48,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
@@ -59,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -82,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "一名试图闯入特朗普海湖庄园的男子被枪击身亡",
@@ -160,6 +161,17 @@
           "time_info": "[00时33分 ~ 05时27分]"
         },
         {
+          "title": "连锁反应来了，印度打脸特朗普",
+          "url": "https://news.ifeng.com/c/8qyEs3M9n4D",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
           "url": "https://flash.jin10.com/detail/20260222213944275800",
           "source": "金十数据",
@@ -219,15 +231,70 @@
           "time_info": "[00时33分 ~ 01时28分]"
         },
         {
+          "title": "韩国产业部长：芯片不受美国总统特朗普最新关税的影响。",
+          "url": "https://flash.jin10.com/detail/20260223085113118800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "行业机构：澳大利亚将维持特朗普牛肉关税豁免待遇",
+          "url": "https://flash.jin10.com/detail/20260223084819049800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "连锁反应来了 印度打脸特朗普",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "格陵兰岛自治政府总理拒绝特朗普拟派医院船提议",
           "url": "https://flash.jin10.com/detail/20260223062904190800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "男子持枪闯入特朗普住所被击毙",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "美国官员警告说，如果特朗普下令打击伊朗，伊朗可能会通过真主党或基地组织等代理人对美国在海外的目标进行报复。",
+          "url": "https://flash.jin10.com/detail/20260223081143529800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
