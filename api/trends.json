@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T16:53:52.357606+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-02-25T17:57:49.652821+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 94,
+      "match_count": 97,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时16分 ~ 16时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时16分 ~ 17时57分]"
         },
         {
           "title": "紧急“灭火”？高市早苗表态不搞“核共享”",
@@ -91,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 17时57分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -198,6 +198,17 @@
           "time_info": "10时27分"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
           "url": "https://flash.jin10.com/detail/20260225041158111800",
           "source": "金十数据",
@@ -264,6 +275,17 @@
           "time_info": "10时27分"
         },
         {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3058357",
           "source": "华尔街见闻-快讯",
@@ -319,6 +341,20 @@
           "time_info": "10时27分"
         },
         {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 17时57分]"
+        },
+        {
           "title": "特朗普：伊朗正研制很快打到美国的导弹",
           "url": "https://www.toutiao.com/trending/7610645788871364115/",
           "source": "今日头条",
@@ -356,19 +392,6 @@
           "time_info": "[12时54分 ~ 14时03分]"
         },
         {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 16时53分]"
-        },
-        {
           "title": "多数美国人称特朗普愈发反复无常",
           "url": "https://www.toutiao.com/trending/7609682757731647524/",
           "source": "今日头条",
@@ -393,6 +416,18 @@
           "time_info": "[00时04分 ~ 01时16分]"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时57分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
           "url": "https://wallstreetcn.com/livenews/3058232",
           "source": "华尔街见闻-快讯",
@@ -414,6 +449,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时53分 ~ 16时53分]"
+        },
+        {
+          "title": "特朗普试戴美冰球队的奥运金牌",
+          "url": "https://www.toutiao.com/trending/7610318993089400356/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 17时57分]"
         },
         {
           "title": "白宫：特朗普对伊朗首选方案是外交",
@@ -516,6 +563,17 @@
           "time_info": "12时54分"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
           "url": "https://flash.jin10.com/detail/20260225032658019800",
           "source": "金十数据",
@@ -613,17 +671,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
-        },
-        {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "美国民主党参议员沃伦：我会问任何特朗普提名的美联储人选，他们与特朗普在哪些方面存在分歧。",
@@ -742,7 +789,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -778,17 +825,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
-        },
-        {
-          "title": "特朗普试戴美冰球队的奥运金牌",
-          "url": "https://www.toutiao.com/trending/7610318993089400356/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "美国总统特朗普：低利率将解决住房危机。",
@@ -1069,7 +1105,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "节后继续领跑！微盘股指数创历史新高，融资客动向扫描，这些股已获重仓",
@@ -1085,26 +1121,27 @@
           "time_info": "[00时03分 ~ 07时33分]"
         },
         {
-          "title": "欧洲斯托克600指数创历史新高，现上涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3058736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "欧洲斯托克600指数短暂触及历史新高，最新上涨0.4%。",
           "url": "https://flash.jin10.com/detail/20260225163028819800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "欧洲斯托克600指数创历史新高，现上涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3058736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时57分]"
         },
         {
           "title": "杨幂演历史剧",
@@ -1123,11 +1160,23 @@
           "url": "https://www.cls.cn/detail/2294269",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 17时57分]"
+        },
+        {
+          "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "数据显示：CME美国国债期货未平仓合约数量激增至3630万手的历史新高。",
@@ -1180,6 +1229,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
+          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 17时57分]"
+        },
+        {
           "title": "你有没有因为一款游戏，突然对某个历史时期或文化产生了浓厚的兴趣？",
           "url": "https://www.zhihu.com/question/2009084578942432762",
           "source": "知乎",
@@ -1190,17 +1250,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时03分 ~ 01时16分]"
-        },
-        {
-          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
-          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 16时53分]"
         }
       ]
     }
