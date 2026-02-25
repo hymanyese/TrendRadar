@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T06:36:48.441877+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-02-26T07:31:05.224953+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时31分]"
         },
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时31分]"
         },
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -38,19 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时36分]"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：我们未对最高法院推翻特朗普部分关税政策的裁决发表意见。",
-          "url": "https://flash.jin10.com/detail/20260226062305910800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时31分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -63,6 +52,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时38分]"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：我们未对最高法院推翻特朗普部分关税政策的裁决发表意见。",
+          "url": "https://flash.jin10.com/detail/20260226062305910800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时31分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -129,7 +130,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -140,7 +141,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -214,7 +215,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
@@ -225,7 +226,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         },
