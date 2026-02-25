@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:53:59.533273+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-02-25T16:53:52.357606+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -42,17 +42,6 @@
           "time_info": "[00时03分 ~ 07时33分]"
         },
         {
-          "title": "紧急“灭火”？高市早苗表态不搞“核共享”",
-          "url": "https://news.ifeng.com/c/8r0SBhLm4iv",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时46分]"
-        },
-        {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
           "url": "https://wallstreetcn.com/articles/3766081",
           "source": "华尔街见闻",
@@ -64,8 +53,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 15时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 16时53分]"
+        },
+        {
+          "title": "紧急“灭火”？高市早苗表态不搞“核共享”",
+          "url": "https://news.ifeng.com/c/8r0SBhLm4iv",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时46分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -77,8 +77,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 16时53分]"
+        },
+        {
+          "title": "火箭发射新方案！马斯克构想“月球弹弓” 包含两大核心基础设施",
+          "url": "https://www.cls.cn/detail/2294211",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 16时53分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -106,20 +120,6 @@
           "time_info": "[10时27分 ~ 14时03分]"
         },
         {
-          "title": "火箭发射新方案！马斯克构想“月球弹弓” 包含两大核心基础设施",
-          "url": "https://www.cls.cn/detail/2294211",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 15时53分]"
-        },
-        {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -129,6 +129,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 14时03分]"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时53分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时53分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -141,17 +163,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
-          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -185,17 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
@@ -361,11 +361,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 16时53分]"
         },
         {
           "title": "多数美国人称特朗普愈发反复无常",
@@ -402,6 +403,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 01时16分]"
+        },
+        {
+          "title": "高市早苗承认发放近千万日元礼品，引发在野党反弹",
+          "url": "https://news.ifeng.com/c/8r240KO6lg5",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时53分]"
         },
         {
           "title": "白宫：特朗普对伊朗首选方案是外交",
@@ -504,17 +516,6 @@
           "time_info": "12时54分"
         },
         {
-          "title": "高市早苗承认发放近千万日元礼品，引发在野党反弹",
-          "url": "https://news.ifeng.com/c/8r240KO6lg5",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
           "url": "https://flash.jin10.com/detail/20260225032658019800",
           "source": "金十数据",
@@ -614,6 +615,17 @@
           "time_info": "14时03分"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "美国民主党参议员沃伦：我会问任何特朗普提名的美联储人选，他们与特朗普在哪些方面存在分歧。",
           "url": "https://flash.jin10.com/detail/20260224233707666800",
           "source": "金十数据",
@@ -664,7 +676,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -724,6 +736,17 @@
           "time_info": "14时03分"
         },
         {
+          "title": "金十整理：什么是真的？CNN打假特朗普国情咨文",
+          "url": "https://flash.jin10.com/detail/20260225160730290800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "特朗普国情咨文演讲大骂：这些人疯了",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E6%83%85%E5%92%A8%E6%96%87%E6%BC%94%E8%AE%B2%E5%A4%A7%E9%AA%82%EF%BC%9A%E8%BF%99%E4%BA%9B%E4%BA%BA%E7%96%AF%E4%BA%86",
           "source": "百度热搜",
@@ -763,7 +786,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -939,7 +962,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1046,7 +1069,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "节后继续领跑！微盘股指数创历史新高，融资客动向扫描，这些股已获重仓",
@@ -1060,6 +1083,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时03分 ~ 07时33分]"
+        },
+        {
+          "title": "欧洲斯托克600指数创历史新高，现上涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3058736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "欧洲斯托克600指数短暂触及历史新高，最新上涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260225163028819800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "杨幂演历史剧",
@@ -1080,9 +1125,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时53分]"
         },
         {
           "title": "数据显示：CME美国国债期货未平仓合约数量激增至3630万手的历史新高。",
@@ -1153,9 +1198,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时53分]"
         }
       ]
     }
