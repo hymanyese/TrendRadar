@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T22:50:47.641899+08:00",
-  "total_titles_processed": 1915,
+  "generated_at": "2026-02-26T23:56:10.804476+08:00",
+  "total_titles_processed": 2004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -75,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 22时50分]"
+          "appearance_count": 7,
+          "time_info": "[17时53分 ~ 23时56分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -86,8 +86,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时59分 ~ 22时50分]"
+          "appearance_count": 11,
+          "time_info": "[13时59分 ~ 23时56分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时50分 ~ 23时56分]"
         },
         {
           "title": "日本首相高市早苗：继续带着高度紧迫感关注外汇市场。",
@@ -99,6 +111,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时50分 ~ 23时56分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -125,18 +150,6 @@
           "time_info": "[06时36分 ~ 07时31分]"
         },
         {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时50分 ~ 22时50分]"
-        },
-        {
           "title": "“送礼”事件曝光，高市早苗有麻烦了",
           "url": "https://news.ifeng.com/c/8r3zcdRvT6s",
           "source": "凤凰网",
@@ -144,19 +157,6 @@
             10,
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时50分 ~ 22时50分]"
-        },
-        {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -235,6 +235,17 @@
           "time_info": "[03时18分 ~ 04时38分]"
         },
         {
+          "title": "“送礼”事件曝光 高市早苗有麻烦了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%80%81%E7%A4%BC%E2%80%9D%E4%BA%8B%E4%BB%B6%E6%9B%9D%E5%85%89+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%9C%89%E9%BA%BB%E7%83%A6%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
+        },
+        {
           "title": "市场消息：美国法官驳回了特朗普的一项政策，该政策允许将移民迅速驱逐到其本国以外的国家。",
           "url": "https://flash.jin10.com/detail/20260226013309691800",
           "source": "金十数据",
@@ -296,7 +307,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
