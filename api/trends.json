@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T14:00:04.852678+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-02-26T15:12:40.765719+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 14时00分]"
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 15时12分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 14时00分]"
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 15时12分]"
         },
         {
           "title": "日本首相高市早苗：继续带着高度紧迫感关注外汇市场。",
@@ -99,6 +99,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时31分]"
+        },
+        {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 15时12分]"
+        },
+        {
+          "title": "特朗普把国情咨文演讲开成吹牛大会",
+          "url": "https://www.toutiao.com/trending/7611003629566168602/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 15时12分]"
         },
         {
           "title": "美国多州政府和企业：特朗普，退钱！",
@@ -146,28 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时38分]"
-        },
-        {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
-        },
-        {
-          "title": "特朗普把国情咨文演讲开成吹牛大会",
-          "url": "https://www.toutiao.com/trending/7611003629566168602/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "市场消息：美国法官驳回了特朗普的一项政策，该政策允许将移民迅速驱逐到其本国以外的国家。",
@@ -253,7 +254,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
@@ -278,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "日本首相高市早苗：预计日本央行将以实现2%通胀目标为导向管理政策。 日本央行的政策并非旨在影响外汇汇率。",
+          "url": "https://wallstreetcn.com/livenews/3059315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
@@ -293,8 +305,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 14时00分]"
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 15时12分]"
         },
         {
           "title": "春节假期多项数据创历史新高",
@@ -352,6 +364,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曾经的职场，都有哪些难忘的经历？",
+          "url": "https://www.zhihu.com/question/1946586436401894214",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     }
