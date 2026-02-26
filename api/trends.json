@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T04:41:05.186298+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-02-27T05:34:48.072907+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "20家日本实体被中方列入管制名单，高市早苗急了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时34分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时34分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -37,11 +37,12 @@
             11,
             13,
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时34分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -52,8 +53,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时34分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -98,11 +99,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时34分]"
         },
         {
           "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
@@ -150,6 +152,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3059757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
           "title": "据知情人士透露，特朗普政府放宽对古巴新兴私营部门燃料运输的举措旨在使古巴在物资供应方面更加依赖美国，从而提升美国在推动政治和经济变革方面的筹码。",
           "url": "https://flash.jin10.com/detail/20260227021000525800",
           "source": "金十数据",
@@ -159,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：在特朗普任内，制造业岗位减少了10万个。",
+          "url": "https://flash.jin10.com/detail/20260227044702015800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
         {
           "title": "美国众议院监督委员会主席Comer：在爱泼斯坦问题上，我们对克林顿夫妇有疑问，将适时对外披露相关信息。 总统特朗普的商务部长卢特尼克可能也会被传唤出席听证会。",
@@ -208,7 +232,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "学历史和学文学的大学生在气质上有什么不同?",
@@ -216,11 +240,23 @@
           "source": "知乎",
           "ranks": [
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时34分]"
+        },
+        {
+          "title": "美国里奇蒙德联储：当前的商业周期并不完全符合历史模式，失业率已连续33个月上升，但GDP大部分时间保持正增长。",
+          "url": "https://flash.jin10.com/detail/20260227045644735800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
         {
           "title": "法国股市收涨超0.7%，英国、西班牙股市继续创收盘历史新高，英伟达拖累荷兰股市走低",
