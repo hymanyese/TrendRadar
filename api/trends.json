@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T14:58:10.955751+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-02-27T15:51:03.062467+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,22 @@
           "time_info": "[01时01分 ~ 13时54分]"
         },
         {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            19,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时32分 ~ 15时51分]"
+        },
+        {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
           "url": "https://news.ifeng.com/c/8r3yuvat2ge",
           "source": "凤凰网",
@@ -60,30 +76,16 @@
           "time_info": "[01时01分 ~ 07时33分]"
         },
         {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时32分 ~ 14时58分]"
-        },
-        {
           "title": "特朗普2026国会演讲全解析",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 15时51分]"
         },
         {
           "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
@@ -118,6 +120,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时46分 ~ 14时58分]"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 15时51分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -179,17 +193,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时36分 ~ 07时33分]"
-        },
-        {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
@@ -438,11 +441,12 @@
           "url": "https://wallstreetcn.com/livenews/3060049",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 15时51分]"
         },
         {
           "title": "英国工党料在关键补选中败北 绿党或历史性胜出",
@@ -484,7 +488,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -523,11 +527,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 14时58分]"
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 15时51分]"
         }
       ]
     }
