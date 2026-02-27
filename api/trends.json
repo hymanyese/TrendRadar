@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T16:43:53.723718+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-02-27T17:44:04.057855+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             17,
             19,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时32分 ~ 16时43分]"
+          "appearance_count": 13,
+          "time_info": "[07时32分 ~ 17时44分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -74,6 +75,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 07时33分]"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时57分 ~ 17时44分]"
         },
         {
           "title": "特朗普2026国会演讲全解析",
@@ -110,25 +123,13 @@
           "time_info": "10时10分"
         },
         {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时57分 ~ 16时43分]"
-        },
-        {
           "title": "日本首相高市早苗：美国需要履行其在关税方面的承诺。",
           "url": "https://flash.jin10.com/detail/20260227161514153800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -193,6 +194,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 05时34分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 17时44分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 17时44分]"
         },
         {
           "title": "“送礼”事件曝光 高市早苗有麻烦了",
@@ -292,7 +317,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -306,17 +331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -361,17 +375,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "美军驻中东最高将领向特朗普汇报针对伊朗的军事选项",
@@ -465,7 +468,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "学历史和学文学的大学生在气质上有什么不同?",
@@ -491,6 +494,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时58分 ~ 15时51分]"
+        },
+        {
+          "title": "连续3日百亿成交！“稀土茅”股价历史新高，板块量能历史次高，哪些个股持续“吸金”",
+          "url": "https://www.cls.cn/detail/2297320",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 17时44分]"
         },
         {
           "title": "英国工党料在关键补选中败北 绿党或历史性胜出",
@@ -575,8 +589,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 16时43分]"
+          "appearance_count": 11,
+          "time_info": "[10时10分 ~ 17时44分]"
         }
       ]
     }
