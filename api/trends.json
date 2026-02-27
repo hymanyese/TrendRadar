@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T10:10:45.675885+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-02-27T12:47:15.165074+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "20家日本实体被中方列入管制名单，高市早苗急了",
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 10时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 12时47分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -59,15 +60,39 @@
           "time_info": "[01时01分 ~ 07时33分]"
         },
         {
+          "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
+          "url": "https://flash.jin10.com/detail/20260227120709043800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
           "url": "https://wallstreetcn.com/livenews/3059912",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 12时47分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -120,18 +145,6 @@
           "time_info": "[03时44分 ~ 05时34分]"
         },
         {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 10时10分]"
-        },
-        {
           "title": "“送礼”事件曝光 高市早苗有麻烦了",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%80%81%E7%A4%BC%E2%80%9D%E4%BA%8B%E4%BB%B6%E6%9B%9D%E5%85%89+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%9C%89%E9%BA%BB%E7%83%A6%E4%BA%86",
           "source": "百度热搜",
@@ -141,6 +154,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时36分 ~ 07时33分]"
+        },
+        {
+          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
+          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
         },
         {
           "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
@@ -195,7 +219,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -209,6 +233,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "特朗普关于伊朗导弹的说法未获美国情报部门支持",
+          "url": "https://flash.jin10.com/detail/20260227115235508800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -233,6 +279,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "消息人士：没有美国情报支持美国总统特朗普关于伊朗“很快”将拥有可抵达美国的导弹的说法。",
+          "url": "https://flash.jin10.com/detail/20260227114444531800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "周四（2月26日），降息赢家指数涨1.02%。 “特朗普关税输家”指数涨0.97%，“特朗普金融指数”涨1.11%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.57%。",
           "url": "https://wallstreetcn.com/livenews/3059780",
           "source": "华尔街见闻-快讯",
@@ -250,7 +307,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -319,12 +376,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "日本首相高市早苗：若方案敲定，目标在夏季前提交减税法案。",
+          "url": "https://wallstreetcn.com/livenews/3059943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "学历史和学文学的大学生在气质上有什么不同?",
@@ -338,6 +406,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 06时36分]"
+        },
+        {
+          "title": "英国工党料在关键补选中败北 绿党或历史性胜出",
+          "url": "https://flash.jin10.com/detail/20260227115017097800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
@@ -394,11 +473,12 @@
           "url": "https://www.zhihu.com/question/2010355971185214106",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时47分]"
         }
       ]
     }
