@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T04:31:20.455449+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-02-28T05:32:04.593840+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 05时32分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 05时32分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -40,8 +40,21 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 05时32分]"
+        },
+        {
+          "title": "高市早苗反对女天皇",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%8D%E5%AF%B9%E5%A5%B3%E5%A4%A9%E7%9A%87%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            20,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时31分]"
+          "time_info": "[00时43分 ~ 05时32分]"
         },
         {
           "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
@@ -64,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
-        },
-        {
-          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
-          "url": "https://flash.jin10.com/detail/20260228041113668800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
         },
         {
           "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
@@ -108,18 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
-        },
-        {
-          "title": "高市早苗反对女天皇",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%8D%E5%AF%B9%E5%A5%B3%E5%A4%A9%E7%9A%87%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 02时47分]"
         },
         {
           "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
@@ -158,6 +148,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时47分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228041113668800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时32分]"
         },
         {
           "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
@@ -245,6 +247,17 @@
           "time_info": "[02时47分 ~ 03时35分]"
         },
         {
+          "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
+          "url": "https://flash.jin10.com/detail/20260228045153490800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美国总统特朗普：我们在石油方面运气好极了。",
           "url": "https://flash.jin10.com/detail/20260228020707510800",
           "source": "金十数据",
@@ -300,6 +313,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "特朗普：Anthropic做错了，要求所有部门停止采用Anthropic的技术",
+          "url": "https://wallstreetcn.com/livenews/3060501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美国总统特朗普：古巴处境很危险。",
           "url": "https://flash.jin10.com/detail/20260228020158379800",
           "source": "金十数据",
@@ -328,7 +352,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -339,7 +363,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -419,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "消息人士称，马斯克旗下太空探索公司SpaceX考虑最快3月秘密递交美国IPO申请，SpaceX在IPO中可能寻求超过1.75万亿美元的估值。",
+          "url": "https://flash.jin10.com/detail/20260228042736652800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "美国政府机构对使用马斯克旗下的Grok聊天机器人发出警告。（华尔街日报）",
@@ -534,8 +569,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 05时32分]"
         },
         {
           "title": "巴基斯坦和阿富汗有啥历史积怨",
@@ -544,11 +579,12 @@
           "ranks": [
             19,
             17,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 05时32分]"
         },
         {
           "title": "巴基斯坦与阿富汗此次开战会带来哪些影响？双方矛盾有何历史渊源？",
@@ -556,11 +592,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时46分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时46分 ~ 05时32分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市涨超1.5%创收盘历史新高，本周涨超4.7%",
