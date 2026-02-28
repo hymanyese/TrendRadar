@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T22:25:27.105811+08:00",
-  "total_titles_processed": 2047,
+  "generated_at": "2026-02-28T23:25:38.359676+08:00",
+  "total_titles_processed": 2134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 136,
+      "match_count": 141,
       "titles": [
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时01分 ~ 22时25分]"
+          "appearance_count": 13,
+          "time_info": "[10时01分 ~ 23时25分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -60,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时01分 ~ 22时25分]"
+          "appearance_count": 16,
+          "time_info": "[10时01分 ~ 23时25分]"
         },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -263,6 +263,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "美广播机构称正向伊朗境内播放特朗普呼吁政权更迭的内容",
+          "url": "https://wallstreetcn.com/livenews/3060912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "特朗普呼吁伊朗政权更迭",
           "url": "https://news.ifeng.com/c/8r784Gm9EgQ",
           "source": "凤凰网",
@@ -349,6 +360,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普通了电话。",
+          "url": "https://flash.jin10.com/detail/20260228231733168800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 23时25分]"
+        },
+        {
+          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时50分 ~ 23时25分]"
         },
         {
           "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
@@ -521,18 +567,6 @@
           "time_info": "[06时27分 ~ 07时28分]"
         },
         {
-          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
-          "url": "https://wallstreetcn.com/articles/3766399",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 22时25分]"
-        },
-        {
           "title": "特朗普称美军对伊朗进行军事打击",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -544,17 +578,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时32分 ~ 18时27分]"
-        },
-        {
-          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 22时25分]"
         },
         {
           "title": "特朗普就伊朗问题释放最新信号",
@@ -617,6 +640,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时28分 ~ 18时27分]"
+        },
+        {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时25分]"
         },
         {
           "title": "特朗普：等行动结束接管伊朗政府",
@@ -881,18 +917,6 @@
           "time_info": "[02时47分 ~ 03时35分]"
         },
         {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时25分]"
-        },
-        {
           "title": "特朗普重申伊朗不能拥有核武器",
           "url": "https://wallstreetcn.com/livenews/3060451",
           "source": "华尔街见闻-快讯",
@@ -1068,7 +1092,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -1126,6 +1150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "白宫：特朗普今日不会就对伊朗打击行动发表更多正式公开讲话",
+          "url": "https://wallstreetcn.com/livenews/3060903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美国总统特朗普：古巴处境很危险。",
@@ -1271,6 +1306,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "美广播机构称正向伊朗境内播放特朗普呼吁政权更迭的内容",
+          "url": "https://flash.jin10.com/detail/20260228230244012800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗）今天将进行额外会谈。",
           "url": "https://flash.jin10.com/detail/20260228015906320800",
           "source": "金十数据",
@@ -1392,6 +1438,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "美国官员表示，特朗普在伊朗袭击前已被告知该行动将是高风险及高回报的。",
+          "url": "https://flash.jin10.com/detail/20260228225846837800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "美国总统特朗普：尚未就伊朗问题做决定。 对他们的谈判方式不满意。 他们正在与我们对话。 伊朗不能拥有核武器。 伊朗并没有说出那句关键的话——不发展核武器。",
           "url": "https://wallstreetcn.com/livenews/3060445",
           "source": "华尔街见闻-快讯",
@@ -1420,7 +1477,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -1552,7 +1609,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -1585,7 +1642,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         }
@@ -1644,11 +1701,12 @@
           "ranks": [
             21,
             7,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 22时25分]"
+          "appearance_count": 5,
+          "time_info": "[20时50分 ~ 23时25分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
