@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T04:29:28.425812+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-03-01T05:24:37.602521+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 05时24分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时24分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -39,8 +39,31 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时24分]"
+        },
+        {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 05时24分]"
+        },
+        {
+          "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "据ABC新闻：美国总统特朗普在被问及伊朗领导层的情况以及美国是否认为他们是在袭击中丧生时回应称，很大程度上是这样的。虽然我们还不完全清楚，但在很大程度上是这样。这是一次非常强有力的打击。",
@@ -49,9 +72,35 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
+          "url": "https://wallstreetcn.com/livenews/3060943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            25,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时24分]"
+        },
+        {
+          "title": "据NBC新闻：美国总统特朗普（被问及谁将接替伊朗最高领袖哈梅内伊时）表示，“我不知道，但总有一天他们会打电话问我想要谁”。他补充道，\"我这么说只是稍微带点讽刺意味。\"",
+          "url": "https://flash.jin10.com/detail/20260301050933713800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "白宫：特朗普彻夜关注伊朗局势 并与内塔尼亚胡通电话",
@@ -82,34 +131,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
-          "url": "https://wallstreetcn.com/articles/3766399",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 04时29分]"
-        },
-        {
-          "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
-          "url": "https://wallstreetcn.com/livenews/3060943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 04时29分]"
         },
         {
           "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
@@ -118,11 +142,12 @@
           "ranks": [
             4,
             11,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 05时24分]"
         },
         {
           "title": "特朗普和内塔尼亚胡通话",
@@ -168,7 +193,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -179,9 +204,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "卡塔尔国家媒体：卡塔尔埃米尔接到美国总统特朗普的电话。",
+          "url": "https://flash.jin10.com/detail/20260301050014158800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "特朗普谈伊朗：我既能选择长期作战，也可以在两三天内结束",
@@ -190,7 +226,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -201,9 +237,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普与英国、科威特和土耳其领导人通话。",
+          "url": "https://flash.jin10.com/detail/20260301045410974800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "特朗普政府高级官员：美国谈判代表认定，伊朗显然希望保留铀浓缩能力，以便日后开展核武器计划。",
@@ -212,7 +259,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -223,7 +270,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -245,7 +292,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -256,7 +303,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -267,7 +314,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -289,7 +336,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -300,7 +347,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -311,7 +358,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -333,7 +380,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -344,7 +391,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -369,12 +416,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "据NBC新闻：美国总统特朗普（就伊朗最高领袖哈梅内伊身亡的报道）表示，我们认为这是正确的报道，那些做所有决定的人，大部分已经不在了。",
+          "url": "https://flash.jin10.com/detail/20260301043914314800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "油价或出现历史性飙升",
@@ -386,8 +444,36 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 05时24分]"
+        },
+        {
+          "title": "如果对标《天国拯救 2》以中国历史上一段历史来开发一部游戏，可以选哪个时代？",
+          "url": "https://www.zhihu.com/question/1983661065372972851",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "职场上最容易得罪人的地方有哪些？",
+          "url": "https://www.zhihu.com/question/650656757",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     }
