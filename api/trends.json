@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T19:22:38.940082+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-03-01T20:53:24.339191+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 83,
+      "match_count": 84,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 19时22分]"
+          "appearance_count": 10,
+          "time_info": "[10时31分 ~ 20时53分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时56分 ~ 19时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 20时53分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -82,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时31分 ~ 19时22分]"
+          "appearance_count": 12,
+          "time_info": "[10时31分 ~ 20时53分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -435,6 +435,18 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时53分]"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫向特朗普和内塔尼亚胡喊话，称他们已经越过了红线，“必将为此付出代价”。",
           "url": "https://flash.jin10.com/detail/20260301132637678800",
           "source": "金十数据",
@@ -600,17 +612,6 @@
           "time_info": "04时29分"
         },
         {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "马斯克转发了一条称Grok准确预测了未来的帖子，该帖子表示，正如Grok预测的那样，以色列和美国在2月28日袭击了伊朗。马斯克对持表示，预测未来是衡量（智能体）智慧的最佳标准。",
           "url": "https://flash.jin10.com/detail/20260301040546719800",
           "source": "金十数据",
@@ -653,6 +654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "据CNN：伊朗副外长赛义德·哈提布扎德表示，特朗普杀死伊朗最高领袖哈梅内伊，已经越过了“一个非常危险的红线”。",
+          "url": "https://flash.jin10.com/detail/20260301201929437800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "特朗普政府高级官员：美国曾向伊朗提出多种途径，使其核计划走向文明、和平，但伊方却玩弄手段、欺骗敷衍。",
@@ -988,8 +1000,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时56分 ~ 19时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 20时53分]"
         },
         {
           "title": "油价或出现历史性飙升",
@@ -1000,11 +1012,12 @@
             21,
             20,
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时55分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时55分 ~ 20时53分]"
         },
         {
           "title": "油价或出现历史性飙升",
@@ -1028,11 +1041,12 @@
           "ranks": [
             17,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时51分 ~ 19时22分]"
+          "appearance_count": 8,
+          "time_info": "[14时51分 ~ 20时53分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：哈梅内伊去世是伊朗历史上的一个决定性时刻。接下来会发生什么尚不确定。但现在有了一条通往不同伊朗的开放道路，人民可能会有更大的自由去塑造未来。",
@@ -1041,7 +1055,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
