@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-03-02T01:24:58.056934+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2026-03-02T02:43:58.480460+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "特朗普：美军在对伊行动中打死48名伊朗指挥官",
-          "url": "https://wallstreetcn.com/livenews/3061241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3061240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
           "url": "https://wallstreetcn.com/articles/3766454",
@@ -37,8 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时43分]"
+        },
+        {
+          "title": "特朗普：美军在对伊行动中打死48名伊朗指挥官",
+          "url": "https://wallstreetcn.com/livenews/3061241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时43分]"
+        },
+        {
+          "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3061240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时43分]"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普（就伊朗想谈谈）表示，他们本应该早点这么做。他们本应该尽早提供那些非常实用且易于实施的方案。他们等得太久了。",
@@ -84,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时43分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -95,20 +97,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "据《大西洋月刊》：美国总统特朗普表示，他计划与伊朗政权进行新谈判。",
-          "url": "https://flash.jin10.com/detail/20260302001021486800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时43分]"
         },
         {
           "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
@@ -117,6 +107,18 @@
           "ranks": [
             9,
             10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时43分]"
+        },
+        {
+          "title": "据《大西洋月刊》：美国总统特朗普表示，他计划与伊朗政权进行新谈判。",
+          "url": "https://flash.jin10.com/detail/20260302001021486800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -133,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普称美方“基本摧毁”伊朗海军总部",
+          "url": "https://wallstreetcn.com/livenews/3061245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         },
         {
           "title": "据CNBC：美国总统特朗普表示，事情正在以非常积极的方式发展。",
@@ -152,7 +165,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -190,6 +203,50 @@
           "time_info": "00时32分"
         },
         {
+          "title": "特朗普：已摧毁并击沉9艘伊朗军舰 美已基本摧毁伊朗海军总部",
+          "url": "https://flash.jin10.com/detail/20260302012641441800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美国总统特朗普：美国已基本摧毁伊朗海军总部。",
+          "url": "https://flash.jin10.com/detail/20260302012327447800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美国总统特朗普：接下来我们还会继续追击剩余的船只。",
+          "url": "https://flash.jin10.com/detail/20260302012309532800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美国总统特朗普：我刚刚接到消息，我们已经摧毁并击沉了9艘伊朗海军舰艇，其中有些舰艇规模较大且十分重要。",
+          "url": "https://flash.jin10.com/detail/20260302012251829800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
           "title": "据福克斯新闻：美国总统特朗普称，针对伊朗方面的行动进展迅速。“没人能相信我们取得的成功会如此之大”。",
           "url": "https://flash.jin10.com/detail/20260301232709215800",
           "source": "金十数据",
@@ -214,19 +271,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时43分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：“历史上最猛烈的进攻行动”即将开始",
           "url": "https://m.thepaper.cn/newsDetail_forward_32677959",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时43分]"
         }
       ]
     },
