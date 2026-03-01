@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T17:33:13.642810+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2026-03-01T18:28:54.957195+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,25 @@
           "ranks": [
             7,
             4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 18时28分]"
+        },
+        {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
             5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时31分 ~ 17时33分]"
+          "time_info": "[12时56分 ~ 18时28分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -60,19 +74,6 @@
           "time_info": "[00时29分 ~ 07时24分]"
         },
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 17时33分]"
-        },
-        {
           "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
           "url": "https://www.cls.cn/detail/2298666",
           "source": "财联社热门",
@@ -81,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 17时33分]"
+          "appearance_count": 10,
+          "time_info": "[10时31分 ~ 18时28分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -972,11 +973,12 @@
           "url": "https://wallstreetcn.com/articles/3766453",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时56分 ~ 18时28分]"
         },
         {
           "title": "油价或出现历史性飙升",
@@ -1005,8 +1007,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 18时28分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：“历史上最猛烈的进攻行动”即将开始",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32677959",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 18时28分]"
         },
         {
           "title": "韩国2月份半导体出口额同比增长160.8% 刷新历史纪录",
@@ -1021,19 +1036,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时56分 ~ 15时35分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：“历史上最猛烈的进攻行动”即将开始",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32677959",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 17时33分]"
         },
         {
           "title": "金价或将冲击历史新高",
