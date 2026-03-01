@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T18:28:54.957195+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-03-01T19:22:38.940082+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -17,6 +17,33 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 10时31分]"
+        },
+        {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 19时22分]"
+        },
+        {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 19时22分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -31,33 +58,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时29分 ~ 15时35分]"
-        },
-        {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时31分 ~ 18时28分]"
-        },
-        {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 18时28分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -82,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时31分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[10时31分 ~ 19时22分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -600,6 +600,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "马斯克转发了一条称Grok准确预测了未来的帖子，该帖子表示，正如Grok预测的那样，以色列和美国在2月28日袭击了伊朗。马斯克对持表示，预测未来是衡量（智能体）智慧的最佳标准。",
           "url": "https://flash.jin10.com/detail/20260301040546719800",
           "source": "金十数据",
@@ -966,7 +977,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗伊斯兰革命卫队就哈梅内伊殉职发表声明：“历史上最猛烈的进攻行动”即将开始",
@@ -977,8 +988,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 18时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 19时22分]"
+        },
+        {
+          "title": "油价或出现历史性飙升",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%88%96%E5%87%BA%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%80%A7%E9%A3%99%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            21,
+            20,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时55分 ~ 19时22分]"
         },
         {
           "title": "油价或出现历史性飙升",
@@ -996,21 +1022,6 @@
           "time_info": "[00时29分 ~ 12时56分]"
         },
         {
-          "title": "油价或出现历史性飙升",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%88%96%E5%87%BA%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%80%A7%E9%A3%99%E5%8D%87",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            21,
-            20,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时55分 ~ 18时28分]"
-        },
-        {
           "title": "伊朗伊斯兰革命卫队：“历史上最猛烈的进攻行动”即将开始",
           "url": "https://m.thepaper.cn/newsDetail_forward_32677959",
           "source": "澎湃新闻",
@@ -1020,8 +1031,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时51分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[14时51分 ~ 19时22分]"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：哈梅内伊去世是伊朗历史上的一个决定性时刻。接下来会发生什么尚不确定。但现在有了一条通往不同伊朗的开放道路，人民可能会有更大的自由去塑造未来。",
+          "url": "https://flash.jin10.com/detail/20260301184217617800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "韩国2月份半导体出口额同比增长160.8% 刷新历史纪录",
