@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T07:24:50.055840+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-03-01T10:31:32.540684+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 56,
+      "match_count": 66,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 10时31分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -37,11 +37,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 10时31分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -84,7 +85,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -106,7 +107,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -143,7 +144,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -154,7 +155,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -340,15 +341,48 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "伊朗少将阿卜杜拉希（Abdollahi）：特朗普应该知道，这一次他不再负责结束战争，而伊朗将决定战争的终结。",
           "url": "https://flash.jin10.com/detail/20260301064326842800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "美以对伊军事打击后，白宫：特朗普仍计划出席共和党筹款活动",
+          "url": "https://wallstreetcn.com/livenews/3061046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "据以色列第12频道报道，特朗普看到了哈梅内伊遗体的照片。",
@@ -382,6 +416,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普称哈梅内伊已死",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%B7%B2%E6%AD%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
+          "url": "https://www.zhihu.com/question/2011106123147675013",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "特朗普谈伊朗：我既能选择长期作战，也可以在两三天内结束",
@@ -434,7 +490,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -459,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美媒：沙特和以色列的施压促使特朗普下令攻击伊朗",
+          "url": "https://flash.jin10.com/detail/20260301093855637800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "特朗普政府高级官员：伊朗针对美国关于铀浓缩要求所提出的方案，竟是允许其自行建造离心机。",
@@ -571,6 +638,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "美国在中东的空袭中使用了Anthropic（的人工智能技术），而袭击前数小时，特朗普刚刚颁布了针对Anthropic的禁令。",
+          "url": "https://flash.jin10.com/detail/20260301092317690800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "特朗普政府高级官员：如果我们坐以待毙，等着对方先发制人，那么人员伤亡和财产损失将会大得多。",
           "url": "https://flash.jin10.com/detail/20260301035020604800",
           "source": "金十数据",
@@ -580,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国前副总统哈里斯不赞成特朗普与以色列联手攻击伊朗的决定，称其为“拿美国人的生命进行不必要的赌博”。",
+          "url": "https://flash.jin10.com/detail/20260301092120625800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "特朗普请求美最高法院重审关税裁决",
@@ -615,6 +704,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "特朗普称他知道他想让谁来领导伊朗",
+          "url": "https://flash.jin10.com/detail/20260301091828733800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "以色列总理办公室确认，以色列总理内塔尼亚胡与美国总统特朗普通电话。",
           "url": "https://flash.jin10.com/detail/20260228233238201800",
           "source": "金十数据",
@@ -646,6 +746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "Anthropic大模型Claude在苹果公司Apple Store免费APP排名上升至第二，该公司此前因美国国防部AI权限争端而被特朗普政府拉黑。",
+          "url": "https://wallstreetcn.com/livenews/3061018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
@@ -660,11 +771,12 @@
           "ranks": [
             29,
             18,
-            19
+            19,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 10时31分]"
         },
         {
           "title": "如果对标《天国拯救 2》以中国历史上一段历史来开发一部游戏，可以选哪个时代？",
