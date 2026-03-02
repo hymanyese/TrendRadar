@@ -1,241 +1,99 @@
 {
-  "generated_at": "2026-03-02T23:44:24.707524+08:00",
-  "total_titles_processed": 2010,
+  "generated_at": "2026-03-03T00:52:52.188762+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 86,
+      "match_count": 16,
       "titles": [
         {
-          "title": "外交部回应特朗普3月访华能否成行",
-          "url": "https://www.toutiao.com/trending/7611824247237361727/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时50分 ~ 23时44分]"
-        },
-        {
-          "title": "“不得不说，特朗普的计划落空了”",
-          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时49分 ~ 23时44分]"
-        },
-        {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 10时14分]"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
-          "url": "https://wallstreetcn.com/articles/3766474",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时14分 ~ 23时44分]"
-        },
-        {
-          "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
-          "url": "https://wallstreetcn.com/articles/3766494",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时55分 ~ 23时44分]"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时53分 ~ 23时44分]"
-        },
-        {
-          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://wallstreetcn.com/articles/3766483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时14分 ~ 23时44分]"
-        },
-        {
-          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
-          "url": "https://wallstreetcn.com/articles/3766482",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时50分 ~ 23时44分]"
-        },
-        {
-          "title": "特朗普称不达目标不停战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            17,
-            22,
-            24,
-            23,
-            21,
-            29,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时49分 ~ 23时44分]"
-        },
-        {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时27分]"
-        },
-        {
-          "title": "美以伊战争最新动态｜特朗普：对伊军事行动或持4周",
+          "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时26分 ~ 07时27分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
-          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
-          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
-          "source": "凤凰网",
+          "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
+          "url": "https://wallstreetcn.com/articles/3766494",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 13时55分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普：基本摧毁伊朗海军总部",
-          "url": "https://news.ifeng.com/c/8r9Q9rcc6AT",
+          "title": "“不得不说，特朗普的计划落空了”",
+          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
           "source": "凤凰网",
           "ranks": [
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时27分 ~ 10时14分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
+          "title": "阿联酋、卡塔尔各自的游说团体劝说美国总统特朗普迅速停止（美国+以色列）与伊朗之间的战争。",
+          "url": "https://wallstreetcn.com/livenews/3062064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "外交部回应特朗普3月访华能否成行",
+          "url": "https://www.toutiao.com/trending/7611824247237361727/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
+          "url": "https://wallstreetcn.com/articles/3766474",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
-          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时27分 ~ 13时55分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://www.cls.cn/detail/2299355",
-          "source": "财联社热门",
+          "url": "https://wallstreetcn.com/articles/3766483",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 21时03分]"
-        },
-        {
-          "title": "特朗普最新讲话：将为战死美士兵复仇，伊军若不投降必死无疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32682695",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 21时03分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -245,905 +103,124 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时33分 ~ 23时44分]"
-        },
-        {
-          "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "00时52分"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：通过新的手段，特朗普再次将自己个人崇拜所带来的代价强加给了美国军人及其家属。",
-          "url": "https://flash.jin10.com/detail/20260302123615602800",
-          "source": "金十数据",
+          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
+          "url": "https://wallstreetcn.com/articles/3766482",
+          "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：由于特朗普错误的行动，他将自己所鼓吹的“美国优先”口号变成了“以色列优先”，为了以色列的权力扩张而牺牲了美国士兵的生命。",
-          "url": "https://flash.jin10.com/detail/20260302123604578800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "美国第一夫人梅拉尼娅·特朗普将于今天晚些时候主持一场联合国安理会会议。",
-          "url": "https://flash.jin10.com/detail/20260302095601832800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普因狂妄的野心将该地区拖入了混乱之中，如今他又表示担心会有更多美国人伤亡。",
-          "url": "https://flash.jin10.com/detail/20260302123554585800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "美国总统特朗普：最大的意外是伊朗对阿拉伯国家的袭击。",
-          "url": "https://flash.jin10.com/detail/20260302233258274800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "特朗普：美军在对伊行动中打死48名伊朗指挥官",
-          "url": "https://wallstreetcn.com/livenews/3061241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时25分]"
-        },
-        {
-          "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3061240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 03时25分]"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：第三次世界大战尚未开始，但如果特朗普继续他的路线，随时可能爆发。",
-          "url": "https://flash.jin10.com/detail/20260302233234410800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "白宫：特朗普已分别与以色列、巴林及阿联酋领导人通话",
-          "url": "https://wallstreetcn.com/livenews/3061264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 05时26分]"
-        },
-        {
-          "title": "中方回应特朗普3月访华能否成行",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时03分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
-          "title": "据阿联酋国家通讯社：阿联酋总统与美国总统特朗普讨论了伊朗打击事件。",
-          "url": "https://flash.jin10.com/detail/20260302052340816800",
+          "title": "市场消息：阿联酋和卡塔尔游说盟友将劝说特朗普尽快结束伊朗战争。",
+          "url": "https://flash.jin10.com/detail/20260303003633810800",
           "source": "金十数据",
           "ranks": [
-            1,
-            20
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时27分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
-          "title": "美国总统特朗普：呼吁伊朗人民抓住这一时机，夺回自己的国家。",
-          "url": "https://flash.jin10.com/detail/20260302052042480800",
-          "source": "金十数据",
+          "title": "中方回应特朗普3月访华能否成行",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            21
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时27分]"
-        },
-        {
-          "title": "据《大西洋月刊》：美国总统特朗普（就伊朗想谈谈）表示，他们本应该早点这么做。他们本应该尽早提供那些非常实用且易于实施的方案。他们等得太久了。",
-          "url": "https://flash.jin10.com/detail/20260302001403580800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "美国总统特朗普：敦促伊朗革命卫队、伊朗军方及警方放下武器，即可获得豁免，否则必死无疑。",
-          "url": "https://flash.jin10.com/detail/20260302052037888800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时27分]"
-        },
-        {
-          "title": "据《大西洋月刊》：特朗普对是否长期介入以支持伊朗“抗议活动”态度模糊。",
-          "url": "https://flash.jin10.com/detail/20260302001250596800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "美国总统特朗普：拥有远程导弹和核武器的伊朗政权将对每一个美国人构成严重威胁。",
-          "url": "https://flash.jin10.com/detail/20260302051405670800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时27分]"
-        },
-        {
-          "title": "据《大西洋月刊》：美国总统特朗普在谈及与伊朗谈判的时机时表示，我不能告诉你。",
-          "url": "https://flash.jin10.com/detail/20260302001047195800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "美国总统特朗普：美国将为美国士兵的丧生复仇。",
-          "url": "https://flash.jin10.com/detail/20260302051359650800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时27分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
-          "url": "https://wallstreetcn.com/livenews/3061257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普：对伊朗军事行动可能持续约4周",
-          "url": "https://wallstreetcn.com/livenews/3061289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 07时27分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
           "title": "特朗普称同意与伊朗新领导层对话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32681474",
           "source": "澎湃新闻",
           "ranks": [
-            11,
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时43分 ~ 23时44分]"
-        },
-        {
-          "title": "马斯克变性女儿登上米兰时装周T台",
-          "url": "https://www.toutiao.com/trending/7611736772854595611/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时02分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
           "title": "特朗普称打死伊朗领导层48人，以总理称进一步升级行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_32681273",
           "source": "澎湃新闻",
           "ranks": [
-            13,
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时43分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
-          "title": "据《大西洋月刊》：美国总统特朗普表示，他计划与伊朗政权进行新谈判。",
-          "url": "https://flash.jin10.com/detail/20260302001021486800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "特朗普：对伊朗行动将持续至目标得以实现",
-          "url": "https://flash.jin10.com/detail/20260302060723437800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普称美方“基本摧毁”伊朗海军总部",
-          "url": "https://wallstreetcn.com/livenews/3061245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时25分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗）整个军事指挥系统已瓦解，许多人希望投降。军事行动将持续进行，直至我们所有的目标得以实现。",
-          "url": "https://flash.jin10.com/detail/20260302050918097800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时27分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗）我们已经打击了数百个目标，包括伊朗伊斯兰革命卫队设施、防空系统以及九艘船只以及海军建设设施。",
-          "url": "https://flash.jin10.com/detail/20260302050850154800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时27分]"
-        },
-        {
-          "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
-          "url": "https://flash.jin10.com/detail/20260302000518361800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "特朗普能在伊朗速胜吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%83%BD%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%80%9F%E8%83%9C%E5%90%97",
+          "title": "特朗普称不达目标不停战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
-        },
-        {
-          "title": "据日经新闻：针对美伊冲突，日本首相高市早苗表示将努力通过外交手段尽早平息事态。",
-          "url": "https://flash.jin10.com/detail/20260302095305253800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "高市早苗：决不允许伊朗开发核武器",
-          "url": "https://flash.jin10.com/detail/20260302133638574800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "特朗普谈伊朗：除了我，没人能做到这件事。",
-          "url": "https://flash.jin10.com/detail/20260302202854509800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "特朗普称同意与伊朗新领导层对话，“委内瑞拉式结局”是选项之一",
-          "url": "https://wallstreetcn.com/articles/3766494",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "Monex集团分析师Jesper Koll 表示，更高的油价有可能引发日本新的通胀，使日本首相高市早苗降低生活成本的努力更加复杂。",
-          "url": "https://flash.jin10.com/detail/20260302095132021800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "特朗普称同意与伊朗新领导层对话，伊朗外长称对缓解紧张局势持开放态度，释放了什么信号？双方在盘算什么？",
-          "url": "https://www.zhihu.com/question/2011634675014202149",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
-          "url": "https://wallstreetcn.com/livenews/3061991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "特朗普炮轰斯塔默 延迟开放基地令美方“非常失望”",
-          "url": "https://flash.jin10.com/detail/20260302191136924800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "特朗普政府将于周二向国会作伊朗问题的简报",
-          "url": "https://flash.jin10.com/detail/20260302044632602800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "特朗普称对英国首相的立场“非常失望”",
-          "url": "https://wallstreetcn.com/livenews/3061985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "特朗普将于北京时间零点就伊朗问题发表讲话",
-          "url": "https://wallstreetcn.com/livenews/3062015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "美国总统特朗普暗示，英国首相斯塔默应该一直批准美国使用迪戈加西亚岛。",
-          "url": "https://flash.jin10.com/detail/20260302191111143800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "据CNBC：美国总统特朗普表示，事情正在以非常积极的方式发展。",
-          "url": "https://flash.jin10.com/detail/20260301234818748800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普：伊朗新任领导层希望对话，我同意谈判",
-          "url": "https://flash.jin10.com/detail/20260302002636428800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "特朗普：斯塔默在空军基地问题上改变主意花了“太长时间”。",
-          "url": "https://wallstreetcn.com/livenews/3061854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "特朗普仍愿与伊朗进行更多对话，准备就袭击事件发表演讲",
-          "url": "https://flash.jin10.com/detail/20260302043240591800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普已乘坐空军一号离开棕榈滩，前往白宫，预计将于当地时间下午6点45分（北京时间周一早上7点45分）抵达。",
-          "url": "https://flash.jin10.com/detail/20260302053518222800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗行动“远超预期”。",
-          "url": "https://flash.jin10.com/detail/20260302190827578800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "特朗普：对伊朗的军事行动可能持续4周",
-          "url": "https://flash.jin10.com/detail/20260302043144054800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗行动）我们一口气干掉了48个领导人，而且进展迅速。",
-          "url": "https://flash.jin10.com/detail/20260301234546415800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "据CNBC：美国总统特朗普表示，对伊朗的军事行动“进度超前”。",
-          "url": "https://flash.jin10.com/detail/20260301234352238800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：英国的查戈斯群岛协议是“政治正确”。",
-          "url": "https://flash.jin10.com/detail/20260302190644171800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普表示，美国清楚目前还剩下多少目标需要打击。",
-          "url": "https://flash.jin10.com/detail/20260301234319714800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：斯塔默在空军基地问题上改变主意“花了太长时间”。",
-          "url": "https://flash.jin10.com/detail/20260302190627135800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "特朗普：已摧毁并击沉9艘伊朗军舰 美已基本摧毁伊朗海军总部",
-          "url": "https://flash.jin10.com/detail/20260302012641441800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "特朗普不排除向伊朗派遣地面部队 直言根本不在乎民调",
-          "url": "https://flash.jin10.com/detail/20260302231914240800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "美国总统特朗普表示，他对英国首相斯塔默阻止他使用迪戈·加西亚基地对伊朗进行打击感到“非常失望”。",
-          "url": "https://flash.jin10.com/detail/20260302190529198800",
-          "source": "金十数据",
-          "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "00时52分"
         },
         {
-          "title": "美国总统特朗普：美国已基本摧毁伊朗海军总部。",
-          "url": "https://flash.jin10.com/detail/20260302012327447800",
-          "source": "金十数据",
+          "title": "英国首相斯塔默：判断什么对英国最有利是我的职责，而非美国总统特朗普的责任。",
+          "url": "https://wallstreetcn.com/livenews/3062039",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "美媒：特朗普称若伊朗下一任领导人表现务实，可能会解除对伊朗的制裁",
-          "url": "https://flash.jin10.com/detail/20260302093557155800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "美国总统特朗普：接下来我们还会继续追击剩余的船只。",
-          "url": "https://flash.jin10.com/detail/20260302012309532800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "北约首相吕特谈伊朗问题： 我周末与所有重要的欧洲领导人进行了交谈；他们普遍支持特朗普的做法。",
-          "url": "https://flash.jin10.com/detail/20260302231614008800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "美国总统特朗普：我刚刚接到消息，我们已经摧毁并击沉了9艘伊朗海军舰艇，其中有些舰艇规模较大且十分重要。",
-          "url": "https://flash.jin10.com/detail/20260302012251829800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "特朗普：真正的打击浪潮很快就要来了",
-          "url": "https://flash.jin10.com/detail/20260302231029488800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "日本首相高市早苗：对袭击伊朗的合法性不予置评。",
-          "url": "https://wallstreetcn.com/livenews/3061688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "沙特否认劝特朗普对伊朗动手",
-          "url": "https://wallstreetcn.com/livenews/3061525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普称，针对伊朗方面的行动进展迅速。“没人能相信我们取得的成功会如此之大”。",
-          "url": "https://flash.jin10.com/detail/20260301232709215800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "00时52分"
         }
       ]
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "伊朗伊斯兰革命卫队就哈梅内伊殉职发表声明：“历史上最猛烈的进攻行动”即将开始",
-          "url": "https://wallstreetcn.com/articles/3766453",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 10时14分]"
-        },
         {
           "title": "中国石油、中国石化、中国海油三桶油历史首次集体收盘涨停，油气板块后续走势如何？",
           "url": "https://www.zhihu.com/question/2011826557338019467",
           "source": "知乎",
           "ranks": [
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时33分 ~ 23时44分]"
-        },
-        {
-          "title": "人物｜担任最高领袖36年，哈梅内伊如何领导伊朗走到今天？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32680290",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时49分 ~ 21时03分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：“历史上最猛烈的进攻行动”即将开始",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32677959",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 10时14分]"
-        },
-        {
-          "title": "“三桶油”历史首次收盘集体涨停",
-          "url": "https://www.toutiao.com/trending/7612550570414444051/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 21时03分]"
-        },
-        {
-          "title": "人物｜地下室中走出坚定反美者，这些是哈梅内伊的关键词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32679641",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时14分 ~ 17时53分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
           "title": "【每日收评】市场再现二八分化，两市成交额重回3万亿，“三桶油”历史首次集体涨停",
           "url": "https://www.cls.cn/detail/2299874",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时53分 ~ 23时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 经济金融 ===== 黄金 美元 石油 稀土",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗冲突引发原油价格飙升影响，欧洲石油与天然气指数上涨2.5%，创下历史新高。 雷普索尔、加尔普、壳牌、OMV、英国石油、埃尼集团领涨，涨幅 5%至7.5%不等。",
-          "url": "https://wallstreetcn.com/livenews/3061692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时52分"
+        },
         {
-          "title": "在职场中怎么做可以不受欺负呢？",
-          "url": "https://www.zhihu.com/question/9702208922",
-          "source": "知乎",
+          "title": "中东冲突导致超级油轮运费创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3062059",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            19
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     }
