@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-02T22:44:10.289070+08:00",
-  "total_titles_processed": 1921,
+  "generated_at": "2026-03-02T23:44:24.707524+08:00",
+  "total_titles_processed": 2010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 80,
+      "match_count": 86,
       "titles": [
-        {
-          "title": "“不得不说，特朗普的计划落空了”",
-          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时49分 ~ 22时44分]"
-        },
         {
           "title": "外交部回应特朗普3月访华能否成行",
           "url": "https://www.toutiao.com/trending/7611824247237361727/",
@@ -28,8 +16,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时50分 ~ 22时44分]"
+          "appearance_count": 10,
+          "time_info": "[16时50分 ~ 23时44分]"
+        },
+        {
+          "title": "“不得不说，特朗普的计划落空了”",
+          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时49分 ~ 23时44分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时14分 ~ 22时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时14分 ~ 23时44分]"
         },
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -67,8 +67,22 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时55分 ~ 23时44分]"
+        },
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时55分 ~ 22时44分]"
+          "time_info": "[17时53分 ~ 23时44分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -81,21 +95,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时14分 ~ 22时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时14分 ~ 23时44分]"
         },
         {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
+          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
+          "url": "https://wallstreetcn.com/articles/3766482",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            4,
-            2
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 22时44分]"
+          "appearance_count": 10,
+          "time_info": "[12时50分 ~ 23时44分]"
         },
         {
           "title": "特朗普称不达目标不停战",
@@ -109,11 +123,12 @@
             23,
             21,
             29,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时49分 ~ 22时44分]"
+          "appearance_count": 15,
+          "time_info": "[12时49分 ~ 23时44分]"
         },
         {
           "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
@@ -125,19 +140,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
-          "url": "https://wallstreetcn.com/articles/3766482",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时50分 ~ 22时44分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：对伊军事行动或持4周",
@@ -236,6 +238,17 @@
           "time_info": "[16时50分 ~ 21时03分]"
         },
         {
+          "title": "特朗普，还有一仗？",
+          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时33分 ~ 23时44分]"
+        },
+        {
           "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -291,6 +304,17 @@
           "time_info": "12时50分"
         },
         {
+          "title": "美国总统特朗普：最大的意外是伊朗对阿拉伯国家的袭击。",
+          "url": "https://flash.jin10.com/detail/20260302233258274800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "特朗普：美军在对伊行动中打死48名伊朗指挥官",
           "url": "https://wallstreetcn.com/livenews/3061241",
           "source": "华尔街见闻-快讯",
@@ -317,15 +341,15 @@
           "time_info": "[00时32分 ~ 03时25分]"
         },
         {
-          "title": "特朗普，还有一仗？",
-          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
-          "source": "凤凰网",
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：第三次世界大战尚未开始，但如果特朗普继续他的路线，随时可能爆发。",
+          "url": "https://flash.jin10.com/detail/20260302233234410800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 22时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "白宫：特朗普已分别与以色列、巴林及阿联酋领导人通话",
@@ -339,6 +363,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 05时26分]"
+        },
+        {
+          "title": "中方回应特朗普3月访华能否成行",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 23时44分]"
         },
         {
           "title": "据阿联酋国家通讯社：阿联酋总统与美国总统特朗普讨论了伊朗打击事件。",
@@ -437,18 +474,6 @@
           "time_info": "[05时26分 ~ 06时27分]"
         },
         {
-          "title": "中方回应特朗普3月访华能否成行",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时03分 ~ 22时44分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
           "url": "https://wallstreetcn.com/livenews/3061257",
           "source": "华尔街见闻-快讯",
@@ -475,6 +500,18 @@
           "time_info": "[05时26分 ~ 07时27分]"
         },
         {
+          "title": "特朗普称同意与伊朗新领导层对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32681474",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时43分 ~ 23时44分]"
+        },
+        {
           "title": "马斯克变性女儿登上米兰时装周T台",
           "url": "https://www.toutiao.com/trending/7611736772854595611/",
           "source": "今日头条",
@@ -484,6 +521,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时55分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普称打死伊朗领导层48人，以总理称进一步升级行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32681273",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时43分 ~ 23时44分]"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普表示，他计划与伊朗政权进行新谈判。",
@@ -546,17 +595,6 @@
           "time_info": "[05时26分 ~ 06时27分]"
         },
         {
-          "title": "特朗普称同意与伊朗新领导层对话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32681474",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时43分 ~ 22时44分]"
-        },
-        {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
           "url": "https://flash.jin10.com/detail/20260302000518361800",
           "source": "金十数据",
@@ -567,17 +605,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "特朗普称打死伊朗领导层48人，以总理称进一步升级行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32681273",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "特朗普能在伊朗速胜吗",
@@ -663,7 +690,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -696,9 +723,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
+        },
+        {
+          "title": "特朗普将于北京时间零点就伊朗问题发表讲话",
+          "url": "https://wallstreetcn.com/livenews/3062015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美国总统特朗普暗示，英国首相斯塔默应该一直批准美国使用迪戈加西亚岛。",
@@ -855,6 +893,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "特朗普不排除向伊朗派遣地面部队 直言根本不在乎民调",
+          "url": "https://flash.jin10.com/detail/20260302231914240800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美国总统特朗普表示，他对英国首相斯塔默阻止他使用迪戈·加西亚基地对伊朗进行打击感到“非常失望”。",
           "url": "https://flash.jin10.com/detail/20260302190529198800",
           "source": "金十数据",
@@ -899,6 +948,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "北约首相吕特谈伊朗问题： 我周末与所有重要的欧洲领导人进行了交谈；他们普遍支持特朗普的做法。",
+          "url": "https://flash.jin10.com/detail/20260302231614008800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美国总统特朗普：我刚刚接到消息，我们已经摧毁并击沉了9艘伊朗海军舰艇，其中有些舰艇规模较大且十分重要。",
           "url": "https://flash.jin10.com/detail/20260302012251829800",
           "source": "金十数据",
@@ -908,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "特朗普：真正的打击浪潮很快就要来了",
+          "url": "https://flash.jin10.com/detail/20260302231029488800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "日本首相高市早苗：对袭击伊朗的合法性不予置评。",
@@ -961,6 +1032,18 @@
           "time_info": "[00时32分 ~ 10时14分]"
         },
         {
+          "title": "中国石油、中国石化、中国海油三桶油历史首次集体收盘涨停，油气板块后续走势如何？",
+          "url": "https://www.zhihu.com/question/2011826557338019467",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时33分 ~ 23时44分]"
+        },
+        {
           "title": "人物｜担任最高领袖36年，哈梅内伊如何领导伊朗走到今天？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32680290",
           "source": "澎湃新闻",
@@ -987,18 +1070,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 10时14分]"
-        },
-        {
-          "title": "中国石油、中国石化、中国海油三桶油历史首次集体收盘涨停，油气板块后续走势如何？",
-          "url": "https://www.zhihu.com/question/2011826557338019467",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时33分 ~ 22时44分]"
         },
         {
           "title": "“三桶油”历史首次收盘集体涨停",
@@ -1036,8 +1107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 22时44分]"
+          "appearance_count": 8,
+          "time_info": "[17时53分 ~ 23时44分]"
         }
       ]
     },
