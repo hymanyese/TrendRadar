@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T00:53:06.505381+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-04T01:45:47.741490+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 6,
+      "match_count": 29,
       "titles": [
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时45分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时45分]"
         },
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -36,9 +36,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时45分]"
         },
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -47,9 +47,31 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时45分]"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
+          "url": "https://flash.jin10.com/detail/20260304012406090800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
+          "url": "https://wallstreetcn.com/livenews/3062933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -58,9 +80,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "美国总统特朗普：西班牙是“糟糕的盟友”，不想与他们有任何关系。",
+          "url": "https://flash.jin10.com/detail/20260304012333003800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -70,8 +103,256 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时45分]"
+        },
+        {
+          "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
+          "url": "https://flash.jin10.com/detail/20260304012318778800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在对关税进行各种研究。 所有国家都向维持他们已经与美国达成的协议。",
+          "url": "https://wallstreetcn.com/livenews/3062929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "外媒白宫事务记者：特朗普今天多次声称15%的替代关税已经生效，但白宫尚未实施该关税，目前仍为10%。",
+          "url": "https://flash.jin10.com/detail/20260304012217221800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：英国“非常、非常不合作”。",
+          "url": "https://flash.jin10.com/detail/20260304012112730800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：等一切都结束后，油价将会下跌。 （美国和以色列对伊朗挑起的）战争结束后，油价可能会低于战前的水平。",
+          "url": "https://wallstreetcn.com/livenews/3062925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在进行各种关税研究。",
+          "url": "https://flash.jin10.com/detail/20260304011934425800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：对西班牙和英国都不满意。 英国在查戈斯群岛问题上一直不配合美方（军事袭击伊朗的）要求。 英国在能源和移民方面做的一切都糟糕透了。",
+          "url": "https://wallstreetcn.com/livenews/3062920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们有五个月的时间可以对不同国家征收15%的关税，期限过后，我们将逐步公布对不同国家的关税。",
+          "url": "https://flash.jin10.com/detail/20260304011919371800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：我认为德国总理默茨做得不错。",
+          "url": "https://wallstreetcn.com/livenews/3062919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们还有5个月的时间，关税仍将维持在15%。",
+          "url": "https://flash.jin10.com/detail/20260304011852586800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须对那些玩弄金钱的国家征收关税。",
+          "url": "https://flash.jin10.com/detail/20260304011703618800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：每个国家都想敲定他们已经达成的协议；将提高对某些国家的关税协议。",
+          "url": "https://flash.jin10.com/detail/20260304011422905800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普告诉到访的德国总理默茨：我们将商谈贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3062913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：我有权叫停与西班牙有关的一切事宜。",
+          "url": "https://flash.jin10.com/detail/20260304011055344800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普声称：与德国的关系一直都非常牢固。",
+          "url": "https://wallstreetcn.com/livenews/3062912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：一旦战争结束，油价可能会跌到比之前更低的水平。",
+          "url": "https://flash.jin10.com/detail/20260304011000296800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：关税让美国变得非常富裕。",
+          "url": "https://flash.jin10.com/detail/20260304010909859800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：预计油价将在对伊朗采取的行动结束后下跌。",
+          "url": "https://flash.jin10.com/detail/20260304010850676800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：油价可能会维持一段时间，但随后会下跌。",
+          "url": "https://flash.jin10.com/detail/20260304010819462800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们在世界各国储存了大量弹药，有无限的中高口径弹药。",
+          "url": "https://flash.jin10.com/detail/20260304010447717800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "非洲股市收盘播报｜南非股市收跌超5.8%，尼日利亚股指创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3062876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "柴油价格两天涨34%，创历史上最大同期涨幅，投资者担忧供应中断风险。",
+          "url": "https://wallstreetcn.com/livenews/3062914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         }
       ]
     },
@@ -86,7 +367,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
         }
@@ -103,24 +384,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "非洲股市收盘播报｜南非股市收跌超5.8%，尼日利亚股指创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3062876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
         }
