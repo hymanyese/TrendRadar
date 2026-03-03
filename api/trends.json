@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T06:33:42.485418+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-03-04T07:30:48.640735+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 07时30分]"
+        },
+        {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 07时30分]"
         },
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -41,17 +52,6 @@
           "time_info": "[00时53分 ~ 06时33分]"
         },
         {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 06时33分]"
-        },
-        {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
           "url": "https://news.ifeng.com/c/8rCZ8DyypW7",
           "source": "凤凰网",
@@ -59,8 +59,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 07时30分]"
+        },
+        {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -102,7 +113,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -129,15 +140,15 @@
           "time_info": "01时45分"
         },
         {
-          "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
-          "url": "https://flash.jin10.com/detail/20260304060328619800",
-          "source": "金十数据",
+          "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
+          "url": "https://wallstreetcn.com/livenews/3063046",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "07时30分"
         },
         {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
@@ -162,6 +173,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时55分]"
+        },
+        {
+          "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260304060328619800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时30分]"
         },
         {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
@@ -246,6 +269,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时36分]"
+        },
+        {
+          "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
+          "url": "https://flash.jin10.com/detail/20260304054539761800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时30分]"
         },
         {
           "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
@@ -380,17 +415,6 @@
           "time_info": "01时45分"
         },
         {
-          "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
-          "url": "https://flash.jin10.com/detail/20260304054539761800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
           "title": "美国总统特朗普：我们必须对那些玩弄金钱的国家征收关税。",
           "url": "https://flash.jin10.com/detail/20260304011703618800",
           "source": "金十数据",
@@ -400,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "特朗普表示：不会让银行“破坏”加密货币议程",
+          "url": "https://wallstreetcn.com/livenews/3063034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         },
         {
           "title": "美国总统特朗普：每个国家都想敲定他们已经达成的协议；将提高对某些国家的关税协议。",
@@ -676,11 +711,12 @@
           "url": "https://wallstreetcn.com/livenews/3063036",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时30分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌超5.8%，尼日利亚股指创收盘历史新高",
