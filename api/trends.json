@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T17:44:44.713873+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-03-03T18:42:09.780411+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时23分 ~ 17时44分]"
+          "appearance_count": 12,
+          "time_info": "[10时23分 ~ 18时42分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时48分 ~ 17时44分]"
+          "appearance_count": 11,
+          "time_info": "[12时48分 ~ 18时42分]"
         },
         {
           "title": "外交部回应特朗普3月访华能否成行",
@@ -64,6 +64,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时52分 ~ 10时23分]"
+        },
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时23分 ~ 18时42分]"
         },
         {
           "title": "特朗普3月访华能否成行？外交部回应",
@@ -81,6 +94,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时46分 ~ 15时44分]"
+        },
+        {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时48分 ~ 18时42分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -104,30 +128,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 05时36分]"
-        },
-        {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时23分 ~ 17时44分]"
-        },
-        {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时48分 ~ 17时44分]"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -228,7 +228,32 @@
           "time_info": "[12时48分 ~ 13时52分]"
         },
         {
+          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
+          "url": "https://www.cls.cn/detail/2300728",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时43分 ~ 18时42分]"
+        },
+        {
           "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "特朗普放话“不惜一切” ，全球市场遭遇“黑色星期二”，除了原油，一切都在跌！",
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
           "ranks": [
@@ -236,7 +261,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时44分"
+          "time_info": "18时42分"
         },
         {
           "title": "美以伊战争最新动态｜美驻沙特使馆遭袭，特朗普回应",
@@ -294,19 +319,6 @@
           "time_info": "14时56分"
         },
         {
-          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
-          "url": "https://www.cls.cn/detail/2300728",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时43分 ~ 17时44分]"
-        },
-        {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
           "url": "https://wallstreetcn.com/livenews/3062086",
           "source": "华尔街见闻-快讯",
@@ -353,6 +365,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时43分 ~ 16时44分]"
+        },
+        {
+          "title": "特朗普：没有必要对伊朗采取地面军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时42分]"
         },
         {
           "title": "特朗普称对伊朗军事行动可能持续4至5周",
@@ -424,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "日本首相高市早苗：将在日美首脑会谈上深入讨论包括下一步行动在内的各种问题。",
@@ -547,17 +582,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "特朗普：没有必要对伊朗采取地面军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "据国家通讯社：约旦国王阿卜杜拉接获美国总统特朗普来电。约旦国王阿卜杜拉向美国总统特朗普强调，必须努力实现地区全面平静。",
           "url": "https://flash.jin10.com/detail/20260303022557330800",
           "source": "金十数据",
@@ -575,7 +599,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -644,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-03）",
+          "url": "https://flash.jin10.com/detail/20260303182749547800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "美法院驳回特朗普政府推迟退税请求",
