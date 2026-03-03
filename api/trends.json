@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T12:48:36.872457+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-03-03T13:52:16.374245+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -73,11 +73,12 @@
             18,
             19,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时46分 ~ 12时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时46分 ~ 13时52分]"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -122,6 +123,18 @@
           "time_info": "[00时52分 ~ 07时29分]"
         },
         {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 13时52分]"
+        },
+        {
           "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
           "url": "https://wallstreetcn.com/articles/3766482",
           "source": "华尔街见闻",
@@ -156,16 +169,50 @@
           "time_info": "[00时52分 ~ 01时47分]"
         },
         {
-          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
-          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "title": "美国会拟限制特朗普继续对伊动武",
+          "url": "https://www.toutiao.com/trending/7611738955826462762/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 13时52分]"
+        },
+        {
+          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
+          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
           "source": "凤凰网",
           "ranks": [
-            4,
-            3
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 13时52分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜特朗普回应是否怕美国本土遭袭",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时23分 ~ 12时48分]"
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 13时52分]"
         },
         {
           "title": "美以伊战争最新动态｜美驻沙特使馆遭袭，特朗普回应",
@@ -190,28 +237,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "美国会拟限制特朗普继续对伊动武",
-          "url": "https://www.toutiao.com/trending/7611738955826462762/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
-          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
           "url": "https://wallstreetcn.com/livenews/3062086",
           "source": "华尔街见闻-快讯",
@@ -222,18 +247,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时53分]"
-        },
-        {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 12时48分]"
         },
         {
           "title": "美上诉院驳回特朗普政府推迟关税退税请求",
@@ -258,6 +271,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时53分]"
+        },
+        {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 13时52分]"
         },
         {
           "title": "特朗普称对伊朗军事行动可能持续4至5周",
@@ -320,17 +344,6 @@
           "time_info": "[03时38分 ~ 04时41分]"
         },
         {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
           "title": "美媒：特朗普颈部疑似出现皮疹 预计红肿会持续数周",
           "url": "https://flash.jin10.com/detail/20260303040020990800",
           "source": "金十数据",
@@ -348,7 +361,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -381,7 +394,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -513,7 +526,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -527,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "据日本共同社：日本首相高市早苗表示，本月晚些时候在华盛顿举行的峰会期间，他将与美国总统特朗普举行“坦诚会谈”，讨论美国和以色列对伊朗发动的袭击事件。",
+          "url": "https://flash.jin10.com/detail/20260303132618373800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "英国首相斯塔默：判断什么对英国最有利是我的职责，而非美国总统特朗普的责任。",
@@ -579,7 +603,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -693,6 +717,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "沪指低开高走涨近0.5%，“三桶油”历史首次收盘集体涨停，能源化工商品掀涨停潮，恒科指大跌近3%",
+          "url": "https://wallstreetcn.com/articles/3766489",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时29分 ~ 13时52分]"
+        },
+        {
           "title": "在美股时段交易的费城金银指数收跌0.24%，报469.27点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.25%，报3307.75点，勉强再创收盘历史新高。 在美股时段交易的原材料指数收涨0.64%，金属与矿业指数收涨1.56%。",
           "url": "https://wallstreetcn.com/livenews/3062167",
           "source": "华尔街见闻-快讯",
@@ -703,17 +738,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时29分]"
-        },
-        {
-          "title": "沪指低开高走涨近0.5%，“三桶油”历史首次收盘集体涨停，能源化工商品掀涨停潮，恒科指大跌近3%",
-          "url": "https://wallstreetcn.com/articles/3766489",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时29分 ~ 12时48分]"
         },
         {
           "title": "中东冲突导致超级油轮运费创历史新高",
@@ -758,7 +782,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -773,11 +797,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%BC%A0%E8%80%81%E7%85%A7%E7%89%87%E4%B8%BA%E4%BD%95%E8%AE%A9%E8%81%8C%E5%9C%BA%E5%8F%91%E5%B0%8F%E9%9B%86%E4%BD%93%E7%A0%B4%E9%98%B2",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 13时52分]"
         }
       ]
     }
