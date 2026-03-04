@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T21:02:02.926348+08:00",
-  "total_titles_processed": 1933,
+  "generated_at": "2026-03-04T22:03:29.652078+08:00",
+  "total_titles_processed": 2033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 84,
+      "match_count": 85,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时09分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 22时03分]"
         },
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时09分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 22时03分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -81,8 +81,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时52分 ~ 21时02分]"
+          "appearance_count": 29,
+          "time_info": "[00时52分 ~ 22时03分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -103,8 +103,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时51分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[14时51分 ~ 22时03分]"
         },
         {
           "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
@@ -181,6 +181,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时39分 ~ 22时03分]"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -282,17 +295,16 @@
           "time_info": "07时30分"
         },
         {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            18,
-            17
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时39分 ~ 21时02分]"
+          "time_info": "[17时43分 ~ 22时03分]"
         },
         {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
@@ -329,17 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时30分]"
-        },
-        {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 21时02分]"
         },
         {
           "title": "美伊战火引爆油市？特朗普：敌对行动结束后 油价将回落！",
@@ -532,7 +533,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -557,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
+          "url": "https://www.cls.cn/detail/2302897",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美国总统特朗普：我们正在进行各种关税研究。",
@@ -587,7 +599,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
