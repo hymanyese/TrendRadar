@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-05T03:40:01.464793+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-03-05T04:35:10.787104+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 17,
+      "match_count": 28,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
           "url": "https://www.cls.cn/detail/2302897",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 03时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 04时35分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时35分]"
         },
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时35分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -48,8 +49,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 03时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 04时35分]"
+        },
+        {
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 04时35分]"
         },
         {
           "title": "美称打死试图暗杀特朗普的伊朗高官",
@@ -65,17 +79,37 @@
           "time_info": "[00时50分 ~ 03时40分]"
         },
         {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
+          "title": "美国总统特朗普：谷歌是一家好公司。",
+          "url": "https://flash.jin10.com/detail/20260305042824208800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            18,
-            16
+            3
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 03时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗问题）如果我们不先动手，他们就会对以色列下手。",
+          "url": "https://flash.jin10.com/detail/20260305042503367800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "特朗普政府在文件中确认，如果被命令支付进口商关税退款，美国将支付利息。",
+          "url": "https://wallstreetcn.com/livenews/3063838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         },
         {
           "title": "政协委员告诉你什么最让马斯克破防",
@@ -97,8 +131,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 04时35分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什担任美联储主席，以接替杰罗姆·鲍威尔",
@@ -113,6 +147,17 @@
           "time_info": "[01时42分 ~ 02时55分]"
         },
         {
+          "title": "美国总统特朗普：我们将继续前进。",
+          "url": "https://flash.jin10.com/detail/20260305042107536800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：美国总统特朗普将出席在伊朗袭击中丧生的美军官兵的隆重葬礼。",
           "url": "https://flash.jin10.com/detail/20260305022734814800",
           "source": "金十数据",
@@ -124,6 +169,61 @@
           "time_info": "02时55分"
         },
         {
+          "title": "美国总统特朗普：伊朗的导弹和发射器正在被消灭。",
+          "url": "https://flash.jin10.com/detail/20260305042038924800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗战争前线）1-10分打分的话，我给15分。",
+          "url": "https://flash.jin10.com/detail/20260305042035461800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "美国总统特朗普：想当伊朗领导人的人，最后都死了。",
+          "url": "https://flash.jin10.com/detail/20260305042026139800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "美国总统特朗普：我们在伊朗问题上处于非常有利的地位。",
+          "url": "https://flash.jin10.com/detail/20260305041920558800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉总统德尔西·罗德里格斯工作做得非常出色。",
+          "url": "https://flash.jin10.com/detail/20260305041250924800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
           "title": "据《大西洋》：特朗普预计将在得州选举中支持科宁。",
           "url": "https://flash.jin10.com/detail/20260305022021671800",
           "source": "金十数据",
@@ -133,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美国总统特朗普：石油正开始从委内瑞拉流出。",
+          "url": "https://flash.jin10.com/detail/20260305041104184800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         },
         {
           "title": "伊朗高级教士贾瓦迪·阿莫利：当今虔诚的什叶派穆斯林所应做的，就是血洗以色列人和美国总统特朗普。",
@@ -163,7 +274,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -185,7 +296,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -199,6 +310,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "消息人士：特朗普周三晚上联系了法国总统马克龙，告知他美国在伊朗的军事行动情况。",
+          "url": "https://flash.jin10.com/detail/20260305034244584800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Crane Data：美国货币基金资产管理规模达到8.27万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3063835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         }
       ]
     }
