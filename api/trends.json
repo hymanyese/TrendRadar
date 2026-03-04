@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-04T10:09:44.481529+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-03-04T12:43:03.274973+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 10时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 12时43分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -30,15 +30,16 @@
           "time_info": "[00时52分 ~ 07时30分]"
         },
         {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
           "ranks": [
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 10时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 12时43分]"
         },
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -63,6 +64,17 @@
           "time_info": "[00时52分 ~ 07时30分]"
         },
         {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 12时43分]"
+        },
+        {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
@@ -72,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -124,9 +125,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "据Politico：特朗普周二与Coinbase(COIN.O)首席执行官私下会面。",
+          "url": "https://flash.jin10.com/detail/20260304122045443800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
@@ -209,6 +221,41 @@
           "time_info": "[06时33分 ~ 07时30分]"
         },
         {
+          "title": "西班牙回应特朗普称将切断贸易往来",
+          "url": "https://www.toutiao.com/trending/7612678791206387775/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
+          "url": "https://www.cls.cn/detail/2301855",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 12时43分]"
+        },
+        {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
           "url": "https://wallstreetcn.com/livenews/3062950",
           "source": "华尔街见闻-快讯",
@@ -281,6 +328,17 @@
           "time_info": "[03时41分 ~ 04时36分]"
         },
         {
+          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
+          "url": "https://www.cls.cn/detail/2301976",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
           "title": "特朗普否认被以色列“拖入战争”",
           "url": "https://wallstreetcn.com/livenews/3062965",
           "source": "华尔街见闻-快讯",
@@ -305,17 +363,6 @@
           "time_info": "[06时33分 ~ 07时30分]"
         },
         {
-          "title": "西班牙回应特朗普称将切断贸易往来",
-          "url": "https://www.toutiao.com/trending/7612678791206387775/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
           "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
           "url": "https://flash.jin10.com/detail/20260304012318778800",
           "source": "金十数据",
@@ -338,17 +385,6 @@
           "time_info": "02时55分"
         },
         {
-          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
-          "url": "https://www.cls.cn/detail/2301855",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
           "title": "外媒白宫事务记者：特朗普今天多次声称15%的替代关税已经生效，但白宫尚未实施该关税，目前仍为10%。",
           "url": "https://flash.jin10.com/detail/20260304012217221800",
           "source": "金十数据",
@@ -366,7 +402,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -380,17 +416,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
         },
         {
           "title": "反弹3美元 特朗普打击油价的效果转瞬即逝",
@@ -553,7 +578,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -781,7 +806,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "加拿大标普/TSX综合指数收跌2.19%，报33784.94点，脱离收盘历史最高位；小盘股指收跌4.28%，也撤离收盘历史最高位。 周二（3月3日）北美尾盘，加拿大10年期基准国债收益率涨3.0个基点，报3.242%，北京时间20:05“高开”至3.319%刷新日高，随后逐步回吐涨幅。 墨西哥综合指数收跌3.04%。 巴西圣保罗证交所指数收跌3.15%。",
@@ -816,6 +841,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "油价飙升推动印度卢比跌至历史新低",
+          "url": "https://flash.jin10.com/detail/20260304114935991800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "中东冲突加剧经济风险影响，印度卢比跌破1美元兑92卢比关口。 印度卢比开盘报1美元兑92.0275卢比，创历史新低，较前一交易日收盘价91.47下跌0.6%。 印度10年期国债收益率上行5个基点至6.72%。",
+          "url": "https://wallstreetcn.com/livenews/3063265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待腾讯对中学生开放「暑期实践」岗位，面向 13-18 岁学生开放职场体验？",
+          "url": "https://www.zhihu.com/question/2012187535149901759",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克谈及与印度的石油贸易，称：俄罗斯预计印度对俄方石油的兴趣将会变得更加浓厚。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3062870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
         }
       ]
     },
@@ -829,23 +904,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "俄罗斯副总理诺瓦克谈及与印度的石油贸易，称：俄罗斯预计印度对俄方石油的兴趣将会变得更加浓厚。（塔斯社）",
-          "url": "https://wallstreetcn.com/livenews/3062870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 1,
