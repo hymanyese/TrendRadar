@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T07:30:48.640735+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-03-04T10:09:44.481529+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 62,
+      "match_count": 69,
       "titles": [
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 07时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 10时09分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 07时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 10时09分]"
         },
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -69,9 +69,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -105,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "据数据机构DDHQ：特朗普盟友迈克尔·沃特利（Michael Whatley）赢得北卡罗来纳州美国参议院席位共和党初选。",
+          "url": "https://flash.jin10.com/detail/20260304093832268800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
@@ -146,7 +168,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
         },
@@ -283,6 +305,17 @@
           "time_info": "[06时33分 ~ 07时30分]"
         },
         {
+          "title": "西班牙回应特朗普称将切断贸易往来",
+          "url": "https://www.toutiao.com/trending/7612678791206387775/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
           "url": "https://flash.jin10.com/detail/20260304012318778800",
           "source": "金十数据",
@@ -305,6 +338,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
+          "url": "https://www.cls.cn/detail/2301855",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "外媒白宫事务记者：特朗普今天多次声称15%的替代关税已经生效，但白宫尚未实施该关税，目前仍为10%。",
           "url": "https://flash.jin10.com/detail/20260304012217221800",
           "source": "金十数据",
@@ -316,6 +360,17 @@
           "time_info": "01时45分"
         },
         {
+          "title": "西班牙回应特朗普贸易威胁",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%B8%E6%98%93%E5%A8%81%E8%83%81%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "美国总统特朗普：英国“非常、非常不合作”。",
           "url": "https://flash.jin10.com/detail/20260304012112730800",
           "source": "金十数据",
@@ -325,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "反弹3美元 特朗普打击油价的效果转瞬即逝",
@@ -432,7 +498,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
         },
@@ -479,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "特朗普妻子被怒斥你丈夫下令轰炸小学",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%80%92%E6%96%A5%E4%BD%A0%E4%B8%88%E5%A4%AB%E4%B8%8B%E4%BB%A4%E8%BD%B0%E7%82%B8%E5%B0%8F%E5%AD%A6%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国总统特朗普：我有权叫停与西班牙有关的一切事宜。",
