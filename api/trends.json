@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T14:52:12.390630+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-03-04T15:39:54.195316+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 14时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 15时39分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -47,11 +47,12 @@
           "ranks": [
             2,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时52分 ~ 14时52分]"
+          "appearance_count": 20,
+          "time_info": "[00时52分 ~ 15时39分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -72,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 15时39分]"
         },
         {
           "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
@@ -81,11 +82,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 14时52分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时39分]"
         },
         {
           "title": "西班牙回应特朗普称将切断贸易往来",
@@ -179,6 +181,18 @@
           "time_info": "06时33分"
         },
         {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 15时39分]"
+        },
+        {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
           "url": "https://wallstreetcn.com/articles/3766558",
           "source": "华尔街见闻",
@@ -212,6 +226,19 @@
           "time_info": "07时30分"
         },
         {
+          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
+          "url": "https://www.cls.cn/detail/2301976",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 15时39分]"
+        },
+        {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
           "url": "https://wallstreetcn.com/livenews/3062981",
           "source": "华尔街见闻-快讯",
@@ -222,18 +249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时36分]"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 14时52分]"
         },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
@@ -260,16 +275,15 @@
           "time_info": "[06时33分 ~ 07时30分]"
         },
         {
-          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
-          "url": "https://www.cls.cn/detail/2301976",
-          "source": "财联社热门",
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 15时39分]"
         },
         {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
@@ -306,17 +320,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时36分]"
-        },
-        {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
         },
         {
           "title": "美国总统特朗普：等一切都结束后，油价将会下跌。 （美国和以色列对伊朗挑起的）战争结束后，油价可能会低于战前的水平。",
@@ -410,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "特朗普因西班牙不配合打击伊朗对其发出威胁，外交部：贸易不应被武器化",
+          "url": "https://wallstreetcn.com/livenews/3063455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "西班牙回应特朗普贸易威胁",
@@ -517,7 +531,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -866,7 +880,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "据路孚特数据，亚洲高硫燃料油裂解价差创下历史新高。",
@@ -875,7 +889,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -890,6 +904,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时30分]"
+        },
+        {
+          "title": "伊朗外交部发言人：欧盟必须反对任何让人想起历史上“纳粹”心态的举动，而应坚持其对国际法和正义的承诺。",
+          "url": "https://flash.jin10.com/detail/20260304151007993800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌超5.8%，尼日利亚股指创收盘历史新高",
@@ -945,6 +970,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "镖人 历史上最后的纯手工武侠",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%96%E4%BA%BA%20%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%90%8E%E7%9A%84%E7%BA%AF%E6%89%8B%E5%B7%A5%E6%AD%A6%E4%BE%A0&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         }
       ]
     },
@@ -960,8 +996,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 15时39分]"
         },
         {
           "title": "俄罗斯副总理诺瓦克谈及与印度的石油贸易，称：俄罗斯预计印度对俄方石油的兴趣将会变得更加浓厚。（塔斯社）",
