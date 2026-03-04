@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T15:39:54.195316+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-03-04T16:42:09.595804+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 77,
+      "match_count": 79,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -41,6 +41,17 @@
           "time_info": "[00时53分 ~ 06时33分]"
         },
         {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 16时42分]"
+        },
+        {
           "title": "斩首?老外通报特朗普坐标",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
           "source": "贴吧",
@@ -48,11 +59,12 @@
             2,
             15,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 15时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 16时42分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -66,15 +78,31 @@
           "time_info": "[00时52分 ~ 07时30分]"
         },
         {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
+          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
+          "url": "https://www.cls.cn/detail/2301976",
+          "source": "财联社热门",
           "ranks": [
-            1
+            13,
+            11,
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 15时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 16时42分]"
         },
         {
           "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
@@ -113,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -181,18 +220,6 @@
           "time_info": "06时33分"
         },
         {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 15时39分]"
-        },
-        {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
           "url": "https://wallstreetcn.com/articles/3766558",
           "source": "华尔街见闻",
@@ -226,17 +253,15 @@
           "time_info": "07时30分"
         },
         {
-          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
-          "url": "https://www.cls.cn/detail/2301976",
-          "source": "财联社热门",
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            11,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时39分]"
+          "time_info": "[14时51分 ~ 16时42分]"
         },
         {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
@@ -273,17 +298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时30分]"
-        },
-        {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 15时39分]"
         },
         {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
@@ -344,6 +358,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时36分]"
+        },
+        {
+          "title": "美伊战火引爆油市？特朗普：敌对行动结束后 油价将回落！",
+          "url": "https://www.cls.cn/detail/2301958",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
@@ -421,7 +446,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -912,7 +937,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -978,7 +1003,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         }
@@ -993,11 +1018,12 @@
           "url": "https://www.zhihu.com/question/2012187535149901759",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 15时39分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 16时42分]"
         },
         {
           "title": "俄罗斯副总理诺瓦克谈及与印度的石油贸易，称：俄罗斯预计印度对俄方石油的兴趣将会变得更加浓厚。（塔斯社）",
