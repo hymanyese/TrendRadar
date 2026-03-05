@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T21:04:57.930296+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2026-03-05T22:48:15.251196+08:00",
+  "total_titles_processed": 1948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 22时48分]"
         },
         {
           "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
@@ -79,6 +79,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 06时35分]"
+        },
+        {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 22时48分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -161,15 +172,16 @@
           "time_info": "[14时55分 ~ 18时42分]"
         },
         {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
           "source": "凤凰网",
           "ranks": [
-            2
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 21时04分]"
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 22时48分]"
         },
         {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
@@ -181,18 +193,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 21时04分]"
         },
         {
           "title": "美国总统特朗普：谷歌是一家好公司。",
@@ -449,6 +449,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
+          "url": "https://www.cls.cn/detail/2303813",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉总统德尔西·罗德里格斯工作做得非常出色。",
           "url": "https://flash.jin10.com/detail/20260305041250924800",
           "source": "金十数据",
@@ -526,6 +537,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "英国首相斯塔默：上周六晚间与美国总统特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260305222721260800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美国总统特朗普：将很快为得州参议院决选中的共和党候选人背书，呼吁未得到背书的候选人退出竞选。",
           "url": "https://flash.jin10.com/detail/20260305021737420800",
           "source": "金十数据",
@@ -579,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "英国首相斯塔默：由美国总统特朗普作出他认为符合美国国家利益的决定。",
+          "url": "https://flash.jin10.com/detail/20260305222305323800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-05）",
