@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T10:12:46.888916+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-03-05T12:47:05.622521+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -51,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 10时12分]"
+          "appearance_count": 16,
+          "time_info": "[00时50分 ~ 12时47分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -84,6 +84,17 @@
           "time_info": "[00时50分 ~ 07时32分]"
         },
         {
+          "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
+          "url": "https://www.cls.cn/detail/2303132",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时47分]"
+        },
+        {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
           "url": "https://wallstreetcn.com/articles/3766656",
           "source": "华尔街见闻",
@@ -93,17 +104,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
-          "url": "https://www.cls.cn/detail/2303132",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "美国总统特朗普：谷歌是一家好公司。",
@@ -167,6 +167,18 @@
           "time_info": "[05时37分 ~ 07时32分]"
         },
         {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时47分]"
+        },
+        {
           "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3063861",
           "source": "华尔街见闻-快讯",
@@ -203,6 +215,30 @@
           "time_info": "[04时35分 ~ 05时37分]"
         },
         {
+          "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
+          "url": "https://www.cls.cn/detail/2303036",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时47分]"
+        },
+        {
+          "title": "西班牙首相回击特朗普",
+          "url": "https://www.douyin.com/hot/2419161",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 12时47分]"
+        },
+        {
           "title": "特朗普正式提名凯文·沃什担任美联储主席，以接替杰罗姆·鲍威尔",
           "url": "https://wallstreetcn.com/livenews/3063791",
           "source": "华尔街见闻-快讯",
@@ -227,6 +263,17 @@
           "time_info": "[05时37分 ~ 06时35分]"
         },
         {
+          "title": "马斯克为何频繁为中国AI站台",
+          "url": "https://www.toutiao.com/trending/7613576713213054470/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
           "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
           "url": "https://wallstreetcn.com/livenews/3063881",
           "source": "华尔街见闻-快讯",
@@ -236,17 +283,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
-        },
-        {
-          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
-          "url": "https://wallstreetcn.com/articles/3766752",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "美国总统特朗普：我们将继续前进。",
@@ -291,17 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
-        },
-        {
-          "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
-          "url": "https://www.cls.cn/detail/2303036",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "美国总统特朗普：想当伊朗领导人的人，最后都死了。",
@@ -379,17 +404,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
-        },
-        {
-          "title": "西班牙首相回击特朗普",
-          "url": "https://www.douyin.com/hot/2419161",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "伊朗高级教士贾瓦迪·阿莫利：当今虔诚的什叶派穆斯林所应做的，就是血洗以色列人和美国总统特朗普。",
