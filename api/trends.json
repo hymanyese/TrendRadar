@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T18:42:09.135442+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2026-03-05T19:35:49.022403+08:00",
+  "total_titles_processed": 1715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -67,6 +67,20 @@
           "time_info": "[00时50分 ~ 06时35分]"
         },
         {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时12分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普夫人，“翻车”了",
           "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
           "source": "凤凰网",
@@ -88,8 +102,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时12分 ~ 18时42分]"
+          "appearance_count": 15,
+          "time_info": "[10时12分 ~ 19时35分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -104,20 +118,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时50分 ~ 10时12分]"
-        },
-        {
-          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
-          "url": "https://wallstreetcn.com/articles/3766752",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时12分 ~ 18时42分]"
         },
         {
           "title": "“大哥”说打就打，日本经济或遭重创，高市早苗呼吁“谈判”",
@@ -161,6 +161,17 @@
           "time_info": "[14时55分 ~ 18时42分]"
         },
         {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
           "url": "https://wallstreetcn.com/articles/3766656",
           "source": "华尔街见闻",
@@ -172,17 +183,6 @@
           "time_info": "[00时50分 ~ 06时35分]"
         },
         {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
-        },
-        {
           "title": "美国总统特朗普：谷歌是一家好公司。",
           "url": "https://flash.jin10.com/detail/20260305042824208800",
           "source": "金十数据",
@@ -192,6 +192,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 19时35分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -229,6 +241,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时50分 ~ 07时32分]"
+        },
+        {
+          "title": "据《华盛顿邮报》：美国总统特朗普本周在通话中向库尔德领导人表示支持。",
+          "url": "https://flash.jin10.com/detail/20260305190546098800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
@@ -292,17 +315,6 @@
           "time_info": "[04时35分 ~ 05时37分]"
         },
         {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
-        },
-        {
           "title": "特朗普正式提名凯文·沃什担任美联储主席，以接替杰罗姆·鲍威尔",
           "url": "https://wallstreetcn.com/livenews/3063791",
           "source": "华尔街见闻-快讯",
@@ -347,6 +359,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
+          "title": "据《华盛顿邮报》：美国总统特朗普曾为伊朗库尔德人提供大规模美国空中支援。",
+          "url": "https://flash.jin10.com/detail/20260305190418459800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
@@ -443,7 +466,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -514,6 +537,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "北约秘书长吕特：我们支持美国总统特朗普摧毁伊朗的核能力和导弹能力。",
+          "url": "https://flash.jin10.com/detail/20260305185246687800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：本周末，美国总统特朗普将在迈阿密欢迎来自12个拉丁美洲国家的国家元首。",
           "url": "https://flash.jin10.com/detail/20260305030422126800",
           "source": "金十数据",
@@ -553,7 +587,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
