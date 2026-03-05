@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T19:35:49.022403+08:00",
-  "total_titles_processed": 1715,
+  "generated_at": "2026-03-05T21:04:57.930296+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,20 @@
           "time_info": "[10时12分 ~ 14时56分]"
         },
         {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时12分 ~ 21时04分]"
+        },
+        {
           "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
           "url": "https://news.ifeng.com/c/8rFCPechKEM",
           "source": "凤凰网",
@@ -65,20 +79,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
-          "url": "https://wallstreetcn.com/articles/3766752",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时12分 ~ 19时35分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -168,8 +168,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时04分]"
         },
         {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
@@ -183,6 +183,18 @@
           "time_info": "[00时50分 ~ 06时35分]"
         },
         {
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时04分]"
+        },
+        {
           "title": "美国总统特朗普：谷歌是一家好公司。",
           "url": "https://flash.jin10.com/detail/20260305042824208800",
           "source": "金十数据",
@@ -192,18 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
-        },
-        {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 19时35分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -249,7 +249,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -367,7 +367,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -543,7 +543,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
