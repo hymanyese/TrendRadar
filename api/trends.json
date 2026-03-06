@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T22:02:09.581757+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-03-06T22:50:38.532757+08:00",
+  "total_titles_processed": 1968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 70,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[02时06分 ~ 22时02分]"
+          "appearance_count": 27,
+          "time_info": "[02时06分 ~ 22时50分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -165,6 +165,17 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
+          "title": "美以伊战争｜特朗普：让伊朗再次伟大！",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
           "url": "https://m.thepaper.cn/newsDetail_forward_32705838",
           "source": "澎湃新闻",
@@ -206,7 +217,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -333,6 +344,19 @@
           "time_info": "[04时40分 ~ 06时35分]"
         },
         {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 22时50分]"
+        },
+        {
           "title": "美国国土安全部部长将换人，特朗普提名新人选",
           "url": "https://wallstreetcn.com/livenews/3064640",
           "source": "华尔街见闻-快讯",
@@ -356,18 +380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 03时53分]"
-        },
-        {
-          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
-          "url": "https://wallstreetcn.com/articles/3766889",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时02分]"
         },
         {
           "title": "美国总统特朗普：将采取进一步措施来减轻石油压力。 石油价格似乎已经基本稳定下来了。",
@@ -508,6 +520,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
+          "url": "https://news.ifeng.com/c/8rHRuIXQ6KL",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "特朗普称当前未考虑向伊朗派地面部队",
           "url": "https://wallstreetcn.com/livenews/3065170",
           "source": "华尔街见闻-快讯",
@@ -585,6 +608,28 @@
           "time_info": "14时54分"
         },
         {
+          "title": "白宫顾问哈塞特：（特朗普政府）近期不会讨论释放战略石油储备（SPR）。",
+          "url": "https://wallstreetcn.com/livenews/3065317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "特朗普宣称“与伊朗不会达成任何协议”",
+          "url": "https://wallstreetcn.com/livenews/3065314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "美国众议院未能通过阻止特朗普对伊朗动武的决议",
           "url": "https://flash.jin10.com/detail/20260306054650104800",
           "source": "金十数据",
@@ -657,7 +702,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -819,7 +864,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "《太平年》众主演分享：历史是与当下对话，和平来之不易",
@@ -831,11 +876,12 @@
             10,
             9,
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时43分 ~ 22时02分]"
+          "appearance_count": 16,
+          "time_info": "[12时43分 ~ 22时50分]"
         },
         {
           "title": "历史上有哪些红极一时却最终消失了的产品和品牌？",
@@ -863,6 +909,18 @@
           "time_info": "10时12分"
         },
         {
+          "title": "伊朗大使说250年怎能挑衅3000年历史",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E8%AF%B4250%E5%B9%B4%E6%80%8E%E8%83%BD%E6%8C%91%E8%A1%853000%E5%B9%B4%E5%8E%86%E5%8F%B2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 22时50分]"
+        },
+        {
           "title": "詹姆斯加冕历史进球王 湖人惜败掘金",
           "url": "https://www.toutiao.com/trending/7614013507037564435/",
           "source": "今日头条",
@@ -873,17 +931,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时53分 ~ 15时39分]"
-        },
-        {
-          "title": "伊朗大使说250年怎能挑衅3000年历史",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E8%AF%B4250%E5%B9%B4%E6%80%8E%E8%83%BD%E6%8C%91%E8%A1%853000%E5%B9%B4%E5%8E%86%E5%8F%B2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "A股化工股持续拉升，卫星化学午后涨停，股价创历史新高，红墙股份、红宝丽此前封板，滨化股份、齐翔腾达、怡达股份、氯碱化工跟涨。",
@@ -906,6 +953,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "正放是艺术 倒放是历史",
+          "url": "https://www.douyin.com/hot/2421352",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     }
