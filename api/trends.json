@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T02:37:28.369192+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-03-08T03:24:40.045979+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时24分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时24分]"
         },
         {
           "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时24分]"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -56,11 +56,12 @@
           "url": "https://wallstreetcn.com/livenews/3065718",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时24分]"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -73,6 +74,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时24分]"
+        },
+        {
+          "title": "委内瑞拉代总统：我们将特朗普承认我们的这一决定视为对委内瑞拉人民及其为国家真相而斗争的公正事业的认可。我们重申愿意建立基于相互尊重和平等的长期关系。",
+          "url": "https://flash.jin10.com/detail/20260308020752768800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时24分]"
         },
         {
           "title": "美国总统特朗普：我认为鲁比奥将成为历史上最优秀的国务卿，这是我的看法。",
@@ -98,24 +111,13 @@
           "time_info": "01时24分"
         },
         {
-          "title": "委内瑞拉代总统：我们将特朗普承认我们的这一决定视为对委内瑞拉人民及其为国家真相而斗争的公正事业的认可。我们重申愿意建立基于相互尊重和平等的长期关系。",
-          "url": "https://flash.jin10.com/detail/20260308020752768800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
           "title": "伊朗外交部长：我警告特朗普的特使，战争不会改善谈判地位。",
           "url": "https://flash.jin10.com/detail/20260308015535108800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -126,7 +128,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -137,7 +139,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -159,9 +161,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普抵达多佛空军基地，参加六名在“史诗怒火”行动中阵亡的美国军人的庄重移交仪式。",
+          "url": "https://flash.jin10.com/detail/20260308023151361800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -186,11 +199,12 @@
           "source": "微博",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 03时24分]"
         },
         {
           "title": "怎么搞好职场人际关系？",
@@ -198,11 +212,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时24分]"
         },
         {
           "title": "初入职场，如何处理好复杂的人际关系?",
@@ -211,9 +226,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时24分]"
         }
       ]
     },
@@ -230,8 +245,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时24分]"
         },
         {
           "title": "彭博大宗商品指数飙至历史新高，美油日涨17%、周涨幅创纪录，欧天然气全周一度翻倍",
@@ -241,8 +256,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时24分]"
         }
       ]
     }
