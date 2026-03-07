@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T00:31:44.606159+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-08T01:24:00.123049+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
-          "url": "https://wallstreetcn.com/articles/3766927",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时24分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -37,30 +26,54 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
+          "url": "https://wallstreetcn.com/articles/3766927",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
+        },
+        {
+          "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
+          "url": "https://flash.jin10.com/detail/20260308004923405800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时24分"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
           "url": "https://flash.jin10.com/detail/20260308001516686800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
         },
         {
           "title": "美国总统特朗普：我认为鲁比奥将成为历史上最优秀的国务卿，这是我的看法。",
           "url": "https://flash.jin10.com/detail/20260308001200353800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
         },
         {
           "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
@@ -70,8 +83,30 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
+        },
+        {
+          "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260308004445538800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "据NBC新闻：民调显示，90%的MAGA（让美国再次伟大）信众支持特朗普针对伊朗的行动。",
+          "url": "https://flash.jin10.com/detail/20260308002707649800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -87,6 +122,35 @@
       ]
     },
     {
+      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "怎么搞好职场人际关系？",
+          "url": "https://www.zhihu.com/question/4441714197",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时24分]"
+        },
+        {
+          "title": "6年派遣工仍觉自己是职场二等公民",
+          "url": "https://s.weibo.com/weibo?q=%236%E5%B9%B4%E6%B4%BE%E9%81%A3%E5%B7%A5%E4%BB%8D%E8%A7%89%E8%87%AA%E5%B7%B1%E6%98%AF%E8%81%8C%E5%9C%BA%E4%BA%8C%E7%AD%89%E5%85%AC%E6%B0%91%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 01时24分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
       "match_count": 2,
       "titles": [
@@ -98,8 +162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
         },
         {
           "title": "彭博大宗商品指数飙至历史新高，美油日涨17%、周涨幅创纪录，欧天然气全周一度翻倍",
@@ -109,25 +173,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "怎么搞好职场人际关系？",
-          "url": "https://www.zhihu.com/question/4441714197",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时24分]"
         }
       ]
     }
