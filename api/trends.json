@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T03:24:40.045979+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-03-08T04:28:57.325719+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -111,6 +111,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普说他必须干预伊朗未来领导人的选择，这说明他是个极其落后的人。",
+          "url": "https://flash.jin10.com/detail/20260308035031040800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "伊朗外交部长：我警告特朗普的特使，战争不会改善谈判地位。",
           "url": "https://flash.jin10.com/detail/20260308015535108800",
           "source": "金十数据",
@@ -172,7 +183,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -200,11 +211,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 04时28分]"
         },
         {
           "title": "怎么搞好职场人际关系？",
@@ -224,11 +236,12 @@
           "url": "https://www.zhihu.com/question/662936229",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时28分]"
         }
       ]
     },
@@ -245,8 +258,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "彭博大宗商品指数飙至历史新高，美油日涨17%、周涨幅创纪录，欧天然气全周一度翻倍",
@@ -256,8 +269,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         }
       ]
     }
