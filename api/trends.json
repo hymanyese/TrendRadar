@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T06:26:43.320650+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-03-08T07:26:01.559265+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时26分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时26分]"
         },
         {
           "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
@@ -41,15 +41,26 @@
           "time_info": "[00时31分 ~ 06时26分]"
         },
         {
-          "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
-          "url": "https://wallstreetcn.com/livenews/3065774",
+          "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普：“已经打赢”，美国不需要英国派遣航母参与对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3065776",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "07时26分"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -61,6 +72,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3065774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普说他必须干预伊朗未来领导人的选择，这说明他是个极其落后的人。",
+          "url": "https://flash.jin10.com/detail/20260308035031040800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 07时26分]"
         },
         {
           "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
@@ -75,17 +111,40 @@
           "time_info": "[00时31分 ~ 03时24分]"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普说他必须干预伊朗未来领导人的选择，这说明他是个极其落后的人。",
-          "url": "https://flash.jin10.com/detail/20260308035031040800",
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
+          "url": "https://flash.jin10.com/detail/20260308041630102800",
           "source": "金十数据",
           "ranks": [
-            9,
-            26,
-            28
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时26分]"
+          "time_info": "[05时24分 ~ 07时26分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普的歇斯底里行为和非外交言辞，显示出他在战略上的僵局，以及对以色列政策的完全依赖。这使得“美国优先”的口号变成了“以色列优先”。",
+          "url": "https://flash.jin10.com/detail/20260308041606759800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时26分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：我们将为特朗普刺杀最高领袖哈梅内伊而惩罚他，绝不会让他逃脱。",
+          "url": "https://flash.jin10.com/detail/20260308041345021800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时26分]"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -112,18 +171,6 @@
           "time_info": "[02时37分 ~ 03时24分]"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
-          "url": "https://flash.jin10.com/detail/20260308041630102800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时26分]"
-        },
-        {
           "title": "美国总统特朗普：我认为鲁比奥将成为历史上最优秀的国务卿，这是我的看法。",
           "url": "https://flash.jin10.com/detail/20260308001200353800",
           "source": "金十数据",
@@ -134,30 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时24分]"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普的歇斯底里行为和非外交言辞，显示出他在战略上的僵局，以及对以色列政策的完全依赖。这使得“美国优先”的口号变成了“以色列优先”。",
-          "url": "https://flash.jin10.com/detail/20260308041606759800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时26分]"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：我们将为特朗普刺杀最高领袖哈梅内伊而惩罚他，绝不会让他逃脱。",
-          "url": "https://flash.jin10.com/detail/20260308041345021800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时26分]"
         },
         {
           "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
@@ -265,8 +288,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时26分]"
         },
         {
           "title": "初入职场，如何处理好复杂的人际关系?",
@@ -274,11 +297,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时37分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[02时37分 ~ 07时26分]"
         },
         {
           "title": "怎么搞好职场人际关系？",
@@ -290,8 +314,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 07时26分]"
         }
       ]
     },
