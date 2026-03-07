@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T01:24:00.123049+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-03-08T02:37:28.369192+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -47,9 +47,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
+          "url": "https://wallstreetcn.com/livenews/3065718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -76,26 +87,59 @@
           "time_info": "[00时31分 ~ 01时24分]"
         },
         {
-          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
-          "url": "https://wallstreetcn.com/livenews/3065718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时24分]"
-        },
-        {
           "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
           "url": "https://flash.jin10.com/detail/20260308004445538800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "委内瑞拉代总统：我们将特朗普承认我们的这一决定视为对委内瑞拉人民及其为国家真相而斗争的公正事业的认可。我们重申愿意建立基于相互尊重和平等的长期关系。",
+          "url": "https://flash.jin10.com/detail/20260308020752768800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "伊朗外交部长：我警告特朗普的特使，战争不会改善谈判地位。",
+          "url": "https://flash.jin10.com/detail/20260308015535108800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "伊朗外交部长：总统对地区缓和局势的开放态度，几乎立即就被特朗普总统对我方能力的误判所扼杀。",
+          "url": "https://flash.jin10.com/detail/20260308015301388800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "伊朗外交部长：如果特朗普想升级局势，他将如愿以偿。",
+          "url": "https://flash.jin10.com/detail/20260308015219595800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "据NBC新闻：民调显示，90%的MAGA（让美国再次伟大）信众支持特朗普针对伊朗的行动。",
@@ -104,9 +148,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "特朗普：伊朗下任领导人需要对美以表现友好",
+          "url": "https://flash.jin10.com/detail/20260308014948305800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -123,8 +178,20 @@
     },
     {
       "keyword_group": "# ===== 社交观察 ===== 爱好 兴趣 职场",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "6年派遣工仍觉自己是职场二等公民",
+          "url": "https://s.weibo.com/weibo?q=%236%E5%B9%B4%E6%B4%BE%E9%81%A3%E5%B7%A5%E4%BB%8D%E8%A7%89%E8%87%AA%E5%B7%B1%E6%98%AF%E8%81%8C%E5%9C%BA%E4%BA%8C%E7%AD%89%E5%85%AC%E6%B0%91%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 02时37分]"
+        },
         {
           "title": "怎么搞好职场人际关系？",
           "url": "https://www.zhihu.com/question/4441714197",
@@ -138,15 +205,15 @@
           "time_info": "[00时31分 ~ 01时24分]"
         },
         {
-          "title": "6年派遣工仍觉自己是职场二等公民",
-          "url": "https://s.weibo.com/weibo?q=%236%E5%B9%B4%E6%B4%BE%E9%81%A3%E5%B7%A5%E4%BB%8D%E8%A7%89%E8%87%AA%E5%B7%B1%E6%98%AF%E8%81%8C%E5%9C%BA%E4%BA%8C%E7%AD%89%E5%85%AC%E6%B0%91%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "初入职场，如何处理好复杂的人际关系?",
+          "url": "https://www.zhihu.com/question/662936229",
+          "source": "知乎",
           "ranks": [
-            7
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         }
       ]
     },
@@ -159,11 +226,12 @@
           "url": "https://wallstreetcn.com/articles/3766902",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "彭博大宗商品指数飙至历史新高，美油日涨17%、周涨幅创纪录，欧天然气全周一度翻倍",
@@ -173,8 +241,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         }
       ]
     }
