@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T18:27:08.767916+08:00",
-  "total_titles_processed": 1401,
+  "generated_at": "2026-03-07T19:22:38.318848+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 18时27分]"
+          "appearance_count": 9,
+          "time_info": "[10时05分 ~ 19时22分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -90,17 +91,6 @@
           "time_info": "10时05分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-07）",
-          "url": "https://flash.jin10.com/detail/20260307180738661800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
           "url": "https://flash.jin10.com/detail/20260307034359509800",
           "source": "金十数据",
@@ -110,6 +100,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时35分 ~ 07时29分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-07）",
+          "url": "https://flash.jin10.com/detail/20260307180738661800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时22分]"
         },
         {
           "title": "Robert Lighthizer将退出特朗普媒体科技集团董事会。",
@@ -405,6 +407,17 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "非农爆冷叠加中东战火，美国股汇齐跌，大宗商品指数历史新高，美油飙升16%，“恐慌指数”VIX大涨",
+          "url": "https://wallstreetcn.com/articles/3766902",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时05分 ~ 19时22分]"
+        },
+        {
           "title": "《太平年》众主演分享：历史是与当下对话，和平来之不易",
           "url": "https://m.thepaper.cn/newsDetail_forward_32705788",
           "source": "澎湃新闻",
@@ -414,17 +427,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时29分]"
-        },
-        {
-          "title": "非农爆冷叠加中东战火，美国股汇齐跌，大宗商品指数历史新高，美油飙升16%，“恐慌指数”VIX大涨",
-          "url": "https://wallstreetcn.com/articles/3766902",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 18时27分]"
         },
         {
           "title": "伊朗大使说250年怎能挑衅3000年历史",
@@ -474,8 +476,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 19时22分]"
         },
         {
           "title": "彭博大宗商品指数飙至历史新高，美油日涨17%、周涨幅创纪录，欧天然气全周一度翻倍",
@@ -486,8 +488,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 18时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 19时22分]"
         },
         {
           "title": "秘鲁副总理：秘鲁2025年出口900亿美元，创历史新高。",
