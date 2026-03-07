@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T07:29:48.134710+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-03-07T10:05:05.569205+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时05分]"
         },
         {
           "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
@@ -26,8 +26,22 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时05分]"
+        },
+        {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时29分]"
+          "time_info": "[00时44分 ~ 10时05分]"
         },
         {
           "title": "特朗普威胁下一个就是古巴",
@@ -41,19 +55,6 @@
           "time_info": "[00时43分 ~ 07时29分]"
         },
         {
-          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
-          "url": "https://wallstreetcn.com/articles/3766889",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时29分]"
-        },
-        {
           "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
           "url": "https://wallstreetcn.com/articles/3766863",
           "source": "华尔街见闻",
@@ -63,6 +64,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时51分 ~ 07时29分]"
+        },
+        {
+          "title": "美国总统特朗普：明天，我将与第一夫人及内阁成员一同前往多佛空军基地，向我们的伟大勇士致以最崇高的敬意。",
+          "url": "https://flash.jin10.com/detail/20260307093639717800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
+          "url": "https://wallstreetcn.com/articles/3766927",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
@@ -158,6 +181,17 @@
           "time_info": "[03时36分 ~ 04时35分]"
         },
         {
+          "title": "特朗普和美国大军火商开会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%86%9B%E7%81%AB%E5%95%86%E5%BC%80%E4%BC%9A%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
           "title": "美股军工股洛克希德·马丁目前涨1.86%，RTX公司涨1.30%，诺斯罗普·格鲁曼涨0.86%，L3Harris涨0.90%。 据媒体报道，特朗普将召集国防承包商高管，强调提升武器产能以应对美伊冲突。",
           "url": "https://wallstreetcn.com/livenews/3065388",
           "source": "华尔街见闻-快讯",
@@ -187,9 +221,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "据NBC新闻：特朗普在与助手和共和党官员讨论战后情景时提到了在伊朗部署地面部队的想法。",
+          "url": "https://flash.jin10.com/detail/20260307090102717800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "特朗普政府将允许在美国出售部分委内瑞拉黄金",
@@ -225,6 +270,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "特朗普：军工企业一致同意将“高精尖”武器产量提高四倍",
+          "url": "https://flash.jin10.com/detail/20260307082138210800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
           "title": "特朗普政府放宽委内瑞拉对美售金，缓解其美元短缺压力",
           "url": "https://wallstreetcn.com/livenews/3065393",
           "source": "华尔街见闻-快讯",
@@ -250,7 +306,7 @@
     },
     {
       "keyword_group": "# ===== 好物分享 ===== 书籍 故事 人物 历史",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "《太平年》众主演分享：历史是与当下对话，和平来之不易",
@@ -269,11 +325,23 @@
           "source": "微博",
           "ranks": [
             12,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 10时05分]"
+        },
+        {
+          "title": "非农爆冷叠加中东战火，美国股汇齐跌，大宗商品指数历史新高，美油飙升16%，“恐慌指数”VIX大涨",
+          "url": "https://wallstreetcn.com/articles/3766902",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "彭博大宗商品现货指数涨3.7%，创历史新高。",
@@ -339,7 +407,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         }
