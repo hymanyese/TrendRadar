@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T14:47:04.443913+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-03-08T15:32:46.510587+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时32分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 15时32分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -72,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 14时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 15时32分]"
         },
         {
           "title": "英国可能部署航母至中东，特朗普：不需要",
@@ -83,19 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 14时47分]"
-        },
-        {
-          "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
-          "url": "https://flash.jin10.com/detail/20260308004923405800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 15时32分]"
         },
         {
           "title": "委内瑞拉代总统致函特朗普",
@@ -107,8 +96,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 15时32分]"
+        },
+        {
+          "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
+          "url": "https://flash.jin10.com/detail/20260308004923405800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
@@ -223,6 +223,18 @@
           "time_info": "[12时45分 ~ 14时47分]"
         },
         {
+          "title": "美国总统特朗普：现在就通过《拯救美国法案》。这才是大家关心的重点！",
+          "url": "https://flash.jin10.com/detail/20260308135054523800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 15时32分]"
+        },
+        {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
           "url": "https://flash.jin10.com/detail/20260308001516686800",
           "source": "金十数据",
@@ -269,17 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 13时44分]"
-        },
-        {
-          "title": "美国总统特朗普：现在就通过《拯救美国法案》。这才是大家关心的重点！",
-          "url": "https://flash.jin10.com/detail/20260308135054523800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
         },
         {
           "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
