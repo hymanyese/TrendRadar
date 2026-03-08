@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T16:35:19.726066+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-03-08T17:32:30.034745+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# ===== 焦点人物 ===== 特朗普 马斯克 高市早苗",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -58,11 +58,12 @@
           "ranks": [
             19,
             6,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时45分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 17时32分]"
         },
         {
           "title": "英国可能部署航母至中东，特朗普：不需要",
@@ -72,8 +73,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时22分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[10时22分 ~ 17时32分]"
+        },
+        {
+          "title": "委内瑞拉代总统致函特朗普",
+          "url": "https://www.toutiao.com/trending/7614119677836476458/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            17,
+            18,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时22分 ~ 17时32分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -85,20 +101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 07时26分]"
-        },
-        {
-          "title": "委内瑞拉代总统致函特朗普",
-          "url": "https://www.toutiao.com/trending/7614119677836476458/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            17,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时22分 ~ 16时35分]"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -284,6 +286,18 @@
           "time_info": "[12时45分 ~ 13时44分]"
         },
         {
+          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时32分]"
+        },
+        {
           "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
           "url": "https://flash.jin10.com/detail/20260308004445538800",
           "source": "金十数据",
@@ -293,6 +307,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
+          "url": "https://wallstreetcn.com/articles/3766963",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
+          "url": "https://wallstreetcn.com/articles/3766970",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "伊朗外交部长：我警告特朗普的特使，战争不会改善谈判地位。",
@@ -370,17 +406,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
